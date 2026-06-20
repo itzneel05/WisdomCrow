@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-20
-date: 2026-06-20T14:02:12Z
+date: 2026-06-20T19:23:18Z
 type: radar-report
 report_type: fast
-total_opportunities: 143
+total_opportunities: 152
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 143
+**Total opportunities:** 152
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 81 |
+| ❓ Uncategorized | 90 |
 | 🏰 CTF Competitions | 50 |
 | 🎓 Free Certifications | 7 |
 | 💰 Bug Bounties | 5 |
@@ -339,6 +339,42 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Unknown rule in Firewall](https://www.reddit.com/r/AskNetsec/comments/1u9xm8v/unknown_rule_in_firewall/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey! I recently saw a rule i couldn't make sense of in my Firewall config. The rule was &quot;allow all incoming from 192.168.122.0/24 to anywhere&quot;.</p> <p>A qui_
+
+- [What is the current best practice to keep my wired SOHO network secure?](https://www.reddit.com/r/AskNetsec/comments/1u9hvxs/what_is_the_current_best_practice_to_keep_my/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>My current network is a combination of middling-complex hardware/services and naive beginner anti-patterns. :)</p> <p>I have one WiFi SSID for trusted devices and one_
+
+- [weakest part of most security setups is usually trust, not encryption, right?](https://www.reddit.com/r/AskNetsec/comments/1ua72yq/weakest_part_of_most_security_setups_is_usually/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>We spend a ton of time debating encryption strength, protocols, and algorithms. Those absolutely matter, but we need to talk more about what happens before and after _
+
+- [Following the CAPTCHA Redirect Rabbit Hole](https://www.reddit.com/r/AskNetsec/comments/1u9zmvr/following_the_captcha_redirect_rabbit_hole/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Defender flagged a malicious CAPTCHA embedded within a PDF/email attachment. </p> <p>My current approach to investigate the final URL/redirection chain:<br /> Take a _
+
+- [Best Built In Factory Reset?](https://www.reddit.com/r/AskNetsec/comments/1uaxbla/best_built_in_factory_reset/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I got a new laptop and want to wipe it/factory reset it to remove any risk of malware or viruses or bugs. But I plan to use the built into windows 11 one and I'm unsu_
+
+- [18, finishing 1st year in cybersecurity , what do you wish you did differently at my age?](https://www.reddit.com/r/AskNetsec/comments/1ub12bw/18_finishing_1st_year_in_cybersecurity_what_do/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I'm 18, just finished my first year at a national cybersecurity school in Algeria. Moving into 2nd year soon.</p> <p>I don't want the usual advice , I know about CTFs_
+
+- [How are you protecting against employees pasting PII into ChatGPT/Copilot?](https://www.reddit.com/r/AskNetsec/comments/1ub353p/how_are_you_protecting_against_employees_pasting/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>SOC analyst here, working in a regulated industry (banking, EU).</p> <p>We're seeing more incidents where employees paste customer data </p> <p>into LLM tools — IBAN,_
+
+- [Microsoft links Mastra AI supply chain attack to North Korean hackers](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]_
+
+- [New Prinz Eugen ransomware prioritizes recent files for encryption](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/)
+  - Confidence: 🟫 LOW
+  - _A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]_
 
 - [Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw](https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html)
   - Confidence: 🟫 LOW
