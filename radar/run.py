@@ -138,9 +138,15 @@ def detect_hit(hit: RawHit) -> Opportunity | None:
 
 
 def cmd_scan(config: Config, cadence: str) -> None:
+    from radar.notify.discord import send_discord_alerts, send_system_alert
+
     hc_url = config.healthcheck_url
+    sys_webhook = config.get_webhook_for_channel("system")
     ping_healthcheck(hc_url, "start")
     start_time = time.time()
+
+    if sys_webhook:
+        send_system_alert(sys_webhook, f"Scan started (cadence: {cadence})")
 
     with Database(config.database_url) as db:
         db.cleanup_old_raw_hits()
@@ -150,6 +156,10 @@ def cmd_scan(config: Config, cadence: str) -> None:
 
         if not cadence_sources:
             logger.info(f"No active sources for cadence '{cadence}'")
+            if sys_webhook:
+                send_system_alert(
+                    sys_webhook, f"Scan finished: no sources for cadence '{cadence}'"
+                )
             ping_healthcheck(hc_url)
             return
 
@@ -181,8 +191,6 @@ def cmd_scan(config: Config, cadence: str) -> None:
 
         logger.info(f"Scan complete: {total_hits} hits, {total_opps} new opportunities")
 
-        from radar.notify.discord import send_discord_alerts
-
         webhooks = {
             "ctf": config.get_webhook_for_channel("ctf"),
             "bounty": config.get_webhook_for_channel("bounty"),
@@ -210,6 +218,11 @@ def cmd_scan(config: Config, cadence: str) -> None:
 
     elapsed = time.time() - start_time
     logger.info(f"Run finished in {elapsed:.1f}s")
+    if sys_webhook:
+        send_system_alert(
+            sys_webhook,
+            f"Scan finished: {len(cadence_sources)} sources, {total_hits} hits, {total_opps} opportunities in {elapsed:.0f}s",
+        )
     ping_healthcheck(hc_url)
 
 

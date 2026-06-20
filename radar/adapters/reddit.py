@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 USER_AGENT = "WisdomCrow/1.0"
 REQUEST_TIMEOUT = 30
 REDDIT_MAX_AGE_HOURS = 48
-REDDIT_REQUEST_DELAY = 1.0
+REDDIT_REQUEST_DELAY = 2.0
 
 
 def fetch(source: SourceMeta, is_seen_fn: Any = None) -> list[RawHit]:

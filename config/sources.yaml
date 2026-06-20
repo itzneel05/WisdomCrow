@@ -285,7 +285,7 @@ sources:
     url: "https://www.reddit.com/r/hackathons/.rss"
     cadence: fast
     detector_hint: hackathon
-    enabled: true
+    enabled: false  # subreddit returns 403/404
 
   - name: reddit_scholarships
     type: reddit

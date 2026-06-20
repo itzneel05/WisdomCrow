@@ -117,41 +117,58 @@ def send_discord_alerts(
         logger.info("No unalerted opportunities to send")
         return []
 
-    rows.sort(
-        key=lambda r: list(CONFIDENCE_COLORS.keys()).index(r.get("confidence", "low"))
-    )
+    buckets: dict[str, list[dict[str, Any]]] = {}
+    for r in rows:
+        buckets.setdefault(r.get("category", "unknown"), []).append(r)
+
+    for cat in buckets:
+        buckets[cat].sort(
+            key=lambda r: list(CONFIDENCE_COLORS.keys()).index(
+                r.get("confidence", "low")
+            )
+        )
 
     sent_ids: list[int] = []
-    category_counts: dict[str, int] = {}
+    channel_counts: dict[str, int] = {}
+    ordered = sorted(buckets.items(), key=lambda x: x[0])
+    picks = 0
+    max_picks = min(max_per_run, len(rows))
+    idx = 0
 
-    for row in rows[:max_per_run]:
-        category_key = row.get("category", "unknown")
-        channel = CHANNEL_MAP.get(category_key, "all-raw")
-        webhook_url = webhook_urls.get(channel)
-        if not webhook_url:
-            logger.warning(
-                f"No webhook configured for channel {channel} (category {category_key})"
-            )
-            continue
+    while picks < max_picks:
+        any_remaining = False
+        for cat, cat_rows in ordered:
+            if idx < len(cat_rows):
+                any_remaining = True
+                row = cat_rows[idx]
+                channel = CHANNEL_MAP.get(cat, "all-raw")
+                webhook_url = webhook_urls.get(channel)
+                if not webhook_url:
+                    continue
+                if channel_counts.get(channel, 0) >= max_per_category:
+                    continue
 
-        if category_counts.get(channel, 0) >= max_per_category:
-            logger.info(
-                f"Max per category reached for {channel}, skipping opp:{row.get('id')}"
-            )
-            continue
+                embed = _build_embed(row)
+                opp_id = row["id"]
+                message_id = _send_webhook(webhook_url, embed, opp_id)
 
-        embed = _build_embed(row)
-        opp_id = row["id"]
-        message_id = _send_webhook(webhook_url, embed, opp_id)
+                if message_id:
+                    db.log_alert(
+                        opp_id, channel, message_id, str(row.get("title", ""))[:80]
+                    )
+                    sent_ids.append(opp_id)
+                    channel_counts[channel] = channel_counts.get(channel, 0) + 1
+                    picks += 1
 
-        if message_id:
-            db.log_alert(opp_id, channel, message_id, str(row.get("title", ""))[:80])
-            sent_ids.append(opp_id)
-            category_counts[channel] = category_counts.get(channel, 0) + 1
+        if not any_remaining:
+            break
+        idx += 1
 
     if sent_ids:
         db.mark_alerted(sent_ids)
-        logger.info(f"Alerted {len(sent_ids)} opportunities")
+        logger.info(
+            f"Alerted {len(sent_ids)} opportunities across {len(channel_counts)} channels"
+        )
 
     return sent_ids
 
