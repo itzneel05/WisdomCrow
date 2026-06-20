@@ -10,7 +10,7 @@ from typing import Any
 import requests
 
 from radar.core.config import Config
-from radar.core.models import Opportunity, RawHit, SourceMeta
+from radar.core.models import Category, Confidence, Opportunity, RawHit, SourceMeta
 from radar.core.storage import Database
 
 logger = logging.getLogger("wisdomcrow")
@@ -134,7 +134,16 @@ def detect_hit(hit: RawHit) -> Opportunity | None:
             )
             opp.apply_cross_cut_tags()
             return opp
-    return None
+    opp = Opportunity(
+        title=hit.title,
+        url=hit.url,
+        category=Category.UNKNOWN,
+        confidence=Confidence.LOW,
+        snippet=hit.snippet,
+        tags=[],
+        canonical_key=hit.content_hash,
+    )
+    return opp
 
 
 def cmd_scan(config: Config, cadence: str) -> None:
