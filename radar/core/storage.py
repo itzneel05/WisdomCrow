@@ -126,13 +126,27 @@ class Database:
         self.close()
 
     def connect(self) -> None:
-        self.conn = psycopg2.connect(self.dsn, cursor_factory=RealDictCursor)
+        self.conn = psycopg2.connect(
+            self.dsn,
+            cursor_factory=RealDictCursor,
+            sslmode="require",
+            keepalives=1,
+            keepalives_idle=30,
+            keepalives_interval=10,
+            keepalives_count=5,
+        )
         self.conn.autocommit = False
 
     def close(self) -> None:
         if self.conn:
-            self.conn.commit()
-            self.conn.close()
+            try:
+                self.conn.commit()
+            except Exception:
+                self.conn.rollback()
+            try:
+                self.conn.close()
+            except Exception:
+                pass
             self.conn = None
 
     def _execute(self, sql: str, params: tuple | None = None) -> RealDictCursor | None:
