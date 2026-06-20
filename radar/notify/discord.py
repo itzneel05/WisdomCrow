@@ -24,18 +24,6 @@ CHANNEL_MAP: dict[str, str] = {
     "needs_review": "all-raw",
 }
 
-CATEGORY_EMOJIS = {
-    "ctf": "\U0001f3f0",
-    "bug_bounty": "\U0001f4b0",
-    "free_cert": "\U0001f393",
-    "hackathon": "\U0001f3c6",
-    "early_bird": "\U0001f426",
-    "arcade": "\U0001f3ae",
-    "open_source": "\U0001f4e6",
-    "unknown": "\u2753",
-    "needs_review": "\U0001f50d",
-}
-
 CONFIDENCE_COLORS = {
     "high": 0x2ECC71,
     "medium": 0xF1C40F,
@@ -44,22 +32,20 @@ CONFIDENCE_COLORS = {
 
 
 def _build_embed(row: dict[str, Any]) -> dict[str, Any]:
-    category_raw = row.get("category", "unknown")
-    category_label = category_raw.replace("_", " ").title()
-    cat_emoji = CATEGORY_EMOJIS.get(category_raw, "")
+    category_label = row.get("category", "unknown").replace("_", " ").title()
     color = CONFIDENCE_COLORS.get(row.get("confidence", "low"), 0x95A5A6)
     title = row.get("title", "")[:256]
     url = row.get("url", "")
     snippet = row.get("snippet", "")
     if snippet:
-        snippet = BeautifulSoup(snippet, "html.parser").get_text()
+        snippet = BeautifulSoup(snippet, "html.parser").get_text(separator=" ")
         snippet = re.sub(r"\s+", " ", snippet).strip()
     tags = row.get("tags") or []
     event_date = row.get("event_date") or ""
     deadline = row.get("deadline_date") or ""
 
     embed: dict[str, Any] = {
-        "title": f"{cat_emoji} {category_label} | {title}",
+        "title": title,
         "url": url,
         "color": color,
         "description": (snippet[:400] + "\u2026")
@@ -68,7 +54,7 @@ def _build_embed(row: dict[str, Any]) -> dict[str, Any]:
         "fields": [
             {
                 "name": "Category",
-                "value": f"{cat_emoji} {category_label}",
+                "value": category_label,
                 "inline": True,
             },
         ],
@@ -77,19 +63,19 @@ def _build_embed(row: dict[str, Any]) -> dict[str, Any]:
     }
 
     if tags:
-        tags_str = ", ".join(f"`{t}`" for t in tags[:8])
+        tags_str = ", ".join(t for t in tags[:8])
         embed["fields"].append(
             {"name": "Tags", "value": tags_str[:100], "inline": False}
         )
 
     if event_date:
         embed["fields"].append(
-            {"name": ":calendar: Event Date", "value": str(event_date), "inline": True}
+            {"name": "Event Date", "value": str(event_date), "inline": True}
         )
 
     if deadline:
         embed["fields"].append(
-            {"name": ":alarm_clock: Deadline", "value": str(deadline), "inline": True}
+            {"name": "Deadline", "value": str(deadline), "inline": True}
         )
 
     embed["fields"].append(
