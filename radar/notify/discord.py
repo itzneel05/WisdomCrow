@@ -1,8 +1,10 @@
 import logging
+import re
 from datetime import datetime, timezone
 from typing import Any
 
 import requests
+from bs4 import BeautifulSoup
 
 from radar.core.models import Category, Confidence
 
@@ -49,6 +51,9 @@ def _build_embed(row: dict[str, Any]) -> dict[str, Any]:
     title = row.get("title", "")[:256]
     url = row.get("url", "")
     snippet = row.get("snippet", "")
+    if snippet:
+        snippet = BeautifulSoup(snippet, "html.parser").get_text()
+        snippet = re.sub(r"\s+", " ", snippet).strip()
     tags = row.get("tags") or []
     event_date = row.get("event_date") or ""
     deadline = row.get("deadline_date") or ""
