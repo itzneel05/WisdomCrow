@@ -1,0 +1,35 @@
+app:
+  name: "WisdomCrow"
+  version: "1.0.0"
+  data_dir: "data"
+
+database:
+  url: "${DATABASE_URL}"
+
+discord:
+  webhooks:
+    ctf: "${DISCORD_WEBHOOK_CTF}"
+    bounty: "${DISCORD_WEBHOOK_BOUNTY}"
+    freebies: "${DISCORD_WEBHOOK_FREEBIES}"
+    hackathons: "${DISCORD_WEBHOOK_HACKATHONS}"
+    all-raw: "${DISCORD_WEBHOOK_RAW}"
+    system: "${DISCORD_WEBHOOK_SYSTEM}"
+
+scan:
+  fast_cadence_minutes: 360
+  full_cadence_hours: 24
+
+dedup:
+  fuzzy_threshold: 85
+  window_days: 30
+
+alerts:
+  max_per_run: 20
+  max_per_category: 10
+
+source:
+  auto_disable_after_errors: 5
+  raw_hit_retention_days: 180
+
+healthcheck:
+  url: "${HEALTHCHECK_URL}"

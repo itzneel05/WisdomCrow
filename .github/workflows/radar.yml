@@ -1,0 +1,80 @@
+name: WisdomCrow Radar
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+    - cron: '30 18 * * *'
+    - cron: '30 18 * * 0'
+  workflow_dispatch:
+    inputs:
+      cadence:
+        description: Scan cadence
+        default: daily
+        type: choice
+        options:
+          - fast
+          - daily
+          - weekly
+
+concurrency:
+  group: radar-scan
+  cancel-in-progress: false
+
+env:
+  PYTHON_VERSION: '3.11'
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Determine cadence
+        id: cadence
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "cadence=${{ github.event.inputs.cadence }}" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "30 18 * * 0" ]; then
+            echo "cadence=weekly" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "30 18 * * *" ]; then
+            echo "cadence=daily" >> $GITHUB_OUTPUT
+          else
+            echo "cadence=fast" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Run radar scan
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          DISCORD_WEBHOOK_CTF: ${{ secrets.DISCORD_WEBHOOK_CTF }}
+          DISCORD_WEBHOOK_BOUNTY: ${{ secrets.DISCORD_WEBHOOK_BOUNTY }}
+          DISCORD_WEBHOOK_FREEBIES: ${{ secrets.DISCORD_WEBHOOK_FREEBIES }}
+          DISCORD_WEBHOOK_HACKATHONS: ${{ secrets.DISCORD_WEBHOOK_HACKATHONS }}
+          DISCORD_WEBHOOK_RAW: ${{ secrets.DISCORD_WEBHOOK_RAW }}
+          DISCORD_WEBHOOK_SYSTEM: ${{ secrets.DISCORD_WEBHOOK_SYSTEM }}
+          HEALTHCHECK_URL: ${{ secrets.HEALTHCHECK_URL }}
+        run: python -m radar.run --cadence ${{ steps.cadence.outputs.cadence }}
+
+      - name: Commit reports
+        run: |
+          git config user.name "wisdomcrow-bot"
+          git config user.email "bot@wisdomcrow.local"
+          git add data/reports/ 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "auto: update radar reports [skip ci]"
+          git push

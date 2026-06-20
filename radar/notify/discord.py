@@ -1,0 +1,165 @@
+import logging
+from datetime import datetime, timezone
+from typing import Any
+
+import requests
+
+from radar.core.models import Category, Confidence
+
+logger = logging.getLogger(__name__)
+
+REQUEST_TIMEOUT = 15
+
+CHANNEL_MAP: dict[str, str] = {
+    "ctf": "ctf",
+    "bug_bounty": "bounty",
+    "free_cert": "freebies",
+    "hackathon": "hackathons",
+    "early_bird": "freebies",
+    "arcade": "ctf",
+    "open_source": "all-raw",
+    "unknown": "all-raw",
+    "needs_review": "all-raw",
+}
+
+CONFIDENCE_COLORS = {
+    "high": 0x2ECC71,
+    "medium": 0xF1C40F,
+    "low": 0x95A5A6,
+}
+
+CONFIDENCE_EMOJIS = {
+    "high": "\u2705",
+    "medium": "\u26a0\ufe0f",
+    "low": "\u2139\ufe0f",
+}
+
+
+def _build_embed(row: dict[str, Any]) -> dict[str, Any]:
+    color = CONFIDENCE_COLORS.get(row.get("confidence", "low"), 0x95A5A6)
+    emoji = CONFIDENCE_EMOJIS.get(row.get("confidence", "low"), "")
+    title = row.get("title", "")[:256]
+    url = row.get("url", "")
+    snippet = row.get("snippet", "")
+    category = row.get("category", "unknown").replace("_", " ").title()
+    confidence = row.get("confidence", "low").upper()
+    tags = row.get("tags") or []
+    event_date = row.get("event_date") or ""
+    deadline = row.get("deadline_date") or ""
+
+    embed: dict[str, Any] = {
+        "title": title,
+        "url": url,
+        "color": color,
+        "description": (snippet[:400] + "...") if len(snippet) > 400 else snippet,
+        "fields": [
+            {"name": "Category", "value": category, "inline": True},
+            {"name": "Confidence", "value": f"{emoji} {confidence}", "inline": True},
+        ],
+        "footer": {"text": f"WisdomCrow \u2022 opp:{row.get('id', '?')}"},
+        "timestamp": datetime.now(timezone.utc).isoformat(),
+    }
+
+    if tags:
+        tags_str = ", ".join(str(t) for t in tags[:8])
+        embed["fields"].append(
+            {"name": "Tags", "value": tags_str[:100], "inline": False}
+        )
+
+    if event_date:
+        embed["fields"].append(
+            {"name": "Event Date", "value": str(event_date), "inline": True}
+        )
+
+    if deadline:
+        embed["fields"].append(
+            {"name": "Deadline", "value": str(deadline), "inline": True}
+        )
+
+    return embed
+
+
+def _send_webhook(webhook_url: str, embed: dict[str, Any], opp_id: int) -> str | None:
+    url = f"{webhook_url}?wait=true"
+    payload = {"embeds": [embed]}
+
+    try:
+        resp = requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
+        resp.raise_for_status()
+        data = resp.json()
+        message_id = str(data.get("id", ""))
+        if message_id:
+            logger.info(f"Sent alert for opp:{opp_id} \u2014 Discord msg {message_id}")
+        return message_id
+    except requests.RequestException as e:
+        logger.warning(f"Discord webhook failed for opp:{opp_id}: {e}")
+        return None
+
+
+def send_discord_alerts(
+    db: Any,
+    webhook_urls: dict[str, str],
+    max_per_run: int = 20,
+    max_per_category: int = 10,
+) -> list[int]:
+    rows = db.get_unalerted_opportunities()
+    if not rows:
+        logger.info("No unalerted opportunities to send")
+        return []
+
+    rows.sort(
+        key=lambda r: list(CONFIDENCE_COLORS.keys()).index(r.get("confidence", "low"))
+    )
+
+    sent_ids: list[int] = []
+    category_counts: dict[str, int] = {}
+
+    for row in rows[:max_per_run]:
+        category_key = row.get("category", "unknown")
+        channel = CHANNEL_MAP.get(category_key, "all-raw")
+        webhook_url = webhook_urls.get(channel)
+        if not webhook_url:
+            logger.warning(
+                f"No webhook configured for channel {channel} (category {category_key})"
+            )
+            continue
+
+        if category_counts.get(channel, 0) >= max_per_category:
+            logger.info(
+                f"Max per category reached for {channel}, skipping opp:{row.get('id')}"
+            )
+            continue
+
+        embed = _build_embed(row)
+        opp_id = row["id"]
+        message_id = _send_webhook(webhook_url, embed, opp_id)
+
+        if message_id:
+            db.log_alert(opp_id, channel, message_id, str(row.get("title", ""))[:80])
+            sent_ids.append(opp_id)
+            category_counts[channel] = category_counts.get(channel, 0) + 1
+
+    if sent_ids:
+        db.mark_alerted(sent_ids)
+        logger.info(f"Alerted {len(sent_ids)} opportunities")
+
+    return sent_ids
+
+
+def send_system_alert(webhook_url: str, message: str) -> bool:
+    payload = {
+        "content": f"\u2139\ufe0f **WisdomCrow System Alert**\n{message}",
+    }
+
+    try:
+        resp = requests.post(
+            f"{webhook_url}?wait=true",
+            json=payload,
+            timeout=REQUEST_TIMEOUT,
+        )
+        resp.raise_for_status()
+        logger.info(f"System alert sent: {message[:80]}")
+        return True
+    except requests.RequestException as e:
+        logger.warning(f"System alert failed: {e}")
+        return False

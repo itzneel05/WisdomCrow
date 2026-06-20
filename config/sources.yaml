@@ -1,0 +1,593 @@
+sources:
+
+  # ── RSS: CTF ──
+  - name: ctftime
+    type: rss
+    url: "https://ctftime.org/event/list/upcoming/rss/"
+    cadence: fast
+    detector_hint: ctf
+    enabled: true
+
+  - name: hackthebox_blog
+    type: rss
+    url: "https://www.hackthebox.com/blog/rss.xml"
+    cadence: fast
+    detector_hint: ctf
+    enabled: true
+
+  - name: tryhackme_blog
+    type: rss
+    url: "https://tryhackme.com/blog/feed.xml"
+    cadence: fast
+    enabled: true
+
+  # ── RSS: Bug Bounty & Research ──
+  - name: hackerone_blog
+    type: rss
+    url: "https://www.hackerone.com/blog.rss"
+    cadence: fast
+    detector_hint: bug_bounty
+    enabled: true
+
+  - name: bugcrowd_blog
+    type: rss
+    url: "https://www.bugcrowd.com/blog/feed/"
+    cadence: fast
+    detector_hint: bug_bounty
+    enabled: true
+
+  - name: intigriti_blog
+    type: rss
+    url: "https://blog.intigriti.com/feed/"
+    cadence: fast
+    detector_hint: bug_bounty
+    enabled: true
+
+  - name: portswigger_research
+    type: rss
+    url: "https://portswigger.net/research/rss"
+    cadence: fast
+    detector_hint: bug_bounty
+    enabled: true
+
+  - name: portswigger_daily_swig
+    type: rss
+    url: "https://portswigger.net/daily-swig/rss"
+    cadence: fast
+    enabled: true
+
+  - name: projectdiscovery_blog
+    type: rss
+    url: "https://blog.projectdiscovery.io/feed/"
+    cadence: fast
+    detector_hint: bug_bounty
+    enabled: true
+
+  - name: assetnote_blog
+    type: rss
+    url: "https://blog.assetnote.io/feed.xml"
+    cadence: fast
+    detector_hint: bug_bounty
+    enabled: true
+
+  # ── RSS: Security News ──
+  - name: the_hacker_news
+    type: rss
+    url: "https://feeds.feedburner.com/TheHackersNews"
+    cadence: fast
+    enabled: true
+
+  - name: krebs_on_security
+    type: rss
+    url: "https://krebsonsecurity.com/feed/"
+    cadence: fast
+    enabled: true
+
+  - name: bleepingcomputer
+    type: rss
+    url: "https://www.bleepingcomputer.com/feed/"
+    cadence: fast
+    enabled: true
+
+  - name: darkreading
+    type: rss
+    url: "https://www.darkreading.com/rss.xml"
+    cadence: daily
+    enabled: true
+
+  - name: securityweek
+    type: rss
+    url: "https://www.securityweek.com/feed/"
+    cadence: daily
+    enabled: true
+
+  - name: helpnetsecurity
+    type: rss
+    url: "https://www.helpnetsecurity.com/feed/"
+    cadence: daily
+    enabled: true
+
+  - name: sans_isc
+    type: rss
+    url: "https://isc.sans.edu/rssfeed_full.xml"
+    cadence: fast
+    enabled: true
+
+  - name: schneier_security
+    type: rss
+    url: "https://www.schneier.com/feed/atom/"
+    cadence: daily
+    enabled: true
+
+  # ── RSS: Open Source Security ──
+  - name: owasp_news
+    type: rss
+    url: "https://owasp.org/feed.xml"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: kali_blog
+    type: rss
+    url: "https://www.kali.org/rss.xml"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: metasploit_blog
+    type: rss
+    url: "https://blog.rapid7.com/tag/metasploit/rss/"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: wireshark_news
+    type: rss
+    url: "https://www.wireshark.org/news/rss.xml"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: wazuh_blog
+    type: rss
+    url: "https://wazuh.com/blog/feed/"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  # ── RSS: Training & Certifications ──
+  - name: offsec_blog
+    type: rss
+    url: "https://www.offsec.com/feed/"
+    cadence: daily
+    detector_hint: free_cert
+    enabled: true
+
+  - name: tcm_security_blog
+    type: rss
+    url: "https://tcm-sec.com/feed/"
+    cadence: daily
+    detector_hint: free_cert
+    enabled: true
+
+  - name: sans_blog
+    type: rss
+    url: "https://www.sans.org/feed/"
+    cadence: daily
+    detector_hint: free_cert
+    enabled: true
+
+  # ── RSS: Hackathons & Events ──
+  - name: devpost_blog
+    type: rss
+    url: "https://devpost.com/blog/feed/"
+    cadence: daily
+    detector_hint: hackathon
+    enabled: true
+
+  - name: mlh_blog
+    type: rss
+    url: "https://blog.mlh.io/feed/"
+    cadence: daily
+    detector_hint: hackathon
+    enabled: true
+
+  # ── Reddit ──
+  - name: reddit_cybersecurity
+    type: reddit
+    url: "https://www.reddit.com/r/cybersecurity/.rss"
+    cadence: fast
+    enabled: true
+
+  - name: reddit_netsec
+    type: reddit
+    url: "https://www.reddit.com/r/netsec/.rss"
+    cadence: fast
+    enabled: true
+
+  - name: reddit_security
+    type: reddit
+    url: "https://www.reddit.com/r/security/.rss"
+    cadence: fast
+    enabled: true
+
+  - name: reddit_hacking
+    type: reddit
+    url: "https://www.reddit.com/r/hacking/.rss"
+    cadence: fast
+    enabled: true
+
+  - name: reddit_asknetsec
+    type: reddit
+    url: "https://www.reddit.com/r/AskNetsec/.rss"
+    cadence: fast
+    enabled: true
+
+  - name: reddit_blueteamsec
+    type: reddit
+    url: "https://www.reddit.com/r/blueteamsec/.rss"
+    cadence: fast
+    enabled: true
+
+  - name: reddit_CTF
+    type: reddit
+    url: "https://www.reddit.com/r/CTF/.rss"
+    cadence: fast
+    detector_hint: ctf
+    enabled: true
+
+  - name: reddit_securityCTF
+    type: reddit
+    url: "https://www.reddit.com/r/securityCTF/.rss"
+    cadence: fast
+    detector_hint: ctf
+    enabled: true
+
+  - name: reddit_bugbounty
+    type: reddit
+    url: "https://www.reddit.com/r/bugbounty/.rss"
+    cadence: fast
+    detector_hint: bug_bounty
+    enabled: true
+
+  - name: reddit_hackthebox
+    type: reddit
+    url: "https://www.reddit.com/r/hackthebox/.rss"
+    cadence: fast
+    enabled: true
+
+  - name: reddit_tryhackme
+    type: reddit
+    url: "https://www.reddit.com/r/tryhackme/.rss"
+    cadence: fast
+    enabled: true
+
+  - name: reddit_oscp
+    type: reddit
+    url: "https://www.reddit.com/r/oscp/.rss"
+    cadence: fast
+    enabled: true
+
+  - name: reddit_pentesting
+    type: reddit
+    url: "https://www.reddit.com/r/pentesting/.rss"
+    cadence: fast
+    enabled: true
+
+  - name: reddit_netsecstudents
+    type: reddit
+    url: "https://www.reddit.com/r/netsecstudents/.rss"
+    cadence: fast
+    enabled: true
+
+  - name: reddit_hackathons
+    type: reddit
+    url: "https://www.reddit.com/r/hackathons/.rss"
+    cadence: fast
+    detector_hint: hackathon
+    enabled: true
+
+  - name: reddit_scholarships
+    type: reddit
+    url: "https://www.reddit.com/r/scholarships/.rss"
+    cadence: daily
+    detector_hint: free_cert
+    enabled: true
+
+  - name: reddit_devpost
+    type: reddit
+    url: "https://www.reddit.com/r/devpost/.rss"
+    cadence: daily
+    detector_hint: hackathon
+    enabled: true
+
+  # ── GitHub Search ──
+  - name: github_security_tools
+    type: github
+    url: "https://api.github.com/search/repositories?q=security+tool+stars:>5&sort=created&order=desc"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: github_ctf_platforms
+    type: github
+    url: "https://api.github.com/search/repositories?q=ctf+platform&sort=created&order=desc"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: github_topic_ctf
+    type: github
+    url: "https://api.github.com/search/repositories?q=topic:ctf+created:>2025-01-01&sort=stars&order=desc"
+    cadence: daily
+    detector_hint: ctf
+    enabled: true
+
+  - name: github_topic_cybersecurity
+    type: github
+    url: "https://api.github.com/search/repositories?q=topic:cybersecurity+stars:>3&sort=created&order=desc"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: github_topic_bugbounty
+    type: github
+    url: "https://api.github.com/search/repositories?q=topic:bug-bounty+created:>2025-01-01&sort=stars&order=desc"
+    cadence: daily
+    detector_hint: bug_bounty
+    enabled: true
+
+  - name: github_topic_osint
+    type: github
+    url: "https://api.github.com/search/repositories?q=topic:osint+stars:>3&sort=created&order=desc"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: github_topic_hacking
+    type: github
+    url: "https://api.github.com/search/repositories?q=topic:hacking+stars:>5&sort=created&order=desc"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: github_topic_pentest
+    type: github
+    url: "https://api.github.com/search/repositories?q=topic:penetration-testing+stars:>3&sort=created&order=desc"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: github_topic_forensics
+    type: github
+    url: "https://api.github.com/search/repositories?q=topic:forensics+stars:>3&sort=created&order=desc"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: github_topic_threat_hunting
+    type: github
+    url: "https://api.github.com/search/repositories?q=topic:threat-hunting+stars:>3&sort=created&order=desc"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: github_topic_security_tool
+    type: github
+    url: "https://api.github.com/search/repositories?q=topic:security-tool+stars:>5&sort=created&order=desc"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: github_vulnerable_apps
+    type: github
+    url: "https://api.github.com/search/repositories?q=vulnerable+application+security+stars:>5&sort=created&order=desc"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: github_hackathon_projects
+    type: github
+    url: "https://api.github.com/search/repositories?q=hackathon+created:>2025-01-01&sort=created&order=desc"
+    cadence: daily
+    detector_hint: hackathon
+    enabled: true
+
+  - name: github_security_challenges
+    type: github
+    url: "https://api.github.com/search/repositories?q=security+challenge+ctf&sort=created&order=desc"
+    cadence: daily
+    detector_hint: ctf
+    enabled: true
+
+  # ── GitHub Org (repo discovery) ──
+  - name: github_org_projectdiscovery
+    type: github_org
+    url: "https://api.github.com/orgs/projectdiscovery"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: github_org_owasp
+    type: github_org
+    url: "https://api.github.com/orgs/OWASP"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: github_org_kali
+    type: github_org
+    url: "https://api.github.com/orgs/offensive-security"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: github_org_metasploit
+    type: github_org
+    url: "https://api.github.com/orgs/rapid7"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: github_org_wazuh
+    type: github_org
+    url: "https://api.github.com/orgs/wazuh"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: github_org_velociraptor
+    type: github_org
+    url: "https://api.github.com/orgs/Velocidex"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: github_org_security_onion
+    type: github_org
+    url: "https://api.github.com/orgs/Security-Onion-Solutions"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: github_org_opencti
+    type: github_org
+    url: "https://api.github.com/orgs/OpenCTI-Platform"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: github_org_paloaltonetworks
+    type: github_org
+    url: "https://api.github.com/orgs/paloaltonetworks"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  - name: github_org_elastic
+    type: github_org
+    url: "https://api.github.com/orgs/elastic"
+    cadence: daily
+    detector_hint: open_source
+    enabled: true
+
+  # ── Sitemap ──
+  - name: hackthebox_sitemap
+    type: sitemap
+    url: "https://www.hackthebox.com/sitemap.xml"
+    cadence: daily
+    watch_patterns: ["/events/", "/ctf/"]
+    enabled: true
+
+  - name: tryhackme_sitemap
+    type: sitemap
+    url: "https://tryhackme.com/sitemap.xml"
+    cadence: daily
+    watch_patterns: ["/room/", "/events/"]
+    enabled: true
+
+  - name: sans_sitemap
+    type: sitemap
+    url: "https://www.sans.org/sitemap.xml"
+    cadence: daily
+    watch_patterns: ["/cyber-ranges/", "/event/", "/course/", "/scholarship/"]
+    enabled: true
+
+  - name: bugcrowd_sitemap
+    type: sitemap
+    url: "https://www.bugcrowd.com/sitemap.xml"
+    cadence: daily
+    watch_patterns: ["/bug-bounty/", "/program/", "/vulnerability/"]
+    enabled: true
+
+  - name: hackerone_sitemap
+    type: sitemap
+    url: "https://www.hackerone.com/sitemap.xml"
+    cadence: daily
+    watch_patterns: ["/hacktivity/", "/program/"]
+    enabled: true
+
+  - name: offsec_sitemap
+    type: sitemap
+    url: "https://www.offsec.com/sitemap.xml"
+    cadence: daily
+    watch_patterns: ["/courses/", "/certifications/"]
+    enabled: true
+
+  - name: blackhat_sitemap
+    type: sitemap
+    url: "https://www.blackhat.com/sitemap.xml"
+    cadence: weekly
+    watch_patterns: ["/briefings/", "/training/", "/upcoming/"]
+    enabled: true
+
+  - name: defcon_sitemap
+    type: sitemap
+    url: "https://defcon.org/sitemap.xml"
+    cadence: weekly
+    watch_patterns: ["/events/", "/speaker/"]
+    enabled: true
+
+  # ── HTML Watch ──
+  - name: google_arcade
+    type: html_watch
+    url: "https://cloud.google.com/edu/arcade"
+    cadence: daily
+    detector_hint: arcade
+    enabled: true
+
+  - name: defcon_events
+    type: html_watch
+    url: "https://defcon.org/"
+    cadence: daily
+    detector_hint: hackathon
+    enabled: true
+
+  - name: sans_scholarships
+    type: html_watch
+    url: "https://www.sans.org/cyber-security-scholarships/"
+    cadence: daily
+    detector_hint: free_cert
+    enabled: true
+
+  - name: offsec_pricing
+    type: html_watch
+    url: "https://www.offsec.com/pricing/"
+    cadence: daily
+    detector_hint: free_cert
+    enabled: true
+
+  - name: mlh_homepage
+    type: html_watch
+    url: "https://mlh.io/"
+    cadence: daily
+    detector_hint: hackathon
+    enabled: true
+
+  - name: gsco_homepage
+    type: html_watch
+    url: "https://summerofcode.withgoogle.com/"
+    cadence: daily
+    detector_hint: free_cert
+    enabled: true
+
+  - name: microsoft_learn_student
+    type: html_watch
+    url: "https://learn.microsoft.com/en-us/training/student-hub/"
+    cadence: daily
+    detector_hint: free_cert
+    enabled: true
+
+  - name: github_campus_experts
+    type: html_watch
+    url: "https://education.github.com/experts"
+    cadence: daily
+    detector_hint: free_cert
+    enabled: true
+
+  - name: cloudflare_students
+    type: html_watch
+    url: "https://www.cloudflare.com/students/"
+    cadence: daily
+    detector_hint: free_cert
+    enabled: true
