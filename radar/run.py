@@ -271,6 +271,15 @@ def cmd_sync_sources(config: Config) -> None:
     print(f"Synced {len(source_metas)} sources to database")
 
 
+def cmd_reset_data(config: Config) -> None:
+    tables = ["raw_hits", "opportunities", "alerts", "feedback", "source_runs"]
+    with Database(config.database_url) as db:
+        for t in tables:
+            db._execute(f"DELETE FROM {t}")
+        db.conn.commit()
+    print(f"Reset {len(tables)} data tables (sources kept intact)")
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description="WisdomCrow - Cyber Opportunity Radar")
     parser.add_argument(
@@ -285,6 +294,9 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--version", action="store_true", help="Show version")
     parser.add_argument(
         "--sources", action="store_true", help="List configured sources"
+    )
+    parser.add_argument(
+        "--reset-data", action="store_true", help="Delete all data, keep sources"
     )
 
     sub = parser.add_subparsers(dest="command")
@@ -325,6 +337,10 @@ def main() -> None:
 
     if args.sources:
         cmd_sources(config)
+        return
+
+    if args.reset_data:
+        cmd_reset_data(config)
         return
 
     if args.command == "feedback":

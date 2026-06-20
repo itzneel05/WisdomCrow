@@ -10,7 +10,7 @@ sources:
 
   - name: hackthebox_blog
     type: rss
-    url: "https://www.hackthebox.com/blog/rss.xml"
+    url: "https://www.hackthebox.com/rss/blog/all"
     cadence: fast
     detector_hint: ctf
     enabled: true
@@ -27,7 +27,7 @@ sources:
     url: "https://www.hackerone.com/blog.rss"
     cadence: fast
     detector_hint: bug_bounty
-    enabled: true
+    enabled: false  # RSS removed by HackerOne; covered by hackerone_sitemap
 
   - name: bugcrowd_blog
     type: rss

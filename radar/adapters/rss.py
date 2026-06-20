@@ -37,7 +37,7 @@ def fetch(source: SourceMeta, is_seen_fn: Any = None) -> list[RawHit]:
         logger.info(f"No entries in RSS feed {source.name}")
         return hits
 
-    max_age = CADENCE_MAX_AGE.get(source.cadence.value, timedelta(days=7))
+    max_age = CADENCE_MAX_AGE.get(source.cadence, timedelta(days=7))
     cutoff = datetime.now(timezone.utc) - max_age
 
     for entry in feed.entries:

@@ -22,59 +22,78 @@ CHANNEL_MAP: dict[str, str] = {
     "needs_review": "all-raw",
 }
 
+CATEGORY_EMOJIS = {
+    "ctf": "\U0001f3f0",
+    "bug_bounty": "\U0001f4b0",
+    "free_cert": "\U0001f393",
+    "hackathon": "\U0001f3c6",
+    "early_bird": "\U0001f426",
+    "arcade": "\U0001f3ae",
+    "open_source": "\U0001f4e6",
+    "unknown": "\u2753",
+    "needs_review": "\U0001f50d",
+}
+
 CONFIDENCE_COLORS = {
     "high": 0x2ECC71,
     "medium": 0xF1C40F,
     "low": 0x95A5A6,
 }
 
-CONFIDENCE_EMOJIS = {
-    "high": "\u2705",
-    "medium": "\u26a0\ufe0f",
-    "low": "\u2139\ufe0f",
-}
-
 
 def _build_embed(row: dict[str, Any]) -> dict[str, Any]:
+    category_raw = row.get("category", "unknown")
+    category_label = category_raw.replace("_", " ").title()
+    cat_emoji = CATEGORY_EMOJIS.get(category_raw, "")
     color = CONFIDENCE_COLORS.get(row.get("confidence", "low"), 0x95A5A6)
-    emoji = CONFIDENCE_EMOJIS.get(row.get("confidence", "low"), "")
     title = row.get("title", "")[:256]
     url = row.get("url", "")
     snippet = row.get("snippet", "")
-    category = row.get("category", "unknown").replace("_", " ").title()
-    confidence = row.get("confidence", "low").upper()
     tags = row.get("tags") or []
     event_date = row.get("event_date") or ""
     deadline = row.get("deadline_date") or ""
 
     embed: dict[str, Any] = {
-        "title": title,
+        "title": f"{cat_emoji} {category_label} | {title}",
         "url": url,
         "color": color,
-        "description": (snippet[:400] + "...") if len(snippet) > 400 else snippet,
+        "description": (snippet[:400] + "\u2026")
+        if len(snippet) > 400
+        else (snippet or None),
         "fields": [
-            {"name": "Category", "value": category, "inline": True},
-            {"name": "Confidence", "value": f"{emoji} {confidence}", "inline": True},
+            {
+                "name": "Category",
+                "value": f"{cat_emoji} {category_label}",
+                "inline": True,
+            },
         ],
-        "footer": {"text": f"WisdomCrow \u2022 opp:{row.get('id', '?')}"},
+        "footer": {"text": "WisdomCrow \u2022 Cyber Opportunity Radar"},
         "timestamp": datetime.now(timezone.utc).isoformat(),
     }
 
     if tags:
-        tags_str = ", ".join(str(t) for t in tags[:8])
+        tags_str = ", ".join(f"`{t}`" for t in tags[:8])
         embed["fields"].append(
             {"name": "Tags", "value": tags_str[:100], "inline": False}
         )
 
     if event_date:
         embed["fields"].append(
-            {"name": "Event Date", "value": str(event_date), "inline": True}
+            {"name": ":calendar: Event Date", "value": str(event_date), "inline": True}
         )
 
     if deadline:
         embed["fields"].append(
-            {"name": "Deadline", "value": str(deadline), "inline": True}
+            {"name": ":alarm_clock: Deadline", "value": str(deadline), "inline": True}
         )
+
+    embed["fields"].append(
+        {
+            "name": "Confidence",
+            "value": row.get("confidence", "low").upper(),
+            "inline": True,
+        }
+    )
 
     return embed
 

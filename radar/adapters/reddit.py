@@ -1,4 +1,5 @@
 import logging
+import time
 from datetime import datetime, timezone, timedelta
 from typing import Any
 
@@ -12,6 +13,7 @@ logger = logging.getLogger(__name__)
 USER_AGENT = "WisdomCrow/1.0"
 REQUEST_TIMEOUT = 30
 REDDIT_MAX_AGE_HOURS = 48
+REDDIT_REQUEST_DELAY = 1.0
 
 
 def fetch(source: SourceMeta, is_seen_fn: Any = None) -> list[RawHit]:
@@ -75,4 +77,6 @@ def fetch(source: SourceMeta, is_seen_fn: Any = None) -> list[RawHit]:
     logger.info(
         f"Reddit {source.name}: {len(hits)} new hits from {len(feed.entries)} entries"
     )
+
+    time.sleep(REDDIT_REQUEST_DELAY)
     return hits
