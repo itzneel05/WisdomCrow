@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-20
-date: 2026-06-20T09:57:55Z
+date: 2026-06-20T10:12:09Z
 type: radar-report
 report_type: fast
-total_opportunities: 61
+total_opportunities: 66
 tags:
   - radar
   - fast
@@ -13,15 +13,40 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 61
+**Total opportunities:** 66
 
 | Category | Count |
 |----------|-------|
-| 🏰 CTF Competitions | 50 |
+| 🏰 CTF Competitions | 55 |
 | 🎓 Free Certifications | 7 |
 | 💰 Bug Bounties | 4 |
 
 ## 🏰 CTF Competitions
+
+- [Cyberkiller is in alpha!](https://www.reddit.com/r/securityCTF/comments/1u9hbwo/cyberkiller_is_in_alpha/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>Hello everyone<br /> Cyberkiller, a competitive seasonal hacking KOTH is in alpha and are accepting a limited amount of players for testing our platform at <a href="h_
+
+- [RRSW CTF Sponsored by zSecurity [Update + Spoilers]](https://www.reddit.com/r/securityCTF/comments/1u9qfmd/rrsw_ctf_sponsored_by_zsecurity_update_spoilers/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>This CTF helps build advanced critical thinking skills, basic linux-type shell navigation, deciphering basics, decryption (with key) basics, MITRE ATT&amp;CK mapped t_
+
+- [Looking for Teammates for Cyber Apocalypse CTF 2026: The Salt Crown (HTB CTF)](https://www.reddit.com/r/securityCTF/comments/1uaophf/looking_for_teammates_for_cyber_apocalypse_ctf/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Classic-Necessary484"> /u/Classic-Necessary484 </a> <br /> <span><a href="https://www.reddit.com/gallery/1uaon97">[link]</a></span> &#32; _
+
+- [[CTF] Operation BLACK CIPHER 2026 – 120 CTFs, Live Attack/Defense, and AI-Augmented Operations](https://www.reddit.com/r/securityCTF/comments/1uaovdg/ctf_operation_black_cipher_2026_120_ctfs_live/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/NullGridsLabs"> /u/NullGridsLabs </a> <br /> <span><a href="https://i.redd.it/vnmbhdsfkd8h1.png">[link]</a></span> &#32; <span><a href="ht_
+
+- [InCTF 2026- Need teammates](https://www.reddit.com/r/securityCTF/comments/1uame8s/inctf_2026_need_teammates/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`, `india_friendly`
+  - _<!-- SC_OFF --><div class="md"><p>Want to try InCTF this year, but need a team of 3-5. </p> <p>&#x200b;</p> <p>About me:</p> <p>&#x200b;</p> <p>I'm a fullstack dev (Go/Postgres/Python) getting into cy_
 
 - [ASIS CTF Finals 2026](https://ctftime.org/event/3062)
   - Confidence: 🟢 HIGH
