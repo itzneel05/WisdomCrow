@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-21
-date: 2026-06-21T03:54:51Z
+date: 2026-06-21T09:46:46Z
 type: radar-report
 report_type: fast
-total_opportunities: 247
+total_opportunities: 250
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 247
+**Total opportunities:** 250
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 166 |
+| ❓ Uncategorized | 169 |
 | 🏰 CTF Competitions | 51 |
 | 🎓 Free Certifications | 16 |
 | 💰 Bug Bounties | 7 |
@@ -440,6 +440,18 @@ tags:
   - _<p>This week's release includes five new modules, including a full unauthenticated RCE chain for Paperclip AI and a VS Code extension persistence technique. On the post-exploitation side, the new <spa_
 
 ## ❓ Uncategorized
+
+- [OpenBSD MPLS kernel stack leaks remotely (CVE-2026-56099)](https://www.reddit.com/r/netsec/comments/1ua20fg/openbsd_mpls_kernel_stack_leaks_remotely/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>A crafted MPLS packet can trigger an out-of-bounds read in mpls_do_error, leaking 4 bytes of adjacent kernel stack memory back in an ICMP/MPLS error response. </p> <p_
+
+- [Squidbleed (CVE-2026-47729) - Heartbleed-style vulnerability that leaks internal memory from every version of Squid Proxy, in its default configuration](https://www.reddit.com/r/netsec/comments/1u9y7yw/squidbleed_cve202647729_heartbleedstyle/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/qwerty0x41"> /u/qwerty0x41 </a> <br /> <span><a href="https://blog.calif.io/p/squidbleed-cve-2026-47729">[link]</a></span> &#32; <span><a _
+
+- [Use-after-free in the QPACK encoder of nginx HTTP/3 - CVE-2026-42530](https://www.reddit.com/r/netsec/comments/1uab0j6/useafterfree_in_the_qpack_encoder_of_nginx_http3/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/everping"> /u/everping </a> <br /> <span><a href="https://cystack.net/vi/research/cve-2026-42530-nginx-en">[link]</a></span> &#32; <span><_
 
 - [Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push](https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/)
   - Confidence: 🟫 LOW
