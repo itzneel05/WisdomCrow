@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-22
-date: 2026-06-22T16:52:15Z
+date: 2026-06-22T20:45:06Z
 type: radar-report
 report_type: fast
-total_opportunities: 26
+total_opportunities: 33
 tags:
   - radar
   - fast
@@ -13,13 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 26
+**Total opportunities:** 33
 
 | Category | Count |
 |----------|-------|
-| 🏰 CTF Competitions | 12 |
-| ❓ Uncategorized | 12 |
+| ❓ Uncategorized | 17 |
+| 🏰 CTF Competitions | 13 |
 | 🎓 Free Certifications | 2 |
+| 💰 Bug Bounties | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -83,6 +84,18 @@ tags:
   - Tags: `ctf`
   - _Name: Junior.Crypt.2026 CTF (an <a href="/ctf/1041">..  Junior.Crypt CTF</a> event.)<br /> Date: July 11, 2026, 9 a.m. &mdash; 12 July 2026, 09:00 UTC &nbsp;<a href="/event/3335.ics">[add to calendar]_
 
+- [Claude flagged my legit TryHackMe content as a 'cyber safeguard' trigger](https://www.reddit.com/r/AskNetsec/comments/1ucewi7/claude_flagged_my_legit_tryhackme_content_as_a/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>I'm not a native English speaker, so I've been using Claude to translate TryHackMe room content and explain stuff I don't understand. But lately it keeps showing this_
+
+## 💰 Bug Bounties
+
+- [Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants](https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily_
+
 ## 🎓 Free Certifications
 
 - [Webshells Remain Popular, (Mon, Jun 22nd)](https://isc.sans.edu/diary/rss/33096)
@@ -96,6 +109,38 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack](https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html)
+  - Confidence: 🟫 LOW
+  - _Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code.  "Attack_
+
+- [Is there even a best AI agent security platform or are we all just guessing right now?](https://www.reddit.com/r/AskNetsec/comments/1uc0dtw/is_there_even_a_best_ai_agent_security_platform/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Honest question because I’m losing track of what’s real vs marketing at this point.</p> <p>We started rolling out a few AI agents internally and everything looked fin_
+
+- [What is the most impressive, "holy shit it actually worked" AI support automation demo you have seen?](https://www.reddit.com/r/AskNetsec/comments/1ucfy5v/what_is_the_most_impressive_holy_shit_it_actually/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I'm so sick of polished marketing videos, but I finally saw an AI support automation demo the other day that gave me a genuine &quot;wait... it actually solved that?&_
+
+- [Are traditional simulation tools less effective now that attackers are using AI?](https://www.reddit.com/r/AskNetsec/comments/1uca6tf/are_traditional_simulation_tools_less_effective/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Employees can spot the fake test emails because they know what our platforms usually sends. Have anyone switched to a system that creates unique phishing scenarios dy_
+
+- [What's A Clean Device](https://www.reddit.com/r/AskNetsec/comments/1ucejd7/whats_a_clean_device/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Ok so I been meaning to ask this. Whenever people have malware or software issues or get a new device, it's always recommended to reinstall windows using a USB from a_
+
+- [Microsoft fixes AutoGen Studio flaw that enabled code execution](https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/)
+  - Confidence: 🟫 LOW
+  - _A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system sim_
+
+- [Microsoft says Windows 11 26H2 is coming soon, details upgrade process](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]_
+
+- [FortiBleed campaign used custom FortiGate sniffer to steal credentials](https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/)
+  - Confidence: 🟫 LOW
+  - _Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credent_
 
 - [⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More](https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html)
   - Confidence: 🟫 LOW
@@ -132,15 +177,3 @@ tags:
 - [Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices](https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html)
   - Confidence: 🟫 LOW
   - _Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets.  The Federal Court&nbsp;releas_
-
-- [Week in review: 74k Fortinet firewall credentials stolen, Splunk Enterprise RCE under active attack](https://www.helpnetsecurity.com/2026/06/21/week-in-review-74k-fortinet-firewall-credentials-stolen-splunk-enterprise-rce-under-active-attack/)
-  - Confidence: 🟫 LOW
-  - _<p>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: A hardware neural network backdoor that hides in plain sight Deep learning systems on edge devices _
-
-- [Free Zero to Hero Courses + pdf on WiFi Hacking from an OSWP!](https://www.reddit.com/r/oscp/comments/1ubbgng/free_zero_to_hero_courses_pdf_on_wifi_hacking/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello, this is a manual/course I wrote which was designed to give the reader an understanding of foundational wireless attacks against the most common Wi-Fi protocols_
-
-- [AryStinger botnet infected thousands of D-Link routers worldwide](https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/)
-  - Confidence: 🟫 LOW
-  - _A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]_
