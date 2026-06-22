@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-22
-date: 2026-06-22T11:49:56Z
+date: 2026-06-22T16:52:15Z
 type: radar-report
 report_type: fast
-total_opportunities: 19
+total_opportunities: 26
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 19
+**Total opportunities:** 26
 
 | Category | Count |
 |----------|-------|
 | 🏰 CTF Competitions | 12 |
-| ❓ Uncategorized | 6 |
-| 🎓 Free Certifications | 1 |
+| ❓ Uncategorized | 12 |
+| 🎓 Free Certifications | 2 |
 
 ## 🏰 CTF Competitions
 
@@ -85,12 +85,41 @@ tags:
 
 ## 🎓 Free Certifications
 
+- [Webshells Remain Popular, (Mon, Jun 22nd)](https://isc.sans.edu/diary/rss/33096)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _<p>Webshells have been popular for a long time. We already covered this topic across multiple diaries&#x5b;<a href="https://isc.sans.edu/diary/Webshells&#x2b;Webshells&#x2b;everywhere/28106">1</a>&#x5_
+
 - [ISC Stormcast For Monday, June 22nd, 2026 https://isc.sans.edu/podcastdetail/9980, (Mon, Jun 22nd)](https://isc.sans.edu/diary/rss/33092)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More](https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html)
+  - Confidence: 🟫 LOW
+  - _It’s Monday again.  This week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking_
+
+- [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html)
+  - Confidence: 🟫 LOW
+  - _Earlier this month, I spoke at the Gartner Security &amp; Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security pr_
+
+- [Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries](https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html)
+  - Confidence: 🟫 LOW
+  - _Google has set September 30, 2026, as the day it begins enforcing&nbsp;Android developer verification&nbsp;in the first four countries, and the major device-maker app stores are in from the start.  On_
+
+- [New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer](https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER.  According to Elastic Security Labs, _
+
+- [29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests](https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html)
+  - Confidence: 🟫 LOW
+  - _A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the sa_
+
+- [A Glimpse into the “Search Your Target” Market for Stolen Credentials](https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/)
+  - Confidence: 🟫 LOW
+  - _Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for spe_
 
 - [INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific](https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html)
   - Confidence: 🟫 LOW
