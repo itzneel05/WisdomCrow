@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-23
-date: 2026-06-23T02:56:47Z
+date: 2026-06-23T09:35:12Z
 type: radar-report
 report_type: fast
-total_opportunities: 58
+total_opportunities: 49
 tags:
   - radar
   - fast
@@ -13,76 +13,16 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 58
+**Total opportunities:** 49
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 39 |
-| 🏰 CTF Competitions | 13 |
+| ❓ Uncategorized | 43 |
 | 💰 Bug Bounties | 3 |
-| 🎓 Free Certifications | 3 |
+| 🎓 Free Certifications | 2 |
+| 🏰 CTF Competitions | 1 |
 
 ## 🏰 CTF Competitions
-
-- [Looking for Teammates for Cyber Apocalypse CTF 2026: The Salt Crown (HTB CTF)](https://www.reddit.com/r/securityCTF/comments/1uaophf/looking_for_teammates_for_cyber_apocalypse_ctf/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Classic-Necessary484"> /u/Classic-Necessary484 </a> <br /> <span><a href="https://www.reddit.com/gallery/1uaon97">[link]</a></span> &#32; _
-
-- [[CTF] Operation BLACK CIPHER 2026 – 120 CTFs, Live Attack/Defense, and AI-Augmented Operations](https://www.reddit.com/r/securityCTF/comments/1uaovdg/ctf_operation_black_cipher_2026_120_ctfs_live/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/NullGridsLabs"> /u/NullGridsLabs </a> <br /> <span><a href="https://i.redd.it/vnmbhdsfkd8h1.png">[link]</a></span> &#32; <span><a href="ht_
-
-- [[CTF] Pentester vs AI: Can you beat the AI's time?](https://www.reddit.com/r/securityCTF/comments/1ubvj2j/ctf_pentester_vs_ai_can_you_beat_the_ais_time/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>This security CTF is for all pentesters, red-teamers, security engineers, and any AppSec enthusiasts.</p> <p>Complete the CTF challenge as fast as you can to try and _
-
-- [GlacierCTF 2026](https://ctftime.org/event/3337)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: GlacierCTF 2026 (an <a href="/ctf/863">Glacier CTF</a> event.)<br /> Date: Nov. 20, 2026, 6 p.m. &mdash; 21 Nov. 2026, 18:00 UTC &nbsp;<a href="/event/3337.ics">[add to calendar]</a><br /> Forma_
-
-- [HITCON CTF 2026 Final](https://ctftime.org/event/3341)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: HITCON CTF 2026 Final (an <a href="/ctf/79">HITCON CTF</a> event.)<br /> Date: Nov. 7, 2026, midnight &mdash; 08 Nov. 2026, 10:00 UTC &nbsp;<a href="/event/3341.ics">[add to calendar]</a><br /> _
-
-- [CSCTF 2026](https://ctftime.org/event/3333)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: CSCTF 2026 (an <a href="/ctf/1373">CSCTF</a> event.)<br /> Date: Nov. 6, 2026, 1 p.m. &mdash; 08 Nov. 2026, 13:00 UTC &nbsp;<a href="/event/3333.ics">[add to calendar]</a><br /> Format: Jeopardy_
-
-- [PINK+ CTF 2026](https://ctftime.org/event/3331)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: PINK+ CTF 2026 (an <a href="/ctf/1624">PINK+ CTF</a> event.)<br /> Date: Nov. 6, 2026, noon &mdash; 09 Nov. 2026, 12:00 UTC &nbsp;<a href="/event/3331.ics">[add to calendar]</a><br /> Format: Je_
-
-- [HITCON CTF 2026 Quals](https://ctftime.org/event/3340)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: HITCON CTF 2026 Quals (an <a href="/ctf/79">HITCON CTF</a> event.)<br /> Date: Aug. 28, 2026, 2 p.m. &mdash; 30 Aug. 2026, 14:00 UTC &nbsp;<a href="/event/3340.ics">[add to calendar]</a><br /> F_
-
-- [THJCC CTF 2026 summer](https://ctftime.org/event/3343)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`, `india_friendly`
-  - _Name: THJCC CTF 2026 summer (an <a href="/ctf/1115">THJCC CTF</a> event.)<br /> Date: Aug. 15, 2026, midnight &mdash; 16 Aug. 2026, 12:00 UTC &nbsp;<a href="/event/3343.ics">[add to calendar]</a><br /_
-
-- [Thryve CTF 2026](https://ctftime.org/event/3330)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: Thryve CTF 2026 (an <a href="/ctf/1610">Thryve CTF</a> event.)<br /> Date: Aug. 14, 2026, 11 a.m. &mdash; 14 Aug. 2026, 20:00 UTC &nbsp;<a href="/event/3330.ics">[add to calendar]</a><br /> Form_
-
-- [AEROSPACE VILLAGE STARPWN CTF](https://ctftime.org/event/3342)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: AEROSPACE VILLAGE STARPWN CTF (an <a href="/ctf/1322">Starpwn CTF</a> event.)<br /> Date: Aug. 6, 2026, 5 p.m. &mdash; 09 Aug. 2026, 18:00 UTC &nbsp;<a href="/event/3342.ics">[add to calendar]</_
-
-- [Junior.Crypt.2026 CTF](https://ctftime.org/event/3335)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: Junior.Crypt.2026 CTF (an <a href="/ctf/1041">..  Junior.Crypt CTF</a> event.)<br /> Date: July 11, 2026, 9 a.m. &mdash; 12 July 2026, 09:00 UTC &nbsp;<a href="/event/3335.ics">[add to calendar]_
 
 - [Claude flagged my legit TryHackMe content as a 'cyber safeguard' trigger](https://www.reddit.com/r/AskNetsec/comments/1ucewi7/claude_flagged_my_legit_tryhackme_content_as_a/)
   - Confidence: 🟡 MEDIUM
@@ -118,12 +58,23 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>Webshells have been popular for a long time. We already covered this topic across multiple diaries&#x5b;<a href="https://isc.sans.edu/diary/Webshells&#x2b;Webshells&#x2b;everywhere/28106">1</a>&#x5_
 
-- [ISC Stormcast For Monday, June 22nd, 2026 https://isc.sans.edu/podcastdetail/9980, (Mon, Jun 22nd)](https://isc.sans.edu/diary/rss/33092)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws](https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html)
+  - Confidence: 🟫 LOW
+  - _OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative&nbsp;the artificial intelligence (AI) company announced last_
+
+- [WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool](https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html)
+  - Confidence: 🟫 LOW
+  - _Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) softwar_
+
+- [Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT](https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT).  The list of identified packages, is below -     aes-_
+
+- [CVE-2024-40766: The Patch Fixed the Bug. Nobody Fixed the Configuration., (Tue, Jun 23rd)](https://isc.sans.edu/diary/rss/33094)
+  - Confidence: 🟫 LOW
+  - _<h1><u><strong>The vulnerability</strong></u></h1>&#xd;_
 
 - [Volume Booster (2M Chrome users) silently activated a commerce-tracking SDK with zero permission prompts](https://www.reddit.com/r/security/comments/1uc42or/volume_booster_2m_chrome_users_silently_activated/)
   - Confidence: 🟫 LOW
