@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-23
-date: 2026-06-23T14:43:51Z
+date: 2026-06-23T20:01:00Z
 type: radar-report
 report_type: fast
-total_opportunities: 51
+total_opportunities: 64
 tags:
   - radar
   - fast
@@ -13,16 +13,26 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 51
+**Total opportunities:** 64
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 44 |
+| ❓ Uncategorized | 56 |
+| 🏰 CTF Competitions | 4 |
 | 💰 Bug Bounties | 3 |
-| 🏰 CTF Competitions | 2 |
-| 🎓 Free Certifications | 2 |
+| 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
+
+- [TFC CTF 2026](https://ctftime.org/event/3344)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: TFC CTF 2026 (an <a href="/ctf/696">TFC CTF</a> event.)<br /> Date: Sept. 5, 2026, 10 a.m. &mdash; 06 Sept. 2026, 10:00 UTC &nbsp;<a href="/event/3344.ics">[add to calendar]</a><br /> Format: Je_
+
+- [Claude flagged my legit TryHackMe content as a 'cyber safeguard' trigger](https://www.reddit.com/r/tryhackme/comments/1ucevf0/claude_flagged_my_legit_tryhackme_content_as_a/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>I'm not a native English speaker, so I've been using Claude to translate TryHackMe room content and explain stuff I don't understand. But lately it keeps showing this_
 
 - [GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns](https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html)
   - Confidence: 🟡 MEDIUM
@@ -58,12 +68,79 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
-- [Webshells Remain Popular, (Mon, Jun 22nd)](https://isc.sans.edu/diary/rss/33096)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _<p>Webshells have been popular for a long time. We already covered this topic across multiple diaries&#x5b;<a href="https://isc.sans.edu/diary/Webshells&#x2b;Webshells&#x2b;everywhere/28106">1</a>&#x5_
-
 ## ❓ Uncategorized
+
+- [Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration](https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html)
+  - Confidence: 🟫 LOW
+  - _President Trump signed an&nbsp;executive order on June 22&nbsp;setting hard deadlines for federal agencies to move high-value assets and high-impact systems to post-quantum cryptography.  Key establis_
+
+- [Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents](https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html)
+  - Confidence: 🟫 LOW
+  - _Security firm&nbsp;AIR&nbsp;built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughly 26,000 agents, including some on corporate accou_
+
+- [I just completed Preparation room on TryHackMe! Understand the Preparation phase of the Incident Response lifecycle.](https://www.reddit.com/r/tryhackme/comments/1ubzp8k/i_just_completed_preparation_room_on_tryhackme/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/DueContribution3701"> /u/DueContribution3701 </a> <br /> <span><a href="https://tryhackme.com/room/irpreparation?utm_campaign=social_share_
+
+- [I just completed Offensive Security Intro room on TryHackMe! Hack your first website (legally in a safe environment) and experience an ethical hacker's job.](https://www.reddit.com/r/tryhackme/comments/1uca4g9/i_just_completed_offensive_security_intro_room_on/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Electrical_Bid_5565"> /u/Electrical_Bid_5565 </a> <br /> <span><a href="https://tryhackme.com/room/offensivesecurityintrokKx12l39?utm_camp_
+
+- [I just completed Offensive Security Intro room on TryHackMe! Hack your first website (legally in a safe environment) and experience an ethical hacker's job.](https://www.reddit.com/r/tryhackme/comments/1ucipon/i_just_completed_offensive_security_intro_room_on/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Large_Picture_5550"> /u/Large_Picture_5550 </a> <br /> <span><a href="https://tryhackme.com/room/offensivesecurityintrokKx12l39?utm_campai_
+
+- [I just completed What is Networking? room on TryHackMe! Begin learning the fundamentals of computer networking in this bite-sized and interactive module.](https://www.reddit.com/r/tryhackme/comments/1ucmjdg/i_just_completed_what_is_networking_room_on/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Ecstatic_War_7932"> /u/Ecstatic_War_7932 </a> <br /> <span><a href="https://tryhackme.com/room/whatisnetworking?utm_campaign=social_share&_
+
+- [I just completed Offensive Security Intro room on TryHackMe! Hack your first website (legally in a safe environment) and experience an ethical hacker's job.](https://www.reddit.com/r/tryhackme/comments/1ucuv5e/i_just_completed_offensive_security_intro_room_on/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>just started, will see how long will i do this</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/abracadabra_01"> /u/abracadabra__
+
+- [I just completed ContAInment room on TryHackMe! Can you help contain the ransomware threat with the help of AI?](https://www.reddit.com/r/tryhackme/comments/1uch4fi/i_just_completed_containment_room_on_tryhackme/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/GuavaAltruistic4105"> /u/GuavaAltruistic4105 </a> <br /> <span><a href="https://tryhackme.com/room/containment?utm_campaign=social_share&a_
+
+- [I just completed AI System Reconnaissance room on TryHackMe! Discover AI infrastructure by scanning ML services, frameworks, and extracting metadata from APIs.](https://www.reddit.com/r/tryhackme/comments/1uchfly/i_just_completed_ai_system_reconnaissance_room_on/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/GuavaAltruistic4105"> /u/GuavaAltruistic4105 </a> <br /> <span><a href="https://tryhackme.com/room/aisystemreconnaissance?utm_campaign=soc_
+
+- [I just completed Offensive Security Intro room on TryHackMe! Hack your first website (legally in a safe environment) and experience an ethical hacker's job.](https://www.reddit.com/r/tryhackme/comments/1ucsyws/i_just_completed_offensive_security_intro_room_on/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>My first hack :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FeedDramatic8454"> /u/FeedDramatic8454 </a> <br /> <span><a hr_
+
+- [Will frontier-level AI cyber models ever be accessible to regular people? (Not just billion-dollar corporations)mostly to the seniors](https://www.reddit.com/r/tryhackme/comments/1uclb6r/will_frontierlevel_ai_cyber_models_ever_be/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey TryHackMe &amp; AI community,</p> <p>Something I've been thinking about a lot lately and wanted to get some perspectives from people who are actually in the space_
+
+- [You have 6 months to learn cybersecurity from scratch, where do you start?](https://www.reddit.com/r/tryhackme/comments/1udb09w/you_have_6_months_to_learn_cybersecurity_from/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/mrkhan20_06"> /u/mrkhan20_06 </a> <br /> <span><a href="/r/Cyberterminal/comments/1udaxv6/you_have_6_months_to_learn_cybersecurity_from/">_
+
+- [THM AD Pathway?](https://www.reddit.com/r/tryhackme/comments/1udqmx0/thm_ad_pathway/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I just finished the AD Basics room and it was pretty good. I want to continue learning AD on the platform, but there are a bunch of other AD rooms. Does anyone have a_
+
+- [How to properly create notes?](https://www.reddit.com/r/tryhackme/comments/1udm6cw/how_to_properly_create_notes/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>I just wanted to know about how others are creating notes while going through the rooms. Currently I'm using obsidian, structured according to the room_
+
+- [spent two months reading writeups instead of doing boxes and it held me back more than anything](https://www.reddit.com/r/tryhackme/comments/1udoli4/spent_two_months_reading_writeups_instead_of/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>not proud of it but it happened. i kept telling myself i needed to understand everything before i tried a machine. so id read the writeup first, kind of follow along,_
+
+- [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
+  - Confidence: 🟫 LOW
+  - _Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport _
+
+- [Scattered Spider members plead guilty to hacking Transport for London](https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/)
+  - Confidence: 🟫 LOW
+  - _Two members of the 'Scattered Spider' cybercrime group pleaded guilty to hacking the Transport for London (TfL) systems in 2024. [...]_
+
+- [New macOS ClickFix attack silently mounts DMGs to push infostealer](https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/)
+  - Confidence: 🟫 LOW
+  - _A new macOS ClickFix campaign is using Terminal commands to silently download, mount, and launch info-stealing malware from malicious disk image (DMG) files. [...]_
 
 - [Agentic AI: The Weapon That No Longer Needs a Warrior](https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html)
   - Confidence: 🟫 LOW
@@ -216,27 +293,3 @@ tags:
 - [FortiBleed campaign used custom FortiGate sniffer to steal credentials](https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/)
   - Confidence: 🟫 LOW
   - _Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credent_
-
-- [⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More](https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html)
-  - Confidence: 🟫 LOW
-  - _It’s Monday again.  This week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking_
-
-- [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html)
-  - Confidence: 🟫 LOW
-  - _Earlier this month, I spoke at the Gartner Security &amp; Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security pr_
-
-- [Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries](https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html)
-  - Confidence: 🟫 LOW
-  - _Google has set September 30, 2026, as the day it begins enforcing&nbsp;Android developer verification&nbsp;in the first four countries, and the major device-maker app stores are in from the start.  On_
-
-- [New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer](https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER.  According to Elastic Security Labs, _
-
-- [29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests](https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html)
-  - Confidence: 🟫 LOW
-  - _A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the sa_
-
-- [A Glimpse into the “Search Your Target” Market for Stolen Credentials](https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/)
-  - Confidence: 🟫 LOW
-  - _Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for spe_
