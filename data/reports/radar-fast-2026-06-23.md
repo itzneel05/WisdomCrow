@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-23
-date: 2026-06-23T09:35:12Z
+date: 2026-06-23T14:43:51Z
 type: radar-report
 report_type: fast
-total_opportunities: 49
+total_opportunities: 51
 tags:
   - radar
   - fast
@@ -13,16 +13,21 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 49
+**Total opportunities:** 51
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 43 |
+| ❓ Uncategorized | 44 |
 | 💰 Bug Bounties | 3 |
+| 🏰 CTF Competitions | 2 |
 | 🎓 Free Certifications | 2 |
-| 🏰 CTF Competitions | 1 |
 
 ## 🏰 CTF Competitions
+
+- [GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns](https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _GitHub is moving to strengthen software supply chain security by updating "actions/checkout" to block pwn request attacks that exploit the risky use of the "pull_request_target workflow" trigger to ru_
 
 - [Claude flagged my legit TryHackMe content as a 'cyber safeguard' trigger](https://www.reddit.com/r/AskNetsec/comments/1ucewi7/claude_flagged_my_legit_tryhackme_content_as_a/)
   - Confidence: 🟡 MEDIUM
@@ -59,6 +64,22 @@ tags:
   - _<p>Webshells have been popular for a long time. We already covered this topic across multiple diaries&#x5b;<a href="https://isc.sans.edu/diary/Webshells&#x2b;Webshells&#x2b;everywhere/28106">1</a>&#x5_
 
 ## ❓ Uncategorized
+
+- [Agentic AI: The Weapon That No Longer Needs a Warrior](https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html)
+  - Confidence: 🟫 LOW
+  - _Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile_
+
+- [Webinar: Why email security teams are drowning in alerts](https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/)
+  - Confidence: 🟫 LOW
+  - _Phishing, BEC, and account takeover attacks continue to overwhelm security teams with alerts and investigations. This webinar explores how behavioral AI can help automate detection and response workfl_
+
+- [LastPass confirms data breach in Klue supply chain attack](https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/)
+  - Confidence: 🟫 LOW
+  - _LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month. [...]_
+
+- [The Exploit Doesn't Exist. You Can Still Prove It Works Against You](https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/)
+  - Confidence: 🟫 LOW
+  - _Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public ex_
 
 - [OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws](https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html)
   - Confidence: 🟫 LOW
@@ -219,15 +240,3 @@ tags:
 - [A Glimpse into the “Search Your Target” Market for Stolen Credentials](https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/)
   - Confidence: 🟫 LOW
   - _Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for spe_
-
-- [INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific](https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html)
-  - Confidence: 🟫 LOW
-  - _A new report from INTERPOL has revealed a "dramatic increase" in cybercrime in Asia and the South Pacific, fueled by rapid digitalization, internet penetration, new technologies, organized criminal ne_
-
-- [AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network](https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html)
-  - Confidence: 🟫 LOW
-  - _A new malware family is turning forgotten home routers into a distributed reconnaissance and proxy network, not the DDoS botnet these devices usually end up in. QiAnXin's&nbsp;XLab&nbsp;calls it ArySt_
-
-- [Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices](https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html)
-  - Confidence: 🟫 LOW
-  - _Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets.  The Federal Court&nbsp;releas_
