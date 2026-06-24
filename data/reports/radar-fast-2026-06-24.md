@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-24
-date: 2026-06-24T09:25:11Z
+date: 2026-06-24T14:29:57Z
 type: radar-report
 report_type: fast
-total_opportunities: 66
+total_opportunities: 73
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 66
+**Total opportunities:** 73
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 56 |
+| ❓ Uncategorized | 62 |
 | 🎓 Free Certifications | 6 |
 | 🏰 CTF Competitions | 3 |
-| 💰 Bug Bounties | 1 |
+| 💰 Bug Bounties | 2 |
 
 ## 🏰 CTF Competitions
 
@@ -40,6 +40,11 @@ tags:
   - _GitHub is moving to strengthen software supply chain security by updating "actions/checkout" to block pwn request attacks that exploit the risky use of the "pull_request_target workflow" trigger to ru_
 
 ## 💰 Bug Bounties
+
+- [Exploiting web cache poisoning vulnerabilities](https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-web-cache-poisoning-vulnerabilities)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _Web (or HTTP) caching is a highly adopted practice to effectively optimize web page loading times for clients. However, as with most technologies, when incorrectly implemented, it may open up a new ex_
 
 - [OpenAI wants AI to fix vulnerabilities, not just find them](https://www.helpnetsecurity.com/2026/06/23/openai-expanded-daybreak-cybersecurity-initiative/)
   - Confidence: 🟡 MEDIUM
@@ -79,6 +84,46 @@ tags:
   - _<p>Effective hardening requires balancing security, operational needs, and long term maintainability. </p> <p>The post <a href="https://www.offsec.com/blog/intro-to-stig-tools/">Intro to STIG Tools</a_
 
 ## ❓ Uncategorized
+
+- [Dawn of the Apex Agentic Adversary](https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html)
+  - Confidence: 🟫 LOW
+  - _We are standing at the end of an era we never thought to mourn: the era of human-speed threats.  For years, cybersecurity moved to a rhythm organizations could follow. A researcher found a bug, a CVE _
+
+- [Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks](https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains.  The "critical exploitable pattern" ha_
+
+- [Are sec0 and sec1 worth €90?](https://www.reddit.com/r/tryhackme/comments/1ue09do/are_sec0_and_sec1_worth_90/)
+  - Confidence: 🟫 LOW
+  - _<br /> <span><a href="/r/tryhackme/comments/1ue092d/are_sec0_and_sec1_worth_90/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/tryhackme/comments/1ue09do/are_sec0_and_sec1_worth_90/"_
+
+- [I just completed Offensive Security Intro room on TryHackMe! Hack your first website (legally in a safe environment) and experience an ethical hacker's job.](https://www.reddit.com/r/tryhackme/comments/1ue2hfy/i_just_completed_offensive_security_intro_room_on/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>that's funny</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Shot_Meeting7923"> /u/Shot_Meeting7923 </a> <br /> <span><a href="_
+
+- [I just completed The CIA Triad room on TryHackMe! Understand the CIA Triad and how it shapes cyber security mindset.](https://www.reddit.com/r/tryhackme/comments/1uedo88/i_just_completed_the_cia_triad_room_on_tryhackme/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Robin_iii"> /u/Robin_iii </a> <br /> <span><a href="https://tryhackme.com/room/theciatriad?utm_campaign=social_share&amp;utm_medium=social_
+
+- [do you guys follow any particular checklist or methodology?](https://www.reddit.com/r/tryhackme/comments/1ueebc6/do_you_guys_follow_any_particular_checklist_or/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>When solving HTB/THM/CTF boxes, do you guys follow a fixed checklist/methodology, or do you just take notes freely?</p> <p>If you use a checklist, what sections do yo_
+
+- [Shout out to the teams working on Pulse](https://www.reddit.com/r/tryhackme/comments/1uebssa/shout_out_to_the_teams_working_on_pulse/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1uebssa/shout_out_to_the_teams_working_on_pulse/"> <img alt="Shout out to the teams working on Pulse" src="https://preview.redd.it_
+
+- [LAST CHANCE LIVE CLASS | Bash the Bot: AI Pentesting in a Day](https://www.reddit.com/r/tryhackme/comments/1uee9ed/last_chance_live_class_bash_the_bot_ai_pentesting/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1uee9ed/last_chance_live_class_bash_the_bot_ai_pentesting/"> <img alt="LAST CHANCE LIVE CLASS | Bash the Bot: AI Pentesting in a D_
+
+- [Stealthy Mistic backdoor linked to ransomware access broker KongTuke](https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/)
+  - Confidence: 🟫 LOW
+  - _A new backdoor dubbed Mistic has been observed in financially motivated attacks targeting organizations in the insurance, education, IT, and professional services sectors. [...]_
+
+- [Securing the service desk: Why social engineering attacks keep succeeding](https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/)
+  - Confidence: 🟫 LOW
+  - _Service desks have become a favored target for attackers seeking password resets, MFA changes, and access to corporate accounts. Specops Software breaks down how service desk social engineering attack_
 
 - [DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering](https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html)
   - Confidence: 🟫 LOW
@@ -287,19 +332,3 @@ tags:
 - [The Exploit Doesn't Exist. You Can Still Prove It Works Against You](https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/)
   - Confidence: 🟫 LOW
   - _Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public ex_
-
-- [OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws](https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html)
-  - Confidence: 🟫 LOW
-  - _OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative&nbsp;the artificial intelligence (AI) company announced last_
-
-- [WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool](https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html)
-  - Confidence: 🟫 LOW
-  - _Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) softwar_
-
-- [Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT](https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT).  The list of identified packages, is below -     aes-_
-
-- [CVE-2024-40766: The Patch Fixed the Bug. Nobody Fixed the Configuration., (Tue, Jun 23rd)](https://isc.sans.edu/diary/rss/33094)
-  - Confidence: 🟫 LOW
-  - _<h1><u><strong>The vulnerability</strong></u></h1>&#xd;_
