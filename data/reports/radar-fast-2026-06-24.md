@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-24
-date: 2026-06-24T14:29:57Z
+date: 2026-06-24T19:43:58Z
 type: radar-report
 report_type: fast
-total_opportunities: 73
+total_opportunities: 75
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 73
+**Total opportunities:** 75
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 62 |
+| ❓ Uncategorized | 65 |
 | 🎓 Free Certifications | 6 |
-| 🏰 CTF Competitions | 3 |
 | 💰 Bug Bounties | 2 |
+| 🏰 CTF Competitions | 2 |
 
 ## 🏰 CTF Competitions
 
@@ -33,11 +33,6 @@ tags:
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
   - _<!-- SC_OFF --><div class="md"><p>I'm not a native English speaker, so I've been using Claude to translate TryHackMe room content and explain stuff I don't understand. But lately it keeps showing this_
-
-- [GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns](https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _GitHub is moving to strengthen software supply chain security by updating "actions/checkout" to block pwn request attacks that exploit the risky use of the "pull_request_target workflow" trigger to ru_
 
 ## 💰 Bug Bounties
 
@@ -84,6 +79,34 @@ tags:
   - _<p>Effective hardening requires balancing security, operational needs, and long term maintainability. </p> <p>The post <a href="https://www.offsec.com/blog/intro-to-stig-tools/">Intro to STIG Tools</a_
 
 ## ❓ Uncategorized
+
+- [Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered](https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html)
+  - Confidence: 🟫 LOW
+  - _A coordinated law enforcement operation, in partnership with private sector companies, including Bitdefender, Bitsight, ESET, and Microsoft, has resulted in the takedown of criminal infrastructure pow_
+
+- [CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited](https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilia_
+
+- [A Potential Alignment Vulnerability in LLMs: Behavioral and Hidden-State Evidence from Gemma-3-12B](https://www.reddit.com/r/AskNetsec/comments/1ud4zeq/a_potential_alignment_vulnerability_in_llms/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><h1>The behavioral pattern was first observed in Claude and is what motivated this project. The mechanistic investigation was carried out on open-weight models where int_
+
+- [How to prevent employees from submitting credentials to AI tools like ChatGPT?](https://www.reddit.com/r/AskNetsec/comments/1udf2da/how_to_prevent_employees_from_submitting/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Dev pasted a .env file into ChatGPT three weeks ago. API keys, database connection strings, service account tokens. Found out in standup. Network controls saw nothing_
+
+- [How are people validating mobile app shielding actually works?](https://www.reddit.com/r/AskNetsec/comments/1ue7334/how_are_people_validating_mobile_app_shielding/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Curious how teams are handling this today for Android/iOS apps that use mobile app shielding or RASP.</p> <p>A lot of apps have protections like anti-tampering, root/_
+
+- [Amadey, StealC malware operations disrupted in Operation Endgame action](https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/)
+  - Confidence: 🟫 LOW
+  - _Microsoft, Europol, and international partners have disrupted infrastructure used by the Amadey and StealC malware operations as part of Operation Endgame, which targets cybercriminal services and ran_
+
+- [CISA warns of max severity Ubiquiti flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers. [...]_
 
 - [Dawn of the Apex Agentic Adversary](https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html)
   - Confidence: 🟫 LOW
@@ -316,19 +339,3 @@ tags:
 - [New macOS ClickFix attack silently mounts DMGs to push infostealer](https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/)
   - Confidence: 🟫 LOW
   - _A new macOS ClickFix campaign is using Terminal commands to silently download, mount, and launch info-stealing malware from malicious disk image (DMG) files. [...]_
-
-- [Agentic AI: The Weapon That No Longer Needs a Warrior](https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html)
-  - Confidence: 🟫 LOW
-  - _Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile_
-
-- [Webinar: Why email security teams are drowning in alerts](https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/)
-  - Confidence: 🟫 LOW
-  - _Phishing, BEC, and account takeover attacks continue to overwhelm security teams with alerts and investigations. This webinar explores how behavioral AI can help automate detection and response workfl_
-
-- [LastPass confirms data breach in Klue supply chain attack](https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/)
-  - Confidence: 🟫 LOW
-  - _LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month. [...]_
-
-- [The Exploit Doesn't Exist. You Can Still Prove It Works Against You](https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/)
-  - Confidence: 🟫 LOW
-  - _Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public ex_
