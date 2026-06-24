@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-24
-date: 2026-06-24T02:57:29Z
+date: 2026-06-24T09:25:11Z
 type: radar-report
 report_type: fast
-total_opportunities: 63
+total_opportunities: 66
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 63
+**Total opportunities:** 66
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 55 |
-| 🎓 Free Certifications | 4 |
+| ❓ Uncategorized | 56 |
+| 🎓 Free Certifications | 6 |
 | 🏰 CTF Competitions | 3 |
 | 💰 Bug Bounties | 1 |
 
@@ -48,6 +48,16 @@ tags:
 
 ## 🎓 Free Certifications
 
+- [Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root](https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Editio_
+
+- [Linux Process Name Masquerading, (Wed, Jun 24th)](https://isc.sans.edu/diary/rss/33102)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `exam_voucher`
+  - _<p>In a previous diary, I talked about stack strings&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5b&#x3b;<a href="https://isc.sans.edu/diary/An&amp;&amp;#x23&#x3b;x26&#x3b;&amp;#x23&#x3b;x2b&#x3b;Example&amp;&amp_
+
 - [ISC Stormcast For Wednesday, June 24th, 2026 https://isc.sans.edu/podcastdetail/9984, (Wed, Jun 24th)](https://isc.sans.edu/diary/rss/33100)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`, `india_friendly`
@@ -69,6 +79,10 @@ tags:
   - _<p>Effective hardening requires balancing security, operational needs, and long term maintainability. </p> <p>The post <a href="https://www.offsec.com/blog/intro-to-stig-tools/">Intro to STIG Tools</a_
 
 ## ❓ Uncategorized
+
+- [DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering](https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as the Treasury unv_
 
 - [FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation](https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html)
   - Confidence: 🟫 LOW
