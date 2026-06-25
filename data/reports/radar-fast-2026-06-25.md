@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-25
-date: 2026-06-25T02:58:08Z
+date: 2026-06-25T08:59:29Z
 type: radar-report
 report_type: fast
-total_opportunities: 84
+total_opportunities: 99
 tags:
   - radar
   - fast
@@ -13,13 +13,31 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 84
+**Total opportunities:** 99
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 78 |
-| 🎓 Free Certifications | 5 |
+| ❓ Uncategorized | 89 |
+| 🎓 Free Certifications | 6 |
+| 🏰 CTF Competitions | 3 |
 | 💰 Bug Bounties | 1 |
+
+## 🏰 CTF Competitions
+
+- [how do you guys tracks your ctf/htb/thm notes?](https://www.reddit.com/r/hackthebox/comments/1udlns3/how_do_you_guys_tracks_your_ctfhtbthm_notes/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>how do you organize your notes, commands, screenshots, payloads, and writeups while doing ctfs/htb/thm?</p> <p>Im trying to understand real workflows. what tool do yo_
+
+- [Just finished **Bobby's Bistro** (HTB Web, Medium) — loved this one.](https://www.reddit.com/r/hackthebox/comments/1uf33ig/just_finished_bobbys_bistro_htb_web_medium_loved/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`, `india_friendly`
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1uf33ig/just_finished_bobbys_bistro_htb_web_medium_loved/"> <img alt="Just finished **Bobby's Bistro** (HTB Web, Medium) — loved _
+
+- [Nimbus machine HTB](https://www.reddit.com/r/hackthebox/comments/1uf2xc3/nimbus_machine_htb/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>Nimbus machine is driving me crazy i’ve been working on it for the past three days and im getting nowhere i tried everything burnside, getting a reverse shell, pastin_
 
 ## 💰 Bug Bounties
 
@@ -29,6 +47,11 @@ tags:
   - _Web (or HTTP) caching is a highly adopted practice to effectively optimize web page loading times for clients. However, as with most technologies, when incorrectly implemented, it may open up a new ex_
 
 ## 🎓 Free Certifications
+
+- [Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new _
 
 - [What do Ports Hear When Nobody's Listening&#x3f; An Assessment of Automated Cybercrime &#x5b;Guest Diary&#x5d;, (Wed, Jun 24th)](https://isc.sans.edu/diary/rss/33104)
   - Confidence: 🟢 HIGH
@@ -56,6 +79,50 @@ tags:
   - _<p>In a previous diary, I talked about stack strings&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5b&#x3b;<a href="https://isc.sans.edu/diary/An&amp;&amp;#x23&#x3b;x26&#x3b;&amp;#x23&#x3b;x2b&#x3b;Example&amp;&amp_
 
 ## ❓ Uncategorized
+
+- [No ping after multiple resets CPTS](https://www.reddit.com/r/hackthebox/comments/1ude44q/no_ping_after_multiple_resets_cpts/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey. Does anyone have a solution to this issue- while ffufing the server went offline so i resetted many times, changed servers, still unable to receive a ping back. _
+
+- [Help me to solve a steg](https://www.reddit.com/r/hackthebox/comments/1udin7q/help_me_to_solve_a_steg/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1udin7q/help_me_to_solve_a_steg/"> <img alt="Help me to solve a steg" src="https://preview.redd.it/ezjmwk1bl19h1.jpeg?width=640&a_
+
+- [Which One First: CJCA or CPTS?](https://www.reddit.com/r/hackthebox/comments/1udqj8n/which_one_first_cjca_or_cpts/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey all, I'm looking for some &quot;wisdom of the crowds&quot;. I am a HTB Academy Silver Plan student, so I have a voucher for the CJCA and another cert. I have comp_
+
+- [Nimbus on Hack The Box !](https://www.reddit.com/r/hackthebox/comments/1udi6kd/nimbus_on_hack_the_box/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1udi6kd/nimbus_on_hack_the_box/"> <img alt="Nimbus on Hack The Box !" src="https://preview.redd.it/a1ge59e3i19h1.png?width=640&am_
+
+- [CDSA](https://www.reddit.com/r/hackthebox/comments/1ue7vwg/cdsa/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Just finished and uploaded the exam report ... how long it will take until I get results ? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.red_
+
+- [I am genuinely losing my mind over Flag 6 (CPTS)](https://www.reddit.com/r/hackthebox/comments/1udzy6l/i_am_genuinely_losing_my_mind_over_flag_6_cpts/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I honestly never felt so bad about myself. I've been stuck on this one flag for the past two days and I am just hitting a wall. I have gone through the modules two ti_
+
+- [Strategies for cross forest attacks](https://www.reddit.com/r/hackthebox/comments/1uec7gj/strategies_for_cross_forest_attacks/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I'm currently on the Cross-Forest Trust Abuse section of the Active Directory Enumeration &amp; Attacks module, and was wondering whether the following attack would w_
+
+- [Do you guys use any fixed checklist or methdology?](https://www.reddit.com/r/hackthebox/comments/1uee7hy/do_you_guys_use_any_fixed_checklist_or_methdology/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>when solving HTB/THM/CTF boxes, do you guys follow a fixed checklist or methodology, or do you just take notes freely?</p> <p>If you use a checklist, what sections do_
+
+- [Want to join a team for CTFs !!!~](https://www.reddit.com/r/hackthebox/comments/1uempzm/want_to_join_a_team_for_ctfs/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>so, i'm looking for a htb team for CTF events, Ive some basic knowledge about red team tools, I want to learn more about these stuff so deciding to head for CTF, but _
+
+- [Do some labs not have an option for VPN, or am I doing something wrong?](https://www.reddit.com/r/hackthebox/comments/1ueswl3/do_some_labs_not_have_an_option_for_vpn_or_am_i/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1ueswl3/do_some_labs_not_have_an_option_for_vpn_or_am_i/"> <img alt="Do some labs not have an option for VPN, or am I doing somet_
+
+- [Creds Hunting Script](https://www.reddit.com/r/hackthebox/comments/1uf3eao/creds_hunting_script/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey folks , recently I went through OSCP and CPTS exam and passed both successfully.</p> <p>However , I wanted to share a very helpful script that saved me tons of ti_
 
 - [Cybersecurity project for college](https://www.reddit.com/r/netsecstudents/comments/1ud5niu/cybersecurity_project_for_college/)
   - Confidence: 🟫 LOW
