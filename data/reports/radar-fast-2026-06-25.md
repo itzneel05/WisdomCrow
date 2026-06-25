@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-25
-date: 2026-06-25T14:29:29Z
+date: 2026-06-25T19:57:57Z
 type: radar-report
 report_type: fast
-total_opportunities: 125
+total_opportunities: 124
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 125
+**Total opportunities:** 124
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 115 |
+| ❓ Uncategorized | 114 |
 | 🏰 CTF Competitions | 6 |
 | 🎓 Free Certifications | 4 |
 
@@ -76,6 +76,38 @@ tags:
   - _<p>CVE-2026-20230, a server-side request forgery (SSRF) vulnerability affecting Cisco&#8217;s Unified Communications Manager (Unified CM), is being exploited to drop webshells and achieve remote code _
 
 ## ❓ Uncategorized
+
+- [Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability](https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html)
+  - Confidence: 🟫 LOW
+  - _An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code.  According to Island, the extension, named Adblock for YouTube (ID_
+
+- [Exclusion Auditor — open-source, read-only tool to find risky NGAV exclusions (CrowdStrike-first, vendor-agnostic)](https://www.reddit.com/r/blueteamsec/comments/1uf8r08/exclusion_auditor_opensource_readonly_tool_to/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Built this to solve an ops problem I kept hitting: people rarely audit NGAV exclusions,</p> <p>and they pile up into ungoverned blind spots (T1562.001). It's a free, _
+
+- [codfish/semantic-release-action GitHub Action has been compromised - StepSecurity](https://www.reddit.com/r/blueteamsec/comments/1ufgs5a/codfishsemanticreleaseaction_github_action_has/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.stepsecurity.io/blog/supply-chain-compromise-codfish-semantic-release-action">_
+
+- [Bluekit phishing kit adopts browser-in-the-middle for login theft](https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/)
+  - Confidence: 🟫 LOW
+  - _The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week and by adding browser-in-the-middle capabilities for improved data theft. [..._
+
+- [PirloTV sports piracy network disrupted as 44 domains seized](https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/)
+  - Confidence: 🟫 LOW
+  - _A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains. [...]_
+
+- [New macOS malware embeds fake errors to confuse AI analysis tools](https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/)
+  - Confidence: 🟫 LOW
+  - _A newly discovered macOS malware dubbed "Gaslight" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]_
+
+- [Microsoft quietly extends free Windows 10 ESU support to October 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has quietly extended its free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devices to continue receiving security updates until O_
+
+- [Order-tracking app Shop abused to push callback phishing attacks](https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/)
+  - Confidence: 🟫 LOW
+  - _Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing r_
 
 - [New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns](https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html)
   - Confidence: 🟫 LOW
@@ -500,39 +532,3 @@ tags:
 - [Do CISOs Need a Code of Ethics?](https://www.darkreading.com/cybersecurity-operations/ciso-code-of-ethics)
   - Confidence: 🟫 LOW
   - _Kickbacks, no-show jobs, &quot;dirty&quot; VCs, and shelf ware — industry expert Robert &quot;RSnake&quot; Hansen explains why he thinks its time for a CISO code of ethics to ensure cybersecurity boss_
-
-- [Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered](https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html)
-  - Confidence: 🟫 LOW
-  - _A coordinated law enforcement operation, in partnership with private sector companies, including Bitdefender, Bitsight, ESET, and Microsoft, has resulted in the takedown of criminal infrastructure pow_
-
-- [CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited](https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilia_
-
-- [A Potential Alignment Vulnerability in LLMs: Behavioral and Hidden-State Evidence from Gemma-3-12B](https://www.reddit.com/r/AskNetsec/comments/1ud4zeq/a_potential_alignment_vulnerability_in_llms/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><h1>The behavioral pattern was first observed in Claude and is what motivated this project. The mechanistic investigation was carried out on open-weight models where int_
-
-- [How to prevent employees from submitting credentials to AI tools like ChatGPT?](https://www.reddit.com/r/AskNetsec/comments/1udf2da/how_to_prevent_employees_from_submitting/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Dev pasted a .env file into ChatGPT three weeks ago. API keys, database connection strings, service account tokens. Found out in standup. Network controls saw nothing_
-
-- [How are people validating mobile app shielding actually works?](https://www.reddit.com/r/AskNetsec/comments/1ue7334/how_are_people_validating_mobile_app_shielding/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Curious how teams are handling this today for Android/iOS apps that use mobile app shielding or RASP.</p> <p>A lot of apps have protections like anti-tampering, root/_
-
-- [Amadey, StealC malware operations disrupted in Operation Endgame action](https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/)
-  - Confidence: 🟫 LOW
-  - _Microsoft, Europol, and international partners have disrupted infrastructure used by the Amadey and StealC malware operations as part of Operation Endgame, which targets cybercriminal services and ran_
-
-- [CISA warns of max severity Ubiquiti flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers. [...]_
-
-- [Dawn of the Apex Agentic Adversary](https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html)
-  - Confidence: 🟫 LOW
-  - _We are standing at the end of an era we never thought to mourn: the era of human-speed threats.  For years, cybersecurity moved to a rhythm organizations could follow. A researcher found a bug, a CVE _
-
-- [Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks](https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains.  The "critical exploitable pattern" ha_
