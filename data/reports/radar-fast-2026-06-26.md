@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-26
-date: 2026-06-26T09:00:57Z
+date: 2026-06-26T14:20:24Z
 type: radar-report
 report_type: fast
-total_opportunities: 96
+total_opportunities: 105
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 96
+**Total opportunities:** 105
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 71 |
-| 💰 Bug Bounties | 19 |
+| ❓ Uncategorized | 79 |
+| 💰 Bug Bounties | 20 |
 | 🏰 CTF Competitions | 3 |
 | 🎓 Free Certifications | 2 |
 | 🔥 Hackathons & Conferences | 1 |
@@ -41,6 +41,11 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>Currently doing a three year computer science bachelors with a major in cybersecurity and I’ve been looking into HackTheBox and TryHackMe for some extra work during m_
 
 ## 💰 Bug Bounties
+
+- [Intigriti Bug Bytes #237 - June 2026 🚀](https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-237-june-2026)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`, `cash_prize`, `india_friendly`
+  - _Hi hackers, Welcome to the latest edition of Bug Bytes! In this month's issue, we are featuring: A 10-year-old pre-auth RCE in phpBB  Earning $500K hacking Google with AI  Reading any Salesforce Marke_
 
 - [FOUND MILLION OF DATA LEAK. need advice on how to get a bounty from a company (listed)](https://www.reddit.com/r/bugbounty/comments/1uekfrc/found_million_of_data_leak_need_advice_on_how_to/)
   - Confidence: 🟢 HIGH
@@ -157,6 +162,38 @@ tags:
   - _<p>The 2026 Industrial Control Systems (ICS) Cybersecurity Conference takes place October 6-8, 2026, at the W Nashville.</p> <p>The post <a href="https://www.securityweek.com/securityweek-ics-cybersec_
 
 ## ❓ Uncategorized
+
+- [Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff](https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html)
+  - Confidence: 🟫 LOW
+  - _Russian authorities used Cellebrite's UFED forensic tools to break into the iPhone of detained opposition activist Andrey Pivovarov in June 2021, three months after Cellebrite said it would stop selli_
+
+- [Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant](https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html)
+  - Confidence: 🟫 LOW
+  - _An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into fr_
+
+- [Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack](https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, _
+
+- [Guardian Agents: The Next Layer of Identity Governance](https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html)
+  - Confidence: 🟫 LOW
+  - _AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to _
+
+- [New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets](https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html)
+  - Confidence: 🟫 LOW
+  - _DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family.&nbsp;JFrog Security Research published a working exploit walkthrough&nbsp;for the flaw on June 25, the first public demon_
+
+- [CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue](https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Dat_
+
+- [New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries](https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html)
+  - Confidence: 🟫 LOW
+  - _A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems.  CVE-2026-46331, nicknamed "pedit COW," is an out-of-bounds write in the packet-_
+
+- [Your First GRC Agent: A Red Teamer's Walkthrough](https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/)
+  - Confidence: 🟫 LOW
+  - _AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and op_
 
 - [Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks](https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html)
   - Confidence: 🟫 LOW
