@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-26
-date: 2026-06-26T14:20:24Z
+date: 2026-06-26T19:48:05Z
 type: radar-report
 report_type: fast
-total_opportunities: 105
+total_opportunities: 73
 tags:
   - radar
   - fast
@@ -13,32 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 105
+**Total opportunities:** 73
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 79 |
+| ❓ Uncategorized | 49 |
 | 💰 Bug Bounties | 20 |
-| 🏰 CTF Competitions | 3 |
-| 🎓 Free Certifications | 2 |
+| 🎓 Free Certifications | 3 |
 | 🔥 Hackathons & Conferences | 1 |
-
-## 🏰 CTF Competitions
-
-- [Supervised Reinforcement Learning for LLMs on CTF Labs](https://www.reddit.com/r/hacking/comments/1ueyuht/supervised_reinforcement_learning_for_llms_on_ctf/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>Follwing up on my recent post [<a href="https://www.reddit.com/r/hacking/comments/1ubdgfy/how_not_to_train_an_offensive_security_ai_agent/">how NOT to train an offens_
-
-- [Built a CTF where the AI is the defender. 300 players tried. 11 beat it](https://www.reddit.com/r/cybersecurity/comments/1ueml3a/built_a_ctf_where_the_ai_is_the_defender_300/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/datthepirate"> /u/datthepirate </a> <br /> <span><a href="https://promptinjects.com/play/starter/usa-intel-portal">[link]</a></span> &#32;_
-
-- [Are HackTheBox & TryHackMe Certificates actually recognised by employers?](https://www.reddit.com/r/cybersecurity/comments/1uf455f/are_hackthebox_tryhackme_certificates_actually/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>Currently doing a three year computer science bachelors with a major in cybersecurity and I’ve been looking into HackTheBox and TryHackMe for some extra work during m_
 
 ## 💰 Bug Bounties
 
@@ -144,6 +126,11 @@ tags:
 
 ## 🎓 Free Certifications
 
+- [CISA sets urgent deadline to fix Cisco flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively _
+
 - [Cisco SD-WAN Zero-Day Exploited Months Before Patching](https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
@@ -162,6 +149,26 @@ tags:
   - _<p>The 2026 Industrial Control Systems (ICS) Cybersecurity Conference takes place October 6-8, 2026, at the W Nashville.</p> <p>The post <a href="https://www.securityweek.com/securityweek-ics-cybersec_
 
 ## ❓ Uncategorized
+
+- [Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs](https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html)
+  - Confidence: 🟫 LOW
+  - _A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and _
+
+- [Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign](https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html)
+  - Confidence: 🟫 LOW
+  - _A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in S_
+
+- [New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks](https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html)
+  - Confidence: 🟫 LOW
+  - _A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromise_
+
+- [Cybersecurity firms targeted by fraudulent OpenAI organization invites](https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/)
+  - Confidence: 🟫 LOW
+  - _Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company inf_
+
+- [Polymarket customers lose $3 million in supply-chain attack](https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/)
+  - Confidence: 🟫 LOW
+  - _Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [._
 
 - [Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff](https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html)
   - Confidence: 🟫 LOW
@@ -338,143 +345,3 @@ tags:
 - [Order-tracking app Shop abused to push callback phishing attacks](https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/)
   - Confidence: 🟫 LOW
   - _Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing r_
-
-- [New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns](https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html)
-  - Confidence: 🟫 LOW
-  - _A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning insurance, education, IT, and professional services _
-
-- [New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis](https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html)
-  - Confidence: 🟫 LOW
-  - _A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools a_
-
-- [Surviving the Mythos Era: Richard Bejtlich on the Case for NDR](https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html)
-  - Confidence: 🟫 LOW
-  - _Despite the abundance of telemetry at analysts’ disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have_
-
-- [ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories](https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html)
-  - Confidence: 🟫 LOW
-  - _It’s dumb out there again.  This week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working, trusted apps doing sketchy crap, browser tricks _
-
-- [I built a LLM capture the flag game - I’d love some feedback](https://www.reddit.com/r/hacking/comments/1udm4dq/i_built_a_llm_capture_the_flag_game_id_love_some/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/datthepirate"> /u/datthepirate </a> <br /> <span><a href="https://promptinjects.com/play/starter/usa-intel-portal">[link]</a></span> &#32;_
-
-- [Klue says hackers stole credential from 2022 that led to customer data breaches](https://www.reddit.com/r/hacking/comments/1udz4gr/klue_says_hackers_stole_credential_from_2022_that/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1udz4gr/klue_says_hackers_stole_credential_from_2022_that/"> <img alt="Klue says hackers stole credential from 2022 that led to cust_
-
-- [Five Eyes intelligence agencies warn that frontier AI could supercharge cyberattacks within months](https://www.reddit.com/r/hacking/comments/1udodxh/five_eyes_intelligence_agencies_warn_that/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1udodxh/five_eyes_intelligence_agencies_warn_that/"> <img alt="Five Eyes intelligence agencies warn that frontier AI could superchar_
-
-- [what should I install?](https://www.reddit.com/r/hacking/comments/1uf3csv/what_should_i_install/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1uf3csv/what_should_i_install/"> <img alt="what should I install?" src="https://preview.redd.it/pkfyfop3ud9h1.jpeg?width=640&amp;cro_
-
-- [Latvia's State Forests = Kaboom, kablaow](https://www.reddit.com/r/hacking/comments/1ued4d8/latvias_state_forests_kaboom_kablaow/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1ued4d8/latvias_state_forests_kaboom_kablaow/"> <img alt="Latvia's State Forests = Kaboom, kablaow" src="https://preview.redd.it/kv2_
-
-- [Well someone went nuclear..](https://www.reddit.com/r/hacking/comments/1uevycg/well_someone_went_nuclear/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1uevycg/well_someone_went_nuclear/"> <img alt="Well someone went nuclear.." src="https://external-preview.redd.it/GVc4RBhrrDZLOMi4WM_
-
-- [Linux on an ipod touch 2g. Be the change you want to see.](https://www.reddit.com/r/hacking/comments/1ueobi6/linux_on_an_ipod_touch_2g_be_the_change_you_want/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1ueobi6/linux_on_an_ipod_touch_2g_be_the_change_you_want/"> <img alt="Linux on an ipod touch 2g. Be the change you want to see." src_
-
-- [What's a security habit most regular people ignore that they should take seriously?](https://www.reddit.com/r/hacking/comments/1uf9gx2/whats_a_security_habit_most_regular_people_ignore/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I feel like a lot of people understand the basic security advice but still skip the parts that actually protect them. They know the rules and just don't follow them.<_
-
-- [Klue OAuth Breach and other SaaS Supply Chain Risks](https://www.reddit.com/r/cybersecurity/comments/1uf14mf/klue_oauth_breach_and_other_saas_supply_chain/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Just putting out feelers if any secops teams have had to deal with breaches from OAuth attack vectors?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="http_
-
-- [codfish/semantic-release-action GitHub Action Tag Hijack](https://www.reddit.com/r/cybersecurity/comments/1uevhoj/codfishsemanticreleaseaction_github_action_tag/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>An attacker force-pushed a malicious composite action into codfish/semantic-release-action and moved fifteen published tags to that commit, exposing GitHub Actions ru_
-
-- [Bitwarden C2](https://www.reddit.com/r/cybersecurity/comments/1uekviy/bitwarden_c2/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1uekviy/bitwarden_c2/"> <img alt="Bitwarden C2" src="https://external-preview.redd.it/XqbYwd3eYT2fIav8PhbMTSOu2oaUWRJlxONRivwL_
-
-- [Has anyone got the invite for the COMPTIA SecOT+ Beta version?](https://www.reddit.com/r/cybersecurity/comments/1uf3gv8/has_anyone_got_the_invite_for_the_comptia_secot/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I have completed the qualification assessment 3 weeks back. Did not hear anything from them.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.re_
-
-- [Red teaming an LLM feels nothing like red teaming a network](https://www.reddit.com/r/cybersecurity/comments/1ueom25/red_teaming_an_llm_feels_nothing_like_red_teaming/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Network pentest you know what you're attacking. With an LLM half the job is just figuring out what &quot;broken&quot; even looks like since the model can be jailbroke_
-
-- [Has anyone been a SentinelOne Control or CrowdStrike Falcon Complete customer that did or did not receive payout from the warranty?](https://www.reddit.com/r/cybersecurity/comments/1uedyl5/has_anyone_been_a_sentinelone_control_or/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I'm going through EDR vendors and evaluating platforms in the event things need to change with my current vendor. I've grilled some vendors some specific vendors on n_
-
-- [Anyone actually running autonomous / AI pentesting in their SDLC? Looking for real-world experience](https://www.reddit.com/r/cybersecurity/comments/1uf0s0m/anyone_actually_running_autonomous_ai_pentesting/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I help run engineering at a software company and we're weighing whether to add autonomous (AI-driven) pentesting <em>alongside</em> our existing SAST/DAST/SCA, instea_
-
-- [TABPE: A monthly Windows PE baseline dataset for Cyber security researchers](https://www.reddit.com/r/cybersecurity/comments/1uf78mh/tabpe_a_monthly_windows_pe_baseline_dataset_for/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/seyyid_"> /u/seyyid_ </a> <br /> <span><a href="https://github.com/onhexgroup/TABPE/">[link]</a></span> &#32; <span><a href="https://www.r_
-
-- [Protection from Authorized Users](https://www.reddit.com/r/cybersecurity/comments/1ueml00/protection_from_authorized_users/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Looking for some advice.....</p> <p>I'm in the spot of having a Sr VP demand that we prevent data exfiltration from authorized users. The problem is that this isn't t_
-
-- [Mapped 3,900+ C2 servers across 302 Eastern European hosting providers, one host ran half](https://www.reddit.com/r/cybersecurity/comments/1uejit6/mapped_3900_c2_servers_across_302_eastern/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1uejit6/mapped_3900_c2_servers_across_302_eastern/"> <img alt="Mapped 3,900+ C2 servers across 302 Eastern European hosting pr_
-
-- [What's the most underrated cybersecurity control right now?](https://www.reddit.com/r/cybersecurity/comments/1uedhjb/whats_the_most_underrated_cybersecurity_control/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I might go with access reviews.</p> <p>It's one of those controls that feels boring until you find an account that should've been removed six months ago</p> </div><!-_
-
-- [Distributed firewalls as a substitute for network segmentation?](https://www.reddit.com/r/cybersecurity/comments/1ufbd7y/distributed_firewalls_as_a_substitute_for_network/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I am reviewing cyber controls for a financially services company which uses VMware distributed firewalls on its VMs. </p> <p>They have a sensitive system hosted in a _
-
-- [Fine-tuning an LLM for CyberSecurity](https://www.reddit.com/r/cybersecurity/comments/1uf6blk/finetuning_an_llm_for_cybersecurity/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I'm fine-tuning an LLM for CyberSecurity, for this I'm looking for datasets.. Does anyone have any ideas regarding this... Please help out 🙏🏼</p> </div><!-- SC_ON -->_
-
-- [macOS Gaslight Backdoor Weaponizes Prompt Injection Against Security Analysts](https://www.reddit.com/r/cybersecurity/comments/1uedcrf/macos_gaslight_backdoor_weaponizes_prompt/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1uedcrf/macos_gaslight_backdoor_weaponizes_prompt/"> <img alt="macOS Gaslight Backdoor Weaponizes Prompt Injection Against Sec_
-
-- [QR code phishing is becoming a real brand risk - how are you protecting your customers?](https://www.reddit.com/r/cybersecurity/comments/1uf0vex/qr_code_phishing_is_becoming_a_real_brand_risk/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Went down the quishing rabbit hole after a couple of incident reports in our sector flagged QR-based credential harvesting, and now I'm auditing our own QR usage to f_
-
-- [CISA warns of max severity Ubiquiti flaws exploited in attacks](https://www.reddit.com/r/cybersecurity/comments/1uehi5z/cisa_warns_of_max_severity_ubiquiti_flaws/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1uehi5z/cisa_warns_of_max_severity_ubiquiti_flaws/"> <img alt="CISA warns of max severity Ubiquiti flaws exploited in attacks"_
-
-- [15 Malicious JetBrains Plugins Stole AI API Keys from 70,000 Developers](https://www.reddit.com/r/cybersecurity/comments/1uey894/15_malicious_jetbrains_plugins_stole_ai_api_keys/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/halting_problems"> /u/halting_problems </a> <br /> <span><a href="https://haltingproblems.com/analysis/jetbrains-malicious-plugins-ai-api-_
-
-- [Microsoft: 2 ransomware groups hit SharePoint in parallel attacks](https://www.reddit.com/r/cybersecurity/comments/1uf91a5/microsoft_2_ransomware_groups_hit_sharepoint_in/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>A Microsoft investigation into a ransomware case found that 2 different attackers operated simultaneously, demonstrating that modern attacks are not always isolated e_
-
-- [Do businesses actually care about cybersecurity?](https://www.reddit.com/r/cybersecurity/comments/1ufava5/do_businesses_actually_care_about_cybersecurity/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I have been around cybersecurity across the last 10 years and it is clear that businesses don’t really care about cybersecurity.</p> <p>It seems like you have to be i_
-
-- [Well someone went nuclear..](https://www.reddit.com/r/cybersecurity/comments/1uehcps/well_someone_went_nuclear/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1uehcps/well_someone_went_nuclear/"> <img alt="Well someone went nuclear.." src="https://external-preview.redd.it/GVc4RBhrrDZL_
-
-- [Snyk laid off up to 30% of their staff today](https://www.reddit.com/r/cybersecurity/comments/1uev09q/snyk_laid_off_up_to_30_of_their_staff_today/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Ex employee here and I’m hearing up to 30% of Snyk’s team was let go. All teams impacted. Leadership says it’s to pivot to AI security. This comes a day after their b_
-
-- [Webinar: Why account takeovers remain one of the hardest threats to stop](https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/)
-  - Confidence: 🟫 LOW
-  - _Account takeover attacks continue to challenge security teams because attackers often operate through legitimate accounts and trusted services. This webinar explores how behavioral AI can help organiz_
-
-- [The Four Elevations of Effective Fraud Prevention](https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/)
-  - Confidence: 🟫 LOW
-  - _Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems. IPQS explains the four elevations of fraud prevention and why broader visibility improves fraud de_
