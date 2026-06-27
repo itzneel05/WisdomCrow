@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-27
-date: 2026-06-27T13:28:14Z
+date: 2026-06-27T19:17:46Z
 type: radar-report
 report_type: fast
-total_opportunities: 51
+total_opportunities: 45
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 51
+**Total opportunities:** 45
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 44 |
+| ❓ Uncategorized | 38 |
 | 🎓 Free Certifications | 3 |
-| 💰 Bug Bounties | 2 |
-| 🏰 CTF Competitions | 1 |
+| 🏰 CTF Competitions | 2 |
+| 💰 Bug Bounties | 1 |
 | 📦 Open Source Tools | 1 |
 
 ## 🏰 CTF Competitions
@@ -30,12 +30,12 @@ tags:
   - Tags: `ctf`
   - _开源逆向工程实验环境，由于在这个工作区使用的AI本身有越狱倾向，所以请自觉在授权环境下使用😊_
 
-## 💰 Bug Bounties
+- [Exploiting insecure cookie policies](https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-insecure-cookie-policies)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _Cookies are one of the most fundamental building blocks of the modern web, and yet they are often overlooked from a security perspective. When misconfigured, they can potentially lead to exposure of s_
 
-- [Intigriti Bug Bytes #237 - June 2026 🚀](https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-237-june-2026)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `cash_prize`, `india_friendly`
-  - _Hi hackers, Welcome to the latest edition of Bug Bytes! In this month's issue, we are featuring: A 10-year-old pre-auth RCE in phpBB  Earning $500K hacking Google with AI  Reading any Salesforce Marke_
+## 💰 Bug Bounties
 
 - [Proof’s x401 establishes an open protocol for AI agent identity and authorization](https://www.helpnetsecurity.com/2026/06/26/proofs-x401-establishes-an-open-protocol-for-ai-agent-identity-and-authorization/)
   - Confidence: 🟡 MEDIUM
@@ -67,6 +67,14 @@ tags:
   - _<h2>Help shape the future of Metasploit Framework</h2><p>We are planning future work in relation to the evasion capabilities present in Metasploit Framework, and how they function/are presented to use_
 
 ## ❓ Uncategorized
+
+- [Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials](https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html)
+  - Confidence: 🟫 LOW
+  - _The Security Service of Ukraine (SSU) said it, together with the U.S. Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchestrated by Russian intelligence services to break in_
+
+- [Clean GitHub repo tricks AI coding agents into running malware](https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/)
+  - Confidence: 🟫 LOW
+  - _An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human revie_
 
 - [OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards](https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html)
   - Confidence: 🟫 LOW
@@ -211,35 +219,3 @@ tags:
 - [Polymarket customers lose $3 million in supply-chain attack](https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/)
   - Confidence: 🟫 LOW
   - _Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [._
-
-- [Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff](https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html)
-  - Confidence: 🟫 LOW
-  - _Russian authorities used Cellebrite's UFED forensic tools to break into the iPhone of detained opposition activist Andrey Pivovarov in June 2021, three months after Cellebrite said it would stop selli_
-
-- [Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant](https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html)
-  - Confidence: 🟫 LOW
-  - _An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into fr_
-
-- [Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack](https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, _
-
-- [Guardian Agents: The Next Layer of Identity Governance](https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html)
-  - Confidence: 🟫 LOW
-  - _AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to _
-
-- [New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets](https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html)
-  - Confidence: 🟫 LOW
-  - _DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family.&nbsp;JFrog Security Research published a working exploit walkthrough&nbsp;for the flaw on June 25, the first public demon_
-
-- [CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue](https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Dat_
-
-- [New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries](https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html)
-  - Confidence: 🟫 LOW
-  - _A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems.  CVE-2026-46331, nicknamed "pedit COW," is an out-of-bounds write in the packet-_
-
-- [Your First GRC Agent: A Red Teamer's Walkthrough](https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/)
-  - Confidence: 🟫 LOW
-  - _AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and op_
