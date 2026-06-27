@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-27
-date: 2026-06-27T08:34:01Z
+date: 2026-06-27T13:28:14Z
 type: radar-report
 report_type: fast
-total_opportunities: 54
+total_opportunities: 51
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 54
+**Total opportunities:** 51
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 47 |
+| ❓ Uncategorized | 44 |
 | 🎓 Free Certifications | 3 |
 | 💰 Bug Bounties | 2 |
 | 🏰 CTF Competitions | 1 |
@@ -67,6 +67,10 @@ tags:
   - _<h2>Help shape the future of Metasploit Framework</h2><p>We are planning future work in relation to the evasion capabilities present in Metasploit Framework, and how they function/are presented to use_
 
 ## ❓ Uncategorized
+
+- [OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards](https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html)
+  - Confidence: 🟫 LOW
+  - _OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to a small number of companies as part of an ongoing engagement with the U.S. government.  While _
 
 - [FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys](https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html)
   - Confidence: 🟫 LOW
@@ -239,19 +243,3 @@ tags:
 - [Your First GRC Agent: A Red Teamer's Walkthrough](https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/)
   - Confidence: 🟫 LOW
   - _AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and op_
-
-- [Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks](https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html)
-  - Confidence: 🟫 LOW
-  - _The Russian state-sponsored threat actor known as Turla has been attributed to a previously undocumented .NET backdoor called STOCKSTAY that has been deployed against government and military organizat_
-
-- [Cannot reverse shell any PG machine](https://www.reddit.com/r/oscp/comments/1uegcxn/cannot_reverse_shell_any_pg_machine/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello everyone, I have the weirdest problem where I cannot reverse shell any machine anymore. I'm pretty sure it is network or firewall issue.</p> <p>Anyone can help _
-
-- [Whats the best way to practice and learn emuneration?](https://www.reddit.com/r/oscp/comments/1ueiev5/whats_the_best_way_to_practice_and_learn/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I always have trouble with it ill display information like from nmap and get stuck</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/u_
-
-- [PG Practice without HTB](https://www.reddit.com/r/oscp/comments/1ueh40e/pg_practice_without_htb/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello guys,</p> <p>I dont have so much time so, is it enough to solve only PG Practice without HTB machines .. do this allow me to pass ?</p> <p>Thank in advance 🙏</p_
