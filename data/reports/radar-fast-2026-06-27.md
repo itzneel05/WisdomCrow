@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-27
-date: 2026-06-27T02:51:25Z
+date: 2026-06-27T08:34:01Z
 type: radar-report
 report_type: fast
-total_opportunities: 75
+total_opportunities: 54
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 75
+**Total opportunities:** 54
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 49 |
-| 💰 Bug Bounties | 21 |
+| ❓ Uncategorized | 47 |
 | 🎓 Free Certifications | 3 |
+| 💰 Bug Bounties | 2 |
 | 🏰 CTF Competitions | 1 |
 | 📦 Open Source Tools | 1 |
 
@@ -36,101 +36,6 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `bug_bounty`, `cash_prize`, `india_friendly`
   - _Hi hackers, Welcome to the latest edition of Bug Bytes! In this month's issue, we are featuring: A 10-year-old pre-auth RCE in phpBB  Earning $500K hacking Google with AI  Reading any Salesforce Marke_
-
-- [FOUND MILLION OF DATA LEAK. need advice on how to get a bounty from a company (listed)](https://www.reddit.com/r/bugbounty/comments/1uekfrc/found_million_of_data_leak_need_advice_on_how_to/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>Hi guys as my title says , i have found P1 vulnerabilities in a listed company, i reported them some critical vulnerabilities before but they didnt even thanked me, t_
-
-- [Silent remediation 🙂](https://www.reddit.com/r/bugbounty/comments/1ueb2yt/silent_remediation/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>I reported a xss on a program through intrgiri and they closed by saying its self xss but when i tried again its not working and it have been fixed from their side wh_
-
-- [The PoC is not working for the triager](https://www.reddit.com/r/bugbounty/comments/1ueeb04/the_poc_is_not_working_for_the_triager/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>I found a bug on a program in bugcrowd.</p> <p>In The the step to reproduce i need to login with a credentials and generate a Bearer token to use it and access to a u_
-
-- [My 1st Report on H1 and they made it informative😭](https://www.reddit.com/r/bugbounty/comments/1ue7sgw/my_1st_report_on_h1_and_they_made_it_informative/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>Need some opinions from fellow hunters.</p> <p>I reported a session management issue where an authenticated session remained usable for some time(&gt;30 mins) even af_
-
-- [Vulnerability reports are not special anymore](https://www.reddit.com/r/bugbounty/comments/1ue6ldt/vulnerability_reports_are_not_special_anymore/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/bugbounty/comments/1ue6ldt/vulnerability_reports_are_not_special_anymore/"> <img alt="Vulnerability reports are not special anymore" src="https://ext_
-
-- [Hakluke: Are bug bounties cooked?](https://www.reddit.com/r/bugbounty/comments/1ue4er1/hakluke_are_bug_bounties_cooked/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>I waited a while to express my opinions on this because I'm worried about the backlash on some of the points, but here it is anyway.</p> <p><a href="https://hakluke.c_
-
-- [Malicious File Upload](https://www.reddit.com/r/bugbounty/comments/1uenbnt/malicious_file_upload/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>yo, found a way to bypass the filter an application enforces for file types through magic bytes, in a chat conversation, the only caveat is that it has to be download_
-
-- [Trying to figure out what kind of vulnerability testing actually fits me](https://www.reddit.com/r/bugbounty/comments/1uepae4/trying_to_figure_out_what_kind_of_vulnerability/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>I am an aspiring bug bounty hunter, or at least that is what I am trying to become.</p> <p>I come from a full-stack development background, so I am not completely new_
-
-- [Hackerone or bugcrowd?](https://www.reddit.com/r/bugbounty/comments/1uei5fs/hackerone_or_bugcrowd/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>I had started bug hunting recently i landed 2 p1’s and p5 on a program on bugcrowd and informational on hackerone. Bugcrowd triagers not taking care of a lot of detai_
-
-- [MITRE CVE issue timeframe](https://www.reddit.com/r/bugbounty/comments/1uf2xvu/mitre_cve_issue_timeframe/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Hey all, </p> <p>What is the current average response time from MITRE for a CVE-ID submission request from their web request? </p> <p>I submitted one about 8 weeks ag_
-
-- [Is this an account takeover or just an account lifecycle logic bug?](https://www.reddit.com/r/bugbounty/comments/1uf38em/is_this_an_account_takeover_or_just_an_account/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>I'm evaluating an authentication flow and wanted to get some opinions on whether this would be considered a security vulnerability or just a logic flaw.</p> <p>Scenar_
-
-- [Is there a reward for making a virus?](https://www.reddit.com/r/bugbounty/comments/1ufj9f8/is_there_a_reward_for_making_a_virus/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Hello, I really have no experience in bug bounty, I only know the basics in the field of security and programming.</p> <p>My question is, is there a program for disco_
-
-- [Exploiting web cache poisoning vulnerabilities​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌‍‌​‌‍​‌‌﻿‌​‌‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌‍​﻿‌‍﻿﻿‌‍﻿‌​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‍‌‌‍‌﻿‌﻿​‍‌‍‍‌‌﻿‌​‌‍‍‌​‍﻿‍‌‍​‌‌‍‌​‌‍﻿‌‌‍‍‌‌‍﻿‍​‍﻿‍‌‍‌​‌‍​‌‌﻿‌​‌‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿](https://www.reddit.com/r/bugbounty/comments/1uf5ujp/exploiting_web_cache_poisoning_vulnerabilities/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/bugbounty/comments/1uf5ujp/exploiting_web_cache_poisoning_vulnerabilities/"> <img alt="Exploiting web cache poisoning vulnerabilities​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿_
-
-- [Bypassed upload validation via PDF/SVG polyglot, but file is served as PDF (Corrupted). Any realistic impact here?](https://www.reddit.com/r/bugbounty/comments/1ufb1r4/bypassed_upload_validation_via_pdfsvg_polyglot/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>I’m testing a file upload endpoint and managed to bypass a server-side MIME-type filter, but I'm struggling to find a realistic impact and wanted to see if I’m missin_
-
-- [What do you all do for your day job?](https://www.reddit.com/r/bugbounty/comments/1ufbd1w/what_do_you_all_do_for_your_day_job/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>Is this community mostly cybersec or IT professionals that also do bug bounties? Or red teamers that do this on the side? </p> </div><!-- SC_ON --> &#32; submitted by_
-
-- [API Rest - No Rate limit + OTP Expired](https://www.reddit.com/r/bugbounty/comments/1uflhz7/api_rest_no_rate_limit_otp_expired/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>Hey guys!</p> <p>I was hunting for authentication bugs and I found a login where you can login just with your email receiving and OTP token in your email. Also, recov_
-
-- [What do you tell to the new comers?](https://www.reddit.com/r/bugbounty/comments/1ufs228/what_do_you_tell_to_the_new_comers/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>If you met someone with no experience in IT field and willing to become bug bounty hunter someday what do you tell them? </p> </div><!-- SC_ON --> &#32; submitted by _
-
-- [After months of tutorial hell and wasted effort, I finally found the holy grail for bug bounty beginners.](https://www.reddit.com/r/bugbounty/comments/1uf1ks8/after_months_of_tutorial_hell_and_wasted_effort_i/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/bugbounty/comments/1uf1ks8/after_months_of_tutorial_hell_and_wasted_effort_i/"> <img alt="After months of tutorial hell and wasted effort, I finally _
-
-- [Weekly Beginner / Newbie Q&A](https://www.reddit.com/r/bugbounty/comments/1ufci9j/weekly_beginner_newbie_qa/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>New to bug bounty? Ask about roadmaps, resources, certifications, getting started, or any beginner-level questions here!</p> <p><strong>Recommendations for Posting:</_
 
 - [Proof’s x401 establishes an open protocol for AI agent identity and authorization](https://www.helpnetsecurity.com/2026/06/26/proofs-x401-establishes-an-open-protocol-for-ai-agent-identity-and-authorization/)
   - Confidence: 🟡 MEDIUM
@@ -350,11 +255,3 @@ tags:
 - [PG Practice without HTB](https://www.reddit.com/r/oscp/comments/1ueh40e/pg_practice_without_htb/)
   - Confidence: 🟫 LOW
   - _<!-- SC_OFF --><div class="md"><p>Hello guys,</p> <p>I dont have so much time so, is it enough to solve only PG Practice without HTB machines .. do this allow me to pass ?</p> <p>Thank in advance 🙏</p_
-
-- [Poland busts SIM-swapping gang tied to millions in crypto theft](https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/)
-  - Confidence: 🟫 LOW
-  - _Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email accounts to carry out SIM-swapping attacks. [...]_
-
-- [Anthropic is testing desktop-like Claude Cowork for mobile](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/)
-  - Confidence: 🟫 LOW
-  - _Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage long-running Claude tasks from your phone. [...]_
