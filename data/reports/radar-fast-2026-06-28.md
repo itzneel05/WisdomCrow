@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-28
-date: 2026-06-28T13:43:14Z
+date: 2026-06-28T19:15:59Z
 type: radar-report
 report_type: fast
-total_opportunities: 45
+total_opportunities: 46
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 45
+**Total opportunities:** 46
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 34 |
+| ❓ Uncategorized | 35 |
 | 🏰 CTF Competitions | 9 |
 | 🎮 Arcade & Gamified Events | 1 |
 | 💰 Bug Bounties | 1 |
@@ -84,6 +84,10 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>Hi everyone! We are putting together a team for Cyber Apocalypse 2026 and we want you to join us!</p> <p>Your HTB rank doesn't really matter, but if you have one, tha_
 
 ## ❓ Uncategorized
+
+- [Data breach exposes up to 14.2 million email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/)
+  - Confidence: 🟫 LOW
+  - _Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the _
 
 - [I just completed SOC L1 Alert Triage room on TryHackMe! Learn more about SOC alerts and build a systematic approach to efficiently triaging them.](https://www.reddit.com/r/tryhackme/comments/1ugfods/i_just_completed_soc_l1_alert_triage_room_on/)
   - Confidence: 🟫 LOW
