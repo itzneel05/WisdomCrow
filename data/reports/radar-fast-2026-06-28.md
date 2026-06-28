@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-28
-date: 2026-06-28T03:33:01Z
+date: 2026-06-28T08:48:59Z
 type: radar-report
 report_type: fast
-total_opportunities: 11
+total_opportunities: 12
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 11
+**Total opportunities:** 12
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 7 |
+| ❓ Uncategorized | 8 |
 | 🏰 CTF Competitions | 3 |
 | 💰 Bug Bounties | 1 |
 
@@ -46,6 +46,10 @@ tags:
   - _144 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets across 45+ sectors. Updated with web enum, email sec, google dorks, cloud IAM, WordPress full compromi_
 
 ## ❓ Uncategorized
+
+- [YARA-X 1.18.0 and 1.19.0 Release, (Sun, Jun 28th)](https://isc.sans.edu/diary/rss/33106)
+  - Confidence: 🟫 LOW
+  - _<p><a href="https://github.com/VirusTotal/yara-x/releases/tag/v1.18.0">YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.18.0</a> release brings 3 improvements and 2 bugfixes.</p>&#xd;_
 
 - [Chinese Framework Powers 200,000 Scam Sites](https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/)
   - Confidence: 🟫 LOW
