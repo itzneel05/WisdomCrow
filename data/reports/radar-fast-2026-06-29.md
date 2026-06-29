@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-29
-date: 2026-06-29T10:53:22Z
+date: 2026-06-29T15:43:13Z
 type: radar-report
 report_type: fast
-total_opportunities: 64
+total_opportunities: 46
 tags:
   - radar
   - fast
@@ -13,47 +13,21 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 64
+**Total opportunities:** 46
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 31 |
 | 🎓 Free Certifications | 25 |
-| 🏰 CTF Competitions | 6 |
-| 🎮 Arcade & Gamified Events | 1 |
-| 💰 Bug Bounties | 1 |
+| ❓ Uncategorized | 18 |
+| 💰 Bug Bounties | 2 |
+| 🏰 CTF Competitions | 1 |
 
 ## 🏰 CTF Competitions
 
-- [Built a small CLI to manage HTB/CTF target variables](https://www.reddit.com/r/hackthebox/comments/1ugxan0/built_a_small_cli_to_manage_htbctf_target/)
+- [CTF challenge is impenetrable](https://www.reddit.com/r/AskNetsec/comments/1uihya6/ctf_challenge_is_impenetrable/)
   - Confidence: 🟢 HIGH
   - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>I've been doing a lot of Hack The Box and Proving Grounds recently, and one thing that kept annoying me was managing all the little pieces of context for each machine_
-
-- [I just completed Walking An Application room on TryHackMe! Manually review a web application for security issues using only your browser's developer tools.](https://www.reddit.com/r/tryhackme/comments/1uh44xn/i_just_completed_walking_an_application_room_on/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/DueContribution3701"> /u/DueContribution3701 </a> <br /> <span><a href="https://tryhackme.com/room/walkinganapp?utm_campaign=social_share&_
-
-- [I built Plethora: An open-source, local-first Second Brain that auto-syncs with your Hack The Box progress](https://www.reddit.com/r/hackthebox/comments/1ugbb9q/i_built_plethora_an_opensource_localfirst_second/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone!</p> <p>I've always struggled with keeping my HTB notes organized. Copy-pasting machine IPs, tracking what I've rooted, and organizing my write-ups manua_
-
-- [CPTS Help](https://www.reddit.com/r/hackthebox/comments/1ugi3hm/cpts_help/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>Hey guys,</p> <p>So, I am 90% in the CPTS path and before reaching this percantage, i was feeling very confident about the exam as I practice a lot on htb labs, ive s_
-
-- [Ghostlink on Hack The Box !](https://www.reddit.com/r/hackthebox/comments/1uhfo0n/ghostlink_on_hack_the_box/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1uhfo0n/ghostlink_on_hack_the_box/"> <img alt="Ghostlink on Hack The Box !" src="https://preview.redd.it/wo7ygq51hw9h1.png?width=_
-
-- [CWES progress](https://www.reddit.com/r/hackthebox/comments/1uhx8n4/cwes_progress/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>I just submitted my CWES report two days ago, But asking my friend I founded he solved 3 challenges with another wat than me different exploitation and approaches, I _
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I'm currently working on a CTF challenge from SecDojo and I'm a bit stuck.</p> <p>The setup is:</p> <p>- I have access to one machine</p> <p>- Th_
 
 ## 💰 Bug Bounties
 
@@ -61,6 +35,11 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `bug_bounty`
   - _Over the last few weeks, we’ve explored what AI is changing in security: discovery is faster (Vulnpocalypse now?), volume is higher (Common AI misconceptions debugged!), and the human layer triage (Th_
+
+- [How would you classify these LLM behaviors under the OWASP LLM Top 10: security vulnerabilities or robustness issues?](https://www.reddit.com/r/AskNetsec/comments/1uih3lr/how_would_you_classify_these_llm_behaviors_under/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>I'm looking for technical opinions from people working in application security and AI security.</p> <p>I recently performed a black-box assessment of an LLM API and o_
 
 ## 🎓 Free Certifications
 
@@ -189,14 +168,63 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Encrypted DNS still tells an eavesdropper where to look Encrypted DNS runs across much of the Inter_
 
-## 🎮 Arcade & Gamified Events
-
-- [We are looking for new members for Cyber Apocalypse 2026!](https://www.reddit.com/r/hackthebox/comments/1uh5h9z/we_are_looking_for_new_members_for_cyber/)
-  - Confidence: 🟢 HIGH
-  - Tags: `arcade`, `badge`, `swag`, `tshirt`, `hoodie`
-  - _<!-- SC_OFF --><div class="md"><p>Hi everyone! We are putting together a team for Cyber Apocalypse 2026 and we want you to join us!</p> <p>Your HTB rank doesn't really matter, but if you have one, tha_
-
 ## ❓ Uncategorized
+
+- [Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse](https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html)
+  - Confidence: 🟫 LOW
+  - _A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025.  Slovakian cybersecurity_
+
+- [Why Post-Quantum Cryptography Starts With Credentials](https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html)
+  - Confidence: 🟫 LOW
+  - _Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no mac_
+
+- [236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers](https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html)
+  - Confidence: 🟫 LOW
+  - _New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framewo_
+
+- [⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More](https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html)
+  - Confidence: 🟫 LOW
+  - _This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open.  The noise is not all noise, either. For_
+
+- [Adding some Automation to the favicon.ico method of Host Recon, (Mon, Jun 29th)](https://isc.sans.edu/diary/rss/33110)
+  - Confidence: 🟫 LOW
+  - _<p>I&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;m in the throes of target host recon for another pentest, and thought I&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;d share some workflow / automation stuff.<br _
+
+- [Has anyone tried AI for phishing simulations?](https://www.reddit.com/r/AskNetsec/comments/1ui30f3/has_anyone_tried_ai_for_phishing_simulations/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>People at the org have basically figured out our simulation emails and before you say that is a good thing they are not security aware, they just know what our test e_
+
+- [Anyone else noticing security vendors quietly shifting from “network” language to “identity” language?](https://www.reddit.com/r/AskNetsec/comments/1uiu4t3/anyone_else_noticing_security_vendors_quietly/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Been sitting through a bunch of architecture reviews lately and it hit me that almost nobody talks about “the perimeter” anymore. Every pitch is about identity contex_
+
+- [How do you analyze iOS malware?](https://www.reddit.com/r/AskNetsec/comments/1uirc98/how_do_you_analyze_ios_malware/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Compared to Windows or Android, iOS malware rarely comes up in my work, but I still want to be prepared for it. I've never really worked with iOS samples before, so I_
+
+- [US seizes hundreds of FIFA World Cup illegal streaming domains](https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]_
+
+- [Webinar: Why business email compromise attacks keep succeeding](https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/)
+  - Confidence: 🟫 LOW
+  - _Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores ho_
+
+- [Hackers now exploit critical Oracle E-Business flaw in attacks](https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]_
+
+- [Critical SimpleHelp flaw exploited to deploy new stealer malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/)
+  - Confidence: 🟫 LOW
+  - _Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Window_
+
+- [Agentic AI Has an Identity Problem and Attackers Know It](https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/)
+  - Confidence: 🟫 LOW
+  - _AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security_
+
+- [U.S. offers $10 million for hackers targeting WhatsApp, Signal users](https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Department of State is offering up to $10 million for information that helps identify or locate members of the UNC5792 and UNC4221 hacker groups, which are linked to Russia's intelligence and_
 
 - [Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer](https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html)
   - Confidence: 🟫 LOW
@@ -213,111 +241,3 @@ tags:
 - [Data breach exposes up to 14.2 million email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/)
   - Confidence: 🟫 LOW
   - _Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the _
-
-- [I just completed SOC L1 Alert Triage room on TryHackMe! Learn more about SOC alerts and build a systematic approach to efficiently triaging them.](https://www.reddit.com/r/tryhackme/comments/1ugfods/i_just_completed_soc_l1_alert_triage_room_on/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/AgoraBull"> /u/AgoraBull </a> <br /> <span><a href="https://tryhackme.com/room/socl1alerttriage?utm_campaign=social_share&amp;utm_medium=s_
-
-- [Interested in joining a crew](https://www.reddit.com/r/tryhackme/comments/1ugbqjc/interested_in_joining_a_crew/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I have just got back into TryHackMe to supplement my learning along with other resources. I am looking to join a crew to do CTFs and share tips. If you have a crew lo_
-
-- [I think there is a bug here](https://www.reddit.com/r/tryhackme/comments/1ugle8q/i_think_there_is_a_bug_here/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1ugle8q/i_think_there_is_a_bug_here/"> <img alt="I think there is a bug here" src="https://preview.redd.it/6o6m3jj0gp9h1.jpeg?widt_
-
-- [I'm currently looking for new Hacker Friends !😃](https://www.reddit.com/r/tryhackme/comments/1uh3wyu/im_currently_looking_for_new_hacker_friends/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1uh3wyu/im_currently_looking_for_new_hacker_friends/"> <img alt="I'm currently looking for new Hacker Friends !😃" src="https://ext_
-
-- [Log in functionality not working](https://www.reddit.com/r/tryhackme/comments/1ugxt71/log_in_functionality_not_working/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1ugxt71/log_in_functionality_not_working/"> <img alt="Log in functionality not working" src="https://preview.redd.it/e7mu58phjs9h1_
-
-- [help with this](https://www.reddit.com/r/tryhackme/comments/1uhklmd/help_with_this/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1uhklmd/help_with_this/"> <img alt="help with this" src="https://preview.redd.it/pq2hwpk5lx9h1.jpeg?width=640&amp;crop=smart&amp;a_
-
-- [THM Pulse quiz-gen bug](https://www.reddit.com/r/tryhackme/comments/1uha9ku/thm_pulse_quizgen_bug/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1uha9ku/thm_pulse_quizgen_bug/"> <img alt="THM Pulse quiz-gen bug" src="https://preview.redd.it/4klj96gadv9h1.jpeg?width=640&amp;c_
-
-- [Just completed my first TryHackMe certificate. What should I do next?](https://www.reddit.com/r/tryhackme/comments/1uh8kj0/just_completed_my_first_tryhackme_certificate/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Beginner's Cybersecurity Learning Journey</p> <p>Starting Cybersecurity and Future Aspirations</p> <p>• I just completed my first TryHackMe certificate (Pre Security)_
-
-- [I was running nessus after a while it start showing the scan option ,but hitting session expiring error now , help me in figuring out the issue hopefully it will work](https://www.reddit.com/r/tryhackme/comments/1uhrr5x/i_was_running_nessus_after_a_while_it_start/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1uhrr5x/i_was_running_nessus_after_a_while_it_start/"> <img alt="I was running nessus after a while it start showing the scan opti_
-
-- [I was running nessus after a while it start showing the scan option ,but hitting session expiring error now , help me in figuring out the issue hopefully it will work](https://www.reddit.com/r/tryhackme/comments/1uhrrpe/i_was_running_nessus_after_a_while_it_start/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1uhrrpe/i_was_running_nessus_after_a_while_it_start/"> <img alt="I was running nessus after a while it start showing the scan opti_
-
-- [THM Pulse - What command scans 10.10.10.5 for open ports with version detection?](https://www.reddit.com/r/tryhackme/comments/1uhocli/thm_pulse_what_command_scans_1010105_for_open/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>What am i missing ?</p> <p><strong>Question:</strong> What command scans <a href="http://10.10.10.5">10.10.10.5</a> for open ports with version detection? </p> <p><st_
-
-- [I just completed Search Skills room on TryHackMe! Learn to efficiently search the Internet and use specialised services and technical docs for information](https://www.reddit.com/r/tryhackme/comments/1uhvbht/i_just_completed_search_skills_room_on_tryhackme/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Been a year in this role and just gotten into cyber world and i want to make a carrer out in Risk now. I have decided that this falls under my interests and want to e_
-
-- [Enumerating Active Directory rant and solution for bugs](https://www.reddit.com/r/tryhackme/comments/1uhvrvp/enumerating_active_directory_rant_and_solution/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi everybody, I came here mostly to rant about the Enumerating Active Directory room. I will also give solution to painful points in the room that I had to debug myse_
-
-- [I just completed History of Malware room on TryHackMe! Join this room to learn about the first forms of malware and how they turned into the malicious code we see today.](https://www.reddit.com/r/tryhackme/comments/1uhwkoq/i_just_completed_history_of_malware_room_on/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/AgoraBull"> /u/AgoraBull </a> <br /> <span><a href="https://tryhackme.com/room/historyofmalware?utm_campaign=social_share&amp;utm_medium=s_
-
-- [Studying CPTS with learning disability](https://www.reddit.com/r/hackthebox/comments/1ugh5rv/studying_cpts_with_learning_disability/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I don't know if this is considered ADHD or dyslexia learning disability, but written material in the academy is hard for me to comprehend. The amount of information i_
-
-- [CDSA EXAM Question](https://www.reddit.com/r/hackthebox/comments/1ugbuv4/cdsa_exam_question/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>For the ones passed the CDSA, how many pages was your report? Also how much pages did you allocate for the executive summary?</p> </div><!-- SC_ON --> &#32; submitted_
-
-- [Tool wrapper for IPSec gateway enumeration and PSK attacks](https://www.reddit.com/r/hackthebox/comments/1ugkg6z/tool_wrapper_for_ipsec_gateway_enumeration_and/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1ugkg6z/tool_wrapper_for_ipsec_gateway_enumeration_and/"> <img alt="Tool wrapper for IPSec gateway enumeration and PSK attacks" s_
-
-- [Importance of Custom Wordlist?](https://www.reddit.com/r/hackthebox/comments/1ugdrw8/importance_of_custom_wordlist/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>For those that completed the CPTS, how important is creating custom wordlists for the exam? As im going through the password cracking module, im finding a hard time g_
-
-- [CPTS or CWES if I want to get into Cloud Security/Pentesting?](https://www.reddit.com/r/hackthebox/comments/1ugiz2s/cpts_or_cwes_if_i_want_to_get_into_cloud/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi! </p> <p>I'm currently a junior cybersecurity student who's working as an intern for a financial company. This internship kind of sparked my interest in the cloud _
-
-- [Owned CCTV today](https://www.reddit.com/r/hackthebox/comments/1uh3hrn/owned_cctv_today/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1uh3hrn/owned_cctv_today/"> <img alt="Owned CCTV today" src="https://external-preview.redd.it/OFtiPDn5uzwyAU90Qp4UisojY1mzzDf3axe_
-
-- [WingData Writeup (NoOff | Ivan Daňo)](https://www.reddit.com/r/hackthebox/comments/1uh6zt0/wingdata_writeup_nooff_ivan_daňo/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1uh6zt0/wingdata_writeup_nooff_ivan_daňo/"> <img alt="WingData Writeup (NoOff | Ivan Daňo)" src="https://preview.redd.it/8icjp5kn_
-
-- [I htb problem academy subscription](https://www.reddit.com/r/hackthebox/comments/1uhsub9/i_htb_problem_academy_subscription/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I had unintentionally subscribed htb academy student pack 8$ per month. And i did asked customer support the bot said it will forward that to a human to get refund. C_
-
-- [Hi, new here!](https://www.reddit.com/r/hackthebox/comments/1uhrr8a/hi_new_here/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi, I'm a complete beginner in the world of cybersecurity and HTB. I've completed a few basic CTFs, and now I'm trying to follow the Penetration Tester Job Role Path _
-
-- [Solved Enigma on HackTheBox](https://www.reddit.com/r/hackthebox/comments/1uhda7s/solved_enigma_on_hackthebox/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1uhda7s/solved_enigma_on_hackthebox/"> <img alt="Solved Enigma on HackTheBox" src="https://preview.redd.it/tsp7m7k1zv9h1.png?widt_
-
-- [Funny](https://www.reddit.com/r/hackthebox/comments/1uhryte/funny/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1uhryte/funny/"> <img alt="Funny" src="https://preview.redd.it/x01uc3prjz9h1.png?width=140&amp;height=78&amp;auto=webp&amp;s=523e_
-
-- [Odyssey on Hack The Box !](https://www.reddit.com/r/hackthebox/comments/1uhs613/odyssey_on_hack_the_box/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1uhs613/odyssey_on_hack_the_box/"> <img alt="Odyssey on Hack The Box !" src="https://preview.redd.it/a4iyh8a0mz9h1.png?width=640&_
-
-- [Weekly Solves Megathread](https://www.reddit.com/r/hackthebox/comments/1uh9fz0/weekly_solves_megathread/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Solved a machine/module/etc and want a place to brag? Heres your spot!</p> <p>For retired content or Tier-0 Academy content, feel free to discuss or ask questions usi_
