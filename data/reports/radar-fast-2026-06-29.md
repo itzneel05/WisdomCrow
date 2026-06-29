@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-29
-date: 2026-06-29T03:38:02Z
+date: 2026-06-29T10:53:22Z
 type: radar-report
 report_type: fast
-total_opportunities: 61
+total_opportunities: 64
 tags:
   - radar
   - fast
@@ -13,14 +13,15 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 61
+**Total opportunities:** 64
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 29 |
+| ❓ Uncategorized | 31 |
 | 🎓 Free Certifications | 25 |
 | 🏰 CTF Competitions | 6 |
 | 🎮 Arcade & Gamified Events | 1 |
+| 💰 Bug Bounties | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -53,6 +54,13 @@ tags:
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
   - _<!-- SC_OFF --><div class="md"><p>I just submitted my CWES report two days ago, But asking my friend I founded he solved 3 challenges with another wat than me different exploitation and approaches, I _
+
+## 💰 Bug Bounties
+
+- [Reconnaissance for exposure management: why context matters in the AI era](https://www.intigriti.com/blog/business-insights/reconnaissance-for-exposure-management-why-context-matters-in-the-ai-era)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _Over the last few weeks, we’ve explored what AI is changing in security: discovery is faster (Vulnpocalypse now?), volume is higher (Common AI misconceptions debugged!), and the human layer triage (Th_
 
 ## 🎓 Free Certifications
 
@@ -190,6 +198,18 @@ tags:
 
 ## ❓ Uncategorized
 
+- [Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer](https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS _
+
+- [Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw](https://thehackernews.com/2026/06/public-poc-released-for-critical.html)
+  - Confidence: 🟫 LOW
+  - _A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code_
+
+- [Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts](https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html)
+  - Confidence: 🟫 LOW
+  - _Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal cred_
+
 - [Data breach exposes up to 14.2 million email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/)
   - Confidence: 🟫 LOW
   - _Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the _
@@ -301,7 +321,3 @@ tags:
 - [Weekly Solves Megathread](https://www.reddit.com/r/hackthebox/comments/1uh9fz0/weekly_solves_megathread/)
   - Confidence: 🟫 LOW
   - _<!-- SC_OFF --><div class="md"><p>Solved a machine/module/etc and want a place to brag? Heres your spot!</p> <p>For retired content or Tier-0 Academy content, feel free to discuss or ask questions usi_
-
-- [YARA-X 1.18.0 and 1.19.0 Release, (Sun, Jun 28th)](https://isc.sans.edu/diary/rss/33106)
-  - Confidence: 🟫 LOW
-  - _<p><a href="https://github.com/VirusTotal/yara-x/releases/tag/v1.18.0">YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.18.0</a> release brings 3 improvements and 2 bugfixes.</p>&#xd;_
