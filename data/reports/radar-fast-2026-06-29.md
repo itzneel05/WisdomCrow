@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-29
-date: 2026-06-29T15:43:13Z
+date: 2026-06-29T19:54:07Z
 type: radar-report
 report_type: fast
-total_opportunities: 46
+total_opportunities: 49
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 46
+**Total opportunities:** 49
 
 | Category | Count |
 |----------|-------|
-| 🎓 Free Certifications | 25 |
-| ❓ Uncategorized | 18 |
+| 🎓 Free Certifications | 24 |
+| ❓ Uncategorized | 22 |
 | 💰 Bug Bounties | 2 |
 | 🏰 CTF Competitions | 1 |
 
@@ -163,12 +163,27 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _<!-- SC_OFF --><div class="md"><p>Here is a list of scholarships with July deadlines:</p> <p><a href="https://how2winscholarships.com/apply-for-college-scholarships-hot-july-deadlines/">July Scholarsh_
 
-- [Week in review: Fortibleed campaign’s impact on orgs, Cisco Unified CM flaw exploited](https://www.helpnetsecurity.com/2026/06/28/week-in-review-fortibleed-campaigns-impact-on-orgs-cisco-unified-cm-flaw-exploited/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _<p>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Encrypted DNS still tells an eavesdropper where to look Encrypted DNS runs across much of the Inter_
-
 ## ❓ Uncategorized
+
+- [Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks](https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html)
+  - Confidence: 🟫 LOW
+  - _The China-aligned espionage group&nbsp;Mustang Panda&nbsp;is running two campaigns against the Indian government and hydropower targets, deploying new malware and turning a legitimate cloud service in_
+
+- [WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private](https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html)
+  - Confidence: 🟫 LOW
+  - _WhatsApp on Monday officially announced the start of global reservations of usernames with an aim to protect the privacy of more than three billion users on the messaging platform.  The optional featu_
+
+- [Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input](https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html)
+  - Confidence: 🟫 LOW
+  - _Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the add_
+
+- [Microsoft extends Windows Server 2022 hotpatching until October 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has extended Windows Server 2022 hotpatching until October 2027, one year after the mainstream end date of October 2026. [...]_
+
+- [WhatsApp rolls out usernames to help users hide their phone number](https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/)
+  - Confidence: 🟫 LOW
+  - _WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact list. [...]_
 
 - [Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse](https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html)
   - Confidence: 🟫 LOW
@@ -237,7 +252,3 @@ tags:
 - [Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts](https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html)
   - Confidence: 🟫 LOW
   - _Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal cred_
-
-- [Data breach exposes up to 14.2 million email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/)
-  - Confidence: 🟫 LOW
-  - _Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the _
