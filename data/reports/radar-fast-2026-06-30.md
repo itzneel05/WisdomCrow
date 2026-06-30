@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-30
-date: 2026-06-30T14:14:32Z
+date: 2026-06-30T19:53:03Z
 type: radar-report
 report_type: fast
-total_opportunities: 63
+total_opportunities: 57
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 63
+**Total opportunities:** 57
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 57 |
-| 💰 Bug Bounties | 2 |
-| 🏰 CTF Competitions | 2 |
+| ❓ Uncategorized | 53 |
+| 💰 Bug Bounties | 1 |
+| 🏰 CTF Competitions | 1 |
 | 🎓 Free Certifications | 1 |
 | 📦 Open Source Tools | 1 |
 
@@ -30,22 +30,12 @@ tags:
   - Tags: `ctf`, `india_friendly`
   - _Offline-first, searchable arsenal for pentesting & bug bounty: payloads, a click-to-build command generator, GTFOBins, wordlists, embedded CyberChef, reverse shells, checklists & an engagement tracker_
 
-- [CTF challenge is impenetrable](https://www.reddit.com/r/AskNetsec/comments/1uihya6/ctf_challenge_is_impenetrable/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I'm currently working on a CTF challenge from SecDojo and I'm a bit stuck.</p> <p>The setup is:</p> <p>- I have access to one machine</p> <p>- Th_
-
 ## 💰 Bug Bounties
 
 - [Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth](https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
   - _A critical vulnerability in Progress Kemp LoadMaster can let an unauthenticated attacker execute arbitrary commands as root on the appliance by sending a crafted request to its API.  The flaw, tracked_
-
-- [How would you classify these LLM behaviors under the OWASP LLM Top 10: security vulnerabilities or robustness issues?](https://www.reddit.com/r/AskNetsec/comments/1uih3lr/how_would_you_classify_these_llm_behaviors_under/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>I'm looking for technical opinions from people working in application security and AI security.</p> <p>I recently performed a black-box assessment of an LLM API and o_
 
 ## 🎓 Free Certifications
 
@@ -62,6 +52,54 @@ tags:
   - _<p>It&rsquo;s the final week of Q2, and Kali Linux 2026.2 is here - right on schedule ;) We have been heads down since our last release, and we are ready to share what we have been working on. This re_
 
 ## ❓ Uncategorized
+
+- [282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study](https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html)
+  - Confidence: 🟫 LOW
+  - _Researchers tested 444 AI chatbot apps for iPhone and found that 282 of them, nearly two-thirds, exposed paid AI access through their network traffic.  In many cases, the path in was visible just by w_
+
+- [GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks](https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html)
+  - Confidence: 🟫 LOW
+  - _The safety check that is supposed to stop an AI coding agent from running a dangerous command can be walked straight past using a shell trick that has been public for decades.  New research from&nbsp;_
+
+- [Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses](https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have flagged an active browser extension campaign that is designed to steal cryptocurrency by stealthily replacing wallet addresses when unsuspecting users initiate a transac_
+
+- [Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints](https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner.  The activity has been found to weaponize CVE-2026_
+
+- [RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS](https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html)
+  - Confidence: 🟫 LOW
+  - _A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online s_
+
+- [Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data](https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html)
+  - Confidence: 🟫 LOW
+  - _New Microsoft&nbsp;research&nbsp;shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company d_
+
+- [June 2026 Apple Updates, (Tue, Jun 30th)](https://isc.sans.edu/diary/rss/33114)
+  - Confidence: 🟫 LOW
+  - _<p>Apple released updates for iOS/iPadOS, macOS, and Safari on Monday. There have been no updates for other Apple operating systems (visionOS, watchOS, tvOS). Usually, Apple updates all products at th_
+
+- [How exactly is this person hacking?](https://www.reddit.com/r/hacking/comments/1uild0q/how_exactly_is_this_person_hacking/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Not sure if this is the right place to post this, but...</p> <p>I'm playing on a 1.21.11 <strong>Minecraft</strong> server on <a href="http://play.hosting">play.hosti_
+
+- [What a takedown-era Russian cybercrime forum reveals about the ransomware supply chain (analysis)](https://www.reddit.com/r/hacking/comments/1ujj5l2/what_a_takedownera_russian_cybercrime_forum/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1ujj5l2/what_a_takedownera_russian_cybercrime_forum/"> <img alt="What a takedown-era Russian cybercrime forum reveals about the rans_
+
+- [Claude System Prompt Injections](https://www.reddit.com/r/hacking/comments/1uj92re/claude_system_prompt_injections/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I like to use claude to learn about pentesting, cybersecurity, etc so I often times get flagged because I like making tools and learning about methodology through cla_
+
+- [I built 41 browser hacking levels that walk the entire web attack surface](https://www.reddit.com/r/hacking/comments/1ujl1z8/i_built_41_browser_hacking_levels_that_walk_the/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1ujl1z8/i_built_41_browser_hacking_levels_that_walk_the/"> <img alt="I built 41 browser hacking levels that walk the entire web atta_
+
+- [Fake Perplexity extension on Chrome Web Store tracked searches](https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/)
+  - Confidence: 🟫 LOW
+  - _A malicious extension in the Chrome Web Store is masquerading as the Perplexity AI answer engine, intercepting search traffic and collecting browsing information. [...]_
 
 - [AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks](https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html)
   - Confidence: 🟫 LOW
@@ -226,67 +264,3 @@ tags:
 - [Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input](https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html)
   - Confidence: 🟫 LOW
   - _Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the add_
-
-- [Microsoft extends Windows Server 2022 hotpatching until October 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has extended Windows Server 2022 hotpatching until October 2027, one year after the mainstream end date of October 2026. [...]_
-
-- [WhatsApp rolls out usernames to help users hide their phone number](https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/)
-  - Confidence: 🟫 LOW
-  - _WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact list. [...]_
-
-- [Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse](https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html)
-  - Confidence: 🟫 LOW
-  - _A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025.  Slovakian cybersecurity_
-
-- [Why Post-Quantum Cryptography Starts With Credentials](https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html)
-  - Confidence: 🟫 LOW
-  - _Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no mac_
-
-- [236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers](https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html)
-  - Confidence: 🟫 LOW
-  - _New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framewo_
-
-- [⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More](https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html)
-  - Confidence: 🟫 LOW
-  - _This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open.  The noise is not all noise, either. For_
-
-- [Adding some Automation to the favicon.ico method of Host Recon, (Mon, Jun 29th)](https://isc.sans.edu/diary/rss/33110)
-  - Confidence: 🟫 LOW
-  - _<p>I&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;m in the throes of target host recon for another pentest, and thought I&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;d share some workflow / automation stuff.<br _
-
-- [Has anyone tried AI for phishing simulations?](https://www.reddit.com/r/AskNetsec/comments/1ui30f3/has_anyone_tried_ai_for_phishing_simulations/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>People at the org have basically figured out our simulation emails and before you say that is a good thing they are not security aware, they just know what our test e_
-
-- [Anyone else noticing security vendors quietly shifting from “network” language to “identity” language?](https://www.reddit.com/r/AskNetsec/comments/1uiu4t3/anyone_else_noticing_security_vendors_quietly/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Been sitting through a bunch of architecture reviews lately and it hit me that almost nobody talks about “the perimeter” anymore. Every pitch is about identity contex_
-
-- [How do you analyze iOS malware?](https://www.reddit.com/r/AskNetsec/comments/1uirc98/how_do_you_analyze_ios_malware/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Compared to Windows or Android, iOS malware rarely comes up in my work, but I still want to be prepared for it. I've never really worked with iOS samples before, so I_
-
-- [US seizes hundreds of FIFA World Cup illegal streaming domains](https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/)
-  - Confidence: 🟫 LOW
-  - _The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]_
-
-- [Webinar: Why business email compromise attacks keep succeeding](https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/)
-  - Confidence: 🟫 LOW
-  - _Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores ho_
-
-- [Hackers now exploit critical Oracle E-Business flaw in attacks](https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]_
-
-- [Critical SimpleHelp flaw exploited to deploy new stealer malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/)
-  - Confidence: 🟫 LOW
-  - _Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Window_
-
-- [Agentic AI Has an Identity Problem and Attackers Know It](https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/)
-  - Confidence: 🟫 LOW
-  - _AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security_
-
-- [U.S. offers $10 million for hackers targeting WhatsApp, Signal users](https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/)
-  - Confidence: 🟫 LOW
-  - _The U.S. Department of State is offering up to $10 million for information that helps identify or locate members of the UNC5792 and UNC4221 hacker groups, which are linked to Russia's intelligence and_
