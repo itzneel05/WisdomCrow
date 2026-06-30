@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-06-30
-date: 2026-06-30T03:00:54Z
+date: 2026-06-30T09:30:31Z
 type: radar-report
 report_type: fast
-total_opportunities: 55
+total_opportunities: 59
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 55
+**Total opportunities:** 59
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 48 |
-| 💰 Bug Bounties | 2 |
+| ❓ Uncategorized | 52 |
+| 💰 Bug Bounties | 3 |
 | 🏰 CTF Competitions | 2 |
-| 🎓 Free Certifications | 2 |
+| 🎓 Free Certifications | 1 |
 | 📦 Open Source Tools | 1 |
 
 ## 🏰 CTF Competitions
@@ -42,6 +42,11 @@ tags:
   - Tags: `bug_bounty`
   - _Over the last few weeks, we’ve explored what AI is changing in security: discovery is faster (Vulnpocalypse now?), volume is higher (Common AI misconceptions debugged!), and the human layer triage (Th_
 
+- [Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth](https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _A critical vulnerability in Progress Kemp LoadMaster can let an unauthenticated attacker execute arbitrary commands as root on the appliance by sending a crafted request to its API.  The flaw, tracked_
+
 - [How would you classify these LLM behaviors under the OWASP LLM Top 10: security vulnerabilities or robustness issues?](https://www.reddit.com/r/AskNetsec/comments/1uih3lr/how_would_you_classify_these_llm_behaviors_under/)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
@@ -54,11 +59,6 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
-- [ISC Stormcast For Monday, June 29th, 2026 https://isc.sans.edu/podcastdetail/9986, (Mon, Jun 29th)](https://isc.sans.edu/diary/rss/33108)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## 📦 Open Source Tools
 
 - [Kali Linux 2026.2 Release (GNOME 50, KDE 6.6, Helper Scripts, APT Formats & VM Boot Tweaking)](https://www.kali.org/blog/kali-linux-2026-2-release/)
@@ -67,6 +67,22 @@ tags:
   - _<p>It&rsquo;s the final week of Q2, and Kali Linux 2026.2 is here - right on schedule ;) We have been heads down since our last release, and we are ready to share what we have been working on. This re_
 
 ## ❓ Uncategorized
+
+- [Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild](https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html)
+  - Confidence: 🟫 LOW
+  - _A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber.  The vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), _
+
+- [Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs](https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html)
+  - Confidence: 🟫 LOW
+  - _Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial i_
+
+- [New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials](https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html)
+  - Confidence: 🟫 LOW
+  - _Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind&nbsp;BioShocking, a technique from security firm LayerX that tricked six AI browse_
+
+- [CISA: Windows BlueHammer flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/)
+  - Confidence: 🟫 LOW
+  - _CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. [...]_
 
 - [Dissecting Apple's Sparse Image Format (ASIF)](https://www.reddit.com/r/netsec/comments/1uhue36/dissecting_apples_sparse_image_format_asif/)
   - Confidence: 🟫 LOW
