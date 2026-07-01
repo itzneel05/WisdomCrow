@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-01
-date: 2026-07-01T14:30:32Z
+date: 2026-07-01T19:51:28Z
 type: radar-report
 report_type: fast
-total_opportunities: 56
+total_opportunities: 65
 tags:
   - radar
   - fast
@@ -13,15 +13,20 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 56
+**Total opportunities:** 65
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 53 |
+| ❓ Uncategorized | 61 |
+| 💰 Bug Bounties | 2 |
 | 🎓 Free Certifications | 2 |
-| 💰 Bug Bounties | 1 |
 
 ## 💰 Bug Bounties
+
+- [Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters](https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the compone_
 
 - [AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android](https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html)
   - Confidence: 🟡 MEDIUM
@@ -41,6 +46,42 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands](https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html)
+  - Confidence: 🟫 LOW
+  - _Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall fo_
+
+- [Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic](https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html)
+  - Confidence: 🟫 LOW
+  - _Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic.  The ColdFusion updates "resolves critical and important vulnerabilities _
+
+- [Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures](https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html)
+  - Confidence: 🟫 LOW
+  - _A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal.&nbsp;Fortinet's FortiGuard Labs&nbsp;identified the campaign in May 2026.  It opens with a phishi_
+
+- [VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer](https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs.  The activity h_
+
+- [SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT](https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html)
+  - Confidence: 🟫 LOW
+  - _Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT.  Kaspersky said the activity is part of a "massive, multi-domain, multi-language" cam_
+
+- [19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges](https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html)
+  - Confidence: 🟫 LOW
+  - _A teenager accused of belonging to the hacking group Scattered Spider has been extradited from Finland to face U.S. charges of conspiracy, computer intrusion, and fraud, the U.S. Department of Justice_
+
+- [Hackers target Microsoft 365 accounts with 81 million login attempts](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/)
+  - Confidence: 🟫 LOW
+  - _An aggressive password-spraying campaign targeting Microsoft 365 environments generated more than 81 million login attempts over a two-week period. [...]_
+
+- [Webinar: Why traditional email security is no longer enough](https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/)
+  - Confidence: 🟫 LOW
+  - _Modern phishing, business email compromise, and account takeover attacks increasingly exploit trusted identities and legitimate business workflows, making them harder for traditional email defenses to_
+
+- [DHS confirms hackers breached HSIN info-sharing platform](https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/)
+  - Confidence: 🟫 LOW
+  - _The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, l_
 
 - [Microsoft Accelerates Post-Quantum Cryptography Shift to 2029](https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html)
   - Confidence: 🟫 LOW
@@ -249,7 +290,3 @@ tags:
 - [I built 41 browser hacking levels that walk the entire web attack surface](https://www.reddit.com/r/hacking/comments/1ujl1z8/i_built_41_browser_hacking_levels_that_walk_the/)
   - Confidence: 🟫 LOW
   - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1ujl1z8/i_built_41_browser_hacking_levels_that_walk_the/"> <img alt="I built 41 browser hacking levels that walk the entire web atta_
-
-- [Fake Perplexity extension on Chrome Web Store tracked searches](https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/)
-  - Confidence: 🟫 LOW
-  - _A malicious extension in the Chrome Web Store is masquerading as the Perplexity AI answer engine, intercepting search traffic and collecting browsing information. [...]_
