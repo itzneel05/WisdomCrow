@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-01
-date: 2026-07-01T03:33:21Z
+date: 2026-07-01T09:42:04Z
 type: radar-report
 report_type: fast
-total_opportunities: 54
+total_opportunities: 56
 tags:
   - radar
   - fast
@@ -13,22 +13,19 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 54
+**Total opportunities:** 56
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 52 |
-| 💰 Bug Bounties | 1 |
-| 🎓 Free Certifications | 1 |
-
-## 💰 Bug Bounties
-
-- [Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth](https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _A critical vulnerability in Progress Kemp LoadMaster can let an unauthenticated attacker execute arbitrary commands as root on the appliance by sending a crafted request to its API.  The flaw, tracked_
+| ❓ Uncategorized | 54 |
+| 🎓 Free Certifications | 2 |
 
 ## 🎓 Free Certifications
+
+- [Why Ask Credentials If There Are Secret Codes&#x3f;, (Wed, Jul 1st)](https://isc.sans.edu/diary/rss/33118)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _<p>This morning, an interesting phishing email hit my mailbox. It targets Metamask&#x5b;<a href="https://metamask.io">1</a>&#x5d;, a cryptocurrency wallet, available as a browser extension and a mobil_
 
 - [ISC Stormcast For Wednesday, July 1st, 2026 https://isc.sans.edu/podcastdetail/9990, (Wed, Jul 1st)](https://isc.sans.edu/diary/rss/33116)
   - Confidence: 🟢 HIGH
@@ -36,6 +33,30 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service](https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html)
+  - Confidence: 🟫 LOW
+  - _Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to f_
+
+- [Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery](https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html)
+  - Confidence: 🟫 LOW
+  - _ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office.  New research shows the malicious commands behind its fake "prove you're human" pages are now hande_
+
+- [Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts](https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have warned of a "massive, ongoing, automated password spray attack" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process. _
+
+- [Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls](https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html)
+  - Confidence: 🟫 LOW
+  - _Anthropic is putting Claude Fable 5 back online worldwide. On&nbsp;June 30, the U.S. Commerce Department lifted the export controls it had imposed on Fable and its more tightly controlled sibling Myth_
+
+- [Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware](https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html)
+  - Confidence: 🟫 LOW
+  - _Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic t_
+
+- [Adobe patches seven max severity ColdFusion, Campaign flaws](https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/)
+  - Confidence: 🟫 LOW
+  - _Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]_
 
 - [Malicious PyPI packages give hackers control of Telegram bot servers](https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/)
   - Confidence: 🟫 LOW
@@ -228,19 +249,3 @@ tags:
 - [Lessons from the Underground: How to Combat Business Email Compromise](https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/)
   - Confidence: 🟫 LOW
   - _Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out networks. Flare explores how underground forums reve_
-
-- [Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild](https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html)
-  - Confidence: 🟫 LOW
-  - _A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber.  The vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), _
-
-- [Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs](https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html)
-  - Confidence: 🟫 LOW
-  - _Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial i_
-
-- [New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials](https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html)
-  - Confidence: 🟫 LOW
-  - _Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind&nbsp;BioShocking, a technique from security firm LayerX that tricked six AI browse_
-
-- [CISA: Windows BlueHammer flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/)
-  - Confidence: 🟫 LOW
-  - _CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. [...]_
