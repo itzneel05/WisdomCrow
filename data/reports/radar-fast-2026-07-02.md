@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-02
-date: 2026-07-02T13:54:28Z
+date: 2026-07-02T19:21:24Z
 type: radar-report
 report_type: fast
-total_opportunities: 82
+total_opportunities: 77
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 82
+**Total opportunities:** 77
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 58 |
+| ❓ Uncategorized | 54 |
 | 🎓 Free Certifications | 20 |
-| 💰 Bug Bounties | 4 |
+| 💰 Bug Bounties | 3 |
 
 ## 💰 Bug Bounties
 
@@ -34,11 +34,6 @@ tags:
   - _Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the compone_
 
 - [AI-Generated Browser Ransomware Abuses Chromium API on Windows, Linux, macOS, Android](https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`, `india_friendly`
-  - _Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining "unrealistic browser-malware concepts with a real browser capabili_
-
-- [AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android](https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`, `india_friendly`
   - _Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining "unrealistic browser-malware concepts with a real browser capabili_
@@ -146,6 +141,18 @@ tags:
   - _<p>Accounts-payable staff at U.S. companies keep receiving invoice emails that look like they come from vendors they already work with. One landed at a life-sciences company in April 2026, addressed t_
 
 ## ❓ Uncategorized
+
+- [ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories](https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html)
+  - Confidence: 🟫 LOW
+  - _This week’s security news is mostly about weak spots.  Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a_
+
+- [ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds](https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/)
+  - Confidence: 🟫 LOW
+  - _ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]_
+
+- [Google loses final appeal to overturn €4.1 billion EU fine](https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/)
+  - Confidence: 🟫 LOW
+  - _Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser a_
 
 - [FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations](https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html)
   - Confidence: 🟫 LOW
@@ -350,31 +357,3 @@ tags:
 - [DHS confirms hackers breached HSIN info-sharing platform](https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/)
   - Confidence: 🟫 LOW
   - _The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, l_
-
-- [Microsoft Accelerates Post-Quantum Cryptography Shift to 2029](https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html)
-  - Confidence: 🟫 LOW
-  - _Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner _
-
-- [2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience](https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html)
-  - Confidence: 🟫 LOW
-  - _Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment conf_
-
-- [Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts](https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html)
-  - Confidence: 🟫 LOW
-  - _A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from eSentire's Threat Response Unit (TRU).  The Canadia_
-
-- [Amazon fined $2.25M for withholding evidence from fraud victims](https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/)
-  - Confidence: 🟫 LOW
-  - _The U.S. Federal Trade Commission (FTC) says Amazon will pay a $2.25 million civil penalty to settle charges that it blocked identity theft victims' access to transaction records. [...]_
-
-- [Microsoft fixes GIF functionality in the Windows Emoji Panel](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service. [...]_
-
-- [Over 900 Oracle E-Business instances exposed to ongoing attacks](https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/)
-  - Confidence: 🟫 LOW
-  - _Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]_
-
-- [Turning Indicators into Intelligence in OpenCTI with Criminal IP](https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/)
-  - Confidence: 🟫 LOW
-  - _Threat intelligence is only as useful as the context behind it. Criminal IP explains how its integration enriches threat indicators in OpenCTI with risk scoring, infrastructure intelligence, and phish_
