@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-02
-date: 2026-07-02T02:57:54Z
+date: 2026-07-02T08:53:22Z
 type: radar-report
 report_type: fast
-total_opportunities: 82
+total_opportunities: 80
 tags:
   - radar
   - fast
@@ -13,20 +13,30 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 82
+**Total opportunities:** 80
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 59 |
-| 🎓 Free Certifications | 21 |
-| 💰 Bug Bounties | 2 |
+| ❓ Uncategorized | 56 |
+| 🎓 Free Certifications | 20 |
+| 💰 Bug Bounties | 4 |
 
 ## 💰 Bug Bounties
+
+- [New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos](https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories_
 
 - [Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters](https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html)
   - Confidence: 🟢 HIGH
   - Tags: `bug_bounty`
   - _Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the compone_
+
+- [AI-Generated Browser Ransomware Abuses Chromium API on Windows, Linux, macOS, Android](https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`, `india_friendly`
+  - _Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining "unrealistic browser-malware concepts with a real browser capabili_
 
 - [AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android](https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html)
   - Confidence: 🟡 MEDIUM
@@ -135,12 +145,15 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>This morning, an interesting phishing email hit my mailbox. It targets Metamask&#x5b;<a href="https://metamask.io">1</a>&#x5d;, a cryptocurrency wallet, available as a browser extension and a mobil_
 
-- [ISC Stormcast For Wednesday, July 1st, 2026 https://isc.sans.edu/podcastdetail/9990, (Wed, Jul 1st)](https://isc.sans.edu/diary/rss/33116)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation](https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, cit_
+
+- [Medtronic notifies customers impacted by ShinyHunters data breach](https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/)
+  - Confidence: 🟫 LOW
+  - _Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]_
 
 - [New ChocoPoC malware targets researchers via trojanized PoC exploits](https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/)
   - Confidence: 🟫 LOW
@@ -357,23 +370,3 @@ tags:
 - [Adobe patches seven max severity ColdFusion, Campaign flaws](https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/)
   - Confidence: 🟫 LOW
   - _Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]_
-
-- [Malicious PyPI packages give hackers control of Telegram bot servers](https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/)
-  - Confidence: 🟫 LOW
-  - _A campaign active since last November has been targeting Python developers building Telegram bots with trojanized Pyrogram forks that allow attackers to read arbitrary files on compromised servers. [._
-
-- [Microsoft accelerates quantum-safe roadmap as risks grow](https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/)
-  - Confidence: 🟫 LOW
-  - _Microsoft announced today that it is accelerating its quantum-safe security roadmap, saying advances in quantum computing are bringing the need to replace today's encryption standards sooner than prev_
-
-- [New BioShocking attack manipulates AI browser into data theft](https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/)
-  - Confidence: 🟫 LOW
-  - _A new prompt injection attack dubbed "BioShocking" could trick AI-powered browsers into treating real-world risky actions as part of a fictional scenario, causing them to ignore any safety guardrails._
-
-- [Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/)
-  - Confidence: 🟫 LOW
-  - _Anthropic is now rolling out Sonnet 5, and it's almost as good as the Opus range, but it is designed to be cheaper than the company's flagship model. [...]_
-
-- [Anthropic to restore Claude Fable access on Wednesday](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/)
-  - Confidence: 🟫 LOW
-  - _Anthropic has confirmed that the Department of Commerce has lifted export controls on Claude's two most powerful models, Fable 5 and Mythos 5. [...]_
