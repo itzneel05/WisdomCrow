@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-03
-date: 2026-07-03T08:59:04Z
+date: 2026-07-03T13:57:58Z
 type: radar-report
 report_type: fast
-total_opportunities: 42
+total_opportunities: 35
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 42
+**Total opportunities:** 35
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 40 |
-| 🎓 Free Certifications | 2 |
+| ❓ Uncategorized | 34 |
+| 🎓 Free Certifications | 1 |
 
 ## 🎓 Free Certifications
 
@@ -27,12 +27,15 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>A PoC exploit has been available since public disclosure, and the first exploitation attempts were observed last week.</p> <p>The post <a href="https://www.securityweek.com/cisco-confirms-in-the-wi_
 
-- [Cisco finally confirms attackers exploiting Unified CM flaw](https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June. [...]_
-
 ## ❓ Uncategorized
+
+- [European Parliament Member Investigating Spyware Was Hacked With Pegasus](https://thehackernews.com/2026/07/european-parliament-member.html)
+  - Confidence: 🟫 LOW
+  - _A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving _
+
+- [Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer](https://thehackernews.com/2026/07/armored-likho-targets-government.html)
+  - Confidence: 🟫 LOW
+  - _A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan.  "_
 
 - [PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords](https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html)
   - Confidence: 🟫 LOW
@@ -161,35 +164,3 @@ tags:
 - [Google loses final appeal to overturn €4.1 billion EU fine](https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/)
   - Confidence: 🟫 LOW
   - _Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser a_
-
-- [FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations](https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html)
-  - Confidence: 🟫 LOW
-  - _The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-o_
-
-- [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html)
-  - Confidence: 🟫 LOW
-  - _Security firm&nbsp;Sysdig&nbsp;says it has found what it believes is the first ransomware attack run from start to finish by an AI agent.  Its Threat Research Team calls the operator JADEPUFFER and sa_
-
-- [Identity Lifecycle Management Wasn't Built for AI Agents](https://thehackernews.com/2026/07/identity-lifecycle-management.html)
-  - Confidence: 🟫 LOW
-  - _Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals proliferate across ente_
-
-- [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html)
-  - Confidence: 🟫 LOW
-  - _The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API.  "In this camp_
-
-- [Alleged Scattered Spider hacker extradited to the United States](https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/)
-  - Confidence: 🟫 LOW
-  - _A dual United States and Estonian citizen has been extradited to the U.S. to face charges alleging he was a member of the Scattered Spider hacking collective. [...]_
-
-- [Opera rolls out Paste Protect feature to fight ClickFix attacks](https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/)
-  - Confidence: 🟫 LOW
-  - _Opera has introduced Paste Protect, a security feature designed to block ClickFix-style attacks that trick users into executing malicious commands through social engineering. [...]_
-
-- [CISA: Microsoft SharePoint RCE flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/)
-  - Confidence: 🟫 LOW
-  - _CISA warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability patched in May. [...]_
-
-- [Microsoft fixes bug that removed Copilot buttons in Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]_
