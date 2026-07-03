@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-03
-date: 2026-07-03T13:57:58Z
+date: 2026-07-03T19:17:55Z
 type: radar-report
 report_type: fast
-total_opportunities: 35
+total_opportunities: 42
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 35
+**Total opportunities:** 42
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 34 |
+| ❓ Uncategorized | 41 |
 | 🎓 Free Certifications | 1 |
 
 ## 🎓 Free Certifications
@@ -28,6 +28,34 @@ tags:
   - _<p>A PoC exploit has been available since public disclosure, and the first exploitation attempts were observed last week.</p> <p>The post <a href="https://www.securityweek.com/cisco-confirms-in-the-wi_
 
 ## ❓ Uncategorized
+
+- [North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets](https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft.  According to JF_
+
+- [New Avalon Malware Framework Packs CrownX Ransomware Capabilities](https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditio_
+
+- [It’s 37oC, And All We Can Think About Is ColdFusion (Adobe ColdFusion Security Bulletin APSB26-68 CVE Bonanza) - watchTowr Labs](https://www.reddit.com/r/netsec/comments/1ulndzc/its_37oc_and_all_we_can_think_about_is_coldfusion/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/dx7r__"> /u/dx7r__ </a> <br /> <span><a href="https://labs.watchtowr.com/its-37oc-and-all-we-can-think-about-is-coldfusion-adobe-coldfusio_
+
+- [FIFA was saved this time](https://www.reddit.com/r/netsec/comments/1ulmoyx/fifa_was_saved_this_time/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/scorp100n"> /u/scorp100n </a> <br /> <span><a href="https://bobdahacker.com/blog/fifa-hack">[link]</a></span> &#32; <span><a href="https:/_
+
+- [/r/netsec's Q3 2026 Information Security Hiring Thread](https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p><strong>Overview</strong></p> <p>If you have open positions at your company for information security professionals and would like to hire from the <a href="/r/netsec"_
+
+- [ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit](https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/)
+  - Confidence: 🟫 LOW
+  - _A new phishing-as-a-service (PhaaS) platform dubbed "ARToken" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed to_
+
+- [NetNut proxy network disrupted, 2 million infected devices cut off](https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/)
+  - Confidence: 🟫 LOW
+  - _A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes. [...]_
 
 - [European Parliament Member Investigating Spyware Was Hacked With Pegasus](https://thehackernews.com/2026/07/european-parliament-member.html)
   - Confidence: 🟫 LOW
