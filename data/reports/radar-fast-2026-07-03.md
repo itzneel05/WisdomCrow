@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-03
-date: 2026-07-03T02:41:21Z
+date: 2026-07-03T08:59:04Z
 type: radar-report
 report_type: fast
-total_opportunities: 49
+total_opportunities: 42
 tags:
   - radar
   - fast
@@ -13,25 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 49
+**Total opportunities:** 42
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 44 |
-| 🎓 Free Certifications | 3 |
-| 💰 Bug Bounties | 2 |
-
-## 💰 Bug Bounties
-
-- [New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos](https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories_
-
-- [AI-Generated Browser Ransomware Abuses Chromium API on Windows, Linux, macOS, Android](https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`, `india_friendly`
-  - _Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining "unrealistic browser-malware concepts with a real browser capabili_
+| ❓ Uncategorized | 40 |
+| 🎓 Free Certifications | 2 |
 
 ## 🎓 Free Certifications
 
@@ -45,12 +32,11 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June. [...]_
 
-- [ISC Stormcast For Thursday, July 2nd, 2026 https://isc.sans.edu/podcastdetail/9992, (Thu, Jul 2nd)](https://isc.sans.edu/diary/rss/33120)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords](https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data.  The stealer, discovered by_
 
 - [Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials](https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html)
   - Confidence: 🟫 LOW
@@ -207,23 +193,3 @@ tags:
 - [Microsoft fixes bug that removed Copilot buttons in Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/)
   - Confidence: 🟫 LOW
   - _Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]_
-
-- [SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation](https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, cit_
-
-- [Medtronic notifies customers impacted by ShinyHunters data breach](https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/)
-  - Confidence: 🟫 LOW
-  - _Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]_
-
-- [New ChocoPoC malware targets researchers via trojanized PoC exploits](https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/)
-  - Confidence: 🟫 LOW
-  - _Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a cam_
-
-- [Kubota says hackers had month-long access to network systems](https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/)
-  - Confidence: 🟫 LOW
-  - _Kubota North America Corporation disclosed that hackers had access to some of its network systems for more than a month earlier this year. [...]_
-
-- [FortiBleed credential-theft campaign linked to Lynx ransomware](https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/)
-  - Confidence: 🟫 LOW
-  - _The massive FortiBleed credential theft campaign has been linked to the INC and Lynx ransomware operations, suggesting the stolen Fortinet credentials were intended to fuel future network intrusions. _
