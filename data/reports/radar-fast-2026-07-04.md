@@ -1,6 +1,6 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-04
-date: 2026-07-04T08:33:52Z
+date: 2026-07-04T13:18:59Z
 type: radar-report
 report_type: fast
 total_opportunities: 40
@@ -93,6 +93,10 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>Hi yall,</p> <p>Ive been building a college planning app called BigSib for a few months and one of the main features is scholarship matching.</p> <p>The way it works _
 
 ## ❓ Uncategorized
+
+- [North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign](https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html)
+  - Confidence: 🟫 LOW
+  - _The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Google Chrome a_
 
 - [New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android](https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html)
   - Confidence: 🟫 LOW
@@ -193,7 +197,3 @@ tags:
 - [Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer](https://thehackernews.com/2026/07/armored-likho-targets-government.html)
   - Confidence: 🟫 LOW
   - _A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan.  "_
-
-- [PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords](https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data.  The stealer, discovered by_
