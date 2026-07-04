@@ -1,6 +1,6 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-04
-date: 2026-07-04T13:18:59Z
+date: 2026-07-04T19:08:01Z
 type: radar-report
 report_type: fast
 total_opportunities: 40
@@ -93,6 +93,14 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>Hi yall,</p> <p>Ive been building a college planning app called BigSib for a few months and one of the main features is scholarship matching.</p> <p>The way it works _
 
 ## ❓ Uncategorized
+
+- [U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case](https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html)
+  - Confidence: 🟫 LOW
+  - _A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new&nbsp;case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the_
+
+- [JadePuffer ransomware used AI agent to automate entire attack](https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/)
+  - Confidence: 🟫 LOW
+  - _Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent. [...]_
 
 - [North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign](https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html)
   - Confidence: 🟫 LOW
@@ -189,11 +197,3 @@ tags:
 - [NetNut proxy network disrupted, 2 million infected devices cut off](https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/)
   - Confidence: 🟫 LOW
   - _A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes. [...]_
-
-- [European Parliament Member Investigating Spyware Was Hacked With Pegasus](https://thehackernews.com/2026/07/european-parliament-member.html)
-  - Confidence: 🟫 LOW
-  - _A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving _
-
-- [Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer](https://thehackernews.com/2026/07/armored-likho-targets-government.html)
-  - Confidence: 🟫 LOW
-  - _A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan.  "_
