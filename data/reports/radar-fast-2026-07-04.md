@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-04
-date: 2026-07-04T02:37:53Z
+date: 2026-07-04T08:33:52Z
 type: radar-report
 report_type: fast
-total_opportunities: 45
+total_opportunities: 40
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 45
+**Total opportunities:** 40
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 31 |
+| ❓ Uncategorized | 26 |
 | 🎓 Free Certifications | 14 |
 
 ## 🎓 Free Certifications
@@ -197,23 +197,3 @@ tags:
 - [PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords](https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html)
   - Confidence: 🟫 LOW
   - _Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data.  The stealer, discovered by_
-
-- [Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials](https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access.  "Although tactics differ between_
-
-- [Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices](https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html)
-  - Confidence: 🟫 LOW
-  - _Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic.  Working with the FBI, Lumen, and others, Google's Threat I_
-
-- [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
-  - Confidence: 🟫 LOW
-  - _The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicl_
-
-- [Claude Fable relaunch disappoints users with nerfed performance](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/)
-  - Confidence: 🟫 LOW
-  - _Claude Fable, the company's most powerful model, is now available to all users, but early impressions are disappointing, as it appears to be nowhere near the original release. [...]_
-
-- [Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/)
-  - Confidence: 🟫 LOW
-  - _Anthropic says Claude Fable 5 won't be accessible via Claude subscriptions after July 7, but it's not a permanent change, and the company expects the model to return outside the usage-based plan soon._
