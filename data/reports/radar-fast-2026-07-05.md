@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-05
-date: 2026-07-05T13:25:36Z
+date: 2026-07-05T19:14:03Z
 type: radar-report
 report_type: fast
-total_opportunities: 21
+total_opportunities: 20
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 21
+**Total opportunities:** 20
 
 | Category | Count |
 |----------|-------|
 | 💰 Bug Bounties | 15 |
-| ❓ Uncategorized | 3 |
 | 🏰 CTF Competitions | 2 |
+| ❓ Uncategorized | 2 |
 | 📦 Open Source Tools | 1 |
 
 ## 🏰 CTF Competitions
@@ -120,14 +120,10 @@ tags:
 
 ## ❓ Uncategorized
 
+- [Flipper Zero firmware development continues with community help](https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/)
+  - Confidence: 🟫 LOW
+  - _Flipper Devices says development of the Flipper Zero firmware will continue, albeit with a smaller internal team and greater reliance on community contributions. [...]_
+
 - [Can Malware Transfer Through Wifi](https://www.reddit.com/r/AskNetsec/comments/1un6pce/can_malware_transfer_through_wifi/)
   - Confidence: 🟫 LOW
   - _<!-- SC_OFF --><div class="md"><p>Yo so I've been wondering since my brother tends to have not so safe internet habits, if potential malware from his laptop can potentially transfer to other devices t_
-
-- [U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case](https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html)
-  - Confidence: 🟫 LOW
-  - _A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new&nbsp;case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the_
-
-- [JadePuffer ransomware used AI agent to automate entire attack](https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/)
-  - Confidence: 🟫 LOW
-  - _Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent. [...]_
