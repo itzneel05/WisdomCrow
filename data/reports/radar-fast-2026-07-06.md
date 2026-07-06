@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-06
-date: 2026-07-06T15:26:52Z
+date: 2026-07-06T19:52:52Z
 type: radar-report
 report_type: fast
-total_opportunities: 18
+total_opportunities: 20
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 18
+**Total opportunities:** 20
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 17 |
+| ❓ Uncategorized | 19 |
 | 🎓 Free Certifications | 1 |
 
 ## 🎓 Free Certifications
@@ -28,6 +28,22 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure](https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.  The vulnerability in question is CVE-2026-20896 (CVSS sco_
+
+- [16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems](https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html)
+  - Confidence: 🟫 LOW
+  - _A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.  Dubbed 'Januscape' and tracked as&nbsp;C_
+
+- [Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations](https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html)
+  - Confidence: 🟫 LOW
+  - _An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka C_
+
+- [Vietnam arrests suspects behind HiAnime anime piracy service](https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/)
+  - Confidence: 🟫 LOW
+  - _​Vietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June. [...]_
 
 - [Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT](https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html)
   - Confidence: 🟫 LOW
@@ -88,11 +104,3 @@ tags:
 - [At what point does Burp become the bottleneck instead of the target?](https://www.reddit.com/r/AskNetsec/comments/1uokv3v/at_what_point_does_burp_become_the_bottleneck/)
   - Confidence: 🟫 LOW
   - _<!-- SC_OFF --><div class="md"><p>genuine question. i feel like i spend more time digging through thousands of requests than actually thinking about the application. curious how everyone else deals wi_
-
-- [Week in review: SimpleHelp vulnerability exploited, Oracle EBS Payments flaw under attack](https://www.helpnetsecurity.com/2026/07/05/week-in-review-simplehelp-vulnerability-exploited-oracle-ebs-payments-flaw-under-attack/)
-  - Confidence: 🟫 LOW
-  - _<p>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Companies keep bolting AI onto their products, and the security bill is coming due Companies keep b_
-
-- [Flipper Zero firmware development continues with community help](https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/)
-  - Confidence: 🟫 LOW
-  - _Flipper Devices says development of the Flipper Zero firmware will continue, albeit with a smaller internal team and greater reliance on community contributions. [...]_
