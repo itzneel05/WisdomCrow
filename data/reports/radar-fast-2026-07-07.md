@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-07
-date: 2026-07-07T02:49:29Z
+date: 2026-07-07T09:37:17Z
 type: radar-report
 report_type: fast
-total_opportunities: 61
+total_opportunities: 65
 tags:
   - radar
   - fast
@@ -13,15 +13,30 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 61
+**Total opportunities:** 65
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 39 |
+| ❓ Uncategorized | 40 |
 | 🎓 Free Certifications | 21 |
-| 🏰 CTF Competitions | 1 |
+| 🏰 CTF Competitions | 4 |
 
 ## 🏰 CTF Competitions
+
+- [DownUnderCTF 2026 - CANCELLED](https://ctftime.org/event/3112)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: DownUnderCTF 2026 - CANCELLED (an <a href="/ctf/481">DownUnderCTF</a> event.)<br /> Date: July 17, 2026, 7:30 p.m. &mdash; 19 July 2026, 19:30 UTC &nbsp;<a href="/event/3112.ics">[add to calenda_
+
+- [L3akCTF 2026 [POSTPONED]](https://ctftime.org/event/3061)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: L3akCTF 2026 [POSTPONED] (an <a href="/ctf/1077">L3akCTF</a> event.)<br /> Date: July 10, 2026, 6 p.m. &mdash; 12 July 2026, 18:00 UTC &nbsp;<a href="/event/3061.ics">[add to calendar]</a><br />_
+
+- [CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware](https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`, `india_friendly`
+  - _Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' w_
 
 - [Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments](https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/)
   - Confidence: 🟡 MEDIUM
@@ -136,6 +151,18 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA](https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html)
+  - Confidence: 🟫 LOW
+  - _BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthent_
+
+- [Microsoft testing new Cloud Rebuild Windows 11 recovery feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel. [...]_
+
+- [BeyondTrust warns of critical flaws in remote access software](https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/)
+  - Confidence: 🟫 LOW
+  - _BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]_
 
 - [Fake IT support calls on Microsoft Teams push EtherRAT malware](https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/)
   - Confidence: 🟫 LOW
@@ -284,11 +311,3 @@ tags:
 - [New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions](https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html)
   - Confidence: 🟫 LOW
   - _Researchers at&nbsp;Shandong University&nbsp;have shown a fast new way to pull data off computers that are cut off from every network. The technique, called&nbsp;TrojPix, tweaks on-screen pixels in wa_
-
-- [AI alert-summarization tool that actually reduces triage time?](https://www.reddit.com/r/AskNetsec/comments/1uo554k/ai_alertsummarization_tool_that_actually_reduces/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>copilot has been completely useless for actual triaging. </p> <p>whoever decided every alert needs an AI summary owes me hours of my life back. </p> <p>&quot;possible_
-
-- [At what point does Burp become the bottleneck instead of the target?](https://www.reddit.com/r/AskNetsec/comments/1uokv3v/at_what_point_does_burp_become_the_bottleneck/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>genuine question. i feel like i spend more time digging through thousands of requests than actually thinking about the application. curious how everyone else deals wi_
