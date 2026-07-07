@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-07
-date: 2026-07-07T14:27:24Z
+date: 2026-07-07T19:52:48Z
 type: radar-report
 report_type: fast
-total_opportunities: 69
+total_opportunities: 71
 tags:
   - radar
   - fast
@@ -13,16 +13,41 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 69
+**Total opportunities:** 71
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 43 |
-| 🎓 Free Certifications | 21 |
-| 🏰 CTF Competitions | 4 |
+| ❓ Uncategorized | 41 |
+| 🎓 Free Certifications | 20 |
+| 🏰 CTF Competitions | 9 |
 | 💰 Bug Bounties | 1 |
 
 ## 🏰 CTF Competitions
+
+- [GaianSpace CTF 2026](https://ctftime.org/event/3354)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: GaianSpace CTF 2026 (an <a href="/ctf/1284">GaianSpace CTF</a> event.)<br /> Date: Oct. 10, 2026, 9 p.m. &mdash; 14 Oct. 2026, 21:00 UTC &nbsp;<a href="/event/3354.ics">[add to calendar]</a><br _
+
+- [CSAW CTF Qualification Round 2026](https://ctftime.org/event/3355)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: CSAW CTF Qualification Round 2026 (an <a href="/ctf/18">CSAW CTF Qualification Round</a> event.)<br /> Date: Sept. 18, 2026, 4 p.m. &mdash; 20 Sept. 2026, 16:00 UTC &nbsp;<a href="/event/3355.ic_
+
+- [BDSec CTF 2026](https://ctftime.org/event/3349)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: BDSec CTF 2026 (an <a href="/ctf/811">BDSec CTF</a> event.)<br /> Date: July 20, 2026, 3 p.m. &mdash; 21 July 2026, 15:00 UTC &nbsp;<a href="/event/3349.ics">[add to calendar]</a><br /> Format: _
+
+- [HoneyBadger CTF AvitoTech](https://ctftime.org/event/3362)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: HoneyBadger CTF AvitoTech (an <a href="/ctf/1644">AvitoTech CTF</a> event.)<br /> Date: July 18, 2026, 9 a.m. &mdash; 19 July 2026, 15:00 UTC &nbsp;<a href="/event/3362.ics">[add to calendar]</a_
+
+- [AxiomCTF 2026 Finals](https://ctftime.org/event/3357)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: AxiomCTF 2026 Finals (an <a href="/ctf/1510">Axiom CTF</a> event.)<br /> Date: July 18, 2026, 7 a.m. &mdash; 18 July 2026, 15:00 UTC &nbsp;<a href="/event/3357.ics">[add to calendar]</a><br /> F_
 
 - [DownUnderCTF 2026 - CANCELLED](https://ctftime.org/event/3112)
   - Confidence: 🟢 HIGH
@@ -153,12 +178,51 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<!-- SC_OFF --><div class="md"><p>So I wanted to apply to the Goldwater Scholarship last year but found out too late to apply. Now I'm an incoming transfer student to UCSD (I'll be a junior when I sta_
 
-- [ISC Stormcast For Monday, July 6th, 2026 https://isc.sans.edu/podcastdetail/9994, (Mon, Jul 6th)](https://isc.sans.edu/diary/rss/33122)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data](https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html)
+  - Confidence: 🟫 LOW
+  - _A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown.  The attacker needs only to open a norma_
+
+- [DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts](https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html)
+  - Confidence: 🟫 LOW
+  - _A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per fin_
+
+- [Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots](https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html)
+  - Confidence: 🟫 LOW
+  - _A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project.  From_
+
+- [RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service](https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html)
+  - Confidence: 🟫 LOW
+  - _A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logi_
+
+- [More Odd DNS Records: NIMLOC, (Tue, Jul 7th)](https://isc.sans.edu/diary/rss/33128)
+  - Confidence: 🟫 LOW
+  - _<p>Yesterday, I talked about NAPTR records and how they are related to RCS. But there is another "odd" record that shows up in my DNS logs. This one isn&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t new, b_
+
+- [Weird email after canceling starz](https://www.reddit.com/r/security/comments/1up7wdd/weird_email_after_canceling_starz/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/security/comments/1up7wdd/weird_email_after_canceling_starz/"> <img alt="Weird email after canceling starz" src="https://preview.redd.it/hr0ht61axnbh_
+
+- [Januscape (CVE-2026-53359): Patch your KVM hosts if you expose nested virtualization](https://www.reddit.com/r/security/comments/1upjenx/januscape_cve202653359_patch_your_kvm_hosts_if/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/security/comments/1upjenx/januscape_cve202653359_patch_your_kvm_hosts_if/"> <img alt="Januscape (CVE-2026-53359): Patch your KVM hosts if you expose _
+
+- [Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance](https://www.reddit.com/r/security/comments/1uptha1/secret_claude_tracker_shocks_users_after/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/security/comments/1uptha1/secret_claude_tracker_shocks_users_after/"> <img alt="Secret Claude tracker shocks users after Anthropic’s anti-surveillanc_
+
+- [Spain arrests suspected member of pro-Russian hacktivist groups](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/)
+  - Confidence: 🟫 LOW
+  - _The National Police in Spain have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, both pro-Russian hacktivist groups. [...]_
+
+- [Hidden backdoor in Tenda router firmware grants admin access](https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/)
+  - Confidence: 🟫 LOW
+  - _A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel. [...]_
+
+- [Chinese hackers develop LONGLEASH malware to expand ORB network](https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/)
+  - Confidence: 🟫 LOW
+  - _Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet-facing networking devices, primarily unpatched Ru_
 
 - [Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities](https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html)
   - Confidence: 🟫 LOW
@@ -279,55 +343,3 @@ tags:
 - [JadePuffer: The First Complete LLM-Driven Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack)
   - Confidence: 🟫 LOW
   - _An &quot;agentic threat actor&quot; successfully exploited a Langflow flaw to steal data from a production database server and encrypt other systems._
-
-- [Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure](https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.  The vulnerability in question is CVE-2026-20896 (CVSS sco_
-
-- [16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems](https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html)
-  - Confidence: 🟫 LOW
-  - _A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.  Dubbed 'Januscape' and tracked as&nbsp;C_
-
-- [Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations](https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html)
-  - Confidence: 🟫 LOW
-  - _An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka C_
-
-- [Vietnam arrests suspects behind HiAnime anime piracy service](https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/)
-  - Confidence: 🟫 LOW
-  - _​Vietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June. [...]_
-
-- [Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT](https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html)
-  - Confidence: 🟫 LOW
-  - _A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensiti_
-
-- [How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions](https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html)
-  - Confidence: 🟫 LOW
-  - _Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat_
-
-- [⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More](https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html)
-  - Confidence: 🟫 LOW
-  - _A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were_
-
-- [RCS and DNS: The NAPTR Record, (Mon, Jul 6th)](https://isc.sans.edu/diary/rss/33124)
-  - Confidence: 🟫 LOW
-  - _<p>Over the last year, with recent updates to iOS and Android, RCS (Rich Communication Services) has become an increasingly used protocol &#x5b;1&#x5d;. RCS is supposed to eventually replace SMS, and _
-
-- [Playing Around With ADIDNS RPC Internals](https://www.reddit.com/r/netsec/comments/1uosc1r/playing_around_with_adidns_rpc_internals/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Porting the functionality of dnscmd.exe into (slightly) more OPSEC safe Beacon Object Files (BOFs) so you can get domain admin rights when you manage to impersonate a_
-
-- [Windows Service - Playbook & Detection Strategies](https://www.reddit.com/r/netsec/comments/1uor6dt/windows_service_playbook_detection_strategies/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/netbiosX"> /u/netbiosX </a> <br /> <span><a href="https://ipurple.team/2026/07/06/windows-service/">[link]</a></span> &#32; <span><a href=_
-
-- [New OST2 class: "Architecture 1901: From zero to QEMU - A Gentle introduction to emulators from the ground up!"](https://www.reddit.com/r/netsec/comments/1uoz05q/new_ost2_class_architecture_1901_from_zero_to/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>This free class by Antonio Nappa of Fuzz Society builds up your knowledge from learning a toy 8-bit CPU architecture all the way to understanding how QEMU can emulate_
-
-- [Max severity Adobe ColdFusion flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _Attackers are now exploiting a maximum-severity Adobe ColdFusion vulnerability tracked as CVE-2026-48282, according to vulnerability intelligence company KEVIntel. [...]_
-
-- [Software Is Now Written at the Speed of Thought. Security Isn't.](https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/)
-  - Confidence: 🟫 LOW
-  - _Every evolution in software development has reduced the friction between an idea and a deployable application. AI may remove the final barrier, but it also removes many of the moments where security d_
