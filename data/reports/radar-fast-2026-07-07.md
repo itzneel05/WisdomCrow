@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-07
-date: 2026-07-07T09:37:17Z
+date: 2026-07-07T14:27:24Z
 type: radar-report
 report_type: fast
-total_opportunities: 65
+total_opportunities: 69
 tags:
   - radar
   - fast
@@ -13,13 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 65
+**Total opportunities:** 69
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 40 |
+| ❓ Uncategorized | 43 |
 | 🎓 Free Certifications | 21 |
 | 🏰 CTF Competitions | 4 |
+| 💰 Bug Bounties | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -42,6 +43,13 @@ tags:
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
   - _<p>Researchers uncovered two campaigns embedding indirect prompt injections in malicious websites to exploit autonomous AI agents browsing the web.</p> <p>The post <a href="https://www.securityweek.co_
+
+## 💰 Bug Bounties
+
+- [Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants](https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result _
 
 ## 🎓 Free Certifications
 
@@ -151,6 +159,34 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities](https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html)
+  - Confidence: 🟫 LOW
+  - _A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of _
+
+- [What Changes When Your Software Supply Chain Includes AI Writing Your Code?](https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html)
+  - Confidence: 🟫 LOW
+  - _Software supply chain security was hard enough. Then AI joined the build pipeline.  For five years, "software supply chain security" meant one question: what's in your code? Which open-source packages_
+
+- [Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker](https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html)
+  - Confidence: 🟫 LOW
+  - _U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint.  Microsoft _
+
+- [Microsoft to enable Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/)
+  - Confidence: 🟫 LOW
+  - _Microsoft says the Windows settings backup and restore tool will be enabled by default on Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems after upgrading to Windows 11 26H2._
+
+- [New Januscape Linux flaw allows VM escape on Intel, AMD devices](https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/)
+  - Confidence: 🟫 LOW
+  - _A 16-year-old Linux kernel vulnerability, dubbed Januscape, allows attackers to escape a virtual machine and execute arbitrary code on the host. [...]_
+
+- [Webinar tomorrow: Why modern email attacks require a new approach to defense](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/)
+  - Confidence: 🟫 LOW
+  - _Tomorrow's webinar explores how behavioral AI can help organizations detect sophisticated phishing, business email compromise, and account takeover attacks while reducing alert fatigue through automat_
+
+- [The GitHub Actions Attack Pattern Your CI Security Scanners Miss](https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/)
+  - Confidence: 🟫 LOW
+  - _ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeline, and how organizations can better govern their _
 
 - [BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA](https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html)
   - Confidence: 🟫 LOW
@@ -295,19 +331,3 @@ tags:
 - [Software Is Now Written at the Speed of Thought. Security Isn't.](https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/)
   - Confidence: 🟫 LOW
   - _Every evolution in software development has reduced the friction between an idea and a deployable application. AI may remove the final barrier, but it also removes many of the moments where security d_
-
-- [SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing](https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html)
-  - Confidence: 🟫 LOW
-  - _Scanners meant to catch malicious add-on "skills" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a&nbsp;new study&nbsp;from researchers at the _
-
-- [Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages](https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html)
-  - Confidence: 🟫 LOW
-  - _Researchers found a flaw in&nbsp;Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pag_
-
-- [New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS](https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments.  According to LevelBlue, the cr_
-
-- [New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions](https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html)
-  - Confidence: 🟫 LOW
-  - _Researchers at&nbsp;Shandong University&nbsp;have shown a fast new way to pull data off computers that are cut off from every network. The technique, called&nbsp;TrojPix, tweaks on-screen pixels in wa_
