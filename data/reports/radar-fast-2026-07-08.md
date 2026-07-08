@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-08
-date: 2026-07-08T08:24:21Z
+date: 2026-07-08T13:58:12Z
 type: radar-report
 report_type: fast
-total_opportunities: 60
+total_opportunities: 62
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 60
+**Total opportunities:** 62
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 49 |
-| 🏰 CTF Competitions | 8 |
+| ❓ Uncategorized | 53 |
+| 🏰 CTF Competitions | 5 |
+| 🎓 Free Certifications | 2 |
 | 💰 Bug Bounties | 1 |
-| 🎓 Free Certifications | 1 |
 | 📦 Open Source Tools | 1 |
 
 ## 🏰 CTF Competitions
@@ -50,21 +50,6 @@ tags:
   - Tags: `ctf`
   - _Name: AxiomCTF 2026 Finals (an <a href="/ctf/1510">Axiom CTF</a> event.)<br /> Date: July 18, 2026, 7 a.m. &mdash; 18 July 2026, 15:00 UTC &nbsp;<a href="/event/3357.ics">[add to calendar]</a><br /> F_
 
-- [DownUnderCTF 2026 - CANCELLED](https://ctftime.org/event/3112)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: DownUnderCTF 2026 - CANCELLED (an <a href="/ctf/481">DownUnderCTF</a> event.)<br /> Date: July 17, 2026, 7:30 p.m. &mdash; 19 July 2026, 19:30 UTC &nbsp;<a href="/event/3112.ics">[add to calenda_
-
-- [L3akCTF 2026 [POSTPONED]](https://ctftime.org/event/3061)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: L3akCTF 2026 [POSTPONED] (an <a href="/ctf/1077">L3akCTF</a> event.)<br /> Date: July 10, 2026, 6 p.m. &mdash; 12 July 2026, 18:00 UTC &nbsp;<a href="/event/3061.ics">[add to calendar]</a><br />_
-
-- [CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware](https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`, `india_friendly`
-  - _Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' w_
-
 ## 💰 Bug Bounties
 
 - [Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants](https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html)
@@ -73,6 +58,11 @@ tags:
   - _Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result _
 
 ## 🎓 Free Certifications
+
+- [China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware](https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices.  According to_
 
 - [ISC Stormcast For Wednesday, July 8th, 2026 https://isc.sans.edu/podcastdetail/9998, (Wed, Jul 8th)](https://isc.sans.edu/diary/rss/33136)
   - Confidence: 🟢 HIGH
@@ -87,6 +77,34 @@ tags:
   - _<h2>It's Time to Upgrade Your SMB Session</h2><p>This week, Metasploit contributor Dean Welch has added an SMB to Meterpreter session upgrade module. It uses PsExec to facilitate the upgrade. Users ca_
 
 ## ❓ Uncategorized
+
+- [GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code](https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html)
+  - Confidence: 🟫 LOW
+  - _An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is th_
+
+- [The Verification Step Is the New ATO Battleground in 2026](https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html)
+  - Confidence: 🟫 LOW
+  - _For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, s_
+
+- [GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures](https://thehackernews.com/2026/07/github-verified-commits-can-be.html)
+  - Confidence: 🟫 LOW
+  - _New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a s_
+
+- [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/)
+  - Confidence: 🟫 LOW
+  - _A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most_
+
+- [CISA orders feds to prioritize patching Langflow auth bypass flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents_
+
+- [Telco giant KDDI says data breach affects over 12 million people](https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/)
+  - Confidence: 🟫 LOW
+  - _Japanese telecommunications giant KDDI says that millions of people had their email addresses and passwords exposed after attackers breached an email platform used by five internet service providers (_
+
+- [DuckDuckGo browser now blocks YouTube video ads](https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/)
+  - Confidence: 🟫 LOW
+  - _DuckDuckGo announced that its browser can now block most video ads on YouTube, including those shown before the video starts playing and during playback. [...]_
 
 - [CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV](https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html)
   - Confidence: 🟫 LOW
@@ -271,15 +289,3 @@ tags:
 - [The GitHub Actions Attack Pattern Your CI Security Scanners Miss](https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/)
   - Confidence: 🟫 LOW
   - _ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeline, and how organizations can better govern their _
-
-- [BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA](https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html)
-  - Confidence: 🟫 LOW
-  - _BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthent_
-
-- [Microsoft testing new Cloud Rebuild Windows 11 recovery feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel. [...]_
-
-- [BeyondTrust warns of critical flaws in remote access software](https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/)
-  - Confidence: 🟫 LOW
-  - _BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]_
