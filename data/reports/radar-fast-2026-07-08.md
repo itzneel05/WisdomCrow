@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-08
-date: 2026-07-08T02:26:52Z
+date: 2026-07-08T08:24:21Z
 type: radar-report
 report_type: fast
-total_opportunities: 58
+total_opportunities: 60
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 58
+**Total opportunities:** 60
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 46 |
+| ❓ Uncategorized | 49 |
 | 🏰 CTF Competitions | 8 |
-| 🎓 Free Certifications | 2 |
 | 💰 Bug Bounties | 1 |
+| 🎓 Free Certifications | 1 |
 | 📦 Open Source Tools | 1 |
 
 ## 🏰 CTF Competitions
@@ -79,11 +79,6 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
-- [ISC Stormcast For Tuesday, July 7th, 2026 https://isc.sans.edu/podcastdetail/9996, (Tue, Jul 7th)](https://isc.sans.edu/diary/rss/33126)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## 📦 Open Source Tools
 
 - [Weekly Metasploit Update: Modules for SMB-to-Meterpreter, Peyara Remote Mouse RCE exploit, and more](https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-07-03-2026)
@@ -92,6 +87,26 @@ tags:
   - _<h2>It's Time to Upgrade Your SMB Session</h2><p>This week, Metasploit contributor Dean Welch has added an SMB to Meterpreter session upgrade module. It uses PsExec to facilitate the upgrade. Users ca_
 
 ## ❓ Uncategorized
+
+- [CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV](https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.  The_
+
+- [15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros](https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html)
+  - Confidence: 🟫 LOW
+  - _Researchers at&nbsp;Nebula Security&nbsp;have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full&nbsp;root&nbsp;control of a machine that has _
+
+- [My Stack Simulator, (Wed, Jul 8th)](https://isc.sans.edu/diary/rss/33138)
+  - Confidence: 🟫 LOW
+  - _<p>The stack is a memory region where a program stores temporary data -&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;like local variables and return addresses. Thin_
+
+- [CISA orders feds to patch max severity ColdFusion flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app develop_
+
+- [Ubiquiti warns of new max severity  UniFi OS vulnerability](https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/)
+  - Confidence: 🟫 LOW
+  - _Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in command injection attacks. [...]_
 
 - [Accenture confirms breach after hacker offers stolen data for sale](https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/)
   - Confidence: 🟫 LOW
@@ -268,11 +283,3 @@ tags:
 - [BeyondTrust warns of critical flaws in remote access software](https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/)
   - Confidence: 🟫 LOW
   - _BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]_
-
-- [Fake IT support calls on Microsoft Teams push EtherRAT malware](https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/)
-  - Confidence: 🟫 LOW
-  - _Threat actors are abusing Microsoft Teams voice calls by impersonating corporate IT support staff to trick employees into installing the EtherRAT malware, giving attackers initial access to corporate _
-
-- [Phishing poses as big-brand job interview to steal Google accounts](https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/)
-  - Confidence: 🟫 LOW
-  - _A phishing campaign is impersonating more than 30 well-known brands, including Adobe, Netflix, Coca-Cola, and OpenAI, in fake job interviews to steal Google account credentials from marketing professi_
