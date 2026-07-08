@@ -1,6 +1,6 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-08
-date: 2026-07-08T13:58:12Z
+date: 2026-07-08T19:22:00Z
 type: radar-report
 report_type: fast
 total_opportunities: 62
@@ -17,10 +17,9 @@ tags:
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 53 |
+| ❓ Uncategorized | 54 |
 | 🏰 CTF Competitions | 5 |
 | 🎓 Free Certifications | 2 |
-| 💰 Bug Bounties | 1 |
 | 📦 Open Source Tools | 1 |
 
 ## 🏰 CTF Competitions
@@ -50,13 +49,6 @@ tags:
   - Tags: `ctf`
   - _Name: AxiomCTF 2026 Finals (an <a href="/ctf/1510">Axiom CTF</a> event.)<br /> Date: July 18, 2026, 7 a.m. &mdash; 18 July 2026, 15:00 UTC &nbsp;<a href="/event/3357.ics">[add to calendar]</a><br /> F_
 
-## 💰 Bug Bounties
-
-- [Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants](https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result _
-
 ## 🎓 Free Certifications
 
 - [China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware](https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html)
@@ -77,6 +69,38 @@ tags:
   - _<h2>It's Time to Upgrade Your SMB Session</h2><p>This week, Metasploit contributor Dean Welch has added an SMB to Meterpreter session upgrade module. It uses PsExec to facilitate the upgrade. Users ca_
 
 ## ❓ Uncategorized
+
+- [SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users](https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html)
+  - Confidence: 🟫 LOW
+  - _A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures.  The activity cluster, tracked by Elastic Se_
+
+- [New Ghost Phishing Wave Is Breaking Traditional Email Security](https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html)
+  - Confidence: 🟫 LOW
+  - _A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This “ghost phishing” technique keeps the malicious page hidden until it decrypt_
+
+- [Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS](https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html)
+  - Confidence: 🟫 LOW
+  - _Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and ar_
+
+- [New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware](https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html)
+  - Confidence: 🟫 LOW
+  - _AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist.  New research, which its_
+
+- [AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers](https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html)
+  - Confidence: 🟫 LOW
+  - _Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders.  The ag_
+
+- [3 Ways AI Powers Service Desk Attacks and How to Prevent Them](https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/)
+  - Confidence: 🟫 LOW
+  - _Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding an_
+
+- [Entra passkey enrollment vishing targets Microsoft 365 users](https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/)
+  - Confidence: 🟫 LOW
+  - _A threat actor has been targeting organizations across multiple sectors with voice-based fake security requests that ask Microsoft 365 users to enroll a new Entra passkey. [...]_
+
+- [Hackers exploit Roundcube flaw to spy on academic researchers](https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/)
+  - Confidence: 🟫 LOW
+  - _A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backdoor malware. [...]_
 
 - [GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code](https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html)
   - Confidence: 🟫 LOW
@@ -261,31 +285,3 @@ tags:
 - [Chinese hackers develop LONGLEASH malware to expand ORB network](https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/)
   - Confidence: 🟫 LOW
   - _Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet-facing networking devices, primarily unpatched Ru_
-
-- [Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities](https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html)
-  - Confidence: 🟫 LOW
-  - _A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of _
-
-- [What Changes When Your Software Supply Chain Includes AI Writing Your Code?](https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html)
-  - Confidence: 🟫 LOW
-  - _Software supply chain security was hard enough. Then AI joined the build pipeline.  For five years, "software supply chain security" meant one question: what's in your code? Which open-source packages_
-
-- [Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker](https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html)
-  - Confidence: 🟫 LOW
-  - _U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint.  Microsoft _
-
-- [Microsoft to enable Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/)
-  - Confidence: 🟫 LOW
-  - _Microsoft says the Windows settings backup and restore tool will be enabled by default on Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems after upgrading to Windows 11 26H2._
-
-- [New Januscape Linux flaw allows VM escape on Intel, AMD devices](https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/)
-  - Confidence: 🟫 LOW
-  - _A 16-year-old Linux kernel vulnerability, dubbed Januscape, allows attackers to escape a virtual machine and execute arbitrary code on the host. [...]_
-
-- [Webinar tomorrow: Why modern email attacks require a new approach to defense](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/)
-  - Confidence: 🟫 LOW
-  - _Tomorrow's webinar explores how behavioral AI can help organizations detect sophisticated phishing, business email compromise, and account takeover attacks while reducing alert fatigue through automat_
-
-- [The GitHub Actions Attack Pattern Your CI Security Scanners Miss](https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/)
-  - Confidence: 🟫 LOW
-  - _ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeline, and how organizations can better govern their _
