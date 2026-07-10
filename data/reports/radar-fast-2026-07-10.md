@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-10
-date: 2026-07-10T02:43:59Z
+date: 2026-07-10T09:31:09Z
 type: radar-report
 report_type: fast
-total_opportunities: 50
+total_opportunities: 54
 tags:
   - radar
   - fast
@@ -13,12 +13,20 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 50
+**Total opportunities:** 54
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 49 |
+| ❓ Uncategorized | 52 |
+| 🏰 CTF Competitions | 1 |
 | 🎓 Free Certifications | 1 |
+
+## 🏰 CTF Competitions
+
+- [Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets](https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _Security firm&nbsp;Coinspect&nbsp;has disclosed a crypto wallet flaw it calls&nbsp;Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase,_
 
 ## 🎓 Free Certifications
 
@@ -28,6 +36,18 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks](https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html)
+  - Confidence: 🟫 LOW
+  - _A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operator_
+
+- ["Comment stuffing" in an HTML phishing attachment as a mechanism for evading AI-based detection&#x3f;, (Fri, Jul 10th)](https://isc.sans.edu/diary/rss/33144)
+  - Confidence: 🟫 LOW
+  - _<p>Anyone who deals with phishing messages caught by basic security filters knows that most phishing samples tend to blend into one another, since only a small set of techniques and approaches keeps r_
+
+- [Former ransomware negotiator gets 4 years for BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/)
+  - Confidence: 🟫 LOW
+  - _A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]_
 
 - [Injective SDK on npm infected with cryptocurrency wallet stealer](https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/)
   - Confidence: 🟫 LOW
