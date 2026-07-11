@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-11
-date: 2026-07-11T02:25:05Z
+date: 2026-07-11T07:51:54Z
 type: radar-report
 report_type: fast
-total_opportunities: 55
+total_opportunities: 62
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 55
+**Total opportunities:** 62
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 50 |
+| ❓ Uncategorized | 57 |
 | 🏰 CTF Competitions | 3 |
-| 🎓 Free Certifications | 1 |
+| 💰 Bug Bounties | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
@@ -39,12 +39,12 @@ tags:
   - Tags: `ctf`
   - _Security firm&nbsp;Coinspect&nbsp;has disclosed a crypto wallet flaw it calls&nbsp;Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase,_
 
-## 🎓 Free Certifications
+## 💰 Bug Bounties
 
-- [ISC Stormcast For Friday, July 10th, 2026 https://isc.sans.edu/podcastdetail/10002, (Fri, Jul 10th)](https://isc.sans.edu/diary/rss/33142)
+- [Looking for bug bounty hunters & security researchers in Cape Town](https://www.reddit.com/r/Pentesting/comments/1urz2a5/looking_for_bug_bounty_hunters_security/)
   - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,<br /> I'm looking to connect with bug bounty hunters, penetration testers, and security researchers based in Cape Town.<br /> The idea is to build a sma_
 
 ## 🔥 Hackathons & Conferences
 
@@ -53,6 +53,42 @@ tags:
   - Tags: `hackathon`, `india_friendly`
 
 ## ❓ Uncategorized
+
+- [Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions](https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html)
+  - Confidence: 🟫 LOW
+  - _Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution.  The vulnerability has been des_
+
+- [Introducing Mark2 (name not decided yet): An Agentic Home Network Security Pipeline](https://www.reddit.com/r/Pentesting/comments/1us3uem/introducing_mark2_name_not_decided_yet_an_agentic/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1us3uem/introducing_mark2_name_not_decided_yet_an_agentic/"> <img alt="Introducing Mark2 (name not decided yet): An Agentic Home _
+
+- [WP Spike is a Free Wordpress Pentesting Chrome Extension](https://www.reddit.com/r/Pentesting/comments/1urlbt4/wp_spike_is_a_free_wordpress_pentesting_chrome/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1urlbt4/wp_spike_is_a_free_wordpress_pentesting_chrome/"> <img alt="WP Spike is a Free Wordpress Pentesting Chrome Extension" src_
+
+- [Built a web scanner that runs entirely local — no target ever leaves the box. Looking for pentester feedback.](https://www.reddit.com/r/Pentesting/comments/1usl4h7/built_a_web_scanner_that_runs_entirely_local_no/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Solo dev, infosec background. Been building this for about a year and I'd rather</p> <p>hear from people who break things for a living than from a launch crowd.</p> <_
+
+- [ThreatTracer v5.0 - one command to triage a CVE across NVD/KEV/EPSS/ExploitDB/Nuclei/Metasploit, with optional local AI summaries](https://www.reddit.com/r/Pentesting/comments/1ut1j1o/threattracer_v50_one_command_to_triage_a_cve/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1ut1j1o/threattracer_v50_one_command_to_triage_a_cve/"> <img alt="ThreatTracer v5.0 - one command to triage a CVE across NVD/KEV/_
+
+- [I built VulneraMCP—an open-source Model Context Protocol (MCP) server that gives AI assistants access to practical security testing tools.](https://www.reddit.com/r/Pentesting/comments/1uspli0/i_built_vulneramcpan_opensource_model_context/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>The idea came from wanting an AI assistant to do more than explain vulnerabilities. I wanted it to actually help with security workflows.</p> <p>Current capabilities _
+
+- [Next steps for Cyber Security reconnaissance I have got the Server details and other info about website Now what to do?](https://www.reddit.com/r/Pentesting/comments/1ut95ok/next_steps_for_cyber_security_reconnaissance_i/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I have got the:<br /> Info on Server running on which language. (even the version of the language)<br /> The operating system information<br /> The site's IP address _
+
+- [Confused about the general market and how things have been](https://www.reddit.com/r/Pentesting/comments/1uss9n2/confused_about_the_general_market_and_how_things/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hello all, a fellow pentester/adversarial Engineer with about 4.5 years of experience. Have stayed with the same company I interned with from college. The thing is th_
+
+- [AI Replacing Humans](https://www.reddit.com/r/Pentesting/comments/1ustya7/ai_replacing_humans/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hello fellow pentesters. I am a Senior Pentester, and i am curious at how many of you have experienced being replaced or have had a looming threat of being replaced b_
 
 - [New U-Boot flaws could enable stealthy firmware attacks](https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/)
   - Confidence: 🟫 LOW
@@ -245,11 +281,3 @@ tags:
 - [Former ransomware negotiator gets 4 years for BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/)
   - Confidence: 🟫 LOW
   - _A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]_
-
-- [Injective SDK on npm infected with cryptocurrency wallet stealer](https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/)
-  - Confidence: 🟫 LOW
-  - _Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mn_
-
-- [OpenMandriva Linux says contributor tried to sabotage the project](https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/)
-  - Confidence: 🟫 LOW
-  - _The OpenMandriva Linux project announced that it was the target of an attempted act of internal sabotage after a dispute among contributors. [...]_
