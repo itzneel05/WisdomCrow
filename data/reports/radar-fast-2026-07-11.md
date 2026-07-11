@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-11
-date: 2026-07-11T13:13:08Z
+date: 2026-07-11T18:59:07Z
 type: radar-report
 report_type: fast
-total_opportunities: 60
+total_opportunities: 54
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 60
+**Total opportunities:** 54
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 56 |
-| 🏰 CTF Competitions | 2 |
-| 💰 Bug Bounties | 1 |
+| ❓ Uncategorized | 50 |
+| 💰 Bug Bounties | 2 |
+| 🏰 CTF Competitions | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
@@ -29,17 +29,17 @@ tags:
   - Tags: `ctf`
   - _Name: ATHENA CTF (an <a href="/ctf/1626">Athena CTF </a> event.)<br /> Date: July 18, 2026, 5:30 a.m. &mdash; 19 July 2026, 05:30 UTC &nbsp;<a href="/event/3366.ics">[add to calendar]</a><br /> Format_
 
-- [Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets](https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _Security firm&nbsp;Coinspect&nbsp;has disclosed a crypto wallet flaw it calls&nbsp;Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase,_
-
 ## 💰 Bug Bounties
 
 - [Looking for bug bounty hunters & security researchers in Cape Town](https://www.reddit.com/r/Pentesting/comments/1urz2a5/looking_for_bug_bounty_hunters_security/)
   - Confidence: 🟢 HIGH
   - Tags: `bug_bounty`
   - _<!-- SC_OFF --><div class="md"><p>Hey everyone,<br /> I'm looking to connect with bug bounty hunters, penetration testers, and security researchers based in Cape Town.<br /> The idea is to build a sma_
+
+- [Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns](https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`, `india_friendly`
+  - _Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat a_
 
 ## 🔥 Hackathons & Conferences
 
@@ -48,6 +48,14 @@ tags:
   - Tags: `hackathon`, `india_friendly`
 
 ## ❓ Uncategorized
+
+- [Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install](https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html)
+  - Confidence: 🟫 LOW
+  - _Version&nbsp;8.14.0&nbsp;of the jscrambler npm package shipped with a malicious&nbsp;preinstall&nbsp;hook that silently drops and runs a native infostealer during installation, one build each for Wind_
+
+- [Australia warns of global campaign targeting vulnerable CMS platforms](https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/)
+  - Confidence: 🟫 LOW
+  - _The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]_
 
 - [Wireshark 4.6.7 Released, (Sat, Jul 11th)](https://isc.sans.edu/diary/rss/33146)
   - Confidence: 🟫 LOW
@@ -240,35 +248,3 @@ tags:
 - [Ryuk ransomware member pleads guilty in the US, faces 15 years in prison](https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/)
   - Confidence: 🟫 LOW
   - _A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]_
-
-- [Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access](https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html)
-  - Confidence: 🟫 LOW
-  - _A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out_
-
-- [Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking](https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html)
-  - Confidence: 🟫 LOW
-  - _Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic_
-
-- [Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites](https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html)
-  - Confidence: 🟫 LOW
-  - _A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming mo_
-
-- [From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale](https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html)
-  - Confidence: 🟫 LOW
-  - _Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report,_
-
-- [Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers](https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html)
-  - Confidence: 🟫 LOW
-  - _A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch.  FoxIO resea_
-
-- [New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic](https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html)
-  - Confidence: 🟫 LOW
-  - _The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON.  Chinese cybersecurity company QiAnXin said that while the th_
-
-- [Zimbra urges customers to patch critical web client XSS flaw](https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/)
-  - Confidence: 🟫 LOW
-  - _The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite. [...]_
-
-- [The Replicant in Your Directory: AI Agents and the Identity Security Gap](https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/)
-  - Confidence: 🟫 LOW
-  - _AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibili_
