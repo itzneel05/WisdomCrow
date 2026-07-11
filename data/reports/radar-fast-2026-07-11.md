@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-11
-date: 2026-07-11T07:51:54Z
+date: 2026-07-11T13:13:08Z
 type: radar-report
 report_type: fast
-total_opportunities: 62
+total_opportunities: 60
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 62
+**Total opportunities:** 60
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 57 |
-| 🏰 CTF Competitions | 3 |
+| ❓ Uncategorized | 56 |
+| 🏰 CTF Competitions | 2 |
 | 💰 Bug Bounties | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 
@@ -30,11 +30,6 @@ tags:
   - _Name: ATHENA CTF (an <a href="/ctf/1626">Athena CTF </a> event.)<br /> Date: July 18, 2026, 5:30 a.m. &mdash; 19 July 2026, 05:30 UTC &nbsp;<a href="/event/3366.ics">[add to calendar]</a><br /> Format_
 
 - [Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets](https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _Security firm&nbsp;Coinspect&nbsp;has disclosed a crypto wallet flaw it calls&nbsp;Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase,_
-
-- [Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets](https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
   - _Security firm&nbsp;Coinspect&nbsp;has disclosed a crypto wallet flaw it calls&nbsp;Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase,_
@@ -53,6 +48,14 @@ tags:
   - Tags: `hackathon`, `india_friendly`
 
 ## ❓ Uncategorized
+
+- [Wireshark 4.6.7 Released, (Sat, Jul 11th)](https://isc.sans.edu/diary/rss/33146)
+  - Confidence: 🟫 LOW
+  - _<p>Wireshark release <a href="https://www.wireshark.org/docs/relnotes/wireshark-4.6.7.html">4.6.7</a> fixes 12 vulnerabilities and 16 bugs.</p>&#xd;_
+
+- ['Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets](https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/)
+  - Confidence: 🟫 LOW
+  - _A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open im_
 
 - [Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions](https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html)
   - Confidence: 🟫 LOW
@@ -269,15 +272,3 @@ tags:
 - [The Replicant in Your Directory: AI Agents and the Identity Security Gap](https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/)
   - Confidence: 🟫 LOW
   - _AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibili_
-
-- [Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks](https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html)
-  - Confidence: 🟫 LOW
-  - _A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operator_
-
-- ["Comment stuffing" in an HTML phishing attachment as a mechanism for evading AI-based detection&#x3f;, (Fri, Jul 10th)](https://isc.sans.edu/diary/rss/33144)
-  - Confidence: 🟫 LOW
-  - _<p>Anyone who deals with phishing messages caught by basic security filters knows that most phishing samples tend to blend into one another, since only a small set of techniques and approaches keeps r_
-
-- [Former ransomware negotiator gets 4 years for BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/)
-  - Confidence: 🟫 LOW
-  - _A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]_
