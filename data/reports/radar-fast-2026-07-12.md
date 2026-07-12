@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-12
-date: 2026-07-12T13:14:27Z
+date: 2026-07-12T19:01:58Z
 type: radar-report
 report_type: fast
-total_opportunities: 9
+total_opportunities: 7
 tags:
   - radar
   - fast
@@ -13,20 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 9
+**Total opportunities:** 7
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 7 |
-| 💰 Bug Bounties | 1 |
+| ❓ Uncategorized | 6 |
 | 📦 Open Source Tools | 1 |
-
-## 💰 Bug Bounties
-
-- [Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns](https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`, `india_friendly`
-  - _Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat a_
 
 ## 📦 Open Source Tools
 
@@ -36,6 +28,10 @@ tags:
   - _<h2>More AI, more software, more bugs!</h2><p>AI, it's all you hear about nowadays and everyone's got an opinion on it. Here at Metasploit, we care less about those opinions and more about the growing_
 
 ## ❓ Uncategorized
+
+- [RedHook Android malware now uses Wireless ADB for shell access](https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/)
+  - Confidence: 🟫 LOW
+  - _A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]_
 
 - [I have no ambition, no particular skills, I'm perpetually tired, and straight up lazy. Is night time security the field for me?](https://www.reddit.com/r/security/comments/1usogf6/i_have_no_ambition_no_particular_skills_im/)
   - Confidence: 🟫 LOW
@@ -56,11 +52,3 @@ tags:
 - [Jen Ellis: Connecting Cyber Community With Political Machinery](https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery)
   - Confidence: 🟫 LOW
   - _Security Pro File: On the heels of her recent honors as a Member of the Order of the British Empire (MBE), we take a look back at the events that shaped Jen Ellis' advocacy on behalf of security resea_
-
-- [Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install](https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html)
-  - Confidence: 🟫 LOW
-  - _Version&nbsp;8.14.0&nbsp;of the jscrambler npm package shipped with a malicious&nbsp;preinstall&nbsp;hook that silently drops and runs a native infostealer during installation, one build each for Wind_
-
-- [Australia warns of global campaign targeting vulnerable CMS platforms](https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/)
-  - Confidence: 🟫 LOW
-  - _The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]_
