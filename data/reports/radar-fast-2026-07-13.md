@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-13
-date: 2026-07-13T09:21:19Z
+date: 2026-07-13T14:29:05Z
 type: radar-report
 report_type: fast
-total_opportunities: 12
+total_opportunities: 23
 tags:
   - radar
   - fast
@@ -13,15 +13,20 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 12
+**Total opportunities:** 23
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 9 |
-| 🏰 CTF Competitions | 2 |
+| ❓ Uncategorized | 19 |
+| 🏰 CTF Competitions | 3 |
 | 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
+
+- [Breach at the Beach: Play the Ultimate Entra ID CTF](https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`, `india_friendly`
+  - _Learn how attackers abuse Entra ID through a free hands-on Capture the Flag. Varonis created the Breach at the Beach CTF to teach defenders how to investigate Entra ID attack techniques using realisti_
 
 - [Securinets CTF Quals 2026](https://ctftime.org/event/3364)
   - Confidence: 🟢 HIGH
@@ -41,6 +46,54 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory](https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration.  "The script looked for the Domain _
+
+- [Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots](https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html)
+  - Confidence: 🟫 LOW
+  - _A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connec_
+
+- [Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling](https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html)
+  - Confidence: 🟫 LOW
+  - _Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read. _
+
+- [Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft](https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html)
+  - Confidence: 🟫 LOW
+  - _A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assis_
+
+- [Scanning malicious websites with arbitrary number of VPN tunnels (Part 2)](https://www.reddit.com/r/netsec/comments/1uto85z/scanning_malicious_websites_with_arbitrary_number/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/moonlightelite"> /u/moonlightelite </a> <br /> <span><a href="https://discounttimu.substack.com/p/scanning-malicious-websites-with-cfe">[l_
+
+- [Persistence via Fake AMSI Provider | Playbook & Detection Strategies](https://www.reddit.com/r/netsec/comments/1uv54e4/persistence_via_fake_amsi_provider_playbook/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/netbiosX"> /u/netbiosX </a> <br /> <span><a href="https://ipurple.team/2026/07/13/amsi-provider/">[link]</a></span> &#32; <span><a href="h_
+
+- [Vulnerability in Realtek driver allows DMA controller abuse from user mode with no additional hardware or driver](https://www.reddit.com/r/netsec/comments/1uuquzx/vulnerability_in_realtek_driver_allows_dma/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>The vulnerability allows non-privileged users to program the DMA controller, enabling arbitrary physical memory reads and writes.</p> </div><!-- SC_ON --> &#32; submi_
+
+- [Dell BIOS Passwords: Weak XOR Encryption Allows Recovery from SPI Flash (CVE-2026-40639)](https://www.reddit.com/r/netsec/comments/1uv6qbn/dell_bios_passwords_weak_xor_encryption_allows/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/sajkoterrapefft"> /u/sajkoterrapefft </a> <br /> <span><a href="https://blog.amberwolf.com/blog/2026/july/dell-bios-passwords-weak-xor-enc_
+
+- [US and allies warn of Russian critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate crit_
+
+- [EU sanctions Russian GRU military hackers over cyberattacks](https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/)
+  - Confidence: 🟫 LOW
+  - _The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Eu_
+
+- [UK charges suspects linked to Russian Coms call spoofing platform](https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/)
+  - Confidence: 🟫 LOW
+  - _UK authorities charged five people following a National Crime Agency (NCA) investigation into Russian Coms, a major caller ID spoofing platform used by criminals to make over 1.8 million scam calls. [_
+
+- [Lidl discloses online shop breach after service provider hack](https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/)
+  - Confidence: 🟫 LOW
+  - _German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider. [...]_
 
 - [iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days](https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html)
   - Confidence: 🟫 LOW
@@ -69,11 +122,3 @@ tags:
 - [RedHook Android malware now uses Wireless ADB for shell access](https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/)
   - Confidence: 🟫 LOW
   - _A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]_
-
-- [I have no ambition, no particular skills, I'm perpetually tired, and straight up lazy. Is night time security the field for me?](https://www.reddit.com/r/security/comments/1usogf6/i_have_no_ambition_no_particular_skills_im/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/originalname610"> /u/originalname610 </a> <br /> <span><a href="https://www.reddit.com/r/security/comments/1usogf6/i_have_no_ambition_no_p_
-
-- [What is the current recommended door camera?](https://www.reddit.com/r/security/comments/1ussn7m/what_is_the_current_recommended_door_camera/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone. i’ve heard a lot of bad things about ting cameras recently and wanted to get the communities opinion on an alternative.</p> <p>I’m looking for a Doorbel_
