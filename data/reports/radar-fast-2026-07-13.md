@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-13
-date: 2026-07-13T02:30:53Z
+date: 2026-07-13T09:21:19Z
 type: radar-report
 report_type: fast
-total_opportunities: 9
+total_opportunities: 12
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 9
+**Total opportunities:** 12
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 6 |
+| ❓ Uncategorized | 9 |
 | 🏰 CTF Competitions | 2 |
 | 🎓 Free Certifications | 1 |
 
@@ -41,6 +41,18 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days](https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabiliti_
+
+- [Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365](https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html)
+  - Confidence: 🟫 LOW
+  - _An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it:&nbsp;python3 -m http.server_
+
+- [Someone Is Scanning for Your MCP Servers and AI Assistant Credentials, (Mon, Jul 13th)](https://isc.sans.edu/diary/rss/33150)
+  - Confidence: 🟫 LOW
+  - _<h1><strong><u>The setup</u></strong></h1>&#xd;_
 
 - [Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/)
   - Confidence: 🟫 LOW
