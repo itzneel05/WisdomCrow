@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-14
-date: 2026-07-14T07:59:25Z
+date: 2026-07-14T13:29:27Z
 type: radar-report
 report_type: fast
-total_opportunities: 49
+total_opportunities: 59
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 49
+**Total opportunities:** 59
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 46 |
+| ❓ Uncategorized | 56 |
 | 🎓 Free Certifications | 2 |
 | 🏰 CTF Competitions | 1 |
 
@@ -41,6 +41,58 @@ tags:
   - _<p>Significant cybersecurity M&#038;A deals announced by 1Password, Accenture, Cisco, F5, Rubrik, and SailPoint.</p> <p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-37-deals_
 
 ## ❓ Uncategorized
+
+- [Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity](https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html)
+  - Confidence: 🟫 LOW
+  - _Attackers whose methods line up with the data-extortion group&nbsp;ShinyHunters&nbsp;have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the pla_
+
+- [148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet](https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html)
+  - Confidence: 🟫 LOW
+  - _A campaign of 148 npm packages disguised as student web proxies turned visitors' browsers into a distributed denial-of-service botnet for roughly two weeks in May, according to new research from&nbsp;_
+
+- [U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support](https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has designated two individuals and a VPN service provider for enabling ransomware actors' and other cybercriminals' malicious act_
+
+- [Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read](https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html)
+  - Confidence: 🟫 LOW
+  - _xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed.  A researcher publ_
+
+- [OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials](https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html)
+  - Confidence: 🟫 LOW
+  - _At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry.  The activity allows users to enumerate_
+
+- [How Pentera Turns AI Security Workflows into Validation Engines](https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html)
+  - Confidence: 🟫 LOW
+  - _AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragment_
+
+- [Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks](https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html)
+  - Confidence: 🟫 LOW
+  - _Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them.  The way_
+
+- [11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot](https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the moder_
+
+- [US sanctions VPN, malware providers for enabling ransomware attacks](https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned two individuals and one entity for enabling ransomware attacks against U.S. organizations. [...]_
+
+- [Microsoft starts testing cleaner Windows Search without ads](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/)
+  - Confidence: 🟫 LOW
+  - _Microsoft is now testing a cleaner and faster version of Windows Search that should prioritize relevant results over ads and promotional content. [...]_
+
+- [SAP warns of critical flaws in NetWeaver and Commerce Cloud](https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/)
+  - Confidence: 🟫 LOW
+  - _SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter. [...]_
+
+- [New phishing kits target Microsoft 365 accounts, evade MFA](https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/)
+  - Confidence: 🟫 LOW
+  - _Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]_
+
+- [Microsoft Entra ID gets passkeys default authentication starting September](https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026. [...]_
 
 - [Microsoft Maps Year-Long ShinyHunters-Linked Salesforce Data Theft Across Three Paths](https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html)
   - Confidence: 🟫 LOW
@@ -213,15 +265,3 @@ tags:
 - [Lidl discloses online shop breach after service provider hack](https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/)
   - Confidence: 🟫 LOW
   - _German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider. [...]_
-
-- [iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days](https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabiliti_
-
-- [Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365](https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html)
-  - Confidence: 🟫 LOW
-  - _An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it:&nbsp;python3 -m http.server_
-
-- [Someone Is Scanning for Your MCP Servers and AI Assistant Credentials, (Mon, Jul 13th)](https://isc.sans.edu/diary/rss/33150)
-  - Confidence: 🟫 LOW
-  - _<h1><strong><u>The setup</u></strong></h1>&#xd;_
