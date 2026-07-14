@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-14
-date: 2026-07-14T13:29:27Z
+date: 2026-07-14T19:16:27Z
 type: radar-report
 report_type: fast
-total_opportunities: 59
+total_opportunities: 55
 tags:
   - radar
   - fast
@@ -13,20 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 59
+**Total opportunities:** 55
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 56 |
+| ❓ Uncategorized | 53 |
 | 🎓 Free Certifications | 2 |
-| 🏰 CTF Competitions | 1 |
-
-## 🏰 CTF Competitions
-
-- [Breach at the Beach: Play the Ultimate Entra ID CTF](https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`, `india_friendly`
-  - _Learn how attackers abuse Entra ID through a free hands-on Capture the Flag. Varonis created the Breach at the Beach CTF to teach defenders how to investigate Entra ID attack techniques using realisti_
 
 ## 🎓 Free Certifications
 
@@ -41,6 +33,42 @@ tags:
   - _<p>Significant cybersecurity M&#038;A deals announced by 1Password, Accenture, Cisco, F5, Rubrik, and SailPoint.</p> <p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-37-deals_
 
 ## ❓ Uncategorized
+
+- [RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata](https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enter_
+
+- [LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts](https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments.  "Labu_
+
+- [Microsoft Patch Tuesday July 2026 - The AI Acopolypse is Here , (Tue, Jul 14th)](https://isc.sans.edu/diary/rss/33154)
+  - Confidence: 🟫 LOW
+  - _<p>This patch Tuesday includes a staggering&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;622 vulnerabilities, not including another 427 vulnerabilities in Chromium,_
+
+- [You Don't Have to Run an Exploit to Know If You're Vulnerable](https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/)
+  - Confidence: 🟫 LOW
+  - _Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizatio_
+
+- [LastPass, Bitwarden users targeted with fake security alerts](https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/)
+  - Confidence: 🟫 LOW
+  - _LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]_
+
+- [Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown](https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/)
+  - Confidence: 🟫 LOW
+  - _Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch _
+
+- [Windows 11 KB5101650 & KB5099414 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has released Windows 11 KB5101650 and KB5099414 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]_
+
+- [Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/)
+  - Confidence: 🟫 LOW
+  - _Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed_
+
+- [Microsoft releases Windows 10 KB5099539 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerabilities, along with additional security fixes. [.._
 
 - [Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity](https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html)
   - Confidence: 🟫 LOW
@@ -217,51 +245,3 @@ tags:
 - [New CrashStealer malware poses as Apple crash reporting tool](https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/)
   - Confidence: 🟫 LOW
   - _A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...]_
-
-- [Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory](https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration.  "The script looked for the Domain _
-
-- [Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots](https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html)
-  - Confidence: 🟫 LOW
-  - _A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connec_
-
-- [Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling](https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html)
-  - Confidence: 🟫 LOW
-  - _Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read. _
-
-- [Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft](https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html)
-  - Confidence: 🟫 LOW
-  - _A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assis_
-
-- [Scanning malicious websites with arbitrary number of VPN tunnels (Part 2)](https://www.reddit.com/r/netsec/comments/1uto85z/scanning_malicious_websites_with_arbitrary_number/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/moonlightelite"> /u/moonlightelite </a> <br /> <span><a href="https://discounttimu.substack.com/p/scanning-malicious-websites-with-cfe">[l_
-
-- [Persistence via Fake AMSI Provider | Playbook & Detection Strategies](https://www.reddit.com/r/netsec/comments/1uv54e4/persistence_via_fake_amsi_provider_playbook/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/netbiosX"> /u/netbiosX </a> <br /> <span><a href="https://ipurple.team/2026/07/13/amsi-provider/">[link]</a></span> &#32; <span><a href="h_
-
-- [Vulnerability in Realtek driver allows DMA controller abuse from user mode with no additional hardware or driver](https://www.reddit.com/r/netsec/comments/1uuquzx/vulnerability_in_realtek_driver_allows_dma/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>The vulnerability allows non-privileged users to program the DMA controller, enabling arbitrary physical memory reads and writes.</p> </div><!-- SC_ON --> &#32; submi_
-
-- [Dell BIOS Passwords: Weak XOR Encryption Allows Recovery from SPI Flash (CVE-2026-40639)](https://www.reddit.com/r/netsec/comments/1uv6qbn/dell_bios_passwords_weak_xor_encryption_allows/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/sajkoterrapefft"> /u/sajkoterrapefft </a> <br /> <span><a href="https://blog.amberwolf.com/blog/2026/july/dell-bios-passwords-weak-xor-enc_
-
-- [US and allies warn of Russian critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate crit_
-
-- [EU sanctions Russian GRU military hackers over cyberattacks](https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/)
-  - Confidence: 🟫 LOW
-  - _The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Eu_
-
-- [UK charges suspects linked to Russian Coms call spoofing platform](https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/)
-  - Confidence: 🟫 LOW
-  - _UK authorities charged five people following a National Crime Agency (NCA) investigation into Russian Coms, a major caller ID spoofing platform used by criminals to make over 1.8 million scam calls. [_
-
-- [Lidl discloses online shop breach after service provider hack](https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/)
-  - Confidence: 🟫 LOW
-  - _German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider. [...]_
