@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-14
-date: 2026-07-14T02:10:29Z
+date: 2026-07-14T07:59:25Z
 type: radar-report
 report_type: fast
-total_opportunities: 52
+total_opportunities: 49
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 52
+**Total opportunities:** 49
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 47 |
-| 🏰 CTF Competitions | 3 |
+| ❓ Uncategorized | 46 |
 | 🎓 Free Certifications | 2 |
+| 🏰 CTF Competitions | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -28,29 +28,23 @@ tags:
   - Tags: `ctf`, `india_friendly`
   - _Learn how attackers abuse Entra ID through a free hands-on Capture the Flag. Varonis created the Breach at the Beach CTF to teach defenders how to investigate Entra ID attack techniques using realisti_
 
-- [Securinets CTF Quals 2026](https://ctftime.org/event/3364)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: Securinets CTF Quals 2026 (an <a href="/ctf/105">Securinets CTF</a> event.)<br /> Date: Oct. 3, 2026, 9 a.m. &mdash; 04 Oct. 2026, 21:00 UTC &nbsp;<a href="/event/3364.ics">[add to calendar]</a>_
-
-- [NullOrigin CTF Qualifiers](https://ctftime.org/event/3346)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: NullOrigin CTF Qualifiers (an <a href="/ctf/1633">Null Origin</a> event.)<br /> Date: Sept. 18, 2026, 4:30 a.m. &mdash; 18 Sept. 2026, 16:30 UTC &nbsp;<a href="/event/3346.ics">[add to calendar]_
-
 ## 🎓 Free Certifications
+
+- [ISC Stormcast For Tuesday, July 14th, 2026 https://isc.sans.edu/podcastdetail/10006, (Tue, Jul 14th)](https://isc.sans.edu/diary/rss/33152)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 - [Cybersecurity M&A Roundup: 37 Deals Announced in June 2026](https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
   - _<p>Significant cybersecurity M&#038;A deals announced by 1Password, Accenture, Cisco, F5, Rubrik, and SailPoint.</p> <p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-37-deals_
 
-- [ISC Stormcast For Monday, July 13th, 2026 https://isc.sans.edu/podcastdetail/10004, (Mon, Jul 13th)](https://isc.sans.edu/diary/rss/33148)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [Microsoft Maps Year-Long ShinyHunters-Linked Salesforce Data Theft Across Three Paths](https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html)
+  - Confidence: 🟫 LOW
+  - _Attackers whose methods line up with the data-extortion group&nbsp;ShinyHunters&nbsp;have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the pla_
 
 - [Hackers backdoor Jscrambler npm package with infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/)
   - Confidence: 🟫 LOW
@@ -231,11 +225,3 @@ tags:
 - [Someone Is Scanning for Your MCP Servers and AI Assistant Credentials, (Mon, Jul 13th)](https://isc.sans.edu/diary/rss/33150)
   - Confidence: 🟫 LOW
   - _<h1><strong><u>The setup</u></strong></h1>&#xd;_
-
-- [Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/)
-  - Confidence: 🟫 LOW
-  - _Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]_
-
-- [OpenAI temporarily relaxes GPT-5.6 Sol usage limits](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/)
-  - Confidence: 🟫 LOW
-  - _OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]_
