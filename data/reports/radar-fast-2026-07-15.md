@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-15
-date: 2026-07-15T13:38:55Z
+date: 2026-07-15T19:07:28Z
 type: radar-report
 report_type: fast
-total_opportunities: 55
+total_opportunities: 61
 tags:
   - radar
   - fast
@@ -13,16 +13,21 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 55
+**Total opportunities:** 61
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 50 |
+| ❓ Uncategorized | 55 |
 | 🎓 Free Certifications | 3 |
-| 💰 Bug Bounties | 1 |
+| 💰 Bug Bounties | 2 |
 | 📦 Open Source Tools | 1 |
 
 ## 💰 Bug Bounties
+
+- [We built a vulnerability vending machine: AI tokens in, zero-days out](https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _Intruder built an AI-powered "vulnerability vending machine" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found _
 
 - [Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday](https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html)
   - Confidence: 🟡 MEDIUM
@@ -54,6 +59,26 @@ tags:
   - _<p>For community clarity following several recent announcements by <a href="https://www.linkedin.com/posts/issaorg-share-7475638245620449281-YMw3">ISSA and Richard Greenberg</a>, OWASP confirms that R_
 
 ## ❓ Uncategorized
+
+- [Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws](https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html)
+  - Confidence: 🟫 LOW
+  - _Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published.  The vulnerabilities are listed below -     CVE-2026-15718, an invalid p_
+
+- [OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps](https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html)
+  - Confidence: 🟫 LOW
+  - _A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase.  On an infected PC,_
+
+- [TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development](https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance fro_
+
+- [AsyncAPI npm packages infected with credential-stealing malware](https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/)
+  - Confidence: 🟫 LOW
+  - _Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]_
+
+- [Google Gemini CLI abused as a hacking agent, malware botnet operator](https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/)
+  - Confidence: 🟫 LOW
+  - _A Russian-speaking threat actor known as "bandcampro" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]_
 
 - [Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware](https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html)
   - Confidence: 🟫 LOW
