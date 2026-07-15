@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-15
-date: 2026-07-15T02:08:14Z
+date: 2026-07-15T08:04:22Z
 type: radar-report
 report_type: fast
-total_opportunities: 63
+total_opportunities: 61
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 63
+**Total opportunities:** 61
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 58 |
-| 🎓 Free Certifications | 4 |
+| ❓ Uncategorized | 57 |
+| 🎓 Free Certifications | 3 |
 | 📦 Open Source Tools | 1 |
 
 ## 🎓 Free Certifications
@@ -38,11 +38,6 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>Analysts across the security industry now run generative AI through their daily work, from log triage to incident write-ups. Active use in cybersecurity strategy reached 78% of practitioners in 202_
 
-- [ISC Stormcast For Tuesday, July 14th, 2026 https://isc.sans.edu/podcastdetail/10006, (Tue, Jul 14th)](https://isc.sans.edu/diary/rss/33152)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## 📦 Open Source Tools
 
 - [Community update regarding Richard Greenberg](http://owasp.org/blog/2026/06/18/greenberg-statement.html)
@@ -51,6 +46,14 @@ tags:
   - _<p>For community clarity following several recent announcements by <a href="https://www.linkedin.com/posts/issaorg-share-7475638245620449281-YMw3">ISSA and Richard Greenberg</a>, OWASP confirms that R_
 
 ## ❓ Uncategorized
+
+- [Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands](https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html)
+  - Confidence: 🟫 LOW
+  - _SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command ex_
+
+- [US charges alleged operators of Russian bulletproof hosting service](https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/)
+  - Confidence: 🟫 LOW
+  - _U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damage_
 
 - [Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads](https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html)
   - Confidence: 🟫 LOW
@@ -271,15 +274,3 @@ tags:
 - [Microsoft Entra ID gets passkeys default authentication starting September](https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/)
   - Confidence: 🟫 LOW
   - _Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026. [...]_
-
-- [Microsoft Maps Year-Long ShinyHunters-Linked Salesforce Data Theft Across Three Paths](https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html)
-  - Confidence: 🟫 LOW
-  - _Attackers whose methods line up with the data-extortion group&nbsp;ShinyHunters&nbsp;have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the pla_
-
-- [Hackers backdoor Jscrambler npm package with infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/)
-  - Confidence: 🟫 LOW
-  - _The Jscrambler client-side web security company disclosed that a threat actor published a malicious version of its npm package that has been downloaded almost 1,500 times. [...]_
-
-- [Japan's largest taxi operator shuts systems after cyberattack](https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/)
-  - Confidence: 🟫 LOW
-  - _Japan's largest taxi operator, Nihon Kotsu, announced that its systems were compromised in a cyberattack, forcing the company to shut down part of its infrastructure. [...]_
