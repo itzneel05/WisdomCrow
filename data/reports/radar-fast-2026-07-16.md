@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-16
-date: 2026-07-16T13:45:03Z
+date: 2026-07-16T19:06:13Z
 type: radar-report
 report_type: fast
-total_opportunities: 52
+total_opportunities: 57
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 52
+**Total opportunities:** 57
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 50 |
+| ❓ Uncategorized | 55 |
 | 💰 Bug Bounties | 1 |
 | 🎓 Free Certifications | 1 |
 
@@ -36,6 +36,26 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer](https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html)
+  - Confidence: 🟫 LOW
+  - _n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local us_
+
+- [ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories](https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html)
+  - Confidence: 🟫 LOW
+  - _A lot of this week’s trouble starts with something that looks close enough.  A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone _
+
+- [Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack](https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html)
+  - Confidence: 🟫 LOW
+  - _Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London.  The attack left 148_
+
+- [23andMe to pay $18 million in new genetics data breach settlement](https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/)
+  - Confidence: 🟫 LOW
+  - _Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]_
+
+- [AI Agents Broke the Security Playbook. Here's What Replaces It.](https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/)
+  - Confidence: 🟫 LOW
+  - _Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while givin_
 
 - [Zoom Patches Critical Windows Flaw That Could Enable Account Takeover](https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html)
   - Confidence: 🟫 LOW
