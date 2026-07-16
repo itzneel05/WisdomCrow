@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-16
-date: 2026-07-16T02:22:01Z
+date: 2026-07-16T08:08:57Z
 type: radar-report
 report_type: fast
-total_opportunities: 46
+total_opportunities: 45
 tags:
   - radar
   - fast
@@ -13,12 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 46
+**Total opportunities:** 45
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 44 |
+| ❓ Uncategorized | 42 |
 | 💰 Bug Bounties | 2 |
+| 🎓 Free Certifications | 1 |
 
 ## 💰 Bug Bounties
 
@@ -31,6 +32,13 @@ tags:
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
   - _Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive.  It has been described as a Windows User Profile Service arbitrary hive_
+
+## 🎓 Free Certifications
+
+- [ISC Stormcast For Thursday, July 16th, 2026 https://isc.sans.edu/podcastdetail/10010, (Thu, Jul 16th)](https://isc.sans.edu/diary/rss/33160)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
 
@@ -201,11 +209,3 @@ tags:
 - [CISA warns admins to patch actively exploited SharePoint flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/)
   - Confidence: 🟫 LOW
   - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server inst_
-
-- [Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands](https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html)
-  - Confidence: 🟫 LOW
-  - _SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command ex_
-
-- [US charges alleged operators of Russian bulletproof hosting service](https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/)
-  - Confidence: 🟫 LOW
-  - _U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damage_
