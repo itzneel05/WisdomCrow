@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-17
-date: 2026-07-17T08:05:53Z
+date: 2026-07-17T13:22:59Z
 type: radar-report
 report_type: fast
-total_opportunities: 52
+total_opportunities: 62
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 52
+**Total opportunities:** 62
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 47 |
+| ❓ Uncategorized | 58 |
 | 💰 Bug Bounties | 2 |
-| 🎓 Free Certifications | 2 |
+| 🎓 Free Certifications | 1 |
 | 📦 Open Source Tools | 1 |
 
 ## 💰 Bug Bounties
@@ -41,11 +41,6 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
-- [ISC Stormcast For Thursday, July 16th, 2026 https://isc.sans.edu/podcastdetail/10010, (Thu, Jul 16th)](https://isc.sans.edu/diary/rss/33160)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## 📦 Open Source Tools
 
 - [OWASP CVE Lite CLI Graduates to Lab Project Status](http://owasp.org/blog/2026/07/06/cve-lite-cli-lab.html)
@@ -54,6 +49,50 @@ tags:
   - _<p>CVE Lite CLI, a fast open source dependency vulnerability scanner for JavaScript and TypeScript projects, has graduated to OWASP Lab Project status three months after its initial release.</p>  <!--_
 
 ## ❓ Uncategorized
+
+- [New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage](https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus_
+
+- [ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files](https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html)
+  - Confidence: 🟫 LOW
+  - _ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced One_
+
+- [Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man](https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html)
+  - Confidence: 🟫 LOW
+  - _Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov.  His wife, Maria Y_
+
+- [The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?](https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html)
+  - Confidence: 🟫 LOW
+  - _Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acqu_
+
+- [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html)
+  - Confidence: 🟫 LOW
+  - _The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that _
+
+- [PGPractice Advise](https://www.reddit.com/r/oscp/comments/1uxcfsh/pgpractice_advise/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey All !<br /> Just completed TJ Null's HTB list and moved on to Lain's PG Practice list for OSCP prep. I'm noticing I'm constantly referring to writeups on PG Pract_
+
+- [OSCP Second Attempt Coming Up](https://www.reddit.com/r/oscp/comments/1uxmgia/oscp_second_attempt_coming_up/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Just here ranting cause I'm getting anxious doing prep for my exam coming up in a little under a month. I failed my first attempt, got the jenkins set and literally c_
+
+- [Failed first attempt and things didnt seem in my control at times](https://www.reddit.com/r/oscp/comments/1uyla8t/failed_first_attempt_and_things_didnt_seem_in_my/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I failed my first attempt few days ago and there were two scenarios where I struggled and lost time</p> <p>First was on a standalone where I kept losing shell every 5_
+
+- [US charges two over laundering $43 million from investment fraud](https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/)
+  - Confidence: 🟫 LOW
+  - _U.S. prosecutors on Thursday charged a New York man and woman for their roles in a large-scale crime ring that laundered money stolen in cyber investment fraud scams. [...]_
+
+- [Windows Server 2022 reach end of mainstream support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/)
+  - Confidence: 🟫 LOW
+  - _Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. [...]_
+
+- [New Windows LegacyHive zero-day gives hackers admin privileges](https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/)
+  - Confidence: 🟫 LOW
+  - _A security researcher using the "Nightmare Eclipse" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]_
 
 - [CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV](https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html)
   - Confidence: 🟫 LOW
