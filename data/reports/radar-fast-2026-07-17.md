@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-17
-date: 2026-07-17T02:25:15Z
+date: 2026-07-17T08:05:53Z
 type: radar-report
 report_type: fast
-total_opportunities: 50
+total_opportunities: 52
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 50
+**Total opportunities:** 52
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 45 |
+| ❓ Uncategorized | 47 |
 | 💰 Bug Bounties | 2 |
 | 🎓 Free Certifications | 2 |
 | 📦 Open Source Tools | 1 |
@@ -54,6 +54,14 @@ tags:
   - _<p>CVE Lite CLI, a fast open source dependency vulnerability scanner for JavaScript and TypeScript projects, has graduated to OWASP Lab Project status three months after its initial release.</p>  <!--_
 
 ## ❓ Uncategorized
+
+- [CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV](https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) cata_
+
+- [CISA urges immediate action on actively exploited Fortinet flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/)
+  - Confidence: 🟫 LOW
+  - _CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]_
 
 - [New OkoBot framework deploys 20 payloads to steal data, crypto](https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/)
   - Confidence: 🟫 LOW
