@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-17
-date: 2026-07-17T13:22:59Z
+date: 2026-07-17T19:04:25Z
 type: radar-report
 report_type: fast
-total_opportunities: 62
+total_opportunities: 63
 tags:
   - radar
   - fast
@@ -13,14 +13,22 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 62
+**Total opportunities:** 63
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 58 |
-| 💰 Bug Bounties | 2 |
+| ❓ Uncategorized | 57 |
+| 💰 Bug Bounties | 3 |
+| 🏰 CTF Competitions | 1 |
 | 🎓 Free Certifications | 1 |
 | 📦 Open Source Tools | 1 |
+
+## 🏰 CTF Competitions
+
+- [Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images](https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job _
 
 ## 💰 Bug Bounties
 
@@ -28,6 +36,11 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `bug_bounty`
   - _<p>On Wednesday, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and four allied cyber authorities published a guide telling software vendors how to build a coordinated vulnerability _
+
+- [What is the best beginner cybersecurity project that can be completed in one weekend?](https://www.reddit.com/r/netsecstudents/comments/1uxsm7y/what_is_the_best_beginner_cybersecurity_project/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>Looking for practical projects that teach more than simply running a tool.</p> <p>Some ideas:</p> <ul> <li>Build a basic SIEM lab</li> <li>Analyze a phishing email</l_
 
 - [Intruder brings AI-powered, on-demand penetration testing to web applications](https://www.helpnetsecurity.com/2026/07/16/intruder-brings-ai-powered-on-demand-penetration-testing-to-web-applications/)
   - Confidence: 🟡 MEDIUM
@@ -49,6 +62,58 @@ tags:
   - _<p>CVE Lite CLI, a fast open source dependency vulnerability scanner for JavaScript and TypeScript projects, has graduated to OWASP Lab Project status three months after its initial release.</p>  <!--_
 
 ## ❓ Uncategorized
+
+- [GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft](https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine.  Expel, which shared technical details of the event, describe_
+
+- [New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens](https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html)
+  - Confidence: 🟫 LOW
+  - _A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys.  A Shodan harvester keeps the scan queue stocked with Com_
+
+- [tryhackme-write_up-light-](https://www.reddit.com/r/netsecstudents/comments/1uxfngp/tryhackmewrite_uplight/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>&quot;Hi everyone,</p> <p>I’ve recently completed the [LIGHT] room on TryHackMe, and I decided to document my journey in a write-up. It was a light, fun, and insightf_
+
+- [Android App Security: Feedback on implementing a localized intruder detection system using UsageStats and Biometrics](https://www.reddit.com/r/netsecstudents/comments/1uxoj1n/android_app_security_feedback_on_implementing_a/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>As a project to deeply understand Android application security and hardening, I've been developing an App Locker from scratch using Kotlin and Je_
+
+- [I built a free AI-powered Security Interview Simulator to help combat interview anxiety and stress. Would love your feedback!](https://www.reddit.com/r/netsecstudents/comments/1uy1o2e/i_built_a_free_aipowered_security_interview/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>While preparing for my first security positions, the technical interview was always the most stressful part for me. It's probably the same for new_
+
+- [Is TryHackMe enough to start my cybersecurity career as a complete beginner?](https://www.reddit.com/r/netsecstudents/comments/1uxvoel/is_tryhackme_enough_to_start_my_cybersecurity/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I'm a complete beginner in cybersecurity with no professional experience and no certifications.</p> <p>I've decided to start learning through TryH_
+
+- [Explaining Detection Engineering, in the most simple, concise yet technical way, the way I wish someone explained it to me.](https://www.reddit.com/r/netsecstudents/comments/1uyphfj/explaining_detection_engineering_in_the_most/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I received a lot of DMs after D2D and interview post, and one of the thing was Detection Engineering. I am trying to explain it in a very nutshell simple manner.</p> _
+
+- [My Test Trainer - Website Launch](https://www.reddit.com/r/netsecstudents/comments/1uyvty1/my_test_trainer_website_launch/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I'm writing to announce the launch of <a href="https://www.mytesttrainer.com/">My Test Trainer</a>, a website dedicated to exam preparation.</p> <p>We've been produci_
+
+- [Final year Cybersecurity student looking for ideas for my graduation project](https://www.reddit.com/r/netsecstudents/comments/1uyxxhj/final_year_cybersecurity_student_looking_for/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone, I’m a final-year cybersecurity student and I’m currently trying to decide what to build for my graduation project. Rather than making assumptions about _
+
+- [CRTE Exam updated or no](https://www.reddit.com/r/netsecstudents/comments/1uz1ghu/crte_exam_updated_or_no/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone, i saw that CRTE has been recently updated in terms of course, i want to know if the exam is also changed based on the new update or i can pass it using _
+
+- [Inside the Search for "Clean" Residential Proxies for Carding](https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/)
+  - Confidence: 🟫 LOW
+  - _Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek "clean" residential proxies and combine them with browser fingerprin_
+
+- [Ernst & Young discloses data breach after support system hack](https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/)
+  - Confidence: 🟫 LOW
+  - _Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]_
+
+- [HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload](https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/)
+  - Confidence: 🟫 LOW
+  - _A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]_
 
 - [New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage](https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html)
   - Confidence: 🟫 LOW
@@ -225,59 +290,3 @@ tags:
 - [AI Agents Broke the Security Playbook. Here's What Replaces It.](https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/)
   - Confidence: 🟫 LOW
   - _Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while givin_
-
-- [Zoom Patches Critical Windows Flaw That Could Enable Account Takeover](https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html)
-  - Confidence: 🟫 LOW
-  - _Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover.  The vulnerability, tracked as CVE-2026-53412 (CVSS score: _
-
-- [OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol](https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html)
-  - Confidence: 🟫 LOW
-  - _OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely.  "_
-
-- [Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide](https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html)
-  - Confidence: 🟫 LOW
-  - _Pull the certificate off the flash of a Shark RV2320EDUS robot vacuum, and you can run root commands on other people's Shark vacuums across the same AWS region: watch the camera, drive the robot, read_
-
-- [AI Can Find Bugs, But Human Knowledge Still Proves Them](https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html)
-  - Confidence: 🟫 LOW
-  - _Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code_
-
-- [Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor](https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html)
-  - Confidence: 🟫 LOW
-  - _An advanced malware previously attributed to a China-linked threat actor has resurfaced after more than four years within a Taiwan manufacturing firm, along with a previously unreported backdoor dubbe_
-
-- [New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands](https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html)
-  - Confidence: 🟫 LOW
-  - _Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click "Buy Now" instead. Ask a coding assistant to apply a maintainer's fix from a GitHub thread, an_
-
-- [20+ Hijacked Government Websites Became an Attack Channel](https://thehackernews.com/2026/07/20-hijacked-government-websites.html)
-  - Confidence: 🟫 LOW
-  - _More than 20 Brazilian government websites were hijacked and turned into malware delivery channels in an active PhantomEnigma campaign uncovered by ANY.RUN, a leading provider of interactive malware a_
-
-- [New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password](https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html)
-  - Confidence: 🟫 LOW
-  - _ClickLock Stealer, a new macOS infostealer, answers a victim's refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into Terminal, asks for t_
-
-- [New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands](https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026.  "The malware is full-fea_
-
-- [New Spirals ransomware encrypts victim network in under 24 hours](https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/)
-  - Confidence: 🟫 LOW
-  - _A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]_
-
-- [Russian hackers trojanize WebEx, Zoom apps to push Starland malware](https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/)
-  - Confidence: 🟫 LOW
-  - _A financially motivated Russian threat actor tracked as UAT-11795 is using trojanized software to steal credentials and cryptocurrency by deploying a new backdoor called Starland RAT. [...]_
-
-- [CISA orders feds to patch actively exploited Oracle flaw by Saturday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/)
-  - Confidence: 🟫 LOW
-  - _CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application. [...]_
-
-- [Windows 11 24H2 Home and Pro reach end of support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/)
-  - Confidence: 🟫 LOW
-  - _Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months. [...]_
-
-- [Scattered Spider members behind TfL hack get five years in prison](https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/)
-  - Confidence: 🟫 LOW
-  - _Two leading members of the Scattered Spider cybercrime collective were sentenced to five years and six months in prison each for hacking Transport for London (TfL) in 2024. [...]_
