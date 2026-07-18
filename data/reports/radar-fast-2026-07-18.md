@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-18
-date: 2026-07-18T07:45:21Z
+date: 2026-07-18T19:00:31Z
 type: radar-report
 report_type: fast
-total_opportunities: 66
+total_opportunities: 57
 tags:
   - radar
   - fast
@@ -13,16 +13,21 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 66
+**Total opportunities:** 57
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 52 |
-| 🏰 CTF Competitions | 11 |
+| ❓ Uncategorized | 42 |
+| 🏰 CTF Competitions | 12 |
 | 💰 Bug Bounties | 2 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
+
+- [Rooted TryHackMe's "Watcher" box 100% from Termux on Android](https://www.reddit.com/r/securityCTF/comments/1uzyrot/rooted_tryhackmes_watcher_box_100_from_termux_on/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>Finally rooted TryHackMe's &quot;Watcher&quot; box — 100% from my phone via Termux 📱🔥</p> <p>After a solid grind, I just finished the Watcher room on TryHackMe (made _
 
 - [Freaking same name of different tool.](https://www.reddit.com/r/securityCTF/comments/1uxyazu/freaking_same_name_of_different_tool/)
   - Confidence: 🟢 HIGH
@@ -99,6 +104,18 @@ tags:
   - _Radeon hackathon on 2026-07_
 
 ## ❓ Uncategorized
+
+- [The Future of Age Verification: Your Face Never Leaves Your Device](https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/)
+  - Confidence: 🟫 LOW
+  - _As age verification laws expand worldwide, organizations face growing pressure to protect users' privacy while meeting regulatory requirements. Incode explains how on-device age estimation verifies ag_
+
+- [Microsoft warns of surge in ACR Stealer attacks on customers](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]_
+
+- [WordPress Core "wp2shell" RCE flaws get public exploits, patch now](https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/)
+  - Confidence: 🟫 LOW
+  - _Public exploits have been released for the critical "wp2shell" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [_
 
 - [OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests](https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html)
   - Confidence: 🟫 LOW
@@ -255,55 +272,3 @@ tags:
 - [HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload](https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/)
   - Confidence: 🟫 LOW
   - _A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]_
-
-- [New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage](https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus_
-
-- [ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files](https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html)
-  - Confidence: 🟫 LOW
-  - _ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced One_
-
-- [Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man](https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html)
-  - Confidence: 🟫 LOW
-  - _Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov.  His wife, Maria Y_
-
-- [The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?](https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html)
-  - Confidence: 🟫 LOW
-  - _Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acqu_
-
-- [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html)
-  - Confidence: 🟫 LOW
-  - _The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that _
-
-- [PGPractice Advise](https://www.reddit.com/r/oscp/comments/1uxcfsh/pgpractice_advise/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey All !<br /> Just completed TJ Null's HTB list and moved on to Lain's PG Practice list for OSCP prep. I'm noticing I'm constantly referring to writeups on PG Pract_
-
-- [OSCP Second Attempt Coming Up](https://www.reddit.com/r/oscp/comments/1uxmgia/oscp_second_attempt_coming_up/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Just here ranting cause I'm getting anxious doing prep for my exam coming up in a little under a month. I failed my first attempt, got the jenkins set and literally c_
-
-- [Failed first attempt and things didnt seem in my control at times](https://www.reddit.com/r/oscp/comments/1uyla8t/failed_first_attempt_and_things_didnt_seem_in_my/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I failed my first attempt few days ago and there were two scenarios where I struggled and lost time</p> <p>First was on a standalone where I kept losing shell every 5_
-
-- [US charges two over laundering $43 million from investment fraud](https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/)
-  - Confidence: 🟫 LOW
-  - _U.S. prosecutors on Thursday charged a New York man and woman for their roles in a large-scale crime ring that laundered money stolen in cyber investment fraud scams. [...]_
-
-- [Windows Server 2022 reach end of mainstream support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/)
-  - Confidence: 🟫 LOW
-  - _Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. [...]_
-
-- [New Windows LegacyHive zero-day gives hackers admin privileges](https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/)
-  - Confidence: 🟫 LOW
-  - _A security researcher using the "Nightmare Eclipse" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]_
-
-- [CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV](https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) cata_
-
-- [CISA urges immediate action on actively exploited Fortinet flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/)
-  - Confidence: 🟫 LOW
-  - _CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]_
