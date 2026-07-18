@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-18
-date: 2026-07-18T02:10:05Z
+date: 2026-07-18T07:45:21Z
 type: radar-report
 report_type: fast
-total_opportunities: 71
+total_opportunities: 66
 tags:
   - radar
   - fast
@@ -13,14 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 71
+**Total opportunities:** 66
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 56 |
+| ❓ Uncategorized | 52 |
 | 🏰 CTF Competitions | 11 |
 | 💰 Bug Bounties | 2 |
-| 🎓 Free Certifications | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
@@ -91,13 +90,6 @@ tags:
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
   - _<!-- SC_OFF --><div class="md"><p>Looking for practical projects that teach more than simply running a tool.</p> <p>Some ideas:</p> <ul> <li>Build a basic SIEM lab</li> <li>Analyze a phishing email</l_
-
-## 🎓 Free Certifications
-
-- [ISC Stormcast For Friday, July 17th, 2026 https://isc.sans.edu/podcastdetail/10012, (Fri, Jul 17th)](https://isc.sans.edu/diary/rss/33162)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## 🔥 Hackathons & Conferences
 
@@ -315,19 +307,3 @@ tags:
 - [CISA urges immediate action on actively exploited Fortinet flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/)
   - Confidence: 🟫 LOW
   - _CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]_
-
-- [New OkoBot framework deploys 20 payloads to steal data, crypto](https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/)
-  - Confidence: 🟫 LOW
-  - _A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]_
-
-- [Claude Chrome extension flaw lets malicious extensions trigger AI actions](https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/)
-  - Confidence: 🟫 LOW
-  - _A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access_
-
-- [Coca-Cola says Fairlife ransomware attack halts US dairy production](https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/)
-  - Confidence: 🟫 LOW
-  - _The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the Unite_
-
-- [New ClickLock macOS malware traps users into revealing login password](https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/)
-  - Confidence: 🟫 LOW
-  - _A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password. [...]_
