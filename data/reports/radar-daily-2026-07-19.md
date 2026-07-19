@@ -1,0 +1,54 @@
+---
+title: WisdomCrow Daily Report - 2026-07-19
+date: 2026-07-19T19:41:14Z
+type: radar-report
+report_type: daily
+total_opportunities: 7
+tags:
+  - radar
+  - daily
+---
+
+# WisdomCrow Daily Report
+
+## Summary
+
+**Total opportunities:** 7
+
+| Category | Count |
+|----------|-------|
+| ❓ Uncategorized | 6 |
+| 💰 Bug Bounties | 1 |
+
+## 💰 Bug Bounties
+
+- [Scans for Hikvision Intelligent Security API, (Sun, Jul 19th)](https://isc.sans.edu/diary/rss/33164)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`, `india_friendly`
+  - _<p>We have been following issues with Hikvision cameras for a <a href="https://isc.sans.edu/diary/18071">long, long time</a>. Like many similar products, Hikvision cameras have a long history of vulne_
+
+## ❓ Uncategorized
+
+- [Week in review: High severity WordPress vulnerabilities, fake OAuth IDs bypass sign-in logs](https://www.helpnetsecurity.com/2026/07/19/week-in-review-oauth-client-ids-spoofed-sonicwall-sma-appliances-targeted-in-zero-day-attacks/)
+  - Confidence: 🟫 LOW
+  - _<p>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Two new high severity WordPress vulnerabilities, patch immediately! The 7.0.2 WordPress security re_
+
+- [SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access](https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html)
+  - Confidence: 🟫 LOW
+  - _A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public dis_
+
+- [UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware](https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html)
+  - Confidence: 🟫 LOW
+  - _Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware.  According t_
+
+- [Hackers abuse ViPNet software to target Russian govt agencies](https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/)
+  - Confidence: 🟫 LOW
+  - _An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]_
+
+- [Update now: 7-Zip fixes RCE flaw exploitable with malicious archives](https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/)
+  - Confidence: 🟫 LOW
+  - _7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]_
+
+- [Friday Squid Blogging: Squid Washing Up on Cape Cod Beach](https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html)
+  - Confidence: 🟫 LOW
+  - _<p>Lots of <a href="https://www.boston25news.com/news/thousands-squid-wash-up-cape-cod-beach/e41059e1-200e-4341-96d8-68dc9cf3bc52/">articles</a> <a href="https://onthewater.com/why-are-thousands-of-sq_
