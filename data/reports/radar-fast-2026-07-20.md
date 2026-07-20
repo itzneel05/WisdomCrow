@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-20
-date: 2026-07-20T02:41:51Z
+date: 2026-07-20T08:53:57Z
 type: radar-report
 report_type: fast
-total_opportunities: 10
+total_opportunities: 15
 tags:
   - radar
   - fast
@@ -13,15 +13,20 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 10
+**Total opportunities:** 15
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 8 |
-| 💰 Bug Bounties | 1 |
+| ❓ Uncategorized | 12 |
+| 💰 Bug Bounties | 2 |
 | 🎓 Free Certifications | 1 |
 
 ## 💰 Bug Bounties
+
+- [How do early-stage startups typically handle security testing before a product launch?](https://www.reddit.com/r/AskNetsec/comments/1v1dfjl/how_do_earlystage_startups_typically_handle/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>I'm curious how other startups approach security testing when they're preparing to launch a web application or SaaS product.</p> <p>For teams without a dedicated secu_
 
 - [Scans for Hikvision Intelligent Security API, (Sun, Jul 19th)](https://isc.sans.edu/diary/rss/33164)
   - Confidence: 🟡 MEDIUM
@@ -36,6 +41,22 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines](https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of s_
+
+- [World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent](https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html)
+  - Confidence: 🟫 LOW
+  - _In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system.  The company said it detected_
+
+- [how do you wire threat intel into your vulnerability prioritization workflow](https://www.reddit.com/r/AskNetsec/comments/1v1edxi/how_do_you_wire_threat_intel_into_your/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>we've been pulling in more threat intel lately (KEV, EPSS) but i'm not convinced any of it is changing how we prioritize vulns in practice</p> <p>rn the flow is basic_
+
+- [What do you use today -AI coding guardrails, provenance, or something else, to keep AI-generated code aligned with your security and infra patterns?](https://www.reddit.com/r/AskNetsec/comments/1v1esgs/what_do_you_use_today_ai_coding_guardrails/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Copilot has been in our stack for around seven months and we still don't have a clean answer to this. Our infra and security patterns live in documents and in people'_
 
 - [Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution](https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html)
   - Confidence: 🟫 LOW
