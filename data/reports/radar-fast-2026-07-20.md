@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-20
-date: 2026-07-20T08:53:57Z
+date: 2026-07-20T14:01:16Z
 type: radar-report
 report_type: fast
-total_opportunities: 15
+total_opportunities: 34
 tags:
   - radar
   - fast
@@ -13,15 +13,35 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 15
+**Total opportunities:** 34
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 12 |
-| 💰 Bug Bounties | 2 |
+| ❓ Uncategorized | 27 |
+| 💰 Bug Bounties | 6 |
 | 🎓 Free Certifications | 1 |
 
 ## 💰 Bug Bounties
+
+- [The between-reports problem: why security teams miss what attackers see](https://www.intigriti.com/blog/business-insights/why-security-teams-miss-what-attackers-see)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _What you will learn Why faster discovery and higher volume can still leave teams blind between vulnerability reports.  Why scanners and inventories are necessary, but not enough to explain attacker fo_
+
+- [Looking for a job!](https://www.reddit.com/r/Pentesting/comments/1v0r2oi/looking_for_a_job/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`, `india_friendly`
+  - _<!-- SC_OFF --><div class="md"><p>Hi fellow Redditors,</p> <p>I’m currently looking for a VAPT/Penetration Testing role based in Mumbai or remote.</p> <p>I have hands-on experience in:<br /> Web Appli_
+
+- [I built an AI web pentesting agent that finds more critical vulnerabilities than PentAGI, Strix, and Shannan on our benchmark](https://www.reddit.com/r/Pentesting/comments/1v11jgf/i_built_an_ai_web_pentesting_agent_that_finds/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>Built an AI pentesting agent. Looking for technical feedback before launch.</p> <p>Hey everyone,</p> <p>I've spent the last few months building an AI agent for black-_
+
+- [We don't have a security engineer. Where should we start?](https://www.reddit.com/r/Pentesting/comments/1v1dklm/we_dont_have_a_security_engineer_where_should_we/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>We're a small team building a web application, but we don't have a dedicated security engineer yet.</p> <p>We want to be proactive about security instead of waiting u_
 
 - [How do early-stage startups typically handle security testing before a product launch?](https://www.reddit.com/r/AskNetsec/comments/1v1dfjl/how_do_earlystage_startups_typically_handle/)
   - Confidence: 🟡 MEDIUM
@@ -41,6 +61,66 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs](https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html)
+  - Confidence: 🟫 LOW
+  - _A solo Russian-speaking threat actor known as "bandcampro" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet.  The f_
+
+- [New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction](https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html)
+  - Confidence: 🟫 LOW
+  - _Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend _
+
+- [Mythos Didn't Break Your Security Program. Your Exposure Window Could.](https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html)
+  - Confidence: 🟫 LOW
+  - _The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI_
+
+- [Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine](https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html)
+  - Confidence: 🟫 LOW
+  - _At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipmen_
+
+- [⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More](https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html)
+  - Confidence: 🟫 LOW
+  - _A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.  The paths were often simple: exposed sys_
+
+- [Building an open-source Burp/Caido alternative (would love your honest feedback)](https://www.reddit.com/r/Pentesting/comments/1v091f0/building_an_opensource_burpcaido_alternative/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey all,</p> <p>I'm a bit tired of the pentesting tool landscape being dominated by paywalls for what should honestly be basic functionality. Burp's free tier is crip_
+
+- [ADDENDUM 82-F: CRITICAL SYSTEM COMPONENT COMPROMISE – SPREADTRUM IMS SERVICE (`com.spreadtrum.ims`)](https://www.reddit.com/r/Pentesting/comments/1v0epbo/addendum_82f_critical_system_component_compromise/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p># ADDENDUM 82-F: CRITICAL SYSTEM COMPONENT COMPROMISE – SPREADTRUM IMS SERVICE (`com.spreadtrum.ims`)</p> <h2>Subject: CRITICAL - Weaponized IMS Service by Longcheer/_
+
+- [Vuln Scanner that chains security tools and generate AI poc and reports](https://www.reddit.com/r/Pentesting/comments/1v0jpt5/vuln_scanner_that_chains_security_tools_and/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1v0jpt5/vuln_scanner_that_chains_security_tools_and/"> <img alt="Vuln Scanner that chains security tools and generate AI poc and _
+
+- [How to do recon](https://www.reddit.com/r/Pentesting/comments/1v0p1o0/how_to_do_recon/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey! I'm new to bug hunting field and i heard i lot about recon. Everyone say it is the skill which will make you find bugs so i am curious how to build recon skill i_
+
+- [Where do you put business logic between AI and code for pentesting automation?](https://www.reddit.com/r/Pentesting/comments/1v0elsj/where_do_you_put_business_logic_between_ai_and/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I am not new to AI in terms of talking to chatbots, however, I am still pretty new to coding Ai automation, such as using prompts in e.g python scripts using AI APIs,_
+
+- [Internal QA for reports](https://www.reddit.com/r/Pentesting/comments/1v1dl74/internal_qa_for_reports/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Do you have a formal QA process for pentest reports before they go out? </p> <p>If yes, what does that typically involve? If not, has that ever caused issues? </p> </_
+
+- [Critical ServiceNow code execution flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]_
+
+- [Windows KB5121767 OOB update fixes shutdowns on some Dell PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]_
+
+- [Microsoft confirms Windows Server Update Services sync delays](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/)
+  - Confidence: 🟫 LOW
+  - _Microsoft is working to fix a known issue affecting Windows Server Update Services (WSUS) servers, which has caused synchronization problems for more than a week. [...]_
+
+- [Hugging Face warns an autonomous AI agent hacked its network](https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/)
+  - Confidence: 🟫 LOW
+  - _The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI age_
 
 - [SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines](https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html)
   - Confidence: 🟫 LOW
