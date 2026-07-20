@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-20
-date: 2026-07-20T14:01:16Z
+date: 2026-07-20T19:41:56Z
 type: radar-report
 report_type: fast
-total_opportunities: 34
+total_opportunities: 39
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 34
+**Total opportunities:** 39
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 27 |
-| 💰 Bug Bounties | 6 |
+| ❓ Uncategorized | 33 |
+| 💰 Bug Bounties | 5 |
 | 🎓 Free Certifications | 1 |
 
 ## 💰 Bug Bounties
@@ -48,11 +48,6 @@ tags:
   - Tags: `bug_bounty`
   - _<!-- SC_OFF --><div class="md"><p>I'm curious how other startups approach security testing when they're preparing to launch a web application or SaaS product.</p> <p>For teams without a dedicated secu_
 
-- [Scans for Hikvision Intelligent Security API, (Sun, Jul 19th)](https://isc.sans.edu/diary/rss/33164)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`, `india_friendly`
-  - _<p>We have been following issues with Hikvision cameras for a <a href="https://isc.sans.edu/diary/18071">long, long time</a>. Like many similar products, Hikvision cameras have a long history of vulne_
-
 ## 🎓 Free Certifications
 
 - [ISC Stormcast For Monday, July 20th, 2026 https://isc.sans.edu/podcastdetail/10014, (Mon, Jul 20th)](https://isc.sans.edu/diary/rss/33166)
@@ -61,6 +56,46 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050](https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html)
+  - Confidence: 🟫 LOW
+  - _A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar e_
+
+- [Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign](https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html)
+  - Confidence: 🟫 LOW
+  - _A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder _
+
+- [WordPress Exploitation Underway (CVE-2026-63030), (Mon, Jul 20th)](https://isc.sans.edu/diary/rss/33168)
+  - Confidence: 🟫 LOW
+  - _<p>Last week, Searchlight Cyber released details about a vulnerability they are calling "wp2shell". The vulnerability was initially announced without a CVE number. But now has been assigned CVE-2026-6_
+
+- [I need boots recommendations](https://www.reddit.com/r/security/comments/1v09d5j/i_need_boots_recommendations/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I'm fairly new to Security and currently a flex officer. My company has had me on foot patrol shifts for the past two days, and I'll be doing them until Monday. My cu_
+
+- [Technical analysis of HollowByte: OpenSSL's latest memory exhaustion DoS](https://www.reddit.com/r/security/comments/1v0jel7/technical_analysis_of_hollowbyte_openssls_latest/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/security/comments/1v0jel7/technical_analysis_of_hollowbyte_openssls_latest/"> <img alt="Technical analysis of HollowByte: OpenSSL's latest memory exh_
+
+- [Security Contracting](https://www.reddit.com/r/security/comments/1v0s9jw/security_contracting/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I've recently been looking to move into the security field such as Maritime security, UHNWI Security or even residential. Im still currently serving and working on al_
+
+- [Technical analysis of CVE-2026-42533: NGINX's latest RCE vulnerability](https://www.reddit.com/r/security/comments/1v1dsuo/technical_analysis_of_cve202642533_nginxs_latest/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/security/comments/1v1dsuo/technical_analysis_of_cve202642533_nginxs_latest/"> <img alt="Technical analysis of CVE-2026-42533: NGINX's latest RCE vuln_
+
+- [The Systematic Removal of Security in Consumer Operating Systems](https://www.reddit.com/r/security/comments/1v1tkkj/the_systematic_removal_of_security_in_consumer/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/security/comments/1v1tkkj/the_systematic_removal_of_security_in_consumer/"> <img alt="The Systematic Removal of Security in Consumer Operating System_
+
+- [An AI SOC Evaluation Guide for Security Leaders](https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/)
+  - Confidence: 🟫 LOW
+  - _Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC soluti_
+
+- [New HollowGraph malware uses Microsoft Graph for stealthy C2 comms](https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/)
+  - Confidence: 🟫 LOW
+  - _A malicious component dubbed HollowGraph uses the calendar feature in compromised Microsoft 365 mailboxes as a command-and-control channel to receive attacker commands and exfiltrate stolen data. [..._
 
 - [Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs](https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html)
   - Confidence: 🟫 LOW
@@ -153,19 +188,3 @@ tags:
 - [How do you decide which parts of a large codebase deserve the most attention during a security review?](https://www.reddit.com/r/AskNetsec/comments/1v103zz/how_do_you_decide_which_parts_of_a_large_codebase/)
   - Confidence: 🟫 LOW
   - _<!-- SC_OFF --><div class="md"><p>I'm looking at a fairly large web application, and there isn't enough time to go through every file. I've already traced the main request paths and checked the obviou_
-
-- [Week in review: High severity WordPress vulnerabilities, fake OAuth IDs bypass sign-in logs](https://www.helpnetsecurity.com/2026/07/19/week-in-review-oauth-client-ids-spoofed-sonicwall-sma-appliances-targeted-in-zero-day-attacks/)
-  - Confidence: 🟫 LOW
-  - _<p>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Two new high severity WordPress vulnerabilities, patch immediately! The 7.0.2 WordPress security re_
-
-- [SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access](https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html)
-  - Confidence: 🟫 LOW
-  - _A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public dis_
-
-- [UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware](https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html)
-  - Confidence: 🟫 LOW
-  - _Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware.  According t_
-
-- [Hackers abuse ViPNet software to target Russian govt agencies](https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/)
-  - Confidence: 🟫 LOW
-  - _An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]_
