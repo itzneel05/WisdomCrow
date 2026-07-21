@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-21
-date: 2026-07-21T13:43:18Z
+date: 2026-07-21T19:17:52Z
 type: radar-report
 report_type: fast
-total_opportunities: 76
+total_opportunities: 68
 tags:
   - radar
   - fast
@@ -13,12 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 76
+**Total opportunities:** 68
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 69 |
-| 💰 Bug Bounties | 4 |
+| ❓ Uncategorized | 65 |
 | 🏰 CTF Competitions | 1 |
 | 🎓 Free Certifications | 1 |
 | 🔥 Hackathons & Conferences | 1 |
@@ -29,28 +28,6 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `ctf`
   - _Name: Lexington Informatics Tournament CTF 2026 (an <a href="/ctf/646">LIT CTF</a> event.)<br /> Date: Aug. 1, 2026, 3 p.m. &mdash; 03 Aug. 2026, 15:00 UTC &nbsp;<a href="/event/3373.ics">[add to cale_
-
-## 💰 Bug Bounties
-
-- [The between-reports problem: why security teams miss what attackers see](https://www.intigriti.com/blog/business-insights/why-security-teams-miss-what-attackers-see)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _What you will learn Why faster discovery and higher volume can still leave teams blind between vulnerability reports.  Why scanners and inventories are necessary, but not enough to explain attacker fo_
-
-- [Looking for a job!](https://www.reddit.com/r/Pentesting/comments/1v0r2oi/looking_for_a_job/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>Hi fellow Redditors,</p> <p>I’m currently looking for a VAPT/Penetration Testing role based in Mumbai or remote.</p> <p>I have hands-on experience in:<br /> Web Appli_
-
-- [I built an AI web pentesting agent that finds more critical vulnerabilities than PentAGI, Strix, and Shannan on our benchmark](https://www.reddit.com/r/Pentesting/comments/1v11jgf/i_built_an_ai_web_pentesting_agent_that_finds/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Built an AI pentesting agent. Looking for technical feedback before launch.</p> <p>Hey everyone,</p> <p>I've spent the last few months building an AI agent for black-_
-
-- [We don't have a security engineer. Where should we start?](https://www.reddit.com/r/Pentesting/comments/1v1dklm/we_dont_have_a_security_engineer_where_should_we/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>We're a small team building a web application, but we don't have a dedicated security engineer yet.</p> <p>We want to be proactive about security instead of waiting u_
 
 ## 🎓 Free Certifications
 
@@ -67,6 +44,50 @@ tags:
   - _A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in.  That is the claim be_
 
 ## ❓ Uncategorized
+
+- [Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities](https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html)
+  - Confidence: 🟫 LOW
+  - _Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component.  As many as nine sec_
+
+- [Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access](https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments.  Arcti_
+
+- [Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC](https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html)
+  - Confidence: 🟫 LOW
+  - _A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr.  The vulnerability in question is CVE-2026-5052_
+
+- [Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities](https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html)
+  - Confidence: 🟫 LOW
+  - _Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vul_
+
+- [AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code](https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html)
+  - Confidence: 🟫 LOW
+  - _Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop _
+
+- [Captive Portal Detection, (Tue, Jul 21st)](https://isc.sans.edu/diary/rss/33172)
+  - Confidence: 🟫 LOW
+  - _<p>Not everything our honeypots detect is an attack. Sometimes it is just "odd traffic", and this is one example: Our "First Seen" list currently includes "http://detectportal.firefox.co<br />&#xd; m/_
+
+- [r/hacking vs r/cybersecurity](https://www.reddit.com/r/hacking/comments/1v22n53/rhacking_vs_rcybersecurity/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1v22n53/rhacking_vs_rcybersecurity/"> <img alt="r/hacking vs r/cybersecurity" src="https://preview.redd.it/zhg9uqwu6heh1.png?width=1_
+
+- [The new movie “Wardriver” on paramount is peak master hacker](https://www.reddit.com/r/hacking/comments/1v27r7z/the_new_movie_wardriver_on_paramount_is_peak/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1v27r7z/the_new_movie_wardriver_on_paramount_is_peak/"> <img alt="The new movie “Wardriver” on paramount is peak master hacker" src=_
+
+- [Closing the Identity Gaps in Critical Infrastructure Security](https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/)
+  - Confidence: 🟫 LOW
+  - _Critical infrastructure attacks often begin with stolen credentials, compromised devices, or trusted accounts. Specops Software explains why Zero Trust should verify both user identities and device tr_
+
+- [Critical wp2shell WordPress flaws exploited to install webshells](https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/)
+  - Confidence: 🟫 LOW
+  - _Hackers are exploiting the "wp2shell" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected_
+
+- [Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak](https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/)
+  - Confidence: 🟫 LOW
+  - _The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ran_
 
 - [WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning](https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html)
   - Confidence: 🟫 LOW
@@ -283,63 +304,3 @@ tags:
 - [New HollowGraph malware uses Microsoft Graph for stealthy C2 comms](https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/)
   - Confidence: 🟫 LOW
   - _A malicious component dubbed HollowGraph uses the calendar feature in compromised Microsoft 365 mailboxes as a command-and-control channel to receive attacker commands and exfiltrate stolen data. [..._
-
-- [Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs](https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html)
-  - Confidence: 🟫 LOW
-  - _A solo Russian-speaking threat actor known as "bandcampro" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet.  The f_
-
-- [New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction](https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html)
-  - Confidence: 🟫 LOW
-  - _Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend _
-
-- [Mythos Didn't Break Your Security Program. Your Exposure Window Could.](https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html)
-  - Confidence: 🟫 LOW
-  - _The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI_
-
-- [Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine](https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html)
-  - Confidence: 🟫 LOW
-  - _At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipmen_
-
-- [⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More](https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html)
-  - Confidence: 🟫 LOW
-  - _A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.  The paths were often simple: exposed sys_
-
-- [Building an open-source Burp/Caido alternative (would love your honest feedback)](https://www.reddit.com/r/Pentesting/comments/1v091f0/building_an_opensource_burpcaido_alternative/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey all,</p> <p>I'm a bit tired of the pentesting tool landscape being dominated by paywalls for what should honestly be basic functionality. Burp's free tier is crip_
-
-- [ADDENDUM 82-F: CRITICAL SYSTEM COMPONENT COMPROMISE – SPREADTRUM IMS SERVICE (`com.spreadtrum.ims`)](https://www.reddit.com/r/Pentesting/comments/1v0epbo/addendum_82f_critical_system_component_compromise/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p># ADDENDUM 82-F: CRITICAL SYSTEM COMPONENT COMPROMISE – SPREADTRUM IMS SERVICE (`com.spreadtrum.ims`)</p> <h2>Subject: CRITICAL - Weaponized IMS Service by Longcheer/_
-
-- [Vuln Scanner that chains security tools and generate AI poc and reports](https://www.reddit.com/r/Pentesting/comments/1v0jpt5/vuln_scanner_that_chains_security_tools_and/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1v0jpt5/vuln_scanner_that_chains_security_tools_and/"> <img alt="Vuln Scanner that chains security tools and generate AI poc and _
-
-- [How to do recon](https://www.reddit.com/r/Pentesting/comments/1v0p1o0/how_to_do_recon/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey! I'm new to bug hunting field and i heard i lot about recon. Everyone say it is the skill which will make you find bugs so i am curious how to build recon skill i_
-
-- [Where do you put business logic between AI and code for pentesting automation?](https://www.reddit.com/r/Pentesting/comments/1v0elsj/where_do_you_put_business_logic_between_ai_and/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I am not new to AI in terms of talking to chatbots, however, I am still pretty new to coding Ai automation, such as using prompts in e.g python scripts using AI APIs,_
-
-- [Internal QA for reports](https://www.reddit.com/r/Pentesting/comments/1v1dl74/internal_qa_for_reports/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Do you have a formal QA process for pentest reports before they go out? </p> <p>If yes, what does that typically involve? If not, has that ever caused issues? </p> </_
-
-- [Critical ServiceNow code execution flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]_
-
-- [Windows KB5121767 OOB update fixes shutdowns on some Dell PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]_
-
-- [Microsoft confirms Windows Server Update Services sync delays](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/)
-  - Confidence: 🟫 LOW
-  - _Microsoft is working to fix a known issue affecting Windows Server Update Services (WSUS) servers, which has caused synchronization problems for more than a week. [...]_
-
-- [Hugging Face warns an autonomous AI agent hacked its network](https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/)
-  - Confidence: 🟫 LOW
-  - _The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI age_
