@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-21
-date: 2026-07-21T08:24:20Z
+date: 2026-07-21T13:43:18Z
 type: radar-report
 report_type: fast
-total_opportunities: 74
+total_opportunities: 76
 tags:
   - radar
   - fast
@@ -13,14 +13,15 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 74
+**Total opportunities:** 76
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 67 |
-| 💰 Bug Bounties | 5 |
+| ❓ Uncategorized | 69 |
+| 💰 Bug Bounties | 4 |
 | 🏰 CTF Competitions | 1 |
 | 🎓 Free Certifications | 1 |
+| 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -51,11 +52,6 @@ tags:
   - Tags: `bug_bounty`
   - _<!-- SC_OFF --><div class="md"><p>We're a small team building a web application, but we don't have a dedicated security engineer yet.</p> <p>We want to be proactive about security instead of waiting u_
 
-- [How do early-stage startups typically handle security testing before a product launch?](https://www.reddit.com/r/AskNetsec/comments/1v1dfjl/how_do_earlystage_startups_typically_handle/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>I'm curious how other startups approach security testing when they're preparing to launch a web application or SaaS product.</p> <p>For teams without a dedicated secu_
-
 ## 🎓 Free Certifications
 
 - [ISC Stormcast For Tuesday, July 21st, 2026 https://isc.sans.edu/podcastdetail/10016, (Tue, Jul 21st)](https://isc.sans.edu/diary/rss/33170)
@@ -63,7 +59,38 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
+## 🔥 Hackathons & Conferences
+
+- [New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit](https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `hackathon`, `conference`
+  - _A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in.  That is the claim be_
+
 ## ❓ Uncategorized
+
+- [WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning](https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html)
+  - Confidence: 🟫 LOW
+  - _Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable website_
+
+- [N-day is Becoming N-Hour. Patching Faster Won't Save You.](https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html)
+  - Confidence: 🟫 LOW
+  - _Every patch is a confession.  The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into_
+
+- [Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs](https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html)
+  - Confidence: 🟫 LOW
+  - _An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same a_
+
+- [Microsoft shares manual fix for WSUS sync delays and timeouts](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [..._
+
+- [Critical Palo Alto VPN bug now exploited by Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/)
+  - Confidence: 🟫 LOW
+  - _The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]_
+
+- [US seizes over 1,000 websites in FIFA World Cup piracy crackdown](https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization. [...]_
 
 - [Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution](https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html)
   - Confidence: 🟫 LOW
@@ -316,19 +343,3 @@ tags:
 - [Hugging Face warns an autonomous AI agent hacked its network](https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/)
   - Confidence: 🟫 LOW
   - _The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI age_
-
-- [SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines](https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of s_
-
-- [World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent](https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html)
-  - Confidence: 🟫 LOW
-  - _In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system.  The company said it detected_
-
-- [how do you wire threat intel into your vulnerability prioritization workflow](https://www.reddit.com/r/AskNetsec/comments/1v1edxi/how_do_you_wire_threat_intel_into_your/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>we've been pulling in more threat intel lately (KEV, EPSS) but i'm not convinced any of it is changing how we prioritize vulns in practice</p> <p>rn the flow is basic_
-
-- [What do you use today -AI coding guardrails, provenance, or something else, to keep AI-generated code aligned with your security and infra patterns?](https://www.reddit.com/r/AskNetsec/comments/1v1esgs/what_do_you_use_today_ai_coding_guardrails/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Copilot has been in our stack for around seven months and we still don't have a clean answer to this. Our infra and security patterns live in documents and in people'_
