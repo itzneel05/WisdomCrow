@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-22
-date: 2026-07-22T08:25:12Z
+date: 2026-07-22T13:48:09Z
 type: radar-report
 report_type: fast
-total_opportunities: 64
+total_opportunities: 117
 tags:
   - radar
   - fast
@@ -13,14 +13,27 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 64
+**Total opportunities:** 117
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 57 |
-| 🎓 Free Certifications | 3 |
+| ❓ Uncategorized | 108 |
+| 🎓 Free Certifications | 4 |
 | 💰 Bug Bounties | 2 |
-| 🔥 Hackathons & Conferences | 2 |
+| 🏰 CTF Competitions | 2 |
+| 🔥 Hackathons & Conferences | 1 |
+
+## 🏰 CTF Competitions
+
+- [Looking for intermediate-experienced CTF players for Cyber Apocalypse 2026 (Need ~9 more people)](https://www.reddit.com/r/hackthebox/comments/1v2ixmb/looking_for_intermediateexperienced_ctf_players/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>We're looking for about <strong>9 more people</strong> for our <strong>Cyber Apocalypse 2026</strong> team.</p> <p>You don't need a high HTB rank._
+
+- [Need advice on building a portfolio and landing that first role after HackTheBox!](https://www.reddit.com/r/hackthebox/comments/1v379ti/need_advice_on_building_a_portfolio_and_landing/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>Hi fellow HTB Redditors!</p> <p>It’s been an incredible journey so far, and I’ve learned so much from Hack The Box right from the ground up. I’m currently transitioni_
 
 ## 💰 Bug Bounties
 
@@ -35,6 +48,11 @@ tags:
   - _<p>A security researcher discovered a broken access control vulnerability in Meta’s support infrastructure.</p> <p>The post <a href="https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerabili_
 
 ## 🎓 Free Certifications
+
+- [Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization](https://www.reddit.com/r/blueteamsec/comments/1v2xwyp/introducing_antares_highly_efficient_open_weight/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-fo_
 
 - [ISC Stormcast For Wednesday, July 22nd, 2026 https://isc.sans.edu/podcastdetail/10018, (Wed, Jul 22nd)](https://isc.sans.edu/diary/rss/33174)
   - Confidence: 🟢 HIGH
@@ -58,12 +76,235 @@ tags:
   - Tags: `hackathon`, `conference`
   - _<p>Independently judged and sponsor-neutral, the new awards program honors the people, organizations, and technologies delivering proven impact in industrial cybersecurity; winners to be announced liv_
 
-- [New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit](https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `hackathon`, `conference`
-  - _A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in.  That is the claim be_
-
 ## ❓ Uncategorized
+
+- [Why Modern SOCs Need Multi-Layered Detections](https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html)
+  - Confidence: 🟫 LOW
+  - _The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defen_
+
+- [Is doing CWES enough or you need CWEE too?](https://www.reddit.com/r/hackthebox/comments/1v1ysur/is_doing_cwes_enough_or_you_need_cwee_too/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Is doing CWES enough or you need CWEE too?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hot_Kaleidoscope3864"> /u/Hot_Kaleid_
+
+- [CRTP TRAINING](https://www.reddit.com/r/hackthebox/comments/1v1o29h/crtp_training/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I need to train for the CRTP exam<br /> I want to be overpowered and i need </p> <p>machines on HTB </p> <p>I<strong>'</strong>m thinking of GOAD on HTB PROLABS and t_
+
+- [Looking for mates to team up](https://www.reddit.com/r/hackthebox/comments/1v2i5vw/looking_for_mates_to_team_up/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Looking for comrads to team up! <a href="https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2026-the-salt-crown-3432">https://ctf.hackthebox.com/event/deta_
+
+- [Now that I've passed the CPTS, would you recommend the CWES or the CAPE?](https://www.reddit.com/r/hackthebox/comments/1v2bj5g/now_that_ive_passed_the_cpts_would_you_recommend/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone, I'm a first-year master's student in France. I just earned my CPTS certification, and I want to become a penetration tester. Which certification would yo_
+
+- [Will I learn more from CWES or BSCP?](https://www.reddit.com/r/hackthebox/comments/1v2un1t/will_i_learn_more_from_cwes_or_bscp/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Will I learn more from CWES or BSCP?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hot_Kaleidoscope3864"> /u/Hot_Kaleidoscope_
+
+- [How to build a CJCA methodology](https://www.reddit.com/r/hackthebox/comments/1v3aheh/how_to_build_a_cjca_methodology/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi guys! I'm currently preparing for the CJCA exam. I would probably take it in a week. I would like to build a methodology but kind of confused on how to do it. And _
+
+- [Why are certifications not enough?](https://www.reddit.com/r/hackthebox/comments/1v33z7u/why_are_certifications_not_enough/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Certifications like CPTS are much harder than the normal daily work of a penetration tester and way harder than the OSCP. So if someone can pass the CPTS, it means th_
+
+- [Should I quit now?](https://www.reddit.com/r/cybersecurity/comments/1v27ho2/should_i_quit_now/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I get hired by my first company for cybersecurity. First year goes by. I'm learning but feeling overwhelmed. Year two starts. I'm confident in a few things that I can_
+
+- ['Self-State Attacks' Formalize a New Threat Class: AI Agents Poisoned via Their Own Memory Files, OS Defenses Structurally Insufficient](https://www.reddit.com/r/cybersecurity/comments/1v2ptwx/selfstate_attacks_formalize_a_new_threat_class_ai/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>There is a specific kind of AI security problem that has been sitting in plain sight while everyone argued about prompt injection: what happens when the agent's own s_
+
+- [Is it meaningful to prevent session cookies from being reused on another PC?](https://www.reddit.com/r/cybersecurity/comments/1v2ap78/is_it_meaningful_to_prevent_session_cookies_from/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>My manager recently discovered that he could copy his authenticated browser cookies from one PC to another and remain logged in. Now he wants me to &quot;prevent the _
+
+- [Any State / Government agencies using LG products?](https://www.reddit.com/r/cybersecurity/comments/1v2mds8/any_state_government_agencies_using_lg_products/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I am wondering if anyone here works for a state / government agency that has LG products in their inventory, and is the new news a big deal, or is all LG getting bann_
+
+- [North Korea's IT worker scheme funds Russia's war effort](https://www.reddit.com/r/cybersecurity/comments/1v2nbdi/north_koreas_it_worker_scheme_funds_russias_war/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1v2nbdi/north_koreas_it_worker_scheme_funds_russias_war/"> <img alt="North Korea's IT worker scheme funds Russia's war effort"_
+
+- [Would this actually stop scrapers?](https://www.reddit.com/r/cybersecurity/comments/1v3blh6/would_this_actually_stop_scrapers/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I've been watching how web-scrapers work to collect your emails and I have found a curious little project to stop them. In theory I understand how it works, e.g. it j_
+
+- [I dont know how to start with over the wire wargames](https://www.reddit.com/r/cybersecurity/comments/1v3c91v/i_dont_know_how_to_start_with_over_the_wire/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I am a computer science student, still dont know about linux or cyber security that much, and i took a SOC internship. my task is to finish overthewire bandit wargame_
+
+- [AMA Starts Soon: The Reporters Who Exposed Flock's License Plate Leak (Tuesday, July 21st)](https://www.reddit.com/r/cybersecurity/comments/1v2jsb6/ama_starts_soon_the_reporters_who_exposed_flocks/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1v2jsb6/ama_starts_soon_the_reporters_who_exposed_flocks/"> <img alt="AMA Starts Soon: The Reporters Who Exposed Flock's Licen_
+
+- [How are you guys securing sensitive conversations at work?](https://www.reddit.com/r/cybersecurity/comments/1v2r47y/how_are_you_guys_securing_sensitive_conversations/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Besides the obvious answers of Signal and Telegram, ive been looking into something thats easier for non IT people, and in a way where verification HAS to happen betw_
+
+- [Nvidia's new Synthetic Video Detector can identify fake AI videos with up to 92% accuracy](https://www.reddit.com/r/cybersecurity/comments/1v2h8r8/nvidias_new_synthetic_video_detector_can_identify/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1v2h8r8/nvidias_new_synthetic_video_detector_can_identify/"> <img alt="Nvidia's new Synthetic Video Detector can identify fake_
+
+- [Dolphin X Stealer Targets 300+ Apps and Profiles Users with AI](https://www.reddit.com/r/cybersecurity/comments/1v3flo6/dolphin_x_stealer_targets_300_apps_and_profiles/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1v3flo6/dolphin_x_stealer_targets_300_apps_and_profiles/"> <img alt="Dolphin X Stealer Targets 300+ Apps and Profiles Users wi_
+
+- [Need Career Advice: Feeling Stuck as an L1 Cybersecurity Analyst](https://www.reddit.com/r/cybersecurity/comments/1v3769r/need_career_advice_feeling_stuck_as_an_l1/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>&#x200b;</p> <p>Hi everyone,</p> <p>I’m currently working as a Cybersecurity Analyst with 2 YOE, but my role is mostly L1 support focused on incident handling. Lately_
+
+- [What would an AI or AI Agent hack look like?](https://www.reddit.com/r/cybersecurity/comments/1v3e5yr/what_would_an_ai_or_ai_agent_hack_look_like/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Does anyone know or have any info on what it would look like if an AI agent was trying to get into your networks? Or if it did? Which kind of security tools do you th_
+
+- [How to optimise first week at new company / role](https://www.reddit.com/r/cybersecurity/comments/1v3e7z4/how_to_optimise_first_week_at_new_company_role/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Starting a new role at a FS firm End of Aug as a GRC Analyst, what would everyone recommend doing / reading in the first week to be as prepared as possible?</p> </div_
+
+- [Managed Security Service Provider Recommendations](https://www.reddit.com/r/cybersecurity/comments/1v33o06/managed_security_service_provider_recommendations/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>looking for a MSSP to provide Managed SIEM + 24x7 SOC alert, monitoring and response across entire tech stack of endpoint and firewalls.</p> </div><!-- SC_ON --> &#32_
+
+- [How to not become crazy with the constant flow of information we're receiving](https://www.reddit.com/r/cybersecurity/comments/1v352zp/how_to_not_become_crazy_with_the_constant_flow_of/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi all! I am a CTI Analyst, previously working on awareness and governance. I have a geopolitics and economics background too so spending a lot of time reading news a_
+
+- [Suno discloses data breach exposing 55M records that not only includes email, names, phones, addresses, purchase history, and partial credit card data, but also proves they scraped YouTube, Deezer, and Genius for training data.](https://www.reddit.com/r/cybersecurity/comments/1v3dm73/suno_discloses_data_breach_exposing_55m_records/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1v3dm73/suno_discloses_data_breach_exposing_55m_records/"> <img alt="Suno discloses data breach exposing 55M records that not _
+
+- [Critical SharePoint RCE flaw exploited to steal machine keys](https://www.reddit.com/r/cybersecurity/comments/1v2w61u/critical_sharepoint_rce_flaw_exploited_to_steal/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1v2w61u/critical_sharepoint_rce_flaw_exploited_to_steal/"> <img alt="Critical SharePoint RCE flaw exploited to steal machine k_
+
+- [what is going on with the cybersecurity job market??????](https://www.reddit.com/r/cybersecurity/comments/1v2otdq/what_is_going_on_with_the_cybersecurity_job_market/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I am tired of applying for cybersecurity jobs and not hearing back bc after a while it becomes difficult to tell whether I need more experience, more certifications, _
+
+- [Deployed Wazuh SIEM/XDR in virtual lab](https://www.reddit.com/r/cybersecurity/comments/1v3dnyd/deployed_wazuh_siemxdr_in_virtual_lab/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1v3dnyd/deployed_wazuh_siemxdr_in_virtual_lab/"> <img alt="Deployed Wazuh SIEM/XDR in virtual lab" src="https://external-previ_
+
+- [How was your career/job search after getting the CISSP?](https://www.reddit.com/r/cybersecurity/comments/1v32n2k/how_was_your_careerjob_search_after_getting_the/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>For those who have earned their CISSP, did you notice a significant difference in your job search afterward? Did you start getting more interview requests or have mor_
+
+- [US police now armed with Israeli spy vans simulating mobile phone towers](https://www.reddit.com/r/cybersecurity/comments/1v2jm18/us_police_now_armed_with_israeli_spy_vans/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/tw1st3d_m3nt4t"> /u/tw1st3d_m3nt4t </a> <br /> <span><a href="https://cybernews.com/privacy/us-police-israeli-spy-vans-falconet-cognyte/">_
+
+- [Oracle Releases 1235 CVEs today.](https://www.reddit.com/r/cybersecurity/comments/1v2zpfk/oracle_releases_1235_cves_today/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>It's a new record!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/scooterthetroll"> /u/scooterthetroll </a> <br /> <span><a hr_
+
+- [HOLLOWGRAPH: Turning Microsoft 365 Calendars into Covert Command-and-Control Channels](https://www.reddit.com/r/blueteamsec/comments/1v1okps/hollowgraph_turning_microsoft_365_calendars_into/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.group-ib.com/blog/hollowgraph-microsoft-365/">[link]</a></span> &#32; <span><a_
+
+- [ChainVeil and ViteVenom are DPRK’s PolinRider Campaign](https://www.reddit.com/r/blueteamsec/comments/1v2cjos/chainveil_and_vitevenom_are_dprks_polinrider/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://opensourcemalware.com/blog/chainveil-and-vitevenom-dprk-polinrider-campaign">[link_
+
+- [Exploit brokers pay $500,000 for a WordPress RCE. I found one with GPT5.6 Sol Ultra and $25](https://www.reddit.com/r/blueteamsec/comments/1v2ukob/exploit_brokers_pay_500000_for_a_wordpress_rce_i/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-_
+
+- [Furtex: Post-exploitation and evasion research toolkit for Linux.](https://www.reddit.com/r/blueteamsec/comments/1v2cg8w/furtex_postexploitation_and_evasion_research/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://github.com/MatheuZSecurity/Furtex">[link]</a></span> &#32; <span><a href="https://_
+
+- [How a SIEM (Splunk) actually works — found a really detailed writeup](https://www.reddit.com/r/blueteamsec/comments/1v38td4/how_a_siem_splunk_actually_works_found_a_really/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey folks, came across a really well-written article today that breaks down how a SIEM actually works under the hood. It follows a single suspicious login all the way_
+
+- [[QuickNote] Mustang Panda ToneShell (APT S1239) Beacon Shellcode – RE Analysis](https://www.reddit.com/r/blueteamsec/comments/1v2uq0u/quicknote_mustang_panda_toneshell_apt_s1239/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://kienmanowar.wordpress.com/2026/07/21/quicknote-mustang-panda-toneshell-apt-s1239-b_
+
+- [[QuickNote] SolidPDFCreator – Mustang Panda Stage-1 Backdoor (Target India)](https://www.reddit.com/r/blueteamsec/comments/1v2urn9/quicknote_solidpdfcreator_mustang_panda_stage1/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://kienmanowar.wordpress.com/2026/07/13/quicknote-solidpdfcreator-mustang-panda-stage_
+
+- [DPRK’s Famous Chollima Deploys RATs Through ClickFake Job Interviews](https://www.reddit.com/r/blueteamsec/comments/1v2ussh/dprks_famous_chollima_deploys_rats_through/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://socradar.io/blog/dprk-clickfake-pylangghost-golangghost-rats/">[link]</a></span> &_
+
+- [Chinese police repatriate key suspect in phishing and Trojan virus case from Vietnam](https://www.reddit.com/r/blueteamsec/comments/1v2vu8r/chinese_police_repatriate_key_suspect_in_phishing/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.chinadaily.com.cn/a/202607/20/WS6a5db910a310986e2b466326.html">[link]</a></spa_
+
+- [GDID: The Windows Global Device Identifier](https://www.reddit.com/r/blueteamsec/comments/1v2uh0u/gdid_the_windows_global_device_identifier/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://zerotracelab.com/blog/gdid-windows-tracking">[link]</a></span> &#32; <span><a href_
+
+- [MuddyWater: ClickFix to Telegram & PatchAgent Backdoor](https://www.reddit.com/r/blueteamsec/comments/1v2uudr/muddywater_clickfix_to_telegram_patchagent/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://ransom-isac.com/blog/muddywater-clickfix-patchagent/">[link]</a></span> &#32; <spa_
+
+- [Reverse Engineering a Ledger Nano X Hardware Implant](https://www.reddit.com/r/blueteamsec/comments/1v2uw39/reverse_engineering_a_ledger_nano_x_hardware/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://grandideastudio.com/portfolio/security/ledger-hardware-implant/">[link]</a></span>_
+
+- [Unpacking “Cruciferra”: An Analysis of a Sophisticated Crypter Service](https://www.reddit.com/r/blueteamsec/comments/1v2uwyz/unpacking_cruciferra_an_analysis_of_a/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.proofpoint.com/us/blog/threat-insight/unpacking-cruciferra-analysis-sophistica_
+
+- [CVE-2026-50502 : RCE via le service Windows Event Log](https://www.reddit.com/r/blueteamsec/comments/1v2ugjt/cve202650502_rce_via_le_service_windows_event_log/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://login-securite.com/blog/cve-2026-50502-rce-via-le-service-windows-event-log-elfrba_
+
+- [Inside Pegasus: The evolution of the world's most notorious spyware system](https://www.reddit.com/r/blueteamsec/comments/1v2uqlj/inside_pegasus_the_evolution_of_the_worlds_most/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://securitylab.amnesty.org/latest/2026/07/inside-pegasus-the-evolution-of-the-worlds-_
+
+- [OpenAI and Hugging Face partner to address security incident during model evaluation](https://www.reddit.com/r/blueteamsec/comments/1v2v66c/openai_and_hugging_face_partner_to_address/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://openai.com/index/hugging-face-model-evaluation-security-incident/">[link]</a></spa_
+
+- [TChCh-Changes: A Look at macOS TCC Manipulation in the Wild](https://www.reddit.com/r/blueteamsec/comments/1v35sk9/tchchchanges_a_look_at_macos_tcc_manipulation_in/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/According-Taste6217"> /u/According-Taste6217 </a> <br /> <span><a href="https://oj-sec.com/blog/20260721/">[link]</a></span> &#32; <span><_
+
+- [From Payroll to Pyongyang: The DPRK IT Worker Money Trail](https://www.reddit.com/r/blueteamsec/comments/1v2vc9e/from_payroll_to_pyongyang_the_dprk_it_worker/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/jnazario"> /u/jnazario </a> <br /> <span><a href="https://www.dtex.ai/blog/dprk-it-worker-money-trail/">[link]</a></span> &#32; <span><a h_
+
+- [Open Directory Stages NGINX Rift and Ghost CMS Exploits Against Government and Finance Across Eleven Countries](https://www.reddit.com/r/blueteamsec/comments/1v2ypas/open_directory_stages_nginx_rift_and_ghost_cms/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://hunt.io/blog/open-directory-nginx-rift-ghost-cms-multi-cve">[link]</a></span> &#32_
+
+- [We pushed .env files with working canary credentials to public GitHub repos - attacker timeline and the gaps in GitHub/AWS automated response](https://www.reddit.com/r/blueteamsec/comments/1v2t5as/we_pushed_env_files_with_working_canary/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Author here (I run the company behind this - disclosure up front). We committed working canary credentials (AWS, Anthropic, Postgres) to public GitHub repos and logge_
+
+- [Heads up: CVE-2026-59208 in n8n Enterprise lets a valid token map to the wrong user](https://www.reddit.com/r/blueteamsec/comments/1v37m0e/heads_up_cve202659208_in_n8n_enterprise_lets_a/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>If you're running n8n Enterprise and using multi-issuer token exchange, you'll want to double-check your configurations today.</p> <p>CVE-2026-59208 just dropped, and_
+
+- [1,509 WordPress sites feed an active SocGholish chain](https://www.reddit.com/r/blueteamsec/comments/1v3bl58/1509_wordpress_sites_feed_an_active_socgholish/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/ectkirk"> /u/ectkirk </a> <br /> <span><a href="https://www.derp.ca/research/ta2726-wordpress-malware-launchpads/">[link]</a></span> &#32;_
+
+- [Microsoft to stop Exchange 2016 / 2019 security updates in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has reminded customers that it will stop shipping security updates for Exchange 2016 and 2019 through the Extended Security Update (ESU) program in October. [...]_
+
+- [Stop renting storage space — this lifetime 2TB plan is yours for $59](https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/)
+  - Confidence: 🟫 LOW
+  - _Cloud storage costs tend to creep up over time, since most services charge monthly or annually for as long as you use them. FileJump's Lifetime Plan skips that model entirely, offering 2TB of cloud st_
+
+- [CISA orders urgent action on actively exploited Langflow RCE flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/)
+  - Confidence: 🟫 LOW
+  - _The Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday ordered U.S. government agencies to prioritize patching an actively exploited vulnerability in the Langflow visual framework for _
+
+- [Adobe Chrome extension flaw let sites access private WhatsApp chats](https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/)
+  - Confidence: 🟫 LOW
+  - _The Adobe Acrobat extension for Chrome could be used to access conversations and data rendered in WhatsApp Web without any form of authentication. [...]_
 
 - [OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark](https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html)
   - Confidence: 🟫 LOW
@@ -268,27 +509,3 @@ tags:
 - [Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak](https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/)
   - Confidence: 🟫 LOW
   - _The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ran_
-
-- [WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning](https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html)
-  - Confidence: 🟫 LOW
-  - _Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable website_
-
-- [N-day is Becoming N-Hour. Patching Faster Won't Save You.](https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html)
-  - Confidence: 🟫 LOW
-  - _Every patch is a confession.  The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into_
-
-- [Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs](https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html)
-  - Confidence: 🟫 LOW
-  - _An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same a_
-
-- [Microsoft shares manual fix for WSUS sync delays and timeouts](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [..._
-
-- [Critical Palo Alto VPN bug now exploited by Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/)
-  - Confidence: 🟫 LOW
-  - _The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]_
-
-- [US seizes over 1,000 websites in FIFA World Cup piracy crackdown](https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/)
-  - Confidence: 🟫 LOW
-  - _The U.S. Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization. [...]_
