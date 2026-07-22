@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-22
-date: 2026-07-22T02:24:06Z
+date: 2026-07-22T08:25:12Z
 type: radar-report
 report_type: fast
-total_opportunities: 66
+total_opportunities: 64
 tags:
   - radar
   - fast
@@ -13,22 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 66
+**Total opportunities:** 64
 
 | Category | Count |
 |----------|-------|
 | ❓ Uncategorized | 57 |
-| 🎓 Free Certifications | 4 |
+| 🎓 Free Certifications | 3 |
 | 💰 Bug Bounties | 2 |
 | 🔥 Hackathons & Conferences | 2 |
-| 🏰 CTF Competitions | 1 |
-
-## 🏰 CTF Competitions
-
-- [Lexington Informatics Tournament CTF 2026](https://ctftime.org/event/3373)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: Lexington Informatics Tournament CTF 2026 (an <a href="/ctf/646">LIT CTF</a> event.)<br /> Date: Aug. 1, 2026, 3 p.m. &mdash; 03 Aug. 2026, 15:00 UTC &nbsp;<a href="/event/3373.ics">[add to cale_
 
 ## 💰 Bug Bounties
 
@@ -59,11 +51,6 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>A security analyst opens an unfamiliar repository, pulls up a vulnerability advisory, and starts hunting for the file where the weakness lives. The naming conventions belong to someone else. Eviden_
 
-- [ISC Stormcast For Tuesday, July 21st, 2026 https://isc.sans.edu/podcastdetail/10016, (Tue, Jul 21st)](https://isc.sans.edu/diary/rss/33170)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## 🔥 Hackathons & Conferences
 
 - [SecurityWeek Launches Critical Impact Awards to Recognize Excellence in Industrial Cybersecurity](https://www.securityweek.com/securityweek-launches-critical-impact-awards-to-recognize-excellence-in-industrial-cybersecurity/)
@@ -77,6 +64,58 @@ tags:
   - _A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in.  That is the claim be_
 
 ## ❓ Uncategorized
+
+- [OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark](https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html)
+  - Confidence: 🟫 LOW
+  - _OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an "even more capable pre-release model," was behind the security incident that targeted Hugg_
+
+- [Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents](https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html)
+  - Confidence: 🟫 LOW
+  - _A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what_
+
+- [Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library](https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live ga_
+
+- [Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA](https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html)
+  - Confidence: 🟫 LOW
+  - _German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authori_
+
+- [Two M365/SaaS identity campaigns hit hard Feb–June, neither used a CVE. What are you seeing?](https://www.reddit.com/r/AskNetsec/comments/1v1j9px/two_m365saas_identity_campaigns_hit_hard_febjune/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Both got in through OAuth/identity abuse, no software vuln. Sharing what I've got (particularly interested in UAE/Gulf environments), curious what's landed in your qu_
+
+- [Why Nobody Talks about VAPT Scope in terms of making business decisions? And Scope review as a service?](https://www.reddit.com/r/AskNetsec/comments/1v2mwof/why_nobody_talks_about_vapt_scope_in_terms_of/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I've been working in Cybersecurity for 5 years now, started as Security Assessment Technical Presales /Pentester.....Scoped and quoted like 100+ engagements ... Then _
+
+- [MFA push fatigue is out of control, what am I missing?](https://www.reddit.com/r/AskNetsec/comments/1v2gpzr/mfa_push_fatigue_is_out_of_control_what_am_i/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>We had a near-miss last month where someone almost approved a push notification because an attacker called pretending to be IT and asked them to confirm a code over t_
+
+- [Have you used Wiz or RapidFort for software attack surface management?](https://www.reddit.com/r/AskNetsec/comments/1v2f6fy/have_you_used_wiz_or_rapidfort_for_software/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>We're looking at different ways to deal with the growing amount of security findings coming from our container and cloud environments, and I want to hear more about r_
+
+- [how do you show risk reduction over time to justify your security program budget](https://www.reddit.com/r/AskNetsec/comments/1v37i2i/how_do_you_show_risk_reduction_over_time_to/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>budget cycle is coming up and i need to make the case for keeping our security program funded, ideally growing it. last cycle the cfo looked at my slide and asked &qu_
+
+- [how do you wire threat intel into your vulnerability prioritization workflow](https://www.reddit.com/r/AskNetsec/comments/1v37nle/how_do_you_wire_threat_intel_into_your/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>we've been pulling in more threat intel lately (KEV, EPSS) but i'm not convinced any of it is changing how we prioritize vulns in practice </p> <p>rn the flow is basi_
+
+- [what's keeping enterprise security decision makers up at night in 2026, comparing notes](https://www.reddit.com/r/AskNetsec/comments/1v391a3/whats_keeping_enterprise_security_decision_makers/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>so i been comparing notes with peers at a few conferences this year and there's exactly a pattern forming that i wanted to sanity check here.</p> <p>i feel like the r_
+
+- [OpenAI says its AI models hacked Hugging Face during testing](https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/)
+  - Confidence: 🟫 LOW
+  - _OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]_
+
+- [Chick-fil-A discloses data breach after credential stuffing attacks](https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/)
+  - Confidence: 🟫 LOW
+  - _American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]_
 
 - [Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs](https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html)
   - Confidence: 🟫 LOW
@@ -253,55 +292,3 @@ tags:
 - [US seizes over 1,000 websites in FIFA World Cup piracy crackdown](https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/)
   - Confidence: 🟫 LOW
   - _The U.S. Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization. [...]_
-
-- [Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution](https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber.  In a post shared on X, the threat intelligence firm said it'_
-
-- [New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack](https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html)
-  - Confidence: 🟫 LOW
-  - _Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.  The same operator has now been spotte_
-
-- [Windows LegacyHive zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/)
-  - Confidence: 🟫 LOW
-  - _Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]_
-
-- [FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware](https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to _
-
-- [R u passionate about it](https://www.reddit.com/r/Pentesting/comments/1v1x4yz/r_u_passionate_about_it/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Agreeable_Mud_5816"> /u/Agreeable_Mud_5816 </a> <br /> <span><a href="https://www.reddit.com/r/Pentesting/comments/1v1x4yz/r_u_passionate__
-
-- [Mobile PT advice](https://www.reddit.com/r/Pentesting/comments/1v1re26/mobile_pt_advice/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>HI everyone,</p> <p>For the folks who regularly do mobile PT, is it okay for a finding for sensitive data(e.g auth token) stored in memory to be reported .However the_
-
-- [ADHD vs. Cybersecurity Basics: I’m losing](https://www.reddit.com/r/Pentesting/comments/1v1x46k/adhd_vs_cybersecurity_basics_im_losing/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello there!</p> <p>I’m currently trying to dive into <strong>cybersecurity</strong> and <strong>pentesting</strong>, but I am running into a massive wall with my <st_
-
-- [Free Hosted AWS Pentest Lab](https://www.reddit.com/r/Pentesting/comments/1v1x63v/free_hosted_aws_pentest_lab/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone!</p> <p>I just created a completely free AWS pentesting lab. It's hosted on Hack Smarter (nothing you need to spin up in your own AWS account). You start_
-
-- [JadePuffer agentic attacks now target AI model data with ransomware](https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/)
-  - Confidence: 🟫 LOW
-  - _The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]_
-
-- [Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes](https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/)
-  - Confidence: 🟫 LOW
-  - _Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two _
-
-- [Hackers steal $23.7 million in crypto from Ostium in off-chain attack](https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/)
-  - Confidence: 🟫 LOW
-  - _The Ostium trading platform announced that an attacker stole $23.75 million from its liquidity provider vault last week, after compromising off-chain infrastructure used to feed prices into the protoc_
-
-- [SonicWall SMA1000 flaws exploited as zero-days to push custom malware](https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/)
-  - Confidence: 🟫 LOW
-  - _Two recently disclosed SonicWall SMA1000 vulnerabilities were exploited in zero-day attacks for weeks, allowing threat actors to install custom malware on vulnerable VPN appliances. [...]_
-
-- [Estée Lauder discloses data breach via Oracle E-Business flaw](https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/)
-  - Confidence: 🟫 LOW
-  - _Cosmetics giant Estée Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]_
