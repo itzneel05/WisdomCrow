@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-22
-date: 2026-07-22T13:48:09Z
+date: 2026-07-22T19:13:13Z
 type: radar-report
 report_type: fast
-total_opportunities: 117
+total_opportunities: 125
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 117
+**Total opportunities:** 125
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 108 |
+| ❓ Uncategorized | 113 |
+| 💰 Bug Bounties | 5 |
 | 🎓 Free Certifications | 4 |
-| 💰 Bug Bounties | 2 |
 | 🏰 CTF Competitions | 2 |
 | 🔥 Hackathons & Conferences | 1 |
 
@@ -41,6 +41,21 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `bug_bounty`
   - _Orchestrate AI agents to find real vulnerabilities in code._
+
+- [Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication](https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck.  The vulnerability in question is CVE-2026-29059 (CVSS sc_
+
+- [Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data](https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a sil_
+
+- [Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs](https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete c_
 
 - [Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data](https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/)
   - Confidence: 🟡 MEDIUM
@@ -77,6 +92,26 @@ tags:
   - _<p>Independently judged and sponsor-neutral, the new awards program honors the people, organizations, and technologies delivering proven impact in industrial cybersecurity; winners to be announced liv_
 
 ## ❓ Uncategorized
+
+- [The Fastest Path to AI Adoption Runs Through Security](https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html)
+  - Confidence: 🟫 LOW
+  - _Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, empl_
+
+- [Rondo Meets Geoserver, (Wed, Jul 22nd)](https://isc.sans.edu/diary/rss/33176)
+  - Confidence: 🟫 LOW
+  - _<p>This isn&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t a new attack, but something I saw "pop-up" in our logs this week:</p>&#xd;_
+
+- [New InfraTrust report reveals infrastructure flaws admins should patch first](https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/)
+  - Confidence: 🟫 LOW
+  - _Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastruct_
+
+- [How enterprise GenAI can amplify ransomware risk — and how to contain it](https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/)
+  - Confidence: 🟫 LOW
+  - _Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities. Acronis explains how identity controls, governance, and least-pri_
+
+- [Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack](https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/)
+  - Confidence: 🟫 LOW
+  - _Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers. [...]_
 
 - [Why Modern SOCs Need Multi-Layered Detections](https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html)
   - Confidence: 🟫 LOW
