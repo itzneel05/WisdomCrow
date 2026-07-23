@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-23
-date: 2026-07-23T02:29:15Z
+date: 2026-07-23T08:25:54Z
 type: radar-report
 report_type: fast
-total_opportunities: 111
+total_opportunities: 100
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 111
+**Total opportunities:** 100
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 100 |
+| ❓ Uncategorized | 89 |
 | 💰 Bug Bounties | 5 |
 | 🏰 CTF Competitions | 3 |
 | 🎓 Free Certifications | 3 |
@@ -83,6 +83,14 @@ tags:
   - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-fo_
 
 ## ❓ Uncategorized
+
+- [Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access](https://thehackernews.com/2026/07/check-point-patches-exploited.html)
+  - Confidence: 🟫 LOW
+  - _Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under a_
+
+- [Check Point warns of SmartConsole zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel. [...]_
 
 - [South Korea discloses data breach impacting diplomats worldwide](https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/)
   - Confidence: 🟫 LOW
@@ -431,55 +439,3 @@ tags:
 - [Adobe Chrome extension flaw let sites access private WhatsApp chats](https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/)
   - Confidence: 🟫 LOW
   - _The Adobe Acrobat extension for Chrome could be used to access conversations and data rendered in WhatsApp Web without any form of authentication. [...]_
-
-- [OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark](https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html)
-  - Confidence: 🟫 LOW
-  - _OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an "even more capable pre-release model," was behind the security incident that targeted Hugg_
-
-- [Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents](https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html)
-  - Confidence: 🟫 LOW
-  - _A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what_
-
-- [Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library](https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live ga_
-
-- [Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA](https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html)
-  - Confidence: 🟫 LOW
-  - _German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authori_
-
-- [Two M365/SaaS identity campaigns hit hard Feb–June, neither used a CVE. What are you seeing?](https://www.reddit.com/r/AskNetsec/comments/1v1j9px/two_m365saas_identity_campaigns_hit_hard_febjune/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Both got in through OAuth/identity abuse, no software vuln. Sharing what I've got (particularly interested in UAE/Gulf environments), curious what's landed in your qu_
-
-- [Why Nobody Talks about VAPT Scope in terms of making business decisions? And Scope review as a service?](https://www.reddit.com/r/AskNetsec/comments/1v2mwof/why_nobody_talks_about_vapt_scope_in_terms_of/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I've been working in Cybersecurity for 5 years now, started as Security Assessment Technical Presales /Pentester.....Scoped and quoted like 100+ engagements ... Then _
-
-- [MFA push fatigue is out of control, what am I missing?](https://www.reddit.com/r/AskNetsec/comments/1v2gpzr/mfa_push_fatigue_is_out_of_control_what_am_i/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>We had a near-miss last month where someone almost approved a push notification because an attacker called pretending to be IT and asked them to confirm a code over t_
-
-- [Have you used Wiz or RapidFort for software attack surface management?](https://www.reddit.com/r/AskNetsec/comments/1v2f6fy/have_you_used_wiz_or_rapidfort_for_software/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>We're looking at different ways to deal with the growing amount of security findings coming from our container and cloud environments, and I want to hear more about r_
-
-- [how do you show risk reduction over time to justify your security program budget](https://www.reddit.com/r/AskNetsec/comments/1v37i2i/how_do_you_show_risk_reduction_over_time_to/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>budget cycle is coming up and i need to make the case for keeping our security program funded, ideally growing it. last cycle the cfo looked at my slide and asked &qu_
-
-- [how do you wire threat intel into your vulnerability prioritization workflow](https://www.reddit.com/r/AskNetsec/comments/1v37nle/how_do_you_wire_threat_intel_into_your/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>we've been pulling in more threat intel lately (KEV, EPSS) but i'm not convinced any of it is changing how we prioritize vulns in practice </p> <p>rn the flow is basi_
-
-- [what's keeping enterprise security decision makers up at night in 2026, comparing notes](https://www.reddit.com/r/AskNetsec/comments/1v391a3/whats_keeping_enterprise_security_decision_makers/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>so i been comparing notes with peers at a few conferences this year and there's exactly a pattern forming that i wanted to sanity check here.</p> <p>i feel like the r_
-
-- [OpenAI says its AI models hacked Hugging Face during testing](https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/)
-  - Confidence: 🟫 LOW
-  - _OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]_
-
-- [Chick-fil-A discloses data breach after credential stuffing attacks](https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/)
-  - Confidence: 🟫 LOW
-  - _American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]_
