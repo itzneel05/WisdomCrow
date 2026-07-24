@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-24
-date: 2026-07-24T13:38:22Z
+date: 2026-07-24T19:22:11Z
 type: radar-report
 report_type: fast
-total_opportunities: 71
+total_opportunities: 66
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 71
+**Total opportunities:** 66
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 60 |
-| 🎓 Free Certifications | 6 |
-| 💰 Bug Bounties | 4 |
+| ❓ Uncategorized | 58 |
+| 🎓 Free Certifications | 5 |
+| 💰 Bug Bounties | 2 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 💰 Bug Bounties
@@ -29,20 +29,10 @@ tags:
   - Tags: `bug_bounty`
   - _<p>GitHub is changing its bug bounty program to reward higher-quality vulnerability reports and reduce low-effort submissions, including AI-generated reports. The changes will take effect on July 27, _
 
-- [AI’s convenience cost. The impact of the lethal trifecta on organizations today](https://www.intigriti.com/blog/business-insights/impact-of-the-lethal-trifecta-on-organizations-today)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `india_friendly`
-  - _The lethal trifecta matters more now than ever because AI tools can read your data, absorb instructions, and act on your behalf. That means a poisoned email, webpage, or document could trick your AI i_
-
 - [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`, `india_friendly`
   - _Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an auto_
-
-- [Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files](https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which th_
 
 ## 🎓 Free Certifications
 
@@ -71,11 +61,6 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>Cisco Talos has identified a Rust-based remote access trojan it attributes to the Chaos ransomware group, named msaRAT after four of the binding names left in the binary. The tool starts its own in_
 
-- [Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge](https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahe_
-
 ## 🔥 Hackathons & Conferences
 
 - [Flaws in Passkey Implementation Show Old Attacks Still Work](https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work)
@@ -84,6 +69,62 @@ tags:
   - _Ahead of Black Hat USA, researchers find exploitable flaws in how Microsoft handles passkeys that could allow attackers to impersonate privileged users._
 
 ## ❓ Uncategorized
+
+- [Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller](https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html)
+  - Confidence: 🟫 LOW
+  - _Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine_
+
+- [BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery](https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html)
+  - Confidence: 🟫 LOW
+  - _The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoc_
+
+- [Assume Breach: Should critical root operations require human multi-party authorization at the OS level?](https://www.reddit.com/r/AskNetsec/comments/1v3w7nm/assume_breach_should_critical_root_operations/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>With the recent surge in advanced ransomware and the constant stream of zero-day exploits, I've been thinking a lot about structural weaknesses i_
+
+- [Most reliable platform for AI remediation automation across a large vuln backlog?](https://www.reddit.com/r/AskNetsec/comments/1v47lqc/most_reliable_platform_for_ai_remediation/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Backlog has grown faster than the team can manually remediate. Looking at platforms that don't just flag issues but can suggest or apply fixes with enough context tha_
+
+- [CodeAnt vs Pentera vs Horizon3.ai](https://www.reddit.com/r/AskNetsec/comments/1v45nex/codeant_vs_pentera_vs_horizon3ai/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>What's your experience with these three? Or do you have any other recommendations.</p> <p>We are planning to integrate a new pentesting tool and these are the options_
+
+- [what is the difference between a vulnerability scanner and a vulnerability management tool](https://www.reddit.com/r/AskNetsec/comments/1v46rtu/what_is_the_difference_between_a_vulnerability/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>vendor came in last week and demoed what they called a &quot;vulnerability management tool.&quot; looked a lot like our Tenable setup with a different UI and a bunch _
+
+- [What important questions should buyers ask in initial DSPM calls?](https://www.reddit.com/r/AskNetsec/comments/1v58m9p/what_important_questions_should_buyers_ask_in/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>For anyone who has priced or evaluated DSPM tools what do you wish you knew earlier in the process? My company is just beginning this ordeal and I want to know what q_
+
+- [what are best tools for SIEM detection validation right now](https://www.reddit.com/r/AskNetsec/comments/1v51lyf/what_are_best_tools_for_siem_detection_validation/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Most of our SIEM tuning still feels like guesswork. We add rules, adjust thresholds, and chase false positives, but we rarely get to see how the whole detection set b_
+
+- [How are you handling false positives from wildcard DNS and catch all responses in automated content discovery?](https://www.reddit.com/r/AskNetsec/comments/1v5kk4d/how_are_you_handling_false_positives_from/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Working on an automated assessment pipeline (mine, open source, link at the end) and hit this hard enough to want other approaches.</p> <p>FFUF against a host with a _
+
+- [Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack](https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/)
+  - Confidence: 🟫 LOW
+  - _Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains ho_
+
+- [Chick-fil-A data breach affects more than 13,000 customers](https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/)
+  - Confidence: 🟫 LOW
+  - _Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]_
+
+- [Microsoft blames massive Microsoft 365 outage on maintenance bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/)
+  - Confidence: 🟫 LOW
+  - _Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microso_
+
+- [Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/)
+  - Confidence: 🟫 LOW
+  - _Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]_
+
+- [Hermes AI agent used to automate attack on Thai Finance Ministry](https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/)
+  - Confidence: 🟫 LOW
+  - _A threat actor used the open-source Hermes AI agent in unattended "YOLO" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]_
 
 - [Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say](https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html)
   - Confidence: 🟫 LOW
@@ -260,67 +301,3 @@ tags:
 - [Agentic AI Challenges Progress in Confidential Computing](https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing)
   - Confidence: 🟫 LOW
   - _Core issues that slowed down adoption of secure data vaults are being resolved by technology, but artificial intelligence poses new ones. Experts have some answers._
-
-- [China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks](https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html)
-  - Confidence: 🟫 LOW
-  - _An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Lati_
-
-- [ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories](https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html)
-  - Confidence: 🟫 LOW
-  - _Most of this week's trouble came dressed as something useful.  A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Oth_
-
-- [Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes](https://thehackernews.com/2026/07/russian-espionage-group-exploited.html)
-  - Confidence: 🟫 LOW
-  - _A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client.  The payload goes after the last 90 days of email, the organiza_
-
-- [FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires](https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/)
-  - Confidence: 🟫 LOW
-  - _FedRAMP 20X replaces point-in-time assessments with continuous, machine-readable evidence that demonstrates security controls are working. Anecdotes explains what the transition from Rev5 to FedRAMP 2_
-
-- [Microsoft 365 outage affects Teams, SharePoint and other services](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/)
-  - Confidence: 🟫 LOW
-  - _Microsoft is impacted by a massive outage affecting Teams and Microsoft 365 services, primarily affecting users in North America. [...]_
-
-- [Hackers abuse Notepad++ plugins to stealthily install malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/)
-  - Confidence: 🟫 LOW
-  - _Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [._
-
-- [Russian hackers exploit Zimbra zero-click flaw for email theft](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/)
-  - Confidence: 🟫 LOW
-  - _CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing atta_
-
-- [Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs](https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html)
-  - Confidence: 🟫 LOW
-  - _RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access.  _
-
-- [Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts](https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html)
-  - Confidence: 🟫 LOW
-  - _Google on Thursday announced a new way for users to sign-in to their accounts by letting them take a selfie video.  The selfie for sign-in, per the tech giant, is another option on top of existing rec_
-
-- [Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers](https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastructure designed to target cPanel and WebHost Manager_
-
-- [How Synthetic Identity Fraud is Coming for Machine Identities](https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html)
-  - Confidence: 🟫 LOW
-  - _Most people understand identity theft as an attacker stealing a real person's sensitive information and impersonating them. Synthetic identity fraud is much harder to catch. Instead of stealing a real_
-
-- [When the "Autonomous Attacker" Is Your Own AI Model, (Thu, Jul 23rd)](https://isc.sans.edu/diary/rss/33180)
-  - Confidence: 🟫 LOW
-  - _<p>Two disclosures, five days apart, described the same intrusion from opposite ends &#xe2;&#x20ac;&#x201d;<br />&#xd; one from the victim, one from the party that turned out to be responsible &#xe2;&_
-
-- [Microsoft working to fix Exchange Online mailbox quarantine issue](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/)
-  - Confidence: 🟫 LOW
-  - _Microsoft is working to resolve an ongoing Exchange Online issue that has been mistakenly quarantining customers' mailboxes since Sunday. [...]_
-
-- [New msaRAT malware uses Chrome, Edge browsers to route C2 traffic](https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/)
-  - Confidence: 🟫 LOW
-  - _The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or Edge browsers. [...]_
-
-- [New RefluXFS Linux flaw lets attackers gain root privileges](https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/)
-  - Confidence: 🟫 LOW
-  - _A nine-year-old race condition vulnerability in the Linux kernel's XFS filesystem, tracked as CVE-2026-64600, allows local attackers to overwrite protected files and gain root privileges. [...]_
-
-- [EU fines Google $1 billion for search, app store antitrust violations](https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/)
-  - Confidence: 🟫 LOW
-  - _The European Commission fined Google €890 million ($1 billion) on Thursday after finding the company had violated the European Union's Digital Markets Act (DMA), which ensures fair online competition._
