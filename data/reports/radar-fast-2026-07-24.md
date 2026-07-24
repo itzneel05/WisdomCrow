@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-24
-date: 2026-07-24T08:23:49Z
+date: 2026-07-24T13:38:22Z
 type: radar-report
 report_type: fast
-total_opportunities: 64
+total_opportunities: 71
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 64
+**Total opportunities:** 71
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 54 |
+| ❓ Uncategorized | 60 |
 | 🎓 Free Certifications | 6 |
-| 💰 Bug Bounties | 3 |
+| 💰 Bug Bounties | 4 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 💰 Bug Bounties
@@ -33,6 +33,11 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `bug_bounty`, `india_friendly`
   - _The lethal trifecta matters more now than ever because AI tools can read your data, absorb instructions, and act on your behalf. That means a poisoned email, webpage, or document could trick your AI i_
+
+- [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`, `india_friendly`
+  - _Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an auto_
 
 - [Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files](https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html)
   - Confidence: 🟡 MEDIUM
@@ -79,6 +84,38 @@ tags:
   - _Ahead of Black Hat USA, researchers find exploitable flaws in how Microsoft handles passkeys that could allow attackers to impersonate privileged users._
 
 ## ❓ Uncategorized
+
+- [Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say](https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html)
+  - Confidence: 🟫 LOW
+  - _Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0.  All four chains require RESTORE. The Streams chain_
+
+- [NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats](https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html)
+  - Confidence: 🟫 LOW
+  - _Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour r_
+
+- [Golden Chickens Resurfaces With Four New Malware Families and Modular Implants](https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html)
+  - Confidence: 🟫 LOW
+  - _The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despit_
+
+- [Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry](https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html)
+  - Confidence: 🟫 LOW
+  - _Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, whic_
+
+- [Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do](https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html)
+  - Confidence: 🟫 LOW
+  - _AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents i_
+
+- [Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers](https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html)
+  - Confidence: 🟫 LOW
+  - _A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet.  XBOW's test_
+
+- [Man gets six years for hacking 750 women's Snapchat accounts](https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/)
+  - Confidence: 🟫 LOW
+  - _An Illinois man was sentenced on Tuesday to 76 months in prison and three years of supervised release for hacking the Snapchat accounts of over 750 women to steal nude photos. [...]_
+
+- [Europol flags 4,340 URLs for removal in 'The Com' crackdown](https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/)
+  - Confidence: 🟫 LOW
+  - _Europol has flagged 4,340 URLs for removal during a multi-week operation targeting online content linked to "The Com," a loosely organized network of nihilistic violent extremist groups. [...]_
 
 - [Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks](https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html)
   - Confidence: 🟫 LOW
@@ -287,11 +324,3 @@ tags:
 - [EU fines Google $1 billion for search, app store antitrust violations](https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/)
   - Confidence: 🟫 LOW
   - _The European Commission fined Google €890 million ($1 billion) on Thursday after finding the company had violated the European Union's Digital Markets Act (DMA), which ensures fair online competition._
-
-- [Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access](https://thehackernews.com/2026/07/check-point-patches-exploited.html)
-  - Confidence: 🟫 LOW
-  - _Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under a_
-
-- [Check Point warns of SmartConsole zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel. [...]_
