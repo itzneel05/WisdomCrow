@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-24
-date: 2026-07-24T02:26:32Z
+date: 2026-07-24T08:23:49Z
 type: radar-report
 report_type: fast
-total_opportunities: 58
+total_opportunities: 64
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 58
+**Total opportunities:** 64
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 46 |
-| 🎓 Free Certifications | 7 |
-| 💰 Bug Bounties | 4 |
+| ❓ Uncategorized | 54 |
+| 🎓 Free Certifications | 6 |
+| 💰 Bug Bounties | 3 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 💰 Bug Bounties
@@ -33,11 +33,6 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `bug_bounty`, `india_friendly`
   - _The lethal trifecta matters more now than ever because AI tools can read your data, absorb instructions, and act on your behalf. That means a poisoned email, webpage, or document could trick your AI i_
-
-- [GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier](https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `cash_prize`
-  - _Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent i_
 
 - [Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files](https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html)
   - Confidence: 🟡 MEDIUM
@@ -76,11 +71,6 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahe_
 
-- [ISC Stormcast For Thursday, July 23rd, 2026 https://isc.sans.edu/podcastdetail/10020, (Thu, Jul 23rd)](https://isc.sans.edu/diary/rss/33178)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## 🔥 Hackathons & Conferences
 
 - [Flaws in Passkey Implementation Show Old Attacks Still Work](https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work)
@@ -89,6 +79,46 @@ tags:
   - _Ahead of Black Hat USA, researchers find exploitable flaws in how Microsoft handles passkeys that could allow attackers to impersonate privileged users._
 
 ## ❓ Uncategorized
+
+- [Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks](https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html)
+  - Confidence: 🟫 LOW
+  - _The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows system_
+
+- [presecurity](https://www.reddit.com/r/tryhackme/comments/1v3dol9/presecurity/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>What comes after I finish the PreSecurity path and get my certification?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Divine_
+
+- [Should i learn pen testing first before learning vunreability research?](https://www.reddit.com/r/tryhackme/comments/1v3dhtv/should_i_learn_pen_testing_first_before_learning/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I finished pre-security and halfway through cybersecurity101, should i countniue down the path on thm fining my current course and next jr pen tester course. Or trans_
+
+- [Struggling where to start](https://www.reddit.com/r/tryhackme/comments/1v3wj4e/struggling_where_to_start/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>My final goal is to obtain my OSCP at somepoint in the next 1-3 years however, I have 6 Years of Systems Administration experience and about 3 years of that being ver_
+
+- [Cat Pictures Room](https://www.reddit.com/r/tryhackme/comments/1v3svss/cat_pictures_room/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hello everyone,<br /> I’m trying to complete an old room on THM - <a href="https://tryhackme.com/room/catpictures">cat pictures</a> - but I’m stuck.<br /> I even look_
+
+- [I just completed Nmap Live Host Discovery room on TryHackMe! Learn how to use Nmap to discover live hosts using ARP, ICMP, and TCP/UDP ping scan.](https://www.reddit.com/r/tryhackme/comments/1v4ieua/i_just_completed_nmap_live_host_discovery_room_on/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>First-year Network &amp; Telecoms student building my hands-on skills with TryHackMe. Next up: Nmap Network Scanning!</p> </div><!-- SC_ON --> &#32; submitted by &#32_
+
+- [Help!!!](https://www.reddit.com/r/tryhackme/comments/1v48kfv/help/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1v48kfv/help/"> <img alt="Help!!!" src="https://preview.redd.it/xavkyqre4yeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=50_
+
+- [New "Yearly activity" design](https://www.reddit.com/r/tryhackme/comments/1v4gomd/new_yearly_activity_design/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1v4gomd/new_yearly_activity_design/"> <img alt="New &quot;Yearly activity&quot; design" src="https://preview.redd.it/3hqceqohwzeh1_
+
+- [SOC1 path needs overhaul or make "Prerequisites room part of Premium plan"](https://www.reddit.com/r/tryhackme/comments/1v52nnu/soc1_path_needs_overhaul_or_make_prerequisites/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1v52nnu/soc1_path_needs_overhaul_or_make_prerequisites/"> <img alt="SOC1 path needs overhaul or make &quot;Prerequisites room part_
+
+- [Clop ransomware targets Windchill, FlexPLM in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/)
+  - Confidence: 🟫 LOW
+  - _The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]_
 
 - [Fake Claude app promoted by Bing ads pushes SectopRAT malware](https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/)
   - Confidence: 🟫 LOW
@@ -265,11 +295,3 @@ tags:
 - [Check Point warns of SmartConsole zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/)
   - Confidence: 🟫 LOW
   - _Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel. [...]_
-
-- [South Korea discloses data breach impacting diplomats worldwide](https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/)
-  - Confidence: 🟫 LOW
-  - _South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Min_
-
-- [Upbound says hack caused $13 million in fraudulent Acima leases](https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/)
-  - Confidence: 🟫 LOW
-  - _The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]_
