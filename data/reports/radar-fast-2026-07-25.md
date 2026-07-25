@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-25
-date: 2026-07-25T02:24:41Z
+date: 2026-07-25T08:03:13Z
 type: radar-report
 report_type: fast
-total_opportunities: 57
+total_opportunities: 53
 tags:
   - radar
   - fast
@@ -13,13 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 57
+**Total opportunities:** 53
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 55 |
+| ❓ Uncategorized | 52 |
 | 💰 Bug Bounties | 1 |
-| 🎓 Free Certifications | 1 |
 
 ## 💰 Bug Bounties
 
@@ -27,13 +26,6 @@ tags:
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`, `india_friendly`
   - _Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an auto_
-
-## 🎓 Free Certifications
-
-- [ISC Stormcast For Friday, July 24th, 2026 https://isc.sans.edu/podcastdetail/10022, (Fri, Jul 24th)](https://isc.sans.edu/diary/rss/33182)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
 
@@ -244,15 +236,3 @@ tags:
 - [Clop ransomware targets Windchill, FlexPLM in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/)
   - Confidence: 🟫 LOW
   - _The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]_
-
-- [Fake Claude app promoted by Bing ads pushes SectopRAT malware](https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/)
-  - Confidence: 🟫 LOW
-  - _A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]_
-
-- [Australian energy provider Origin says data breach exposes client data](https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/)
-  - Confidence: 🟫 LOW
-  - _Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]_
-
-- [New Dolphin X malware uses AI to rank high-value targets](https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/)
-  - Confidence: 🟫 LOW
-  - _A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]_
