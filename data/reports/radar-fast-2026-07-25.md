@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-25
-date: 2026-07-25T08:03:13Z
+date: 2026-07-25T13:19:05Z
 type: radar-report
 report_type: fast
-total_opportunities: 53
+total_opportunities: 48
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 53
+**Total opportunities:** 48
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 52 |
+| ❓ Uncategorized | 47 |
 | 💰 Bug Bounties | 1 |
 
 ## 💰 Bug Bounties
@@ -28,6 +28,26 @@ tags:
   - _Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an auto_
 
 ## ❓ Uncategorized
+
+- [DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts](https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html)
+  - Confidence: 🟫 LOW
+  - _The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various as_
+
+- [Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE](https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as pa_
+
+- [CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking](https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html)
+  - Confidence: 🟫 LOW
+  - _For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts_
+
+- [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html)
+  - Confidence: 🟫 LOW
+  - _Security researchers at&nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11_
+
+- [OpenAI confirms ChatGPT is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/)
+  - Confidence: 🟫 LOW
+  - _ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]_
 
 - [OnTrac notifies customers of data breach after network hack](https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/)
   - Confidence: 🟫 LOW
@@ -196,43 +216,3 @@ tags:
 - [Europol flags 4,340 URLs for removal in 'The Com' crackdown](https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/)
   - Confidence: 🟫 LOW
   - _Europol has flagged 4,340 URLs for removal during a multi-week operation targeting online content linked to "The Com," a loosely organized network of nihilistic violent extremist groups. [...]_
-
-- [Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks](https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html)
-  - Confidence: 🟫 LOW
-  - _The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows system_
-
-- [presecurity](https://www.reddit.com/r/tryhackme/comments/1v3dol9/presecurity/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>What comes after I finish the PreSecurity path and get my certification?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Divine_
-
-- [Should i learn pen testing first before learning vunreability research?](https://www.reddit.com/r/tryhackme/comments/1v3dhtv/should_i_learn_pen_testing_first_before_learning/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I finished pre-security and halfway through cybersecurity101, should i countniue down the path on thm fining my current course and next jr pen tester course. Or trans_
-
-- [Struggling where to start](https://www.reddit.com/r/tryhackme/comments/1v3wj4e/struggling_where_to_start/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>My final goal is to obtain my OSCP at somepoint in the next 1-3 years however, I have 6 Years of Systems Administration experience and about 3 years of that being ver_
-
-- [Cat Pictures Room](https://www.reddit.com/r/tryhackme/comments/1v3svss/cat_pictures_room/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello everyone,<br /> I’m trying to complete an old room on THM - <a href="https://tryhackme.com/room/catpictures">cat pictures</a> - but I’m stuck.<br /> I even look_
-
-- [I just completed Nmap Live Host Discovery room on TryHackMe! Learn how to use Nmap to discover live hosts using ARP, ICMP, and TCP/UDP ping scan.](https://www.reddit.com/r/tryhackme/comments/1v4ieua/i_just_completed_nmap_live_host_discovery_room_on/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>First-year Network &amp; Telecoms student building my hands-on skills with TryHackMe. Next up: Nmap Network Scanning!</p> </div><!-- SC_ON --> &#32; submitted by &#32_
-
-- [Help!!!](https://www.reddit.com/r/tryhackme/comments/1v48kfv/help/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1v48kfv/help/"> <img alt="Help!!!" src="https://preview.redd.it/xavkyqre4yeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=50_
-
-- [New "Yearly activity" design](https://www.reddit.com/r/tryhackme/comments/1v4gomd/new_yearly_activity_design/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1v4gomd/new_yearly_activity_design/"> <img alt="New &quot;Yearly activity&quot; design" src="https://preview.redd.it/3hqceqohwzeh1_
-
-- [SOC1 path needs overhaul or make "Prerequisites room part of Premium plan"](https://www.reddit.com/r/tryhackme/comments/1v52nnu/soc1_path_needs_overhaul_or_make_prerequisites/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1v52nnu/soc1_path_needs_overhaul_or_make_prerequisites/"> <img alt="SOC1 path needs overhaul or make &quot;Prerequisites room part_
-
-- [Clop ransomware targets Windchill, FlexPLM in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/)
-  - Confidence: 🟫 LOW
-  - _The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]_
