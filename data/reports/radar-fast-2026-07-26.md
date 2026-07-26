@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-26
-date: 2026-07-26T08:22:44Z
+date: 2026-07-26T13:15:01Z
 type: radar-report
 report_type: fast
-total_opportunities: 14
+total_opportunities: 19
 tags:
   - radar
   - fast
@@ -13,13 +13,37 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 14
+**Total opportunities:** 19
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 14 |
+| ❓ Uncategorized | 18 |
+| 🔥 Hackathons & Conferences | 1 |
+
+## 🔥 Hackathons & Conferences
+
+- [What AI and cybersecurity topics do you think deserve more conference talks in 2027?](https://www.reddit.com/r/AskNetsec/comments/1v6ha12/what_ai_and_cybersecurity_topics_do_you_think/)
+  - Confidence: 🟢 HIGH
+  - Tags: `hackathon`, `conference`, `cfp`, `india_friendly`
+  - _<!-- SC_OFF --><div class="md"><p>I'm one of the organizers of <strong>Après-Cyber Slopes Summit</strong>, an AI and cybersecurity conference taking place in Park City, Utah, in February 2027.</p> <p>_
 
 ## ❓ Uncategorized
+
+- [how do you catch tool misuse and unauthorized tool invocation when an agent is using tools it's technically allowed to use](https://www.reddit.com/r/AskNetsec/comments/1v60wf1/how_do_you_catch_tool_misuse_and_unauthorized/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>thinking about this differently after a near miss. so our support agent has two permissions...read customer record and send email. and both individually reasonable, b_
+
+- [How do you keep track of what your AI agents can access?](https://www.reddit.com/r/AskNetsec/comments/1v61h8n/how_do_you_keep_track_of_what_your_ai_agents_can/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Still kind of new to running agents and I'm a bit lost on this — once you connect a few MCP servers (filesystem, GitHub, etc), is there a way to see everything they c_
+
+- [[ Removed by Reddit ]](https://www.reddit.com/r/AskNetsec/comments/1v6d1s8/removed_by_reddit/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>[ Removed by Reddit on account of violating the <a href="/help/contentpolicy">content policy</a>. ]</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https:/_
+
+- [Need help from the hackers](https://www.reddit.com/r/AskNetsec/comments/1v6goa6/need_help_from_the_hackers/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone I need one help to understand one thing ..so there was an incident I noticed in my organisation, there were thousands of devices querying multiple malicio_
 
 - [Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable](https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html)
   - Confidence: 🟫 LOW
