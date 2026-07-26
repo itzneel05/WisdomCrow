@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-26
-date: 2026-07-26T13:15:01Z
+date: 2026-07-26T19:07:29Z
 type: radar-report
 report_type: fast
-total_opportunities: 19
+total_opportunities: 13
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 19
+**Total opportunities:** 13
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 18 |
+| ❓ Uncategorized | 12 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🔥 Hackathons & Conferences
@@ -28,6 +28,14 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>I'm one of the organizers of <strong>Après-Cyber Slopes Summit</strong>, an AI and cybersecurity conference taking place in Park City, Utah, in February 2027.</p> <p>_
 
 ## ❓ Uncategorized
+
+- [Scans for ESAFENET CDG 3 Document Management System Weak Logins, (Sun, Jul 26th)](https://isc.sans.edu/diary/rss/33184)
+  - Confidence: 🟫 LOW
+  - _<p>ESAFENET&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s CDG showed up in our data before. The company focused on secure document management and data leakage prevention solutions. The "CDG" stands for "Co_
+
+- [GitHub, PyPI add time-absed defenses against supply chain attacks](https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/)
+  - Confidence: 🟫 LOW
+  - _GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]_
 
 - [how do you catch tool misuse and unauthorized tool invocation when an agent is using tools it's technically allowed to use](https://www.reddit.com/r/AskNetsec/comments/1v60wf1/how_do_you_catch_tool_misuse_and_unauthorized/)
   - Confidence: 🟫 LOW
@@ -68,35 +76,3 @@ tags:
 - [CISOs vs. Boards: Myth or Misunderstanding?](https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-)
   - Confidence: 🟫 LOW
   - _Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide._
-
-- [Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available](https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html)
-  - Confidence: 🟫 LOW
-  - _Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execu_
-
-- [ShinyHunters data leaks fuel $2,000 sextortion email scam](https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/)
-  - Confidence: 🟫 LOW
-  - _Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]_
-
-- [Malicious sites use JavaScript to build malware in browser memory](https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/)
-  - Confidence: 🟫 LOW
-  - _A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]_
-
-- [DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts](https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html)
-  - Confidence: 🟫 LOW
-  - _The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various as_
-
-- [Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE](https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as pa_
-
-- [CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking](https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html)
-  - Confidence: 🟫 LOW
-  - _For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts_
-
-- [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html)
-  - Confidence: 🟫 LOW
-  - _Security researchers at&nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11_
-
-- [OpenAI confirms ChatGPT is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/)
-  - Confidence: 🟫 LOW
-  - _ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]_
