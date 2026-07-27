@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-27
-date: 2026-07-27T02:38:33Z
+date: 2026-07-27T09:45:23Z
 type: radar-report
 report_type: fast
-total_opportunities: 11
+total_opportunities: 13
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 11
+**Total opportunities:** 13
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 9 |
+| ❓ Uncategorized | 11 |
 | 🎓 Free Certifications | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 
@@ -36,6 +36,14 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>I'm one of the organizers of <strong>Après-Cyber Slopes Summit</strong>, an AI and cybersecurity conference taking place in Park City, Utah, in February 2027.</p> <p>_
 
 ## ❓ Uncategorized
+
+- [GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption](https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html)
+  - Confidence: 🟫 LOW
+  - _GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request.  "The cooldown configuration opti_
+
+- [TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments](https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East.  The intrusions have resulted in the de_
 
 - [Failed second attempt](https://www.reddit.com/r/oscp/comments/1v671h1/failed_second_attempt/)
   - Confidence: 🟫 LOW
