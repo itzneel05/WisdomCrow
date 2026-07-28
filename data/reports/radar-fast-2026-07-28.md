@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-28
-date: 2026-07-28T08:29:58Z
+date: 2026-07-28T14:00:14Z
 type: radar-report
 report_type: fast
-total_opportunities: 57
+total_opportunities: 64
 tags:
   - radar
   - fast
@@ -13,15 +13,20 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 57
+**Total opportunities:** 64
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 51 |
+| ❓ Uncategorized | 57 |
 | 🎓 Free Certifications | 4 |
-| 💰 Bug Bounties | 2 |
+| 💰 Bug Bounties | 3 |
 
 ## 💰 Bug Bounties
+
+- [RAG and ruin: why your existing controls may miss AI poisoning attacks](https://www.intigriti.com/blog/business-insights/why-your-existing-controls-may-miss-ai-poisoning-attacks)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`, `india_friendly`
+  - _Key takeaways   RAG systems expand the application’s trust boundary by adding external, mutable content to the model context. If a threat actor can influence what gets indexed and retrieved, they can _
 
 - [Auditing Your Website For Free](https://www.reddit.com/r/Pentesting/comments/1v8ceky/auditing_your_website_for_free/)
   - Confidence: 🟡 MEDIUM
@@ -56,6 +61,38 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>Cisco dropped some pretty alarming findings at VB Transform 2026 - multi-turn prompt injection attacks are slipping past AI defenses 88% of the time. The technique is_
 
 ## ❓ Uncategorized
+
+- [Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost](https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html)
+  - Confidence: 🟫 LOW
+  - _Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness.  The company says MDASH, using MAI-Cyber-1-Flash and G_
+
+- [Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit](https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html)
+  - Confidence: 🟫 LOW
+  - _STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-aft_
+
+- [Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In](https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html)
+  - Confidence: 🟫 LOW
+  - _JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution.  Th_
+
+- [Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays](https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html)
+  - Confidence: 🟫 LOW
+  - _The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting e_
+
+- [Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root](https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html)
+  - Confidence: 🟫 LOW
+  - _OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default.  The critical issue, tracked as CVE-_
+
+- [JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach](https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html)
+  - Confidence: 🟫 LOW
+  - _JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment.  Artifactory is JFrog's software re_
+
+- [Data breach at medical billing firm MCBS affects 1.26 million people](https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/)
+  - Confidence: 🟫 LOW
+  - _Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]_
+
+- [Over 24,000 exposed server BMCs leak password hash via decades-old flaw](https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/)
+  - Confidence: 🟫 LOW
+  - _More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]_
 
 - [Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw](https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html)
   - Confidence: 🟫 LOW
@@ -252,11 +289,3 @@ tags:
 - [Shadow AI agents are multiplying. Here's how to find and secure them.](https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/)
   - Confidence: 🟫 LOW
   - _Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before_
-
-- [GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption](https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html)
-  - Confidence: 🟫 LOW
-  - _GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request.  "The cooldown configuration opti_
-
-- [TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments](https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East.  The intrusions have resulted in the de_
