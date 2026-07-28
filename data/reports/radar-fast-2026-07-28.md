@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-28
-date: 2026-07-28T14:00:14Z
+date: 2026-07-28T19:19:58Z
 type: radar-report
 report_type: fast
-total_opportunities: 64
+total_opportunities: 65
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 64
+**Total opportunities:** 65
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 57 |
+| ❓ Uncategorized | 58 |
 | 🎓 Free Certifications | 4 |
 | 💰 Bug Bounties | 3 |
 
@@ -61,6 +61,30 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>Cisco dropped some pretty alarming findings at VB Transform 2026 - multi-turn prompt injection attacks are slipping past AI defenses 88% of the time. The technique is_
 
 ## ❓ Uncategorized
+
+- [24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login](https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) pro_
+
+- [Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process](https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html)
+  - Confidence: 🟫 LOW
+  - _A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process.  If that happens, Tengu's other persistence mec_
+
+- [Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack](https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html)
+  - Confidence: 🟫 LOW
+  - _Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128.  The HAWK attack exploits a p_
+
+- [Is Your SSO Protected Against Modern Credential Attacks?](https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/)
+  - Confidence: 🟫 LOW
+  - _A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity harde_
+
+- [vBulletin fixes critical pre-auth RCE flaw with public exploit](https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/)
+  - Confidence: 🟫 LOW
+  - _A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]_
+
+- [CISA shares advice on isolating vital systems during cyberattacks](https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/)
+  - Confidence: 🟫 LOW
+  - _The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or _
 
 - [Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost](https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html)
   - Confidence: 🟫 LOW
@@ -269,23 +293,3 @@ tags:
 - [Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin](https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/)
   - Confidence: 🟫 LOW
   - _Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]_
-
-- [Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware](https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html)
-  - Confidence: 🟫 LOW
-  - _The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated_
-
-- [Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update](https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs "secure document" lures to deliver legitimate remote monitoring and management (RMM) tools.  "The victim _
-
-- [n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process](https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html)
-  - Confidence: 🟫 LOW
-  - _n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes_
-
-- [Java Spring Boot "heapdump" scans, (Mon, Jul 27th)](https://isc.sans.edu/diary/rss/33188)
-  - Confidence: 🟫 LOW
-  - _<p>Spring Boot exposes the endpoint "/actuator/heapdump" to collect debug information. By default, the endpoint will return a file heapdump.hprof, which includes a binary heapdump that can be used to _
-
-- [Shadow AI agents are multiplying. Here's how to find and secure them.](https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/)
-  - Confidence: 🟫 LOW
-  - _Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before_
