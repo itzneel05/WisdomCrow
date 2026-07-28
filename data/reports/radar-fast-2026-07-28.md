@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-28
-date: 2026-07-28T02:13:56Z
+date: 2026-07-28T08:29:58Z
 type: radar-report
 report_type: fast
-total_opportunities: 55
+total_opportunities: 57
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 55
+**Total opportunities:** 57
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 48 |
-| 🎓 Free Certifications | 5 |
+| ❓ Uncategorized | 51 |
+| 🎓 Free Certifications | 4 |
 | 💰 Bug Bounties | 2 |
 
 ## 💰 Bug Bounties
@@ -55,12 +55,27 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<!-- SC_OFF --><div class="md"><p>Cisco dropped some pretty alarming findings at VB Transform 2026 - multi-turn prompt injection attacks are slipping past AI defenses 88% of the time. The technique is_
 
-- [ISC Stormcast For Monday, July 27th, 2026 https://isc.sans.edu/podcastdetail/10024, (Mon, Jul 27th)](https://isc.sans.edu/diary/rss/33186)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw](https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html)
+  - Confidence: 🟫 LOW
+  - _A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild.  The vulnerability, tracked as CVE-2026-16812 (CV_
+
+- [Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost](https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html)
+  - Confidence: 🟫 LOW
+  - _Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness.  The company says MDASH, using MAI-Cyber-1-Flash and G_
+
+- [AutoIT Payload Injector , (Tue, Jul 28th)](https://isc.sans.edu/diary/rss/33192)
+  - Confidence: 🟫 LOW
+  - _<p>For a long time, AutoIT&#x5b;<a href="https://www.autoitscript.com/site/">1</a>&#x5d; has been pretty common in the malware ecosystem. Threat actors still use it because it&#x27s easy to write and _
+
+- [I noticed suspicious entries in my Data Usage list](https://www.reddit.com/r/AskNetsec/comments/1v8m39a/i_noticed_suspicious_entries_in_my_data_usage_list/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I noticed two entries in my Settings &gt; Connections &gt; Data Usage &gt; Wi-Fi data usage. 11082 and 10881</p> <p>And in Settings &gt; Connections &gt; Data Usage &_
+
+- [What Developers Should Look For in Dark Web Monitoring APIs](https://www.reddit.com/r/AskNetsec/comments/1v8ri6b/what_developers_should_look_for_in_dark_web/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>What Should Developers Look for Beyond a Dark Web Monitoring API’s Source Count?</p> <p>A lot of teams evaluate these APIs by asking which forums, breach dumps, or ma_
 
 - [Experience of becoming a freelance pentester?](https://www.reddit.com/r/Pentesting/comments/1v764fe/experience_of_becoming_a_freelance_pentester/)
   - Confidence: 🟫 LOW
@@ -245,11 +260,3 @@ tags:
 - [TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments](https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html)
   - Confidence: 🟫 LOW
   - _Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East.  The intrusions have resulted in the de_
-
-- [Failed second attempt](https://www.reddit.com/r/oscp/comments/1v671h1/failed_second_attempt/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I don't know how I could have done better, compared to the last attempt where I aced the AD directory part and struggled with the standalone, this time I was able to _
-
-- [GitHub, PyPI add time-based defenses against supply chain attacks](https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/)
-  - Confidence: 🟫 LOW
-  - _GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]_
