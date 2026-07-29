@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-29
-date: 2026-07-29T02:24:19Z
+date: 2026-07-29T08:36:13Z
 type: radar-report
 report_type: fast
-total_opportunities: 59
+total_opportunities: 58
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 59
+**Total opportunities:** 58
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 47 |
+| ❓ Uncategorized | 46 |
 | 🏰 CTF Competitions | 9 |
 | 💰 Bug Bounties | 1 |
 | 🎓 Free Certifications | 1 |
@@ -92,6 +92,22 @@ tags:
   - _<p>Tal Kollander’s history divides neatly into two halves: first as an active hacker and then as the block that stops hacks.</p> <p>The post <a href="https://www.securityweek.com/hacker-conversations-_
 
 ## ❓ Uncategorized
+
+- [Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js](https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html)
+  - Confidence: 🟫 LOW
+  - _Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family.  The list of affected p_
+
+- [OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach](https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html)
+  - Confidence: 🟫 LOW
+  - _OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment, and also hacked multiple th_
+
+- [Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates](https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html)
+  - Confidence: 🟫 LOW
+  - _Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control pa_
+
+- [Apple Patches Everything (July 2026), (Wed, Jul 29th)](https://isc.sans.edu/diary/rss/33196)
+  - Confidence: 🟫 LOW
+  - _<p>I am a bit late with this summary, but this week Apple released updates to all its operating systems and Safari. The Safari update, as usual, targets macOS prior to macOS 26. macOS updates covered _
 
 - [OpenAI models used Artifactory zero-days to escape to the internet](https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/)
   - Confidence: 🟫 LOW
@@ -260,23 +276,3 @@ tags:
 - [Over 24,000 exposed server BMCs leak password hash via decades-old flaw](https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/)
   - Confidence: 🟫 LOW
   - _More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]_
-
-- [Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw](https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html)
-  - Confidence: 🟫 LOW
-  - _A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild.  The vulnerability, tracked as CVE-2026-16812 (CV_
-
-- [Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost](https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html)
-  - Confidence: 🟫 LOW
-  - _Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness.  The company says MDASH, using MAI-Cyber-1-Flash and G_
-
-- [AutoIT Payload Injector , (Tue, Jul 28th)](https://isc.sans.edu/diary/rss/33192)
-  - Confidence: 🟫 LOW
-  - _<p>For a long time, AutoIT&#x5b;<a href="https://www.autoitscript.com/site/">1</a>&#x5d; has been pretty common in the malware ecosystem. Threat actors still use it because it&#x27s easy to write and _
-
-- [I noticed suspicious entries in my Data Usage list](https://www.reddit.com/r/AskNetsec/comments/1v8m39a/i_noticed_suspicious_entries_in_my_data_usage_list/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I noticed two entries in my Settings &gt; Connections &gt; Data Usage &gt; Wi-Fi data usage. 11082 and 10881</p> <p>And in Settings &gt; Connections &gt; Data Usage &_
-
-- [What Developers Should Look For in Dark Web Monitoring APIs](https://www.reddit.com/r/AskNetsec/comments/1v8ri6b/what_developers_should_look_for_in_dark_web/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>What Should Developers Look for Beyond a Dark Web Monitoring API’s Source Count?</p> <p>A lot of teams evaluate these APIs by asking which forums, breach dumps, or ma_
