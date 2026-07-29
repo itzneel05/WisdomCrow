@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-29
-date: 2026-07-29T14:04:02Z
+date: 2026-07-29T19:12:22Z
 type: radar-report
 report_type: fast
-total_opportunities: 57
+total_opportunities: 72
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 57
+**Total opportunities:** 72
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 45 |
+| ❓ Uncategorized | 59 |
 | 🏰 CTF Competitions | 9 |
-| 💰 Bug Bounties | 1 |
+| 💰 Bug Bounties | 2 |
 | 🎓 Free Certifications | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 
@@ -72,6 +72,11 @@ tags:
 
 ## 💰 Bug Bounties
 
+- [Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory](https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated rem_
+
 - [Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass](https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
@@ -92,6 +97,62 @@ tags:
   - _<p>Tal Kollander’s history divides neatly into two halves: first as an active hacker and then as the block that stops hacks.</p> <p>The post <a href="https://www.securityweek.com/hacker-conversations-_
 
 ## ❓ Uncategorized
+
+- [Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments](https://thehackernews.com/2026/07/nine-year-fraud-campaign.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international fir_
+
+- [Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline](https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html)
+  - Confidence: 🟫 LOW
+  - _A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response.  Braham, Plymouth, South S_
+
+- [Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape](https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html)
+  - Confidence: 🟫 LOW
+  - _Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.  The firs_
+
+- [Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads](https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html)
+  - Confidence: 🟫 LOW
+  - _Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.  Trac_
+
+- [How would you audit an open-source IoT device before trusting it with an AI account?](https://www.reddit.com/r/AskNetsec/comments/1v9biyv/how_would_you_audit_an_opensource_iot_device/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I’m expecting to receive a device called MetalioClaw (<a href="https://github.com/CloudZao/MetalioClaw4">https://github.com/CloudZao/MetalioClaw4</a>) in about a week_
+
+- [Which DSPM vendors are actually worth evaluating today?](https://www.reddit.com/r/AskNetsec/comments/1v9879o/which_dspm_vendors_are_actually_worth_evaluating/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>We're reviewing DSPM vendors after finding way more sensitive data scattered across our SaaS apps than we expected. Right now we're relying on DLP plus a lot of manua_
+
+- [Which security control tends to be overlooked when building AI services that process financial and trading data?](https://www.reddit.com/r/AskNetsec/comments/1v9rj68/which_security_control_tends_to_be_overlooked/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>and we're at the stage where we're reviewing our security model before expanding further. The application processes trading-related prompts and market information, so_
+
+- [Anyone else frustrated that threat intel feeds still arrive as static reports instead of something usable?](https://www.reddit.com/r/AskNetsec/comments/1v9t94v/anyone_else_frustrated_that_threat_intel_feeds/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>We pay for a couple of paid threat intelligence feeds that are marketed as “operational” and “actionable”. In practice we receive glossy PDF threat reports for execut_
+
+- [Has voice cloning changed how your organization handles sensitive phone requests?](https://www.reddit.com/r/AskNetsec/comments/1va1e2i/has_voice_cloning_changed_how_your_organization/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Voice cloning has gone from being a novelty to something security teams actually have to consider. It seems much easier now to imitate executives, vendors, or even co_
+
+- [How do large enterprises actually secure networking across highly distributed environments?](https://www.reddit.com/r/AskNetsec/comments/1v9zxfd/how_do_large_enterprises_actually_secure/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I spent two years as the network security lead at a global manufacturing company with offices in 28 countries and somewhere around 4,000 remote workers on top of the _
+
+- [Your AI Agents Are Guessing at Scale: Permissions Decide the Damage](https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/)
+  - Confidence: 🟫 LOW
+  - _AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege ar_
+
+- [Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack](https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/)
+  - Confidence: 🟫 LOW
+  - _The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in "a coordinated_
+
+- [OpenAI agent used exposed credentials at 4 services in Hugging Face breach](https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/)
+  - Confidence: 🟫 LOW
+  - _In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of t_
+
+- [Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare](https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/)
+  - Confidence: 🟫 LOW
+  - _Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHu_
 
 - [New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands](https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html)
   - Confidence: 🟫 LOW
