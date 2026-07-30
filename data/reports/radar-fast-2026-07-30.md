@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-30
-date: 2026-07-30T13:53:07Z
+date: 2026-07-30T19:22:53Z
 type: radar-report
 report_type: fast
-total_opportunities: 84
+total_opportunities: 76
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 84
+**Total opportunities:** 76
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 59 |
-| 💰 Bug Bounties | 15 |
-| 🏰 CTF Competitions | 5 |
+| ❓ Uncategorized | 51 |
+| 💰 Bug Bounties | 14 |
+| 🏰 CTF Competitions | 6 |
 | 🎓 Free Certifications | 4 |
 | 🔥 Hackathons & Conferences | 1 |
 
@@ -40,6 +40,11 @@ tags:
   - Tags: `ctf`
   - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/hack-the-box-cmo-cto" title=""> <img alt="Hack The Box Advances Growth Strategy with C_
 
+- [DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware](https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`, `india_friendly`
+  - _Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent updat_
+
 - [Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
@@ -51,6 +56,11 @@ tags:
   - _The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor c_
 
 ## 💰 Bug Bounties
+
+- [How to appeal a bug bounty submission](https://www.intigriti.com/researchers/blog/hacking-tools/how-to-appeal-a-bug-bounty-submission)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _Bug bounty is a collaborative process that involves multiple parties, including the security researcher, triage team, and the affected organization managing the bug bounty program. While the vast majo_
 
 - [Has anyone dealt with a bug that only happens randomly under load?](https://www.reddit.com/r/bugbounty/comments/1v8vskl/has_anyone_dealt_with_a_bug_that_only_happens/)
   - Confidence: 🟢 HIGH
@@ -117,16 +127,6 @@ tags:
   - Tags: `bug_bounty`
   - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>Hope you're all doing well.</p> <p>I currently have an iPhone 7 that's jailbroken and have been using it for iOS application security testing. How_
 
-- [Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory](https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated rem_
-
-- [Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass](https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management_
-
 ## 🎓 Free Certifications
 
 - [Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data](https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html)
@@ -157,6 +157,58 @@ tags:
   - _Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who plans to release an open source tool next week at Black Hat USA 2026 that sniffs out trust _
 
 ## ❓ Uncategorized
+
+- [Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database](https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html)
+  - Confidence: 🟫 LOW
+  - _A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, accordi_
+
+- [ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories](https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html)
+  - Confidence: 🟫 LOW
+  - _A lot of security still comes down to trusting the wrong screen.  This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behin_
+
+- [Apple APTicket / LocalPolicy Forensic Kit](https://www.reddit.com/r/security/comments/1v9ra6q/apple_apticket_localpolicy_forensic_kit/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p><a href="https://m.facebook.com/story.php?story%5C_fbid=pfbid0131dAombHsZAw3KmiDEEDo98MtoxRFdGCD7D5cgh7eJjESCihbZkfBwNMCEtTE9Tl&amp;id=1585230013">https://m.facebook._
+
+- [Which security habit gives the biggest ROI?](https://www.reddit.com/r/security/comments/1v9luti/which_security_habit_gives_the_biggest_roi/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>If you could convince the average person to adopt just one security or cybersecurity habit, what would it be?</p> <p>Not a product, just one habit.</p> </div><!-- SC__
+
+- [How to pass time doing security work [no phone]](https://www.reddit.com/r/security/comments/1vai8os/how_to_pass_time_doing_security_work_no_phone/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Sitting in place, passive / standby security for most of the work day. Phone borderline banned.</p> <p>Best way to pass the time?</p> <p>Be as detailed as possible / _
+
+- [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
+  - Confidence: 🟫 LOW
+  - _Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user'_
+
+- [After the Break-In: What Attackers Do Once They're Already Inside](https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/)
+  - Confidence: 🟫 LOW
+  - _Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why_
+
+- [Analog Devices discloses data breach, says operations unaffected](https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/)
+  - Confidence: 🟫 LOW
+  - _American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]_
+
+- [Microsoft Teams vishing attacks lead to Chaos ransomware attacks](https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/)
+  - Confidence: 🟫 LOW
+  - _Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [..._
+
+- [ShinyHunters claims Brinks Home breach, threatens to leak stolen data](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/)
+  - Confidence: 🟫 LOW
+  - _Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]_
+
+- [Google says AI helped Chrome fix 1,072 security bugs in two releases](https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/)
+  - Confidence: 🟫 LOW
+  - _Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two_
+
+- [VMware fixes three critical flaws allowing auth bypass, VM escapes](https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/)
+  - Confidence: 🟫 LOW
+  - _Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execut_
+
+- [Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers](https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/)
+  - Confidence: 🟫 LOW
+  - _Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]_
 
 - [SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT](https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html)
   - Confidence: 🟫 LOW
@@ -309,87 +361,3 @@ tags:
 - [Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions](https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions)
   - Confidence: 🟫 LOW
   - _Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of_
-
-- [Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments](https://thehackernews.com/2026/07/nine-year-fraud-campaign.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international fir_
-
-- [Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline](https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html)
-  - Confidence: 🟫 LOW
-  - _A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response.  Braham, Plymouth, South S_
-
-- [Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape](https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html)
-  - Confidence: 🟫 LOW
-  - _Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.  The firs_
-
-- [Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads](https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html)
-  - Confidence: 🟫 LOW
-  - _Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.  Trac_
-
-- [How would you audit an open-source IoT device before trusting it with an AI account?](https://www.reddit.com/r/AskNetsec/comments/1v9biyv/how_would_you_audit_an_opensource_iot_device/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I’m expecting to receive a device called MetalioClaw (<a href="https://github.com/CloudZao/MetalioClaw4">https://github.com/CloudZao/MetalioClaw4</a>) in about a week_
-
-- [Which DSPM vendors are actually worth evaluating today?](https://www.reddit.com/r/AskNetsec/comments/1v9879o/which_dspm_vendors_are_actually_worth_evaluating/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>We're reviewing DSPM vendors after finding way more sensitive data scattered across our SaaS apps than we expected. Right now we're relying on DLP plus a lot of manua_
-
-- [Which security control tends to be overlooked when building AI services that process financial and trading data?](https://www.reddit.com/r/AskNetsec/comments/1v9rj68/which_security_control_tends_to_be_overlooked/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>and we're at the stage where we're reviewing our security model before expanding further. The application processes trading-related prompts and market information, so_
-
-- [Anyone else frustrated that threat intel feeds still arrive as static reports instead of something usable?](https://www.reddit.com/r/AskNetsec/comments/1v9t94v/anyone_else_frustrated_that_threat_intel_feeds/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>We pay for a couple of paid threat intelligence feeds that are marketed as “operational” and “actionable”. In practice we receive glossy PDF threat reports for execut_
-
-- [Has voice cloning changed how your organization handles sensitive phone requests?](https://www.reddit.com/r/AskNetsec/comments/1va1e2i/has_voice_cloning_changed_how_your_organization/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Voice cloning has gone from being a novelty to something security teams actually have to consider. It seems much easier now to imitate executives, vendors, or even co_
-
-- [How do large enterprises actually secure networking across highly distributed environments?](https://www.reddit.com/r/AskNetsec/comments/1v9zxfd/how_do_large_enterprises_actually_secure/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I spent two years as the network security lead at a global manufacturing company with offices in 28 countries and somewhere around 4,000 remote workers on top of the _
-
-- [Your AI Agents Are Guessing at Scale: Permissions Decide the Damage](https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/)
-  - Confidence: 🟫 LOW
-  - _AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege ar_
-
-- [Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack](https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/)
-  - Confidence: 🟫 LOW
-  - _The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in "a coordinated_
-
-- [OpenAI agent used exposed credentials at 4 services in Hugging Face breach](https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/)
-  - Confidence: 🟫 LOW
-  - _In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of t_
-
-- [Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare](https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/)
-  - Confidence: 🟫 LOW
-  - _Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHu_
-
-- [New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands](https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html)
-  - Confidence: 🟫 LOW
-  - _Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git_
-
-- [Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity](https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html)
-  - Confidence: 🟫 LOW
-  - _The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibi_
-
-- [73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack](https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html)
-  - Confidence: 🟫 LOW
-  - _Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment need_
-
-- [Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser](https://thehackernews.com/2026/07/researchers-show-single-malicious.html)
-  - Confidence: 🟫 LOW
-  - _Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser.  Tracked as CVE-2026-10702, the bug provides arbi_
-
-- [Mythos Asks the Right Question. It Doesn't Answer It.](https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html)
-  - Confidence: 🟫 LOW
-  - _AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along.  The conversatio_
-
-- [These near-mint ASUS Chromebook refurbs are only $145](https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/)
-  - Confidence: 🟫 LOW
-  - _Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is_
-
-- [Windows 11 KB5101684 update released with 42 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/)
-  - Confidence: 🟫 LOW
-  - _​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]_
