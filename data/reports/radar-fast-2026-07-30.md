@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-30
-date: 2026-07-30T02:05:27Z
+date: 2026-07-30T08:22:26Z
 type: radar-report
 report_type: fast
-total_opportunities: 75
+total_opportunities: 81
 tags:
   - radar
   - fast
@@ -13,57 +13,22 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 75
+**Total opportunities:** 81
 
 | Category | Count |
 |----------|-------|
 | ❓ Uncategorized | 59 |
-| 🏰 CTF Competitions | 9 |
+| 💰 Bug Bounties | 15 |
 | 🎓 Free Certifications | 4 |
-| 💰 Bug Bounties | 2 |
+| 🏰 CTF Competitions | 2 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
 
-- [niteCTF 2026](https://ctftime.org/event/3367)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`, `india_friendly`
-  - _Name: niteCTF 2026 (an <a href="/ctf/663">niteCTF</a> event.)<br /> Date: Dec. 11, 2026, noon &mdash; 13 Dec. 2026, 12:00 UTC &nbsp;<a href="/event/3367.ics">[add to calendar]</a><br /> Format: Jeopar_
-
-- [BlackHat MEA CTF Final 2026](https://ctftime.org/event/3386)
-  - Confidence: 🟢 HIGH
+- [Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html)
+  - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
-  - _Name: BlackHat MEA CTF Final 2026 (an <a href="/ctf/826">Blackhat MEA CTF</a> event.)<br /> Date: Dec. 1, 2026, 3:14 p.m. &mdash; 03 Dec. 2026, 15:14 UTC &nbsp;<a href="/event/3386.ics">[add to calend_
-
-- [CubeCTF 2026](https://ctftime.org/event/3352)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: CubeCTF 2026 (an <a href="/ctf/1277">CubeCTF</a> event.)<br /> Date: Oct. 3, 2026, 2 p.m. &mdash; 03 Oct. 2026, 22:00 UTC &nbsp;<a href="/event/3352.ics">[add to calendar]</a><br /> Format: Atta_
-
-- [07CTF 2026](https://ctftime.org/event/3365)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: 07CTF 2026 (an <a href="/ctf/1360">07CTF</a> event.)<br /> Date: Sept. 19, 2026, noon &mdash; 20 Sept. 2026, 12:00 UTC &nbsp;<a href="/event/3365.ics">[add to calendar]</a><br /> Format: Jeopard_
-
-- [CAT CTF 26](https://ctftime.org/event/3360)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: CAT CTF 26 (an <a href="/ctf/1400">CAT Reloaded CTF</a> event.)<br /> Date: Sept. 11, 2026, noon &mdash; 12 Sept. 2026, 12:00 UTC &nbsp;<a href="/event/3360.ics">[add to calendar]</a><br /> Form_
-
-- [BlackHat MEA CTF Qualification 2026](https://ctftime.org/event/3385)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: BlackHat MEA CTF Qualification 2026 (an <a href="/ctf/826">Blackhat MEA CTF</a> event.)<br /> Date: Aug. 29, 2026, 7 a.m. &mdash; 30 Aug. 2026, 07:00 UTC &nbsp;<a href="/event/3385.ics">[add to _
-
-- [Haruulzangi CTF 2026 Qualifier](https://ctftime.org/event/3379)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: Haruulzangi CTF 2026 Qualifier (an <a href="/ctf/985">Haruulzangi CTF</a> event.)<br /> Date: Aug. 22, 2026, 1 a.m. &mdash; 23 Aug. 2026, 01:00 UTC &nbsp;<a href="/event/3379.ics">[add to calend_
-
-- [SCAN 2026 Online Qualifier](https://ctftime.org/event/3383)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: SCAN 2026 Online Qualifier (an <a href="/ctf/1190">SCAN Digital Asset Tracing Challenge</a> event.)<br /> Date: Aug. 2, 2026, midnight &mdash; 03 Aug. 2026, 00:00 UTC &nbsp;<a href="/event/3383._
+  - _The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (O_
 
 - [Russian hackers exploit Exchange OWA zero-day for long-term mailbox access](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/)
   - Confidence: 🟡 MEDIUM
@@ -71,6 +36,71 @@ tags:
   - _The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor c_
 
 ## 💰 Bug Bounties
+
+- [Has anyone dealt with a bug that only happens randomly under load?](https://www.reddit.com/r/bugbounty/comments/1v8vskl/has_anyone_dealt_with_a_bug_that_only_happens/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>Thanks everyone for sharing your debugging experiences. I learned a lot from the discussion. I’ve been building a small experiment around this problem and would love _
+
+- [Huntr AI bug bounty tips?](https://www.reddit.com/r/bugbounty/comments/1v8t6rs/huntr_ai_bug_bounty_tips/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>Anyone else tried huntr? It's a platform for AI bug bounties. </p> <p>I participated in the last competition but got stuck. Looking for tips and ways to get started. _
+
+- [If I got Bugcrowd suspension, will pending rewards still get paid?](https://www.reddit.com/r/bugbounty/comments/1v8sxz6/if_i_got_bugcrowd_suspension_will_pending_rewards/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>I got a 30-day suspension (idk why, maybe some -2 in 2 reports.</p> <p>I had a reward already finalized and sitting in &quot;Upcoming payments&quot; before it happene_
+
+- [YesWeHack Taxation](https://www.reddit.com/r/bugbounty/comments/1v91a2d/yeswehack_taxation/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/bugbounty/comments/1v91a2d/yeswehack_taxation/"> <img alt="YesWeHack Taxation" src="https://preview.redd.it/gkpe5ry3lzfh1.jpeg?width=640&amp;crop=sma_
+
+- [What's intigriti doing](https://www.reddit.com/r/bugbounty/comments/1v8w9hl/whats_intigriti_doing/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`, `india_friendly`
+  - _<!-- SC_OFF --><div class="md"><p>I submitted my first report on Intigriti, and it took 58 days to get triaged and a total of 80 days to be marked as Informative. I submitted my second report a month _
+
+- [Duplicates are making me mentally ill](https://www.reddit.com/r/bugbounty/comments/1v96aar/duplicates_are_making_me_mentally_ill/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>I unironically got 15 last reports duplicates like i dont know anymore</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Prudent-_
+
+- [Bugcrowd Payment Time In Bank ?](https://www.reddit.com/r/bugbounty/comments/1v9z7ni/bugcrowd_payment_time_in_bank/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>Hi bug bounty hunters, </p> <p>I got bounty on Bugcrowd, on July 14 and got a message that the estimated payout/delivery was July 28 Today is July 29, and it hasn’t s_
+
+- [Bugcrowd payments on bank account ?](https://www.reddit.com/r/bugbounty/comments/1v9zb7j/bugcrowd_payments_on_bank_account/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>How much time does it takes to get my bounty in my bank account , message says estimated delivery time 28july but today is 29july haven’t received my payout on bank ,_
+
+- [Why prefer ZDI over Apple bug bounty program?](https://www.reddit.com/r/bugbounty/comments/1vacfw6/why_prefer_zdi_over_apple_bug_bounty_program/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>I'm really confused over why some people, as far as I've understood and seen, prefer to report vulnerabilities on the Apple platform through ZDI rather than Apple's o_
+
+- [Nextcloud H1 payment](https://www.reddit.com/r/bugbounty/comments/1vade6f/nextcloud_h1_payment/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>Has anyone been able to get bounty payments from Nextcloud after they swapped from a BBP to a VDP?</p> <p>Older reports that were before april 22 are supposed to be p_
+
+- [Coinbase no longer paying for Low and Medium Findings, dropping payouts for High and Critical](https://www.reddit.com/r/bugbounty/comments/1va4yof/coinbase_no_longer_paying_for_low_and_medium/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>This isn't the first program we've seen drop Low and Mediums, I'll cover this in the next post of our Bug Bounty Newsletter: <a href="https://bugbountyworld.substack._
+
+- [My CA says no need to pay tax!](https://www.reddit.com/r/bugbounty/comments/1vac699/my_ca_says_no_need_to_pay_tax/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`, `cash_prize`
+  - _<!-- SC_OFF --><div class="md"><p>I have genuinely verified myself in Apple Security research using my voter ID card. But I have provided the bank details of my mother instead of mine.<br /> My mother_
+
+- [Need Advices regarding iOS bug bounty](https://www.reddit.com/r/bugbounty/comments/1valz1e/need_advices_regarding_ios_bug_bounty/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>Hope you're all doing well.</p> <p>I currently have an iPhone 7 that's jailbroken and have been using it for iOS application security testing. How_
 
 - [Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory](https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html)
   - Confidence: 🟡 MEDIUM
@@ -83,6 +113,11 @@ tags:
   - _Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management_
 
 ## 🎓 Free Certifications
+
+- [Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data](https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploi_
 
 - [Reconnaissance First: An SSH Bot That Sizes Up Your Hardware Before Deploying a Miner &#x5b;Guest Diary&#x5d;, (Thu, Jul 30th)](https://isc.sans.edu/diary/rss/33198)
   - Confidence: 🟢 HIGH
@@ -99,11 +134,6 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorize_
 
-- [ISC Stormcast For Wednesday, July 29th, 2026 https://isc.sans.edu/podcastdetail/10028, (Wed, Jul 29th)](https://isc.sans.edu/diary/rss/33194)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## 🔥 Hackathons & Conferences
 
 - [Ghost Credentials Expose Cloud Systems to Hidden Identity Risks](https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path)
@@ -112,6 +142,14 @@ tags:
   - _Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who plans to release an open source tool next week at Black Hat USA 2026 that sniffs out trust _
 
 ## ❓ Uncategorized
+
+- [Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet](https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html)
+  - Confidence: 🟫 LOW
+  - _Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a look_
+
+- [FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks](https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html)
+  - Confidence: 🟫 LOW
+  - _The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the_
 
 - [Anthropic confirms Claude is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/)
   - Confidence: 🟫 LOW
@@ -340,11 +378,3 @@ tags:
 - [Apple Patches Everything (July 2026), (Wed, Jul 29th)](https://isc.sans.edu/diary/rss/33196)
   - Confidence: 🟫 LOW
   - _<p>I am a bit late with this summary, but this week Apple released updates to all its operating systems and Safari. The Safari update, as usual, targets macOS prior to macOS 26. macOS updates covered _
-
-- [OpenAI models used Artifactory zero-days to escape to the internet](https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/)
-  - Confidence: 🟫 LOW
-  - _JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attac_
-
-- [CubePilot drone software dev hit by DNS hijacking to intercept traffic](https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/)
-  - Confidence: 🟫 LOW
-  - _CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]_
