@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-30
-date: 2026-07-30T08:22:26Z
+date: 2026-07-30T13:53:07Z
 type: radar-report
 report_type: fast
-total_opportunities: 81
+total_opportunities: 84
 tags:
   - radar
   - fast
@@ -13,17 +13,32 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 81
+**Total opportunities:** 84
 
 | Category | Count |
 |----------|-------|
 | ❓ Uncategorized | 59 |
 | 💰 Bug Bounties | 15 |
+| 🏰 CTF Competitions | 5 |
 | 🎓 Free Certifications | 4 |
-| 🏰 CTF Competitions | 2 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
+
+- [Your first Enterprise Season starts now: Operation Red Horizon](https://www.hackthebox.com/blog/operation-redhorizon)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/operation-redhorizon" title=""> <img alt="Your first Enterprise Season starts now: Ope_
+
+- [Scaling cyber workforce development with the new Spaces](https://www.hackthebox.com/blog/enterprise-spaces)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/enterprise-spaces" title=""> <img alt="Scaling cyber workforce development with the ne_
+
+- [Hack The Box Advances Growth Strategy with CTO Appointment and CMO Promotion](https://www.hackthebox.com/blog/hack-the-box-cmo-cto)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/hack-the-box-cmo-cto" title=""> <img alt="Hack The Box Advances Growth Strategy with C_
 
 - [Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html)
   - Confidence: 🟡 MEDIUM
@@ -142,6 +157,22 @@ tags:
   - _Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who plans to release an open source tool next week at Black Hat USA 2026 that sniffs out trust _
 
 ## ❓ Uncategorized
+
+- [SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT](https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html)
+  - Confidence: 🟫 LOW
+  - _The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial man_
+
+- [Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts](https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html)
+  - Confidence: 🟫 LOW
+  - _South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed finan_
+
+- [The Network Has Become the Control Plane for AI Security](https://thehackernews.com/2026/07/the-network-has-become-control-plane.html)
+  - Confidence: 🟫 LOW
+  - _Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network secur_
+
+- [Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents](https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html)
+  - Confidence: 🟫 LOW
+  - _Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 2_
 
 - [Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet](https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html)
   - Confidence: 🟫 LOW
@@ -362,19 +393,3 @@ tags:
 - [Windows 11 KB5101684 update released with 42 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/)
   - Confidence: 🟫 LOW
   - _​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]_
-
-- [Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js](https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html)
-  - Confidence: 🟫 LOW
-  - _Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family.  The list of affected p_
-
-- [OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach](https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html)
-  - Confidence: 🟫 LOW
-  - _OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment, and also hacked multiple th_
-
-- [Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates](https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html)
-  - Confidence: 🟫 LOW
-  - _Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control pa_
-
-- [Apple Patches Everything (July 2026), (Wed, Jul 29th)](https://isc.sans.edu/diary/rss/33196)
-  - Confidence: 🟫 LOW
-  - _<p>I am a bit late with this summary, but this week Apple released updates to all its operating systems and Safari. The Safari update, as usual, targets macOS prior to macOS 26. macOS updates covered _
