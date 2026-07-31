@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-31
-date: 2026-07-31T02:32:30Z
+date: 2026-07-31T08:46:02Z
 type: radar-report
 report_type: fast
-total_opportunities: 73
+total_opportunities: 56
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 73
+**Total opportunities:** 56
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 49 |
-| 💰 Bug Bounties | 15 |
-| 🏰 CTF Competitions | 5 |
-| 🎓 Free Certifications | 3 |
+| ❓ Uncategorized | 47 |
+| 🏰 CTF Competitions | 4 |
+| 💰 Bug Bounties | 2 |
+| 🎓 Free Certifications | 2 |
 | 📦 Open Source Tools | 1 |
 
 ## 🏰 CTF Competitions
@@ -45,11 +45,6 @@ tags:
   - Tags: `ctf`, `india_friendly`
   - _Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent updat_
 
-- [Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (O_
-
 ## 💰 Bug Bounties
 
 - [Cantina Emerges From Stealth With $8 Million in Funding](https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/)
@@ -62,71 +57,6 @@ tags:
   - Tags: `bug_bounty`
   - _Bug bounty is a collaborative process that involves multiple parties, including the security researcher, triage team, and the affected organization managing the bug bounty program. While the vast majo_
 
-- [Has anyone dealt with a bug that only happens randomly under load?](https://www.reddit.com/r/bugbounty/comments/1v8vskl/has_anyone_dealt_with_a_bug_that_only_happens/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Thanks everyone for sharing your debugging experiences. I learned a lot from the discussion. I’ve been building a small experiment around this problem and would love _
-
-- [Huntr AI bug bounty tips?](https://www.reddit.com/r/bugbounty/comments/1v8t6rs/huntr_ai_bug_bounty_tips/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Anyone else tried huntr? It's a platform for AI bug bounties. </p> <p>I participated in the last competition but got stuck. Looking for tips and ways to get started. _
-
-- [If I got Bugcrowd suspension, will pending rewards still get paid?](https://www.reddit.com/r/bugbounty/comments/1v8sxz6/if_i_got_bugcrowd_suspension_will_pending_rewards/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>I got a 30-day suspension (idk why, maybe some -2 in 2 reports.</p> <p>I had a reward already finalized and sitting in &quot;Upcoming payments&quot; before it happene_
-
-- [YesWeHack Taxation](https://www.reddit.com/r/bugbounty/comments/1v91a2d/yeswehack_taxation/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/bugbounty/comments/1v91a2d/yeswehack_taxation/"> <img alt="YesWeHack Taxation" src="https://preview.redd.it/gkpe5ry3lzfh1.jpeg?width=640&amp;crop=sma_
-
-- [What's intigriti doing](https://www.reddit.com/r/bugbounty/comments/1v8w9hl/whats_intigriti_doing/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>I submitted my first report on Intigriti, and it took 58 days to get triaged and a total of 80 days to be marked as Informative. I submitted my second report a month _
-
-- [Duplicates are making me mentally ill](https://www.reddit.com/r/bugbounty/comments/1v96aar/duplicates_are_making_me_mentally_ill/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>I unironically got 15 last reports duplicates like i dont know anymore</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Prudent-_
-
-- [Bugcrowd Payment Time In Bank ?](https://www.reddit.com/r/bugbounty/comments/1v9z7ni/bugcrowd_payment_time_in_bank/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Hi bug bounty hunters, </p> <p>I got bounty on Bugcrowd, on July 14 and got a message that the estimated payout/delivery was July 28 Today is July 29, and it hasn’t s_
-
-- [Bugcrowd payments on bank account ?](https://www.reddit.com/r/bugbounty/comments/1v9zb7j/bugcrowd_payments_on_bank_account/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>How much time does it takes to get my bounty in my bank account , message says estimated delivery time 28july but today is 29july haven’t received my payout on bank ,_
-
-- [Why prefer ZDI over Apple bug bounty program?](https://www.reddit.com/r/bugbounty/comments/1vacfw6/why_prefer_zdi_over_apple_bug_bounty_program/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>I'm really confused over why some people, as far as I've understood and seen, prefer to report vulnerabilities on the Apple platform through ZDI rather than Apple's o_
-
-- [Nextcloud H1 payment](https://www.reddit.com/r/bugbounty/comments/1vade6f/nextcloud_h1_payment/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Has anyone been able to get bounty payments from Nextcloud after they swapped from a BBP to a VDP?</p> <p>Older reports that were before april 22 are supposed to be p_
-
-- [Coinbase no longer paying for Low and Medium Findings, dropping payouts for High and Critical](https://www.reddit.com/r/bugbounty/comments/1va4yof/coinbase_no_longer_paying_for_low_and_medium/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>This isn't the first program we've seen drop Low and Mediums, I'll cover this in the next post of our Bug Bounty Newsletter: <a href="https://bugbountyworld.substack._
-
-- [My CA says no need to pay tax!](https://www.reddit.com/r/bugbounty/comments/1vac699/my_ca_says_no_need_to_pay_tax/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `cash_prize`
-  - _<!-- SC_OFF --><div class="md"><p>I have genuinely verified myself in Apple Security research using my voter ID card. But I have provided the bank details of my mother instead of mine.<br /> My mother_
-
-- [Need Advices regarding iOS bug bounty](https://www.reddit.com/r/bugbounty/comments/1valz1e/need_advices_regarding_ios_bug_bounty/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>Hope you're all doing well.</p> <p>I currently have an iPhone 7 that's jailbroken and have been using it for iOS application security testing. How_
-
 ## 🎓 Free Certifications
 
 - [ISC Stormcast For Friday, July 31st, 2026 https://isc.sans.edu/podcastdetail/10032, (Fri, Jul 31st)](https://isc.sans.edu/diary/rss/33204)
@@ -138,11 +68,6 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
   - _<p>A static credentials vulnerability (CVE-2026-20316) in Cisco Secure Firewall Management Center (FMC), a platform for centrally managing multiple Cisco Secure Firewall devices across a network, is b_
-
-- [Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data](https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploi_
 
 ## 📦 Open Source Tools
 
@@ -340,11 +265,3 @@ tags:
 - [Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents](https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html)
   - Confidence: 🟫 LOW
   - _Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 2_
-
-- [Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet](https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html)
-  - Confidence: 🟫 LOW
-  - _Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a look_
-
-- [FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks](https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html)
-  - Confidence: 🟫 LOW
-  - _The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the_
