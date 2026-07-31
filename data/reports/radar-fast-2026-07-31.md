@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-07-31
-date: 2026-07-31T14:00:39Z
+date: 2026-07-31T19:22:04Z
 type: radar-report
 report_type: fast
-total_opportunities: 85
+total_opportunities: 91
 tags:
   - radar
   - fast
@@ -13,14 +13,15 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 85
+**Total opportunities:** 91
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 68 |
-| 💰 Bug Bounties | 11 |
+| ❓ Uncategorized | 74 |
+| 💰 Bug Bounties | 10 |
 | 🏰 CTF Competitions | 3 |
 | 🎓 Free Certifications | 2 |
+| 🔥 Hackathons & Conferences | 1 |
 | 📦 Open Source Tools | 1 |
 
 ## 🏰 CTF Competitions
@@ -92,11 +93,6 @@ tags:
   - Tags: `bug_bounty`, `audit_contest`, `cash_prize`, `india_friendly`
   - _<p>The startup’s community-powered agentic security platform helps proactively identify, prioritize, and remediate vulnerabilities.</p> <p>The post <a href="https://www.securityweek.com/cantina-emerge_
 
-- [How to appeal a bug bounty submission](https://www.intigriti.com/researchers/blog/hacking-tools/how-to-appeal-a-bug-bounty-submission)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _Bug bounty is a collaborative process that involves multiple parties, including the security researcher, triage team, and the affected organization managing the bug bounty program. While the vast majo_
-
 ## 🎓 Free Certifications
 
 - [ISC Stormcast For Friday, July 31st, 2026 https://isc.sans.edu/podcastdetail/10032, (Fri, Jul 31st)](https://isc.sans.edu/diary/rss/33204)
@@ -109,6 +105,13 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>A static credentials vulnerability (CVE-2026-20316) in Cisco Secure Firewall Management Center (FMC), a platform for centrally managing multiple Cisco Secure Firewall devices across a network, is b_
 
+## 🔥 Hackathons & Conferences
+
+- [TryHackMe is heading to DEF CON 34!!](https://www.reddit.com/r/tryhackme/comments/1vaqog3/tryhackme_is_heading_to_def_con_34/)
+  - Confidence: 🟢 HIGH
+  - Tags: `hackathon`, `conference`
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1vaqog3/tryhackme_is_heading_to_def_con_34/"> <img alt="TryHackMe is heading to DEF CON 34!!" src="https://preview.redd.it/qpsx8f2_
+
 ## 📦 Open Source Tools
 
 - [Metasploit Framework 6.5 Released](https://www.rapid7.com/blog/post/pt-metasploit-framework-6-5-released)
@@ -117,6 +120,62 @@ tags:
   - _<p>oday we’re proud to announce that Metasploit Framework version 6.5 has been released. Over the past two years, with the help of countless contributors, we’ve added 422 new modules along with a whol_
 
 ## ❓ Uncategorized
+
+- [Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw](https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html)
+  - Confidence: 🟫 LOW
+  - _An academic study has disclosed a "widespread class" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and ev_
+
+- [Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined](https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html)
+  - Confidence: 🟫 LOW
+  - _Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined_
+
+- [Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies](https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html)
+  - Confidence: 🟫 LOW
+  - _Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same opera_
+
+- [HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm](https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka.  According to Blackpoint Cybe_
+
+- [Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk](https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html)
+  - Confidence: 🟫 LOW
+  - _A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan_
+
+- [Failed browser verification](https://www.reddit.com/r/tryhackme/comments/1vaaj0i/failed_browser_verification/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>So apparently tryhackme doesnt support librewolf, every time it says &quot;Could not verify your browser&quot;. Is it fixable ?</p> </div><!-- SC_ON --> &#32; submitt_
+
+- [Connecting the lab machine to attacker machine](https://www.reddit.com/r/tryhackme/comments/1vakw6j/connecting_the_lab_machine_to_attacker_machine/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I am struggling to connect the lab machine to the attacker machine , I am trying to use ssh but it's not working<br /> I am in Metasploit: Exploitation<br /> Any tips_
+
+- [Mentorship_help](https://www.reddit.com/r/tryhackme/comments/1vascd9/mentorship_help/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I want to learn cybersecurity and become a professional in it, need mentorship I will pay monthly for that just for mentorship.</p> </div><!-- SC_ON --> &#32; submitt_
+
+- [Need Help Error 403](https://www.reddit.com/r/tryhackme/comments/1vbve2u/need_help_error_403/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1vbve2u/need_help_error_403/"> <img alt="Need Help Error 403" src="https://preview.redd.it/2tk0snwsalgh1.png?width=140&amp;height=_
+
+- [Error tryhackme!!](https://www.reddit.com/r/tryhackme/comments/1vbz0gd/error_tryhackme/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1vbz0gd/error_tryhackme/"> <img alt="Error tryhackme!!" src="https://preview.redd.it/ax6qdpccylgh1.jpeg?width=640&amp;crop=smart&a_
+
+- [ESET tracks rise in malicious AI skills and adaptable malware](https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/)
+  - Confidence: 🟫 LOW
+  - _Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines the rise of malicious AI skills, AI-assisted malware_
+
+- [CISA warns of cyberattacks disrupting U.S. water utilities](https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and waste_
+
+- [Hacker uses DeepSeek AI to autonomously attack vulnerable servers](https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/)
+  - Confidence: 🟫 LOW
+  - _A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]_
+
+- [OpenAI says its new GPT 5.6 models are becoming more cost-efficient](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/)
+  - Confidence: 🟫 LOW
+  - _OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]_
 
 - [Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks](https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html)
   - Confidence: 🟫 LOW
@@ -357,35 +416,3 @@ tags:
 - [How to pass time doing security work [no phone]](https://www.reddit.com/r/security/comments/1vai8os/how_to_pass_time_doing_security_work_no_phone/)
   - Confidence: 🟫 LOW
   - _<!-- SC_OFF --><div class="md"><p>Sitting in place, passive / standby security for most of the work day. Phone borderline banned.</p> <p>Best way to pass the time?</p> <p>Be as detailed as possible / _
-
-- [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
-  - Confidence: 🟫 LOW
-  - _Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user'_
-
-- [After the Break-In: What Attackers Do Once They're Already Inside](https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/)
-  - Confidence: 🟫 LOW
-  - _Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why_
-
-- [Analog Devices discloses data breach, says operations unaffected](https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/)
-  - Confidence: 🟫 LOW
-  - _American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]_
-
-- [Microsoft Teams vishing attacks lead to Chaos ransomware attacks](https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/)
-  - Confidence: 🟫 LOW
-  - _Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [..._
-
-- [ShinyHunters claims Brinks Home breach, threatens to leak stolen data](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/)
-  - Confidence: 🟫 LOW
-  - _Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]_
-
-- [Google says AI helped Chrome fix 1,072 security bugs in two releases](https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/)
-  - Confidence: 🟫 LOW
-  - _Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two_
-
-- [VMware fixes three critical flaws allowing auth bypass, VM escapes](https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/)
-  - Confidence: 🟫 LOW
-  - _Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execut_
-
-- [Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers](https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/)
-  - Confidence: 🟫 LOW
-  - _Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]_
