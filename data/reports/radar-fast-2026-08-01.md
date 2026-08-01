@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-01
-date: 2026-08-01T08:15:54Z
+date: 2026-08-01T13:14:05Z
 type: radar-report
 report_type: fast
-total_opportunities: 86
+total_opportunities: 87
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 86
+**Total opportunities:** 87
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 72 |
+| ❓ Uncategorized | 73 |
 | 💰 Bug Bounties | 10 |
 | 🏰 CTF Competitions | 2 |
 | 🎓 Free Certifications | 1 |
@@ -102,6 +102,10 @@ tags:
   - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1vaqog3/tryhackme_is_heading_to_def_con_34/"> <img alt="TryHackMe is heading to DEF CON 34!!" src="https://preview.redd.it/qpsx8f2_
 
 ## ❓ Uncategorized
+
+- [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html)
+  - Confidence: 🟫 LOW
+  - _Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses.  Adform detected the incident o_
 
 - [Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware](https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html)
   - Confidence: 🟫 LOW
