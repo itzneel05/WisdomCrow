@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-01
-date: 2026-08-01T13:14:05Z
+date: 2026-08-01T19:05:18Z
 type: radar-report
 report_type: fast
-total_opportunities: 87
+total_opportunities: 53
 tags:
   - radar
   - fast
@@ -13,74 +13,16 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 87
+**Total opportunities:** 53
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 73 |
-| 💰 Bug Bounties | 10 |
-| 🏰 CTF Competitions | 2 |
+| ❓ Uncategorized | 50 |
+| 💰 Bug Bounties | 1 |
 | 🎓 Free Certifications | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 
-## 🏰 CTF Competitions
-
-- [Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations](https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`, `india_friendly`
-  - _Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three _
-
-- [Huntress Threat Advisory: Widespread SonicWall Credential Stuffing Campaign](https://www.reddit.com/r/blueteamsec/comments/1vbiw1m/huntress_threat_advisory_widespread_sonicwall/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`, `recurring`
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.huntress.com/blog/sonicwall-credential-stuffing-campaign">[link]</a></span> &#_
-
 ## 💰 Bug Bounties
-
-- [Bug Found](https://www.reddit.com/r/bugbounty/comments/1vb1lak/bug_found/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>I have found a bug where i can upload files directly to their server and it does get stored. </p> <p>is it a critical bug?</p> </div><!-- SC_ON --> &#32; submitted by_
-
-- [Bug Bounty Programme Review Site](https://www.reddit.com/r/bugbounty/comments/1vbbdwg/bug_bounty_programme_review_site/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>There was a site that listed all the scam programmes and experiences, does anyone know where it is?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https:/_
-
-- [Which service do you prefer?](https://www.reddit.com/r/bugbounty/comments/1vawnxf/which_service_do_you_prefer/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I am relatively new to hunting and have heard good and bad on probably all bug bounty companies but am curious to hear from experts / experienced _
-
-- [Duplicate even it is submitted earlier than the other one](https://www.reddit.com/r/bugbounty/comments/1vb16fs/duplicate_even_it_is_submitted_earlier_than_the/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/bugbounty/comments/1vb16fs/duplicate_even_it_is_submitted_earlier_than_the/"> <img alt="Duplicate even it is submitted earlier than the other one" sr_
-
-- [Duplicate](https://www.reddit.com/r/bugbounty/comments/1vaq656/duplicate/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/bugbounty/comments/1vaq656/duplicate/"> <img alt="Duplicate" src="https://preview.redd.it/8vq4xno8kcgh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&a_
-
-- [switching from web app bug bounty to ai bug bounty](https://www.reddit.com/r/bugbounty/comments/1vbd96q/switching_from_web_app_bug_bounty_to_ai_bug_bounty/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>tried hunting llm and rag bugs for a month as an experiment. prompt injection, tool poisoning, memory leaks in agents. way less crowded than normal web stuff.</p> <p>_
-
-- [Been using Claude Code for bug bounty for 4 months (~90% of my work). Here's what it finds and what it can't.](https://www.reddit.com/r/bugbounty/comments/1varh6i/been_using_claude_code_for_bug_bounty_for_4/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>After 4 months, +60 valid bugs that got paid and $***** total in bounties. Sonnet 4.6 on 20x plan, limit never runs out.</p> <h1>What it's good at finding</h1> <p>IDO_
-
-- [Weekly Beginner / Newbie Q&A](https://www.reddit.com/r/bugbounty/comments/1vaw31u/weekly_beginner_newbie_qa/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>New to bug bounty? Ask about roadmaps, resources, certifications, getting started, or any beginner-level questions here!</p> <p><strong>Recommendations for Posting:</_
-
-- [Intigriti Bug Bytes #238 - July 2026 🚀](https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-238-july-2026)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `cash_prize`
-  - _Hello hackers, Welcome to the latest edition of Bug Bytes! In this month's issue, we'll be featuring: Intigriti turns 10!  RCE in GitHub.com and GitHub Enterprise Server  Burp Suite going agentic with_
 
 - [Horizon3.ai expands NodeZero with automated web application attack path testing](https://www.helpnetsecurity.com/2026/07/31/horizon3-ai-nodezero-webapp-pentesting/)
   - Confidence: 🟡 MEDIUM
@@ -102,6 +44,14 @@ tags:
   - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1vaqog3/tryhackme_is_heading_to_def_con_34/"> <img alt="TryHackMe is heading to DEF CON 34!!" src="https://preview.redd.it/qpsx8f2_
 
 ## ❓ Uncategorized
+
+- [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html)
+  - Confidence: 🟫 LOW
+  - _An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Cold_
+
+- [Rails patches critical Active Storage flaw with RCE potential](https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/)
+  - Confidence: 🟫 LOW
+  - _A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE)_
 
 - [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html)
   - Confidence: 🟫 LOW
@@ -294,103 +244,3 @@ tags:
 - [OpenAI says its new GPT 5.6 models are becoming more cost-efficient](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/)
   - Confidence: 🟫 LOW
   - _OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]_
-
-- [Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks](https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html)
-  - Confidence: 🟫 LOW
-  - _Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously.  After an initial Telegram instruction, th_
-
-- [6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026](https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html)
-  - Confidence: 🟫 LOW
-  - _Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months.  De_
-
-- [zipdump.py: Metadata Encoding, (Fri, Jul 31st)](https://isc.sans.edu/diary/rss/33202)
-  - Confidence: 🟫 LOW
-  - _<p>I was asked for help with a problem similar to the following.</p>&#xd;_
-
-- [power-pages-security-utils: power pages security utils to analyse and audit Microsoft power page apps / sites](https://www.reddit.com/r/blueteamsec/comments/1vaj9nr/powerpagessecurityutils_power_pages_security/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://github.com/DFE-Digital/power-pages-security-utils">[link]</a></span> &#32; <span><_
-
-- [Open-Source Visibility, Detection, and Enforcement for Endpoint AI Agents](https://www.reddit.com/r/blueteamsec/comments/1vafo43/opensource_visibility_detection_and_enforcement/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/netw0rm"> /u/netw0rm </a> <br /> <span><a href="https://github.com/perplexityai/numbat">[link]</a></span> &#32; <span><a href="https://www_
-
-- [SparkKitty Malware: An Emerging Threat to Mobile Users](https://www.reddit.com/r/blueteamsec/comments/1van46s/sparkkitty_malware_an_emerging_threat_to_mobile/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/campuscodi"> /u/campuscodi </a> <br /> <span><a href="https://cyberint.com/blog/dark-web/sparkkitty-malware-an-emerging-threat-to-mobile-u_
-
-- [Cleaning Out Inboxes: TA488 Comes for Outlook with Another Half-Click Exploit](https://www.reddit.com/r/blueteamsec/comments/1vajhao/cleaning_out_inboxes_ta488_comes_for_outlook_with/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.proofpoint.com/us/blog/threat-insight/cleaning-out-inboxes-ta488-comes-outlook_
-
-- [Two Joyfill npm Beta Releases Compromised to Deliver DEV#POP...](https://www.reddit.com/r/blueteamsec/comments/1vb2jad/two_joyfill_npm_beta_releases_compromised_to/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://socket.dev/blog/joyfill-npm-beta-releases-compromised">[link]</a></span> &#32; <sp_
-
-- [GraphGulo: An open-source temporal graph engine for threat hunting massive PCAPs on a single laptop (109M edges in 1.5GB RAM)](https://www.reddit.com/r/blueteamsec/comments/1vaqv56/graphgulo_an_opensource_temporal_graph_engine_for/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I want to share an open-source research prototype I’ve been building called GraphGulo. It's a temporal graph engine designed specifically for analyzing massive networ_
-
-- [Operation Double Barrel](https://www.reddit.com/r/blueteamsec/comments/1vb4hn5/operation_double_barrel/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://image.ahnlab.com/atip/content/file/20260730/%5BAhnLab%5DOperation%20Double%20Barre_
-
-- [My Attempt at Modernizing Posture Assessment & Continuous Validation Workflows by Building Control Drift](https://www.reddit.com/r/blueteamsec/comments/1vbakcy/my_attempt_at_modernizing_posture_assessment/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi Everyone,</p> <p>I'm a cybersecurity practitioner of 7 years and I recently took the initiative to start an internal purple team / gap analysis program at my compa_
-
-- [Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks](https://www.reddit.com/r/blueteamsec/comments/1vbi9n8/chinesespeaking_threat_actor_harnesses_ai_models/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/">[link]</a></span_
-
-- [PolinRider Caused Dozens of npm, Go, PHP Compromises](https://www.reddit.com/r/blueteamsec/comments/1vbickr/polinrider_caused_dozens_of_npm_go_php_compromises/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://opensourcemalware.com/blog/polinrider-caused-dozens-of-npm-and-go-compromises">[li_
-
-- [Investigating three real-world incidents in our cybersecurity evaluations](https://www.reddit.com/r/blueteamsec/comments/1vbifal/investigating_three_realworld_incidents_in_our/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals">[link]</a></sp_
-
-- [Mitigation Guidance for Supply Chain Compromise](https://www.reddit.com/r/blueteamsec/comments/1vbikr3/mitigation_guidance_for_supply_chain_compromise/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://cloud.google.com/blog/topics/threat-intelligence/mitigation-guidance-for-supply-ch_
-
-- [[합동 사이버 보안 권고문] Operation Double Barrel (국가배후 해킹조직과 Gunra 랜섬웨어 그룹의 관계) -[Joint Cyber ​​Security Advisory] Operation Double Barrel (The Relationship Between State-Backed Hacking Organizations and the Gunra Ransomware Group)](https://www.reddit.com/r/blueteamsec/comments/1vbils7/합동_사이버_보안_권고문_operation_double_barrel_국가배후_해킹조직과/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://asec.ahnlab.com/ko/94695/">[link]</a></span> &#32; <span><a href="https://www.redd_
-
-- [Welcome to Danglegeddon](https://www.reddit.com/r/blueteamsec/comments/1vbiwnx/welcome_to_danglegeddon/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.silentpush.com/blog/danglegeddon/">[link]</a></span> &#32; <span><a href="http_
-
-- [2026 Minimum Elements for a Software Bill of Materials (SBOM)](https://www.reddit.com/r/blueteamsec/comments/1vbiyb6/2026_minimum_elements_for_a_software_bill_of/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.cisa.gov/resources-tools/resources/2026-minimum-elements-software-bill-materia_
-
-- [Malicious Cyber Actors Targeting Water and Wastewater Sector Internet- Facing Programmable Logic Controllers, Causing Operational Disruptions](https://www.reddit.com/r/blueteamsec/comments/1vbgn6o/malicious_cyber_actors_targeting_water_and/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.fbi.gov/news/press-releases/malicious-cyber-actors-targeting-water-and-wastewa_
-
-- [The 73,000-server market reselling Western frontier AI into China](https://www.reddit.com/r/blueteamsec/comments/1vbgoh3/the_73000server_market_reselling_western_frontier/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://infrawatch.com/blog/73000-servers-selling-western-frontier-ai-into-china-transfer-_
-
-- [ClickFix, EtherHiding & a DPRK Wallet Trail](https://www.reddit.com/r/blueteamsec/comments/1vbibgm/clickfix_etherhiding_a_dprk_wallet_trail/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.allsecure.io/blog/clickfix-etherhiding-dprk-wallet/">[link]</a></span> &#32; <_
-
-- [Adform compromised to serve crypto stealer via supply chain attack](https://www.reddit.com/r/blueteamsec/comments/1vbiprc/adform_compromised_to_serve_crypto_stealer_via/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://doublepulsar.com/adform-compromised-to-serve-crypto-stealer-via-supply-chain-attac_
-
-- [@copilot-mcp/apex: A macOS Infostealer Re-Published on npm After Takedown](https://www.reddit.com/r/blueteamsec/comments/1vbide3/copilotmcpapex_a_macos_infostealer_republished_on/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://safedep.io/malicious-copilot-mcp-apex-npm-macos-infostealer/">[link]</a></span> &#_
-
-- [GitHub - Jatinkapilaq1/intel-me-research: Talk to your Intel Management Engine directly — zero-dependency Python tool. Finds memory leaks, partition manifest, live MKHI probing. First public HECI Spy.](https://www.reddit.com/r/blueteamsec/comments/1vblgm9/github_jatinkapilaq1intelmeresearch_talk_to_your/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Frequent-Ad-9633"> /u/Frequent-Ad-9633 </a> <br /> <span><a href="https://github.com/Jatinkapilaq1/intel-me-research">[link]</a></span> &#_
-
-- [Amazon identifies North Korean hacker group behind open-source supply chain attacks](https://www.reddit.com/r/blueteamsec/comments/1vbimww/amazon_identifies_north_korean_hacker_group/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://aws.amazon.com/blogs/security/amazon-identifies-north-korean-hacker-group-behind-o_
