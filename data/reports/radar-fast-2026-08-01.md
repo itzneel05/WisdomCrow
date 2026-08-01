@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-01
-date: 2026-08-01T02:31:57Z
+date: 2026-08-01T08:15:54Z
 type: radar-report
 report_type: fast
-total_opportunities: 84
+total_opportunities: 86
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 84
+**Total opportunities:** 86
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 69 |
+| ❓ Uncategorized | 72 |
 | 💰 Bug Bounties | 10 |
 | 🏰 CTF Competitions | 2 |
-| 🎓 Free Certifications | 2 |
+| 🎓 Free Certifications | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
@@ -94,11 +94,6 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>If your agency is planning how to use remaining Fiscal Year funding, now is the time to build a stronger cybersecurity workforce.</p> <p>The post <a href="https://www.offsec.com/blog/use-your-feder_
 
-- [ISC Stormcast For Friday, July 31st, 2026 https://isc.sans.edu/podcastdetail/10032, (Fri, Jul 31st)](https://isc.sans.edu/diary/rss/33204)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## 🔥 Hackathons & Conferences
 
 - [TryHackMe is heading to DEF CON 34!!](https://www.reddit.com/r/tryhackme/comments/1vaqog3/tryhackme_is_heading_to_def_con_34/)
@@ -107,6 +102,18 @@ tags:
   - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1vaqog3/tryhackme_is_heading_to_def_con_34/"> <img alt="TryHackMe is heading to DEF CON 34!!" src="https://preview.redd.it/qpsx8f2_
 
 ## ❓ Uncategorized
+
+- [Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware](https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html)
+  - Confidence: 🟫 LOW
+  - _A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said_
+
+- [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html)
+  - Confidence: 🟫 LOW
+  - _Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code exe_
+
+- [Phishing Campaigns Targeting AI Solutions Providers, (Sat, Aug 1st)](https://isc.sans.edu/diary/rss/33206)
+  - Confidence: 🟫 LOW
+  - _<p>Most phishing campaigns rely on the fact that the victim is afraid to loose "something": money, access to information, ... Many brands have been impersonated by campaigns but I spotted some phishin_
 
 - [Online ad firm Adform’s script compromised to steal cryptocurrency](https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/)
   - Confidence: 🟫 LOW
