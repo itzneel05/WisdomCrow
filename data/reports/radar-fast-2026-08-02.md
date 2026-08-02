@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-02
-date: 2026-08-02T08:19:45Z
+date: 2026-08-02T19:06:00Z
 type: radar-report
 report_type: fast
-total_opportunities: 15
+total_opportunities: 13
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 15
+**Total opportunities:** 13
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 13 |
+| ❓ Uncategorized | 11 |
 | 🏰 CTF Competitions | 2 |
 
 ## 🏰 CTF Competitions
@@ -33,6 +33,10 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I recently got selected for a fully sponsored <strong>C|PENT AI</strong> exam through <strong>Hackers4Humanity by EC-Council</strong>, and I'm bo_
 
 ## ❓ Uncategorized
+
+- [Google Chrome may soon block New Tab hijacker extensions by default](https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/)
+  - Confidence: 🟫 LOW
+  - _Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]_
 
 - [Atomic MacOS (AMOS) stealer infection, (Sun, Aug 2nd)](https://isc.sans.edu/diary/rss/33208)
   - Confidence: 🟫 LOW
@@ -73,15 +77,3 @@ tags:
 - [Friday Squid Blogging: Squid Helps Discover New Marine Species](https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-helps-discover-new-marine-species.html)
   - Confidence: 🟫 LOW
   - _<p>The Squid is a new <a href="https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil">scientific machine</a>:</p> <blockquote><p>One of the tec_
-
-- [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html)
-  - Confidence: 🟫 LOW
-  - _An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Cold_
-
-- [Rails patches critical Active Storage flaw with RCE potential](https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/)
-  - Confidence: 🟫 LOW
-  - _A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE)_
-
-- [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html)
-  - Confidence: 🟫 LOW
-  - _Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses.  Adform detected the incident o_
