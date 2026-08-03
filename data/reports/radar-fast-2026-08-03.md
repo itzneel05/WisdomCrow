@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-03
-date: 2026-08-03T09:38:53Z
+date: 2026-08-03T14:33:03Z
 type: radar-report
 report_type: fast
-total_opportunities: 13
+total_opportunities: 17
 tags:
   - radar
   - fast
@@ -13,13 +13,21 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 13
+**Total opportunities:** 17
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 11 |
+| ❓ Uncategorized | 14 |
+| 🏰 CTF Competitions | 1 |
 | 🎓 Free Certifications | 1 |
 | 📦 Open Source Tools | 1 |
+
+## 🏰 CTF Competitions
+
+- [Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS](https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.  Attack surface management platfo_
 
 ## 🎓 Free Certifications
 
@@ -36,6 +44,18 @@ tags:
   - _OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security_
 
 ## ❓ Uncategorized
+
+- [PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web](https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html)
+  - Confidence: 🟫 LOW
+  - _The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web.  The data included names, organisations _
+
+- [FOMO in the SOC: Where AI Platforms like Claude Actually Fit](https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html)
+  - Confidence: 🟫 LOW
+  - _AI is moving incredibly fast, and every security leader is feeling the pressure to keep up.  AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate_
+
+- [⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks](https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html)
+  - Confidence: 🟫 LOW
+  - _This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows a_
 
 - [Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code](https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html)
   - Confidence: 🟫 LOW
