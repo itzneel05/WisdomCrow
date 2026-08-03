@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-03
-date: 2026-08-03T02:32:44Z
+date: 2026-08-03T09:38:53Z
 type: radar-report
 report_type: fast
-total_opportunities: 17
+total_opportunities: 13
 tags:
   - radar
   - fast
@@ -13,26 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 17
+**Total opportunities:** 13
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 13 |
-| 🏰 CTF Competitions | 2 |
+| ❓ Uncategorized | 11 |
 | 🎓 Free Certifications | 1 |
 | 📦 Open Source Tools | 1 |
-
-## 🏰 CTF Competitions
-
-- [THM WRITE_UP Love Letter Locker(CTF)](https://www.reddit.com/r/tryhackme/comments/1vcppxa/thm_write_up_love_letter_lockerctf/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1vcppxa/thm_write_up_love_letter_lockerctf/"> <img alt="THM WRITE_UP Love Letter Locker(CTF)" src="https://external-preview.redd.i_
-
-- [Got selected for a fully sponsored C|PENT AI exam through Hackers4Humanity. Looking for preparation advice](https://www.reddit.com/r/tryhackme/comments/1vc4r6e/got_selected_for_a_fully_sponsored_cpent_ai_exam/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I recently got selected for a fully sponsored <strong>C|PENT AI</strong> exam through <strong>Hackers4Humanity by EC-Council</strong>, and I'm bo_
 
 ## 🎓 Free Certifications
 
@@ -49,6 +36,26 @@ tags:
   - _OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security_
 
 ## ❓ Uncategorized
+
+- [Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code](https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html)
+  - Confidence: 🟫 LOW
+  - _Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, op_
+
+- [N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete](https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html)
+  - Confidence: 🟫 LOW
+  - _N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers.  Its first fix was incomplete. _
+
+- [Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable](https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html)
+  - Confidence: 🟫 LOW
+  - _Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them.  The vendor's July_
+
+- [data science to cybersecurity](https://www.reddit.com/r/hacking/comments/1vcpuj8/data_science_to_cybersecurity/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I was a mathematician, ended up working as SWE for two years then hopped into data science.</p> <p>Wondering if cyber security is a ​possible transition​ from here or_
+
+- [I made a browser-based hacking simulator using simplified nmap/metasploit commands for beginners. Looking for feedback.](https://www.reddit.com/r/hacking/comments/1vddvkz/i_made_a_browserbased_hacking_simulator_using/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1vddvkz/i_made_a_browserbased_hacking_simulator_using/"> <img alt="I made a browser-based hacking simulator using simplified nmap/me_
 
 - [The Risk of Fine-Tuned Open-Weight Models · MSec Operations Blog](https://www.reddit.com/r/netsec/comments/1vdqe9d/the_risk_of_finetuned_openweight_models_msec/)
   - Confidence: 🟫 LOW
@@ -73,31 +80,3 @@ tags:
 - [Google Chrome may soon block New Tab hijacker extensions by default](https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/)
   - Confidence: 🟫 LOW
   - _Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]_
-
-- [Atomic MacOS (AMOS) stealer infection, (Sun, Aug 2nd)](https://isc.sans.edu/diary/rss/33208)
-  - Confidence: 🟫 LOW
-  - _<p><em><strong>Introduction</strong></em></p>&#xd;_
-
-- [Error during the ID check in the SEC0 certification](https://www.reddit.com/r/tryhackme/comments/1vc80f6/error_during_the_id_check_in_the_sec0/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello everyone, when I tried the Sec0 certification exam but during the ID check I wrote my full name I get the &quot;&quot; error despite my name is 17 characters wi_
-
-- [Looking for people to learn Cybersecurity / TryHackMe together! 👋](https://www.reddit.com/r/tryhackme/comments/1vc351k/looking_for_people_to_learn_cybersecurity/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Heyyy! I’m Leon from Northern Germany 🇩🇪</p> <p>I’m currently learning cybersecurity and working through the Jr Penetration Tester path on TryHackMe. I started with T_
-
-- [Overheard at Breakfast: TryHackMe Room Write-up & OSINT Walkthrough](https://www.reddit.com/r/tryhackme/comments/1vcwtoa/overheard_at_breakfast_tryhackme_room_writeup/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1vcwtoa/overheard_at_breakfast_tryhackme_room_writeup/"> <img alt="Overheard at Breakfast: TryHackMe Room Write-up &amp; OSINT Wal_
-
-- [Are CLI based browsers more secure?](https://www.reddit.com/r/tryhackme/comments/1vd3hzp/are_cli_based_browsers_more_secure/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Exact-Wedding4891"> /u/Exact-Wedding4891 </a> <br /> <span><a href="/r/TOR/comments/1vcvys3/are_cli_based_browsers_more_secure/">[link]</a_
-
-- [I can't redeem my P1 voucher](https://www.reddit.com/r/tryhackme/comments/1vd0q90/i_cant_redeem_my_p1_voucher/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1vd0q90/i_cant_redeem_my_p1_voucher/"> <img alt="I can't redeem my P1 voucher" src="https://preview.redd.it/8d0x4tpcaugh1.png?widt_
-
-- [Do leagues even matter?](https://www.reddit.com/r/tryhackme/comments/1vd0i1k/do_leagues_even_matter/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1vd0i1k/do_leagues_even_matter/"> <img alt="Do leagues even matter?" src="https://preview.redd.it/oseqv6b29ugh1.png?width=640&amp;_
