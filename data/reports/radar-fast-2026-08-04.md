@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-04
-date: 2026-08-04T08:32:50Z
+date: 2026-08-04T14:05:07Z
 type: radar-report
 report_type: fast
-total_opportunities: 87
+total_opportunities: 92
 tags:
   - radar
   - fast
@@ -13,17 +13,32 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 87
+**Total opportunities:** 92
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 79 |
-| 🏰 CTF Competitions | 4 |
+| ❓ Uncategorized | 81 |
+| 🏰 CTF Competitions | 7 |
 | 🎓 Free Certifications | 2 |
 | 🔥 Hackathons & Conferences | 1 |
 | 📦 Open Source Tools | 1 |
 
 ## 🏰 CTF Competitions
+
+- [EyesOpen Conference](https://www.reddit.com/r/securityCTF/comments/1vdtwih/eyesopen_conference/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>🚨 EyesOpen CTF 2026 se prépare… et cette édition vous entraînera bien au-delà d’une simple compétition de hacking.</p> <p>Visitez le site de la saison 1, EyesOpenCTF _
+
+- [I've been building a browser-based hacker simulator to help people get familiar with terminal commands and basic hacking concepts in a safe, gamified environment...](https://www.reddit.com/r/securityCTF/comments/1vdnglk/ive_been_building_a_browserbased_hacker_simulator/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/cyndhrk"> /u/cyndhrk </a> <br /> <span><a href="https://hackergame.hu/en/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r_
+
+- [EyesOpen Conference](https://www.reddit.com/r/securityCTF/comments/1vermfi/eyesopen_conference/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>🚨 EyesOpen CTF 2026 se prépare… et cette édition vous entraînera bien au-delà d’une simple compétition de hacking.</p> <p>Visitez le site de la saison 1, EyesOpenCTF _
 
 - [DefCamp Capture the Flag (D-CTF) 2026 Quals](https://ctftime.org/event/3392)
   - Confidence: 🟢 HIGH
@@ -72,6 +87,34 @@ tags:
   - _<p><span style="font-size: undefined;">Today marks the release of Metasploit Pro 5.1 - building upon the foundation laid in 5.0, adding new evasion primitives for HTTP Meterpreter payloads, support fo_
 
 ## ❓ Uncategorized
+
+- [DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT](https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html)
+  - Confidence: 🟫 LOW
+  - _A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a_
+
+- [New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root](https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html)
+  - Confidence: 🟫 LOW
+  - _cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrativ_
+
+- [Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent](https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html)
+  - Confidence: 🟫 LOW
+  - _Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a priv_
+
+- [When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted](https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html)
+  - Confidence: 🟫 LOW
+  - _The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise.  That assumption is starting to break.  Security teams have long estimated risk by rank_
+
+- [Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access](https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and s_
+
+- [Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks](https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html)
+  - Confidence: 🟫 LOW
+  - _A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026.  SafeDep ver_
+
+- [Botnet Hunting for Vulnerabilities in Diagnostic Tools, (Tue, Aug 4th)](https://isc.sans.edu/diary/rss/33214)
+  - Confidence: 🟫 LOW
+  - _<p>This morning, I noticed specific sources "hunting" for vulnerabilities in URLs that I haven&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t noticed before. All of these URLs appear to be associated with d_
 
 - [CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises](https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html)
   - Confidence: 🟫 LOW
@@ -368,23 +411,3 @@ tags:
 - [⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks](https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html)
   - Confidence: 🟫 LOW
   - _This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows a_
-
-- [Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code](https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html)
-  - Confidence: 🟫 LOW
-  - _Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, op_
-
-- [N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete](https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html)
-  - Confidence: 🟫 LOW
-  - _N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers.  Its first fix was incomplete. _
-
-- [Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable](https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html)
-  - Confidence: 🟫 LOW
-  - _Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them.  The vendor's July_
-
-- [data science to cybersecurity](https://www.reddit.com/r/hacking/comments/1vcpuj8/data_science_to_cybersecurity/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I was a mathematician, ended up working as SWE for two years then hopped into data science.</p> <p>Wondering if cyber security is a ​possible transition​ from here or_
-
-- [I made a browser-based hacking simulator using simplified nmap/metasploit commands for beginners. Looking for feedback.](https://www.reddit.com/r/hacking/comments/1vddvkz/i_made_a_browserbased_hacking_simulator_using/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1vddvkz/i_made_a_browserbased_hacking_simulator_using/"> <img alt="I made a browser-based hacking simulator using simplified nmap/me_
