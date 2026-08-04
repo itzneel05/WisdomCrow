@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-04
-date: 2026-08-04T14:05:07Z
+date: 2026-08-04T19:28:41Z
 type: radar-report
 report_type: fast
-total_opportunities: 92
+total_opportunities: 75
 tags:
   - radar
   - fast
@@ -13,13 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 92
+**Total opportunities:** 75
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 81 |
-| 🏰 CTF Competitions | 7 |
+| ❓ Uncategorized | 66 |
+| 🏰 CTF Competitions | 4 |
 | 🎓 Free Certifications | 2 |
+| 💰 Bug Bounties | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 | 📦 Open Source Tools | 1 |
 
@@ -40,25 +41,17 @@ tags:
   - Tags: `ctf`
   - _<!-- SC_OFF --><div class="md"><p>🚨 EyesOpen CTF 2026 se prépare… et cette édition vous entraînera bien au-delà d’une simple compétition de hacking.</p> <p>Visitez le site de la saison 1, EyesOpenCTF _
 
-- [DefCamp Capture the Flag (D-CTF) 2026 Quals](https://ctftime.org/event/3392)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: DefCamp Capture the Flag (D-CTF) 2026 Quals (an <a href="/ctf/73">Defcamp CTF Qualification</a> event.)<br /> Date: Sept. 18, 2026, 10 a.m. &mdash; 20 Sept. 2026, 10:00 UTC &nbsp;<a href="/event_
-
 - [NullReceiver's Blank Crypto Transfers Solves the Challenges of EtherHiding](https://www.reddit.com/r/blueteamsec/comments/1vefuto/nullreceivers_blank_crypto_transfers_solves_the/)
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
   - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/jnazario"> /u/jnazario </a> <br /> <span><a href="https://opensourcemalware.com/blog/nullreceiver-dprk-c2-technique">[link]</a></span> &#3_
 
-- [TryHackMe - Beach Bar - EW](https://www.reddit.com/r/Pentesting/comments/1vdrc3h/tryhackme_beach_bar_ew/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>Beach Bar is a Linux machine simulating a music management web application (jukebox) exposed to local network users. The machine demonstrates the impact of two critic_
+## 💰 Bug Bounties
 
-- [Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS](https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.  Attack surface management platfo_
+- [Intigriti named new provider for Adobe's Bug Bounty Program](https://www.intigriti.com/blog/news/intigriti-named-new-provider-for-adobes-bug-bounty-program)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`, `india_friendly`
+  - _Adobe empowers everyone to create through industry-leading platforms and tools that unleash creativity, productivity, and personalized customer experiences. Starting September 1, 2026, Intigriti will _
 
 ## 🎓 Free Certifications
 
@@ -87,6 +80,30 @@ tags:
   - _<p><span style="font-size: undefined;">Today marks the release of Metasploit Pro 5.1 - building upon the foundation laid in 5.0, adding new evasion primitives for HTTP Meterpreter payloads, support fo_
 
 ## ❓ Uncategorized
+
+- [Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens](https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html)
+  - Confidence: 🟫 LOW
+  - _The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the_
+
+- [Have Deepfakes changed how much you trust video calls?](https://www.reddit.com/r/security/comments/1veo84q/have_deepfakes_changed_how_much_you_trust_video/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I'm in my early 40s and this wasn't even on my radar until a family member brought it up. We got into a long talk about how easy it is now to fake someone's face or v_
+
+- [Varonis Agent IBAC keeps AI agents within their intended boundaries](https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/)
+  - Confidence: 🟫 LOW
+  - _AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enfor_
+
+- [Massive ChainDrop npm supply-chain attack infects hundreds of packages](https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/)
+  - Confidence: 🟫 LOW
+  - _Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]_
+
+- [77 Open VSX extensions found harvesting developer info](https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/)
+  - Confidence: 🟫 LOW
+  - _77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]_
+
+- [New XCSSET variant targets macOS devs via compromised Xcode projects](https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/)
+  - Confidence: 🟫 LOW
+  - _A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]_
 
 - [DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT](https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html)
   - Confidence: 🟫 LOW
@@ -327,87 +344,3 @@ tags:
 - [Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm](https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm)
   - Confidence: 🟫 LOW
   - _Researchers from Jesta intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking and to launch further attacks_
-
-- [INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws](https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html)
-  - Confidence: 🟫 LOW
-  - _The INC Ransomware operation has emerged as the "dominant threat actor" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.  In a repor_
-
-- [Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts](https://thehackernews.com/2026/08/google-password-manager-attacks-could.html)
-  - Confidence: 🟫 LOW
-  - _Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen.  Unit 42_
-
-- [18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users](https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, _
-
-- [Bandit levels](https://www.reddit.com/r/Pentesting/comments/1vd0jmv/bandit_levels/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I’ve no clue where to start and how to go from there<br /> Levels all the way from 0 to 34<br /> I’d really appreciate any help and advice</p> </div><!-- SC_ON --> &#_
-
-- [Zara data breach exposes 197,000 customers via Anodot analytics token compromise](https://www.reddit.com/r/Pentesting/comments/1vczxer/zara_data_breach_exposes_197000_customers_via/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>A stolen analytics token became a customer breach.</p> <p>197,400 records were exposed after a former third-party analytics provider was compromised. Emails, order ID_
-
-- [Build-scanner — a zero-config static scanner for SQLi, NoSQLi, CORS, CSP & CSRF in React/Node apps (pre-release)](https://www.reddit.com/r/Pentesting/comments/1vd5sl8/buildscanner_a_zeroconfig_static_scanner_for_sqli/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Modern React/Node apps ship through build pipelines fast enough that common, high-impact vulnerability classes — unparameterized queries, wildcard CORS, unsafe-inline_
-
-- [Freelance work in web pentesting](https://www.reddit.com/r/Pentesting/comments/1vdopyk/freelance_work_in_web_pentesting/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi everyone i am an pen tester experienced in web api pen testing currently i am doing job in this field now i want to start freelancing in this how can i get project_
-
-- [Freelance work in web pentesting](https://www.reddit.com/r/Pentesting/comments/1vdoqc4/freelance_work_in_web_pentesting/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Jealous-Document-137"> /u/Jealous-Document-137 </a> <br /> <span><a href="https://www.reddit.com/r/Pentesting/comments/1vdoqc4/freelance_w_
-
-- [SecureAI-Scan v0.3.0: Local CLI scanner for AI/LLM security issues (prompt injection, MCP, RAG)](https://www.reddit.com/r/Pentesting/comments/1vdlwas/secureaiscan_v030_local_cli_scanner_for_aillm/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>SecureAI-Scan v0.3.0 is out!</p> <p>It's a free, fully local CLI tool that scans TypeScript, JavaScript, and Python codebases for AI/LLM-specific security issues that_
-
-- [Managing Multiple Engagements](https://www.reddit.com/r/Pentesting/comments/1vebj58/managing_multiple_engagements/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Been meaning to ask this for a while. </p> <p>I've been noticing that when teams run multiple pentests in parallel, reporting starts to vary a lot in tone, structure,_
-
-- [WILL PENTESTING BE FULLY REPLACED ?](https://www.reddit.com/r/Pentesting/comments/1veclz7/will_pentesting_be_fully_replaced/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello everyone,</p> <p>I have a query as I am currently studying and conducting penetration testing concurrently. </p> <p>Will artificial intelligence replace penetra_
-
-- [Claude code for CVE hunting](https://www.reddit.com/r/Pentesting/comments/1vebifw/claude_code_for_cve_hunting/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I have been using claude code to help me with CVE hunting, I am using skill file from claude s GitHub repo for code review and for creating poc the agents are doing a_
-
-- [how do i get a junior pentesting job in europe](https://www.reddit.com/r/Pentesting/comments/1veaurt/how_do_i_get_a_junior_pentesting_job_in_europe/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I live in Egypt, i started with some web development and then got into security, i solved all portswigger labs and so far I've got 25 valid paid bug bounty submission_
-
-- [MoneyPilot’s payment system is fully broken, no jailbreak needed, wild that nobody there seems to care.](https://www.reddit.com/r/Pentesting/comments/1velcaz/moneypilots_payment_system_is_fully_broken_no/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1velcaz/moneypilots_payment_system_is_fully_broken_no/"> <img alt="MoneyPilot’s payment system is fully broken, no jailbreak need_
-
-- [Inside the Underground Business of the Android BTMOB RAT malware](https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/)
-  - Confidence: 🟫 LOW
-  - _Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and_
-
-- [ExfilSquad hackers leak info of over 100,000 UK police officers, staff](https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/)
-  - Confidence: 🟫 LOW
-  - _A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]_
-
-- [N-able warns of N-central auth bypass flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]_
-
-- [Fake Roblox Xeno script launcher pushes infostealer, RAT malware](https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/)
-  - Confidence: 🟫 LOW
-  - _Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]_
-
-- [PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web](https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html)
-  - Confidence: 🟫 LOW
-  - _The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web.  The data included names, organisations _
-
-- [FOMO in the SOC: Where AI Platforms like Claude Actually Fit](https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html)
-  - Confidence: 🟫 LOW
-  - _AI is moving incredibly fast, and every security leader is feeling the pressure to keep up.  AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate_
-
-- [⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks](https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html)
-  - Confidence: 🟫 LOW
-  - _This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows a_
