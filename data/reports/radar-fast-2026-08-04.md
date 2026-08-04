@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-04
-date: 2026-08-04T02:12:26Z
+date: 2026-08-04T08:32:50Z
 type: radar-report
 report_type: fast
-total_opportunities: 86
+total_opportunities: 87
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 86
+**Total opportunities:** 87
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 78 |
+| ❓ Uncategorized | 79 |
 | 🏰 CTF Competitions | 4 |
 | 🎓 Free Certifications | 2 |
 | 🔥 Hackathons & Conferences | 1 |
@@ -47,12 +47,12 @@ tags:
 
 ## 🎓 Free Certifications
 
-- [ISC Stormcast For Tuesday, August 4th, 2026 https://isc.sans.edu/podcastdetail/10036, (Tue, Aug 4th)](https://isc.sans.edu/diary/rss/33212)
+- [Give me your advice](https://www.reddit.com/r/netsecstudents/comments/1vdzf3b/give_me_your_advice/)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I'm a Computer Science student from Egypt, and I'm working toward a career in cybersecurity.</p> <p>So far, I've completed Cisco's Introduction to_
 
-- [ISC Stormcast For Monday, August 3rd, 2026 https://isc.sans.edu/podcastdetail/10034, (Mon, Aug 3rd)](https://isc.sans.edu/diary/rss/33210)
+- [ISC Stormcast For Tuesday, August 4th, 2026 https://isc.sans.edu/podcastdetail/10036, (Tue, Aug 4th)](https://isc.sans.edu/diary/rss/33212)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
@@ -72,6 +72,26 @@ tags:
   - _<p><span style="font-size: undefined;">Today marks the release of Metasploit Pro 5.1 - building upon the foundation laid in 5.0, adding new evasion primitives for HTTP Meterpreter payloads, support fo_
 
 ## ❓ Uncategorized
+
+- [CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises](https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following_
+
+- [17 y/o from Brazil looking to start a career in cybersecurity. Where should I begin?](https://www.reddit.com/r/netsecstudents/comments/1vdk9b5/17_yo_from_brazil_looking_to_start_a_career_in/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone.</p> <p>I'm 17 years old and I'm from Brazil. I've wanted to work in cybersecurity for years, but I feel overwhelmed because there are so many different p_
+
+- [Bandit 0-34: Where do I start?](https://www.reddit.com/r/netsecstudents/comments/1vdnv4p/bandit_034_where_do_i_start/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I honestly have no idea where to begin.I'm completely new to all of this, and I've been assigned to complete all 34 OverTheWire Bandit levels by monday. If anyone cou_
+
+- [Final Project](https://www.reddit.com/r/netsecstudents/comments/1veav96/final_project/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hello, I’m am going into my Final Year for my Cyber Security Bachelors degree, I’m a British student at a UK University I typically get 2:1s and Firsts through my 1st_
+
+- [Deployed a business web app for a friend, I want to learn how to pen test it](https://www.reddit.com/r/netsecstudents/comments/1vf2rt7/deployed_a_business_web_app_for_a_friend_i_want/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi all! Im excited to get my feet wet and also taking proactive action for a project I have deployed for a friend!</p> <p>Currently, the website lives inside a VPS on_
 
 - [wisp – a single static-binary honeypot with cloud/container/LLM decoys (a modern take on OpenCanary)](https://www.reddit.com/r/blueteamsec/comments/1vd8ap7/wisp_a_single_staticbinary_honeypot_with/)
   - Confidence: 🟫 LOW
@@ -368,19 +388,3 @@ tags:
 - [I made a browser-based hacking simulator using simplified nmap/metasploit commands for beginners. Looking for feedback.](https://www.reddit.com/r/hacking/comments/1vddvkz/i_made_a_browserbased_hacking_simulator_using/)
   - Confidence: 🟫 LOW
   - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1vddvkz/i_made_a_browserbased_hacking_simulator_using/"> <img alt="I made a browser-based hacking simulator using simplified nmap/me_
-
-- [The Risk of Fine-Tuned Open-Weight Models · MSec Operations Blog](https://www.reddit.com/r/netsec/comments/1vdqe9d/the_risk_of_finetuned_openweight_models_msec/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/S3cur3Th1sSh1t"> /u/S3cur3Th1sSh1t </a> <br /> <span><a href="https://www.msecops.de/blog/posts/backdoored-llms/">[link]</a></span> &#32; _
-
-- [r/netsec monthly discussion & tool thread](https://www.reddit.com/r/netsec/comments/1vcngz2/rnetsec_monthly_discussion_tool_thread/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Questions regarding netsec and discussion related directly to netsec are welcome here, as is sharing tool links.</p> <h1>Rules &amp; Guidelines</h1> <ul> <li>Always m_
-
-- [COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
-  - Confidence: 🟫 LOW
-  - _A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number _
-
-- [OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/)
-  - Confidence: 🟫 LOW
-  - _OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer scien_
