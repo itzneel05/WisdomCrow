@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-05
-date: 2026-08-05T02:10:46Z
+date: 2026-08-05T08:32:06Z
 type: radar-report
 report_type: fast
-total_opportunities: 78
+total_opportunities: 56
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 78
+**Total opportunities:** 56
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 69 |
-| 🏰 CTF Competitions | 4 |
-| 🎓 Free Certifications | 3 |
+| ❓ Uncategorized | 49 |
+| 🏰 CTF Competitions | 3 |
+| 🎓 Free Certifications | 2 |
 | 💰 Bug Bounties | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 
@@ -40,11 +40,6 @@ tags:
   - Tags: `ctf`
   - _<!-- SC_OFF --><div class="md"><p>🚨 EyesOpen CTF 2026 se prépare… et cette édition vous entraînera bien au-delà d’une simple compétition de hacking.</p> <p>Visitez le site de la saison 1, EyesOpenCTF _
 
-- [NullReceiver's Blank Crypto Transfers Solves the Challenges of EtherHiding](https://www.reddit.com/r/blueteamsec/comments/1vefuto/nullreceivers_blank_crypto_transfers_solves_the/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/jnazario"> /u/jnazario </a> <br /> <span><a href="https://opensourcemalware.com/blog/nullreceiver-dprk-c2-technique">[link]</a></span> &#3_
-
 ## 💰 Bug Bounties
 
 - [Intigriti named new provider for Adobe's Bug Bounty Program](https://www.intigriti.com/blog/news/intigriti-named-new-provider-for-adobes-bug-bounty-program)
@@ -64,11 +59,6 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I'm a Computer Science student from Egypt, and I'm working toward a career in cybersecurity.</p> <p>So far, I've completed Cisco's Introduction to_
 
-- [ISC Stormcast For Tuesday, August 4th, 2026 https://isc.sans.edu/podcastdetail/10036, (Tue, Aug 4th)](https://isc.sans.edu/diary/rss/33212)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## 🔥 Hackathons & Conferences
 
 - [Black Hat USA 2026 – Summary of Vendor Announcements (Part 2)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/)
@@ -77,6 +67,10 @@ tags:
   - _<p>Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.</p> <p>The post <a href="https://www.securityweek.com/black-hat-usa_
 
 ## ❓ Uncategorized
+
+- [QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer](https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed what has been described as a "long-standing supply chain attack" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overse_
 
 - [Phishing service spoofs RingCentral to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/)
   - Confidence: 🟫 LOW
@@ -269,87 +263,3 @@ tags:
 - [Deployed a business web app for a friend, I want to learn how to pen test it](https://www.reddit.com/r/netsecstudents/comments/1vf2rt7/deployed_a_business_web_app_for_a_friend_i_want/)
   - Confidence: 🟫 LOW
   - _<!-- SC_OFF --><div class="md"><p>Hi all! Im excited to get my feet wet and also taking proactive action for a project I have deployed for a friend!</p> <p>Currently, the website lives inside a VPS on_
-
-- [wisp – a single static-binary honeypot with cloud/container/LLM decoys (a modern take on OpenCanary)](https://www.reddit.com/r/blueteamsec/comments/1vd8ap7/wisp_a_single_staticbinary_honeypot_with/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>A honeypot is only useful if it's actually running, and I kept watching them die at the dependency install. <a href="https://github.com/thinkst/opencanary">OpenCanary_
-
-- [Application logs are often the missing piece in blue team visibility](https://www.reddit.com/r/blueteamsec/comments/1vd8o6v/application_logs_are_often_the_missing_piece_in/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Infrastructure telemetry can tell us where an event happened. It does not always show what the application was doing at that moment.</p> <p>For instance, a rise in au_
-
-- [Implications of Recent CISA Disclosures on Iranian OT Targeting](https://www.reddit.com/r/blueteamsec/comments/1vdeabn/implications_of_recent_cisa_disclosures_on/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.dataminr.com/resources/blog/implications-of-recent-cisa-disclosures-on-iranian_
-
-- [A new ETSI standard could rewrite the memory-safety debate](https://www.reddit.com/r/blueteamsec/comments/1vdmx78/a_new_etsi_standard_could_rewrite_the/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://cheri-alliance.org/a-new-etsi-standard-could-rewrite-the-memory-safety-debate/">[l_
-
-- [Apple Screen Sharing Pre-Auth RCE (macOS ≤ 26.5)](https://www.reddit.com/r/blueteamsec/comments/1vddl1g/apple_screen_sharing_preauth_rce_macos_265/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://warez.sl0p.foo/apple-screensharing-rce/">[link]</a></span> &#32; <span><a href="ht_
-
-- [(TLP:CLEAR) WaterISAC Notification - Important Note Regarding Leaked Information](https://www.reddit.com/r/blueteamsec/comments/1vdko1w/tlpclear_waterisac_notification_important_note/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/campuscodi"> /u/campuscodi </a> <br /> <span><a href="https://www.waterisac.org/tlpclear-waterisac-notification-important-note-regarding-l_
-
-- [8 countries. 8 critical sectors. One APT🔥](https://www.reddit.com/r/blueteamsec/comments/1ve64ue/8_countries_8_critical_sectors_one_apt/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Everyone talks about killing two birds with one stone... 🪨🐦 Operation Olalampo proved that Charming Kitten (Iranian APT) could hit 8 birds with one stone.</p> <p>🎯 Eg_
-
-- [[2607.10315] Understanding Implicit Trust Errors in Core Carrier Networks through Multi-Agent Flaw Discovery and Analysis](https://www.reddit.com/r/blueteamsec/comments/1ve6awy/260710315_understanding_implicit_trust_errors_in/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://arxiv.org/abs/2607.10315">[link]</a></span> &#32; <span><a href="https://www.reddi_
-
-- [ADR: ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.](https://www.reddit.com/r/blueteamsec/comments/1vdm8x6/adr_adr_secures_enterprise_ai_agents_through/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://github.com/uber/ADR">[link]</a></span> &#32; <span><a href="https://www.reddit.com_
-
-- [DarkSword's Panel Sprawl: How One Body Hash Unravels a Six-Panel, Two-Codebase Operator Cluster](https://www.reddit.com/r/blueteamsec/comments/1ve98lx/darkswords_panel_sprawl_how_one_body_hash/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://censys.com/blog/darkswords-panel-sprawl/">[link]</a></span> &#32; <span><a href="h_
-
-- [OctLurk and SilkLurk: newly identified tailored backdoors in cyber-espionage campaign in Central Asia](https://www.reddit.com/r/blueteamsec/comments/1ve9c8b/octlurk_and_silklurk_newly_identified_tailored/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://securelist.com/octlurk-silklurk-backdoors-central-asia/120840/">[link]</a></span> _
-
-- [ENISA Secure by Design and Default Playbook | ENISA](https://www.reddit.com/r/blueteamsec/comments/1ve9fs7/enisa_secure_by_design_and_default_playbook_enisa/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.enisa.europa.eu/publications/enisa-secure-by-design-and-default-playbook">[lin_
-
-- [Sources for post-infection PCAP (C2 beaconing, exfiltration) - what am I missing?](https://www.reddit.com/r/blueteamsec/comments/1ve05h4/sources_for_postinfection_pcap_c2_beaconing/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Been going in circles on this and want to check whether there's something obvious I've overlooked.</p> <p>Pre-infection traffic is easy to collect. URLhaus gives you _
-
-- [Alert to Countries, Companies, and Other Entities Regarding North Korean IT Workers - United States Department of State](https://www.reddit.com/r/blueteamsec/comments/1ve96yb/alert_to_countries_companies_and_other_entities/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.state.gov/releases/office-of-the-spokesperson/2026/07/alert-to-countries-compa_
-
-- [Debugger Detection trough ML](https://www.reddit.com/r/blueteamsec/comments/1vebh7m/debugger_detection_trough_ml/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/TradeZealousideal323"> /u/TradeZealousideal323 </a> <br /> <span><a href="https://github.com/ioallocate/Ira">[link]</a></span> &#32; <span_
-
-- [VPN Brute Tool: Infrastructure analysis](https://www.reddit.com/r/blueteamsec/comments/1vehb0q/vpn_brute_tool_infrastructure_analysis/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/jnazario"> /u/jnazario </a> <br /> <span><a href="https://medium.com/@cyb3r-hawk/vpn-brute-tool-infrastructure-analysis-f7104e24d65f">[lin_
-
-- [Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets - 221,000+ live creds](https://www.reddit.com/r/blueteamsec/comments/1vef27j/scanning_76_petabytes_of_huggingface_training/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets">[_
-
-- [binja-diff: Binary Ninja diffing tool](https://www.reddit.com/r/blueteamsec/comments/1veqwmt/binjadiff_binary_ninja_diffing_tool/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://github.com/matteyeux/binja-diff">[link]</a></span> &#32; <span><a href="https://ww_
-
-- [Rusty Bootkit - Windows UEFI Bootkit in Rust (Codename: RedLotus)](https://www.reddit.com/r/blueteamsec/comments/1verbhu/rusty_bootkit_windows_uefi_bootkit_in_rust/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://memn0ps.github.io/rusty-windows-uefi-bootkit/">[link]</a></span> &#32; <span><a hr_
-
-- [Targeted Attack on Middle East Govts (Part 2)](https://www.reddit.com/r/blueteamsec/comments/1vep89q/targeted_attack_on_middle_east_govts_part_2/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/jnazario"> /u/jnazario </a> <br /> <span><a href="https://www.zscaler.com/blogs/security-research/targeted-attack-government-entities-midd_
-
-- [[March 2025] New Ransomware Operator Exploits Fortinet Vulnerability Duo](https://www.reddit.com/r/blueteamsec/comments/1vehfpq/march_2025_new_ransomware_operator_exploits/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/jnazario"> /u/jnazario </a> <br /> <span><a href="https://www.forescout.com/blog/new-ransomware-operator-exploits-fortinet-vulnerability-d_
