@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-05
-date: 2026-08-05T08:32:06Z
+date: 2026-08-05T14:03:08Z
 type: radar-report
 report_type: fast
-total_opportunities: 56
+total_opportunities: 62
 tags:
   - radar
   - fast
@@ -13,17 +13,32 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 56
+**Total opportunities:** 62
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 49 |
-| 🏰 CTF Competitions | 3 |
-| 🎓 Free Certifications | 2 |
-| 💰 Bug Bounties | 1 |
+| ❓ Uncategorized | 51 |
+| 🏰 CTF Competitions | 6 |
+| 💰 Bug Bounties | 3 |
+| 🎓 Free Certifications | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
+
+- [z0d1ak CTF Qualifiers](https://ctftime.org/event/3370)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: z0d1ak CTF Qualifiers (an <a href="/ctf/1648"> z0d1ak CTF </a> event.)<br /> Date: Aug. 21, 2026, 4 p.m. &mdash; 23 Aug. 2026, 04:00 UTC &nbsp;<a href="/event/3370.ics">[add to calendar]</a><br _
+
+- [PwnSec CTF 2026](https://ctftime.org/event/3159)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: PwnSec CTF 2026 (an <a href="/ctf/1150">PwnSec CTF</a> event.)<br /> Date: Aug. 21, 2026, 2 p.m. &mdash; 22 Aug. 2026, 14:00 UTC &nbsp;<a href="/event/3159.ics">[add to calendar]</a><br /> Forma_
+
+- [0xV01D CTF 2026 V2](https://ctftime.org/event/3387)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: 0xV01D CTF 2026 V2 (an <a href="/ctf/1587">0xV01D CTF</a> event.)<br /> Date: Aug. 15, 2026, 7:30 a.m. &mdash; 16 Aug. 2026, 07:30 UTC &nbsp;<a href="/event/3387.ics">[add to calendar]</a><br />_
 
 - [EyesOpen Conference](https://www.reddit.com/r/securityCTF/comments/1vdtwih/eyesopen_conference/)
   - Confidence: 🟢 HIGH
@@ -47,17 +62,22 @@ tags:
   - Tags: `bug_bounty`, `india_friendly`
   - _Adobe empowers everyone to create through industry-leading platforms and tools that unleash creativity, productivity, and personalized customer experiences. Starting September 1, 2026, Intigriti will _
 
+- [Leaked n8n API Tokens Exposed Live Instances to Credential Theft](https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream creden_
+
+- [New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch](https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`, `india_friendly`
+  - _A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-b_
+
 ## 🎓 Free Certifications
 
 - [ISC Stormcast For Wednesday, August 5th, 2026 https://isc.sans.edu/podcastdetail/10038, (Wed, Aug 5th)](https://isc.sans.edu/diary/rss/33216)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
-- [Give me your advice](https://www.reddit.com/r/netsecstudents/comments/1vdzf3b/give_me_your_advice/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I'm a Computer Science student from Egypt, and I'm working toward a career in cybersecurity.</p> <p>So far, I've completed Cisco's Introduction to_
 
 ## 🔥 Hackathons & Conferences
 
@@ -67,6 +87,34 @@ tags:
   - _<p>Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.</p> <p>The post <a href="https://www.securityweek.com/black-hat-usa_
 
 ## ❓ Uncategorized
+
+- [CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited](https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in t_
+
+- [Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself](https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html)
+  - Confidence: 🟫 LOW
+  - _An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute.  When a _
+
+- [Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data](https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html)
+  - Confidence: 🟫 LOW
+  - _A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which t_
+
+- [Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup](https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html)
+  - Confidence: 🟫 LOW
+  - _An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public r_
+
+- [Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk](https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html)
+  - Confidence: 🟫 LOW
+  - _Kali365 is turning a legitimate Microsoft login into a gateway to corporate data.  The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's r_
+
+- [Code Execution via Provisioning Packages](https://www.reddit.com/r/netsecstudents/comments/1vf4jbm/code_execution_via_provisioning_packages/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/netbiosX"> /u/netbiosX </a> <br /> <span><a href="https://ipurple.team/2026/08/04/provisioning-packages/">[link]</a></span> &#32; <span><a_
+
+- [Notes I wish someone had handed me when I started in security](https://www.reddit.com/r/netsecstudents/comments/1vfef9c/notes_i_wish_someone_had_handed_me_when_i_started/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>When I started learning cybersecurity, I had notes scattered everywhere — PDFs, random Google Docs, screenshots, half-finished bookmarks. Nothing_
 
 - [QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer](https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html)
   - Confidence: 🟫 LOW
@@ -243,23 +291,3 @@ tags:
 - [Botnet Hunting for Vulnerabilities in Diagnostic Tools, (Tue, Aug 4th)](https://isc.sans.edu/diary/rss/33214)
   - Confidence: 🟫 LOW
   - _<p>This morning, I noticed specific sources "hunting" for vulnerabilities in URLs that I haven&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t noticed before. All of these URLs appear to be associated with d_
-
-- [CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises](https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following_
-
-- [17 y/o from Brazil looking to start a career in cybersecurity. Where should I begin?](https://www.reddit.com/r/netsecstudents/comments/1vdk9b5/17_yo_from_brazil_looking_to_start_a_career_in/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi everyone.</p> <p>I'm 17 years old and I'm from Brazil. I've wanted to work in cybersecurity for years, but I feel overwhelmed because there are so many different p_
-
-- [Bandit 0-34: Where do I start?](https://www.reddit.com/r/netsecstudents/comments/1vdnv4p/bandit_034_where_do_i_start/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I honestly have no idea where to begin.I'm completely new to all of this, and I've been assigned to complete all 34 OverTheWire Bandit levels by monday. If anyone cou_
-
-- [Final Project](https://www.reddit.com/r/netsecstudents/comments/1veav96/final_project/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello, I’m am going into my Final Year for my Cyber Security Bachelors degree, I’m a British student at a UK University I typically get 2:1s and Firsts through my 1st_
-
-- [Deployed a business web app for a friend, I want to learn how to pen test it](https://www.reddit.com/r/netsecstudents/comments/1vf2rt7/deployed_a_business_web_app_for_a_friend_i_want/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi all! Im excited to get my feet wet and also taking proactive action for a project I have deployed for a friend!</p> <p>Currently, the website lives inside a VPS on_
