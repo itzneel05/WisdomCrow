@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-05
-date: 2026-08-05T14:03:08Z
+date: 2026-08-05T19:26:58Z
 type: radar-report
 report_type: fast
-total_opportunities: 62
+total_opportunities: 65
 tags:
   - radar
   - fast
@@ -13,17 +13,27 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 62
+**Total opportunities:** 65
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 51 |
-| 🏰 CTF Competitions | 6 |
-| 💰 Bug Bounties | 3 |
+| ❓ Uncategorized | 53 |
+| 💰 Bug Bounties | 5 |
+| 🏰 CTF Competitions | 5 |
 | 🎓 Free Certifications | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
+
+- [SUNCTF 2026](https://ctftime.org/event/3389)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: SUNCTF 2026 (an <a href="/ctf/1645">SUN CTF</a> event.)<br /> Date: Sept. 6, 2026, midnight &mdash; 06 Sept. 2026, 09:00 UTC &nbsp;<a href="/event/3389.ics">[add to calendar]</a><br /> Format: J_
+
+- [The heart of Sysola](https://ctftime.org/event/3382)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: The heart of Sysola (an <a href="/ctf/1652">The heart of sysola</a> event.)<br /> Date: Aug. 8, 2026, 1 p.m. &mdash; 09 Aug. 2026, 01:00 UTC &nbsp;<a href="/event/3382.ics">[add to calendar]</a>_
 
 - [z0d1ak CTF Qualifiers](https://ctftime.org/event/3370)
   - Confidence: 🟢 HIGH
@@ -40,27 +50,22 @@ tags:
   - Tags: `ctf`
   - _Name: 0xV01D CTF 2026 V2 (an <a href="/ctf/1587">0xV01D CTF</a> event.)<br /> Date: Aug. 15, 2026, 7:30 a.m. &mdash; 16 Aug. 2026, 07:30 UTC &nbsp;<a href="/event/3387.ics">[add to calendar]</a><br />_
 
-- [EyesOpen Conference](https://www.reddit.com/r/securityCTF/comments/1vdtwih/eyesopen_conference/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>🚨 EyesOpen CTF 2026 se prépare… et cette édition vous entraînera bien au-delà d’une simple compétition de hacking.</p> <p>Visitez le site de la saison 1, EyesOpenCTF _
-
-- [I've been building a browser-based hacker simulator to help people get familiar with terminal commands and basic hacking concepts in a safe, gamified environment...](https://www.reddit.com/r/securityCTF/comments/1vdnglk/ive_been_building_a_browserbased_hacker_simulator/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/cyndhrk"> /u/cyndhrk </a> <br /> <span><a href="https://hackergame.hu/en/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r_
-
-- [EyesOpen Conference](https://www.reddit.com/r/securityCTF/comments/1vermfi/eyesopen_conference/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>🚨 EyesOpen CTF 2026 se prépare… et cette édition vous entraînera bien au-delà d’une simple compétition de hacking.</p> <p>Visitez le site de la saison 1, EyesOpenCTF _
-
 ## 💰 Bug Bounties
 
 - [Intigriti named new provider for Adobe's Bug Bounty Program](https://www.intigriti.com/blog/news/intigriti-named-new-provider-for-adobes-bug-bounty-program)
   - Confidence: 🟢 HIGH
   - Tags: `bug_bounty`, `india_friendly`
   - _Adobe empowers everyone to create through industry-leading platforms and tools that unleash creativity, productivity, and personalized customer experiences. Starting September 1, 2026, Intigriti will _
+
+- [Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain](https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address o_
+
+- [COLDCARD security audit phishing attack installs remote access tool](https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote a_
 
 - [Leaked n8n API Tokens Exposed Live Instances to Credential Theft](https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html)
   - Confidence: 🟡 MEDIUM
@@ -87,6 +92,42 @@ tags:
   - _<p>Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.</p> <p>The post <a href="https://www.securityweek.com/black-hat-usa_
 
 ## ❓ Uncategorized
+
+- [Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug](https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html)
+  - Confidence: 🟫 LOW
+  - _HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django.  The three most serious:     An unauthenti_
+
+- [Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports](https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html)
+  - Confidence: 🟫 LOW
+  - _Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) _
+
+- [Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt](https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platfo_
+
+- [OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes](https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html)
+  - Confidence: 🟫 LOW
+  - _OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enfo_
+
+- [Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures](https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html)
+  - Confidence: 🟫 LOW
+  - _A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on inf_
+
+- [Don't Revoke That Token Yet: Inside the keyv/cacheable npm Worm, (Wed, Aug 5th)](https://isc.sans.edu/diary/rss/33218)
+  - Confidence: 🟫 LOW
+  - _<p>When you learn that a compromised package executed on one of your build hosts, muscle memory takes over: revoke the npm token, rotate the GitHub PAT, cycle the cloud keys. That reflex has been corr_
+
+- [How AI-powered phishing killed blocklists for good](https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/)
+  - Confidence: 🟫 LOW
+  - _AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based dete_
+
+- [Google Blogger locks hundreds of blogs in malware false positive](https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/)
+  - Confidence: 🟫 LOW
+  - _Google has locked hundreds of Blogger websites after a false positive claimed they violated its "Malware and Similar Malicious Content" policy, with some sites deleted from the platform. [...]_
+
+- [CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]_
 
 - [CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited](https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html)
   - Confidence: 🟫 LOW
@@ -263,31 +304,3 @@ tags:
 - [New XCSSET variant targets macOS devs via compromised Xcode projects](https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/)
   - Confidence: 🟫 LOW
   - _A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]_
-
-- [DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT](https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html)
-  - Confidence: 🟫 LOW
-  - _A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a_
-
-- [New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root](https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html)
-  - Confidence: 🟫 LOW
-  - _cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrativ_
-
-- [Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent](https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html)
-  - Confidence: 🟫 LOW
-  - _Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a priv_
-
-- [When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted](https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html)
-  - Confidence: 🟫 LOW
-  - _The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise.  That assumption is starting to break.  Security teams have long estimated risk by rank_
-
-- [Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access](https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and s_
-
-- [Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks](https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html)
-  - Confidence: 🟫 LOW
-  - _A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026.  SafeDep ver_
-
-- [Botnet Hunting for Vulnerabilities in Diagnostic Tools, (Tue, Aug 4th)](https://isc.sans.edu/diary/rss/33214)
-  - Confidence: 🟫 LOW
-  - _<p>This morning, I noticed specific sources "hunting" for vulnerabilities in URLs that I haven&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t noticed before. All of these URLs appear to be associated with d_
