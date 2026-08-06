@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-06
-date: 2026-08-06T08:31:20Z
+date: 2026-08-06T14:00:40Z
 type: radar-report
 report_type: fast
-total_opportunities: 62
+total_opportunities: 68
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 62
+**Total opportunities:** 68
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 44 |
-| 💰 Bug Bounties | 8 |
+| ❓ Uncategorized | 49 |
+| 💰 Bug Bounties | 9 |
 | 🏰 CTF Competitions | 6 |
 | 🎓 Free Certifications | 2 |
 | 🔥 Hackathons & Conferences | 2 |
@@ -56,6 +56,11 @@ tags:
   - _Name: 0xV01D CTF 2026 V2 (an <a href="/ctf/1587">0xV01D CTF</a> event.)<br /> Date: Aug. 15, 2026, 7:30 a.m. &mdash; 16 Aug. 2026, 07:30 UTC &nbsp;<a href="/event/3387.ics">[add to calendar]</a><br />_
 
 ## 💰 Bug Bounties
+
+- [Beyond CVSS: rethinking scoring systems amidst AI Safety and Security](https://www.intigriti.com/blog/business-insights/rethinking-cvss-scoring-systems-amidst-ai-safety-and-security)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _CVSS open framework, rapid recap   Stands for Common Vulnerability Scoring System.    Owned by a US-based non-profit organization, the Forum of Incident Response and Security Teams (FIRST).    The pur_
 
 - [Can AI do novel security research? Meet the HTTP Terminator](https://portswigger.net/research/http-terminator)
   - Confidence: 🟢 HIGH
@@ -122,6 +127,30 @@ tags:
   - _<p>Black Hat USA 2026 is underway in Las Vegas, and vendors are using the moment to unveil what they hope will define the next year of defense. Here are the announcements drawing the most attention on_
 
 ## ❓ Uncategorized
+
+- [AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model](https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html)
+  - Confidence: 🟫 LOW
+  - _Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized the_
+
+- [Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access](https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html)
+  - Confidence: 🟫 LOW
+  - _Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk_
+
+- [AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory](https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html)
+  - Confidence: 🟫 LOW
+  - _A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every ma_
+
+- [Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses](https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address.  Introduced with iOS 15, iCloud Private Relay employs a dual-_
+
+- [CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps](https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html)
+  - Confidence: 🟫 LOW
+  - _Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains.  Introduced in the JavaScript cryptography library 12 years ago, the fu_
+
+- [Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities](https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html)
+  - Confidence: 🟫 LOW
+  - _Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network. _
 
 - [Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People](https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html)
   - Confidence: 🟫 LOW
@@ -294,7 +323,3 @@ tags:
 - [Notes I wish someone had handed me when I started in security](https://www.reddit.com/r/netsecstudents/comments/1vfef9c/notes_i_wish_someone_had_handed_me_when_i_started/)
   - Confidence: 🟫 LOW
   - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>When I started learning cybersecurity, I had notes scattered everywhere — PDFs, random Google Docs, screenshots, half-finished bookmarks. Nothing_
-
-- [QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer](https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed what has been described as a "long-standing supply chain attack" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overse_
