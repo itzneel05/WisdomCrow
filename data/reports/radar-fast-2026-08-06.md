@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-06
-date: 2026-08-06T02:15:09Z
+date: 2026-08-06T08:31:20Z
 type: radar-report
 report_type: fast
-total_opportunities: 58
+total_opportunities: 62
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 58
+**Total opportunities:** 62
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 40 |
+| ❓ Uncategorized | 44 |
 | 💰 Bug Bounties | 8 |
 | 🏰 CTF Competitions | 6 |
 | 🎓 Free Certifications | 2 |
@@ -122,6 +122,22 @@ tags:
   - _<p>Black Hat USA 2026 is underway in Las Vegas, and vendors are using the moment to unveil what they hope will define the next year of defense. Here are the announcements drawing the most attention on_
 
 ## ❓ Uncategorized
+
+- [Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People](https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html)
+  - Confidence: 🟫 LOW
+  - _Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer _
+
+- [CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild](https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html)
+  - Confidence: 🟫 LOW
+  - _A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency_
+
+- [Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service](https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html)
+  - Confidence: 🟫 LOW
+  - _A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. _
+
+- [Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells](https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a "factory-shipped backdoor" implanted in at least 20 Chinese router models from Zbtlink.  According to a new report from VulnCheck, the implant app_
 
 - [Hackers run khunt post-exploitation toolkit from Oracle database](https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/)
   - Confidence: 🟫 LOW
