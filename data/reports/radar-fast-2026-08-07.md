@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-07
-date: 2026-08-07T07:11:09Z
+date: 2026-08-07T12:57:02Z
 type: radar-report
 report_type: fast
-total_opportunities: 53
+total_opportunities: 62
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 53
+**Total opportunities:** 62
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 41 |
-| 🎓 Free Certifications | 4 |
-| 🔥 Hackathons & Conferences | 4 |
+| ❓ Uncategorized | 47 |
+| 🔥 Hackathons & Conferences | 6 |
+| 🎓 Free Certifications | 5 |
 | 💰 Bug Bounties | 3 |
 | 🏰 CTF Competitions | 1 |
 
@@ -49,6 +49,11 @@ tags:
 
 ## 🎓 Free Certifications
 
+- [Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs](https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.  The security issu_
+
 - [ISC Stormcast For Friday, August 7th, 2026 https://isc.sans.edu/podcastdetail/10042, (Fri, Aug 7th)](https://isc.sans.edu/diary/rss/33224)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`, `india_friendly`
@@ -71,6 +76,16 @@ tags:
 
 ## 🔥 Hackathons & Conferences
 
+- [Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets](https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `hackathon`, `conference`
+  - _A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough_
+
+- [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `hackathon`, `conference`
+  - _Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS_
+
 - [Photos: Black Hat USA 2026 Arsenal](https://www.helpnetsecurity.com/2026/08/06/black-hat-usa-2026-arsenal-photos/)
   - Confidence: 🟢 HIGH
   - Tags: `hackathon`, `conference`
@@ -92,6 +107,46 @@ tags:
   - _A researcher demonstrated a proof-of-concept attack chain that provided C2-style influence over ChatGPT's isolated sandbox during a session at Black Hat USA 2026._
 
 ## ❓ Uncategorized
+
+- [TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign](https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html)
+  - Confidence: 🟫 LOW
+  - _A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastruc_
+
+- [Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access](https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html)
+  - Confidence: 🟫 LOW
+  - _Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft _
+
+- [AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day](https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html)
+  - Confidence: 🟫 LOW
+  - _PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 cand_
+
+- [Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails](https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have called attention to an active "widespread email-driven phishing campaign" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 account_
+
+- [18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers](https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html)
+  - Confidence: 🟫 LOW
+  - _A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath.  The flaw _
+
+- [Growing Up The Hard Way](https://thehackernews.com/2026/08/growing-up-hard-way.html)
+  - Confidence: 🟫 LOW
+  - _Open Source had a great childhood.  For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind _
+
+- [Linux Shell Forensic: Let&#x3f;s Dive Into Atuin&#x21;, (Fri, Aug 7th)](https://isc.sans.edu/diary/rss/33226)
+  - Confidence: 🟫 LOW
+  - _<p>UNIX systems (including Linux) are well-known to record a lot of activities in many different locations. But there is one domain where they definitely lack of "modern" logging: shells. Most shells _
+
+- [Stored XSS in Django's admin via an unvalidated URLField display path (CVE-2026-15920)](https://www.reddit.com/r/netsec/comments/1vg9704/stored_xss_in_djangos_admin_via_an_unvalidated/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Sandwich_1337"> /u/Sandwich_1337 </a> <br /> <span><a href="https://syntetisk.tech/blog/posts/stored-xss-in-djangos-admin-via-an-unvalidat_
+
+- [From wallet drains to a 12-year-old CryptoJS entropy bug: the Ill Bloom investigation](https://www.reddit.com/r/netsec/comments/1vgr9gv/from_wallet_drains_to_a_12yearold_cryptojs/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/coinspect"> /u/coinspect </a> <br /> <span><a href="https://www.coinspect.com/blog/ill-bloom-investigation/">[link]</a></span> &#32; <span_
+
+- [Claude Code RCE: How a Malicious PR Triggers Code Execution](https://www.reddit.com/r/netsec/comments/1vhh5xw/claude_code_rce_how_a_malicious_pr_triggers_code/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Abusing the trust boundary in Claude Code for RCE. Trust is never broken and that opens up a few avenues for abuse. Simply opening claude code on a PR can be enough t_
 
 - [Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability](https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/)
   - Confidence: 🟫 LOW
@@ -240,19 +295,3 @@ tags:
 - [Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities](https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html)
   - Confidence: 🟫 LOW
   - _Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network. _
-
-- [Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People](https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html)
-  - Confidence: 🟫 LOW
-  - _Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer _
-
-- [CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild](https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html)
-  - Confidence: 🟫 LOW
-  - _A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency_
-
-- [Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service](https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html)
-  - Confidence: 🟫 LOW
-  - _A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. _
-
-- [Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells](https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of a "factory-shipped backdoor" implanted in at least 20 Chinese router models from Zbtlink.  According to a new report from VulnCheck, the implant app_
