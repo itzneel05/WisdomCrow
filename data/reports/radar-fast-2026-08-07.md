@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-07
-date: 2026-08-07T12:57:02Z
+date: 2026-08-07T18:52:54Z
 type: radar-report
 report_type: fast
-total_opportunities: 62
+total_opportunities: 63
 tags:
   - radar
   - fast
@@ -13,17 +13,22 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 62
+**Total opportunities:** 63
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 47 |
+| ❓ Uncategorized | 48 |
 | 🔥 Hackathons & Conferences | 6 |
 | 🎓 Free Certifications | 5 |
-| 💰 Bug Bounties | 3 |
-| 🏰 CTF Competitions | 1 |
+| 💰 Bug Bounties | 2 |
+| 🏰 CTF Competitions | 2 |
 
 ## 🏰 CTF Competitions
+
+- [UIUCTF 2026 starts tomorrow — beginner-friendly 48-hour online CTF](https://www.reddit.com/r/netsecstudents/comments/1vhneq4/uiuctf_2026_starts_tomorrow_beginnerfriendly/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/lrqjh4vtzuhh1.jpg?width=988&amp;format=pjpg&amp;auto=webp&amp;s=b9d7aab73be2eaa52b4f9458e5dc92815d9a7518">https://preview.redd.it/lrq_
 
 - [Critical Cisco IMC bug gives attackers root, PoC is out (CVE-2026-20200)](https://www.helpnetsecurity.com/2026/08/06/cisco-imc-cve-2026-20200-public-poc-exploit/)
   - Confidence: 🟡 MEDIUM
@@ -41,11 +46,6 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `bug_bounty`, `india_friendly`
   - _Gareth Heyes - gareth.heyes@portswigger.net - @garethheyes It's quite common for webmail clients to render untrusted CSS in a trusted UI. They attempt to make this safe using CSS sanitization. In this_
-
-- [Beyond CVSS: rethinking scoring systems amidst AI Safety and Security](https://www.intigriti.com/blog/business-insights/rethinking-cvss-scoring-systems-amidst-ai-safety-and-security)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _CVSS open framework, rapid recap   Stands for Common Vulnerability Scoring System.    Owned by a US-based non-profit organization, the Forum of Incident Response and Security Teams (FIRST).    The pur_
 
 ## 🎓 Free Certifications
 
@@ -107,6 +107,34 @@ tags:
   - _A researcher demonstrated a proof-of-concept attack chain that provided C2-style influence over ChatGPT's isolated sandbox during a session at Black Hat USA 2026._
 
 ## ❓ Uncategorized
+
+- [New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP](https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html)
+  - Confidence: 🟫 LOW
+  - _WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can_
+
+- [Project Bias - A formally verified, bias-free CSPRNG conversion engine in Ada/SPARK](https://www.reddit.com/r/netsecstudents/comments/1vh8r9q/project_bias_a_formally_verified_biasfree_csprng/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I wanted to share a project I've been hacking on: an optimized engine designed to eliminate modulo bias when mapping raw cryptographic streams int_
+
+- [How to Read Logs as a Beginner, what I did when I had No SOC Experience](https://www.reddit.com/r/netsecstudents/comments/1vhq1gc/how_to_read_logs_as_a_beginner_what_i_did_when_i/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I still remember the first time I opened a sysmon log file or a wireshark pcap file and it was scary, too many lines flying by, weird timestamps, error codes. And I t_
+
+- [Project Website security analyser](https://www.reddit.com/r/netsecstudents/comments/1vhzrrn/project_website_security_analyser/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Im a 4th year engineering student and we are building a website security analyser tool<br /> We are new to this domain , so if you have any suggestion or feedback on _
+
+- [North Carolina Ports confirms cyberattack disrupting operations](https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/)
+  - Confidence: 🟫 LOW
+  - _The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]_
+
+- [Real emails, hijacked payments: Two H1 2026 attack chains](https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/)
+  - Confidence: 🟫 LOW
+  - _Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking _
+
+- [Levi Strauss & Co. says hackers stole corporate data in cyberattack](https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/)
+  - Confidence: 🟫 LOW
+  - _Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]_
 
 - [TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign](https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html)
   - Confidence: 🟫 LOW
@@ -271,27 +299,3 @@ tags:
 - [OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/)
   - Confidence: 🟫 LOW
   - _OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]_
-
-- [AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model](https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html)
-  - Confidence: 🟫 LOW
-  - _Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized the_
-
-- [Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access](https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html)
-  - Confidence: 🟫 LOW
-  - _Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk_
-
-- [AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory](https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html)
-  - Confidence: 🟫 LOW
-  - _A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every ma_
-
-- [Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses](https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address.  Introduced with iOS 15, iCloud Private Relay employs a dual-_
-
-- [CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps](https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html)
-  - Confidence: 🟫 LOW
-  - _Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains.  Introduced in the JavaScript cryptography library 12 years ago, the fu_
-
-- [Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities](https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html)
-  - Confidence: 🟫 LOW
-  - _Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network. _
