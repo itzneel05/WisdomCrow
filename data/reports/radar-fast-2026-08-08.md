@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-08
-date: 2026-08-08T01:19:42Z
+date: 2026-08-08T06:45:46Z
 type: radar-report
 report_type: fast
-total_opportunities: 49
+total_opportunities: 48
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 49
+**Total opportunities:** 48
 
 | Category | Count |
 |----------|-------|
 | ❓ Uncategorized | 42 |
-| 🎓 Free Certifications | 3 |
 | 🔥 Hackathons & Conferences | 3 |
+| 🎓 Free Certifications | 2 |
 | 🏰 CTF Competitions | 1 |
 
 ## 🏰 CTF Competitions
@@ -40,11 +40,6 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
   - _Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.  The security issu_
-
-- [ISC Stormcast For Friday, August 7th, 2026 https://isc.sans.edu/podcastdetail/10042, (Fri, Aug 7th)](https://isc.sans.edu/diary/rss/33224)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## 🔥 Hackathons & Conferences
 
