@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-08
-date: 2026-08-08T12:41:33Z
+date: 2026-08-08T18:33:57Z
 type: radar-report
 report_type: fast
-total_opportunities: 53
+total_opportunities: 50
 tags:
   - radar
   - fast
@@ -13,16 +13,21 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 53
+**Total opportunities:** 50
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 47 |
-| 🔥 Hackathons & Conferences | 3 |
-| 🎓 Free Certifications | 2 |
-| 🏰 CTF Competitions | 1 |
+| ❓ Uncategorized | 46 |
+| 🏰 CTF Competitions | 2 |
+| 🎓 Free Certifications | 1 |
+| 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
+
+- [AI in CTF events/competitions](https://www.reddit.com/r/hackthebox/comments/1vhjjcr/ai_in_ctf_eventscompetitions/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Striking_Swan_884"> /u/Striking_Swan_884 </a> <br /> <span><a href="/r/cybersecurity/comments/1v22ue1/ai_in_ctf_eventscompetitions/">[link_
 
 - [UIUCTF 2026 starts tomorrow — beginner-friendly 48-hour online CTF](https://www.reddit.com/r/netsecstudents/comments/1vhneq4/uiuctf_2026_starts_tomorrow_beginnerfriendly/)
   - Confidence: 🟢 HIGH
@@ -36,11 +41,6 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>The recent water system attacks are a reminder that familiar techniques can have serious consequences when they reach critical infrastructure. Preparing teams before the next incident is just as im_
 
-- [Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs](https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.  The security issu_
-
 ## 🔥 Hackathons & Conferences
 
 - [Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/)
@@ -48,17 +48,43 @@ tags:
   - Tags: `hackathon`, `conference`
   - _<p>Companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.</p> <p>The post <a href="https://www.securityweek.com/black-hat-usa-2026_
 
-- [Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets](https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `hackathon`, `conference`
-  - _A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough_
-
-- [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `hackathon`, `conference`
-  - _Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS_
-
 ## ❓ Uncategorized
+
+- [How do I buy cubes from HTB store?](https://www.reddit.com/r/hackthebox/comments/1vhxu3b/how_do_i_buy_cubes_from_htb_store/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1vhxu3b/how_do_i_buy_cubes_from_htb_store/"> <img alt="How do I buy cubes from HTB store?" src="https://preview.redd.it/ka7ngon1t_
+
+- [well well well 💙🔥](https://www.reddit.com/r/hackthebox/comments/1vi6fvz/well_well_well/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1vi6fvz/well_well_well/"> <img alt="well well well 💙🔥" src="https://preview.redd.it/zms0h5ovizhh1.png?width=140&amp;height=39&amp_
+
+- [Windows Fundamental RDP](https://www.reddit.com/r/hackthebox/comments/1vi8w1d/windows_fundamental_rdp/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I’ve been working through the Windows Fundamentals module, and I’ve been having a lot of issues with the RDP. I connect successfully, but after about a minute the con_
+
+- [Failed CWPE (first attempt)](https://www.reddit.com/r/hackthebox/comments/1vi8oqu/failed_cwpe_first_attempt/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Today I failed my first attempt at the CWPE exam. After 5 days I had 16 of the 20 flags. The last 2 days I spend on trying to get the rest of them. I have tried every_
+
+- [HTB Introduction to deserialization - Skills Assessment Q2](https://www.reddit.com/r/hackthebox/comments/1vj0zsi/htb_introduction_to_deserialization_skills/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hello, am stuck on the intro to deserialization skills assessment 2 , <span class="md-spoiler-text">I got the payload for CodeIgniter and used PHPGGC to get the rever_
+
+- [Looking for good finance case competitions for undergraduates](https://www.reddit.com/r/hackthebox/comments/1vj3csh/looking_for_good_finance_case_competitions_for/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Livid_Attorney_9675"> /u/Livid_Attorney_9675 </a> <br /> <span><a href="/r/hackathon/comments/1vile9h/looking_for_good_finance_case_compet_
+
+- [Transitioning from Telecom Engineering to Offensive Security (CPTS) — Seeking Career & Freelance Advice](https://www.reddit.com/r/hackthebox/comments/1vixmp3/transitioning_from_telecom_engineering_to/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I’m a senior telecom analyst experienced in core network signaling, userplane troubleshooting, and investigating fraud vectors like DPI-bypassing, rogue towers,DNS tu_
+
+- [Weekly Solves Megathread](https://www.reddit.com/r/hackthebox/comments/1vj2oiv/weekly_solves_megathread/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Solved a machine/module/etc and want a place to brag? Heres your spot!</p> <p>For retired content or Tier-0 Academy content, feel free to discuss or ask questions usi_
+
+- [Hackers breach TrueConf to trojanize client installers with backdoors](https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/)
+  - Confidence: 🟫 LOW
+  - _The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]_
 
 - [Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts](https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html)
   - Confidence: 🟫 LOW
@@ -207,43 +233,3 @@ tags:
 - [Levi Strauss & Co. says hackers stole corporate data in cyberattack](https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/)
   - Confidence: 🟫 LOW
   - _Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]_
-
-- [TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign](https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html)
-  - Confidence: 🟫 LOW
-  - _A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastruc_
-
-- [Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access](https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html)
-  - Confidence: 🟫 LOW
-  - _Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft _
-
-- [AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day](https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html)
-  - Confidence: 🟫 LOW
-  - _PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 cand_
-
-- [Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails](https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have called attention to an active "widespread email-driven phishing campaign" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 account_
-
-- [18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers](https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html)
-  - Confidence: 🟫 LOW
-  - _A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath.  The flaw _
-
-- [Growing Up The Hard Way](https://thehackernews.com/2026/08/growing-up-hard-way.html)
-  - Confidence: 🟫 LOW
-  - _Open Source had a great childhood.  For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind _
-
-- [Linux Shell Forensic: Let&#x3f;s Dive Into Atuin&#x21;, (Fri, Aug 7th)](https://isc.sans.edu/diary/rss/33226)
-  - Confidence: 🟫 LOW
-  - _<p>UNIX systems (including Linux) are well-known to record a lot of activities in many different locations. But there is one domain where they definitely lack of "modern" logging: shells. Most shells _
-
-- [Stored XSS in Django's admin via an unvalidated URLField display path (CVE-2026-15920)](https://www.reddit.com/r/netsec/comments/1vg9704/stored_xss_in_djangos_admin_via_an_unvalidated/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Sandwich_1337"> /u/Sandwich_1337 </a> <br /> <span><a href="https://syntetisk.tech/blog/posts/stored-xss-in-djangos-admin-via-an-unvalidat_
-
-- [From wallet drains to a 12-year-old CryptoJS entropy bug: the Ill Bloom investigation](https://www.reddit.com/r/netsec/comments/1vgr9gv/from_wallet_drains_to_a_12yearold_cryptojs/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/coinspect"> /u/coinspect </a> <br /> <span><a href="https://www.coinspect.com/blog/ill-bloom-investigation/">[link]</a></span> &#32; <span_
-
-- [Claude Code RCE: How a Malicious PR Triggers Code Execution](https://www.reddit.com/r/netsec/comments/1vhh5xw/claude_code_rce_how_a_malicious_pr_triggers_code/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Abusing the trust boundary in Claude Code for RCE. Trust is never broken and that opens up a few avenues for abuse. Simply opening claude code on a PR can be enough t_
