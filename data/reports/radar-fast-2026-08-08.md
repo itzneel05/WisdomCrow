@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-08
-date: 2026-08-08T06:45:46Z
+date: 2026-08-08T12:41:33Z
 type: radar-report
 report_type: fast
-total_opportunities: 48
+total_opportunities: 53
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 48
+**Total opportunities:** 53
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 42 |
+| ❓ Uncategorized | 47 |
 | 🔥 Hackathons & Conferences | 3 |
 | 🎓 Free Certifications | 2 |
 | 🏰 CTF Competitions | 1 |
@@ -59,6 +59,26 @@ tags:
   - _Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS_
 
 ## ❓ Uncategorized
+
+- [Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts](https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catal_
+
+- [N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist](https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html)
+  - Confidence: 🟫 LOW
+  - _N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) p_
+
+- [Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication](https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html)
+  - Confidence: 🟫 LOW
+  - _Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day.  The vulnerability (_
+
+- [New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens](https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html)
+  - Confidence: 🟫 LOW
+  - _New research shows content inside an email can escape its message boundary and interfere with the webmail interface.  Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, a_
+
+- [Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers](https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html)
+  - Confidence: 🟫 LOW
+  - _Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that _
 
 - [UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data](https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html)
   - Confidence: 🟫 LOW
