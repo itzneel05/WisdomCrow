@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-10
-date: 2026-08-10T13:01:20Z
+date: 2026-08-10T18:54:05Z
 type: radar-report
 report_type: fast
-total_opportunities: 35
+total_opportunities: 42
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 35
+**Total opportunities:** 42
 
 | Category | Count |
 |----------|-------|
 | 🎓 Free Certifications | 23 |
-| ❓ Uncategorized | 9 |
+| ❓ Uncategorized | 16 |
 | 💰 Bug Bounties | 2 |
 | 🔥 Hackathons & Conferences | 1 |
 
@@ -159,6 +159,34 @@ tags:
   - _<p>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Mapping the malware blast radius a single alert won’t show you In this interview with Help Net Secu_
 
 ## ❓ Uncategorized
+
+- [Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development](https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html)
+  - Confidence: 🟫 LOW
+  - _North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own ser_
+
+- [⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors](https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html)
+  - Confidence: 🟫 LOW
+  - _A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default.  That pretty much covers the mood th_
+
+- [China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw](https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html)
+  - Confidence: 🟫 LOW
+  - _Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor.  The use of StormEncrypto_
+
+- [Scans for Solana (Surfpool&#x3f;) Endpoints, (Mon, Aug 10th)](https://isc.sans.edu/diary/rss/33230)
+  - Confidence: 🟫 LOW
+  - _<p>Solana is a crypto platform known for speed. Developers like it to develop distributed applications or to implement crypto payments. To interact with the blockchain, APIs are provided for developer_
+
+- [When Credentials Are No Longer Enough: Device Trust in the AI Era](https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/)
+  - Confidence: 🟫 LOW
+  - _AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypas_
+
+- [CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/)
+  - Confidence: 🟫 LOW
+  - _CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]_
+
+- [New StormEncryptor ransomware used by former Medusa affiliate](https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/)
+  - Confidence: 🟫 LOW
+  - _A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]_
 
 - [TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore](https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html)
   - Confidence: 🟫 LOW
