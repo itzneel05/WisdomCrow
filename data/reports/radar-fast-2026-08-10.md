@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-10
-date: 2026-08-10T01:26:37Z
+date: 2026-08-10T07:26:49Z
 type: radar-report
 report_type: fast
-total_opportunities: 24
+total_opportunities: 26
 tags:
   - radar
   - fast
@@ -13,15 +13,20 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 24
+**Total opportunities:** 26
 
 | Category | Count |
 |----------|-------|
-| 🎓 Free Certifications | 22 |
+| 🎓 Free Certifications | 23 |
+| ❓ Uncategorized | 2 |
 | 🔥 Hackathons & Conferences | 1 |
-| ❓ Uncategorized | 1 |
 
 ## 🎓 Free Certifications
+
+- [ISC Stormcast For Monday, August 10th, 2026 https://isc.sans.edu/podcastdetail/10044, (Mon, Aug 10th)](https://isc.sans.edu/diary/rss/33228)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 - [Metrobank Scholarship](https://www.reddit.com/r/scholarships/comments/1viq6yv/metrobank_scholarship/)
   - Confidence: 🟢 HIGH
@@ -141,6 +146,10 @@ tags:
   - _<p>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Mapping the malware blast radius a single alert won’t show you In this interview with Help Net Secu_
 
 ## ❓ Uncategorized
+
+- [OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause](https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html)
+  - Confidence: 🟫 LOW
+  - _OpenAI has announced that it's pausing some "internal activities" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancement_
 
 - [Good bye search hijacking chrome extension finally good news from Google](https://www.reddit.com/r/security/comments/1vjijs7/good_bye_search_hijacking_chrome_extension/)
   - Confidence: 🟫 LOW
