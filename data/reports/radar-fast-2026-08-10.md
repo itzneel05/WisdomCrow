@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-10
-date: 2026-08-10T07:26:49Z
+date: 2026-08-10T13:01:20Z
 type: radar-report
 report_type: fast
-total_opportunities: 26
+total_opportunities: 35
 tags:
   - radar
   - fast
@@ -13,13 +13,26 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 26
+**Total opportunities:** 35
 
 | Category | Count |
 |----------|-------|
 | 🎓 Free Certifications | 23 |
-| ❓ Uncategorized | 2 |
+| ❓ Uncategorized | 9 |
+| 💰 Bug Bounties | 2 |
 | 🔥 Hackathons & Conferences | 1 |
+
+## 💰 Bug Bounties
+
+- [CrowdRecon is coming: turning hacker reconnaissance into security intelligence](https://www.intigriti.com/blog/news/introducing-crowdrecon)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _At DEF CON 34, our team introduced something exciting. Something the Intigriti team has been building for months, and our Senior Product Manager, Radu Voloaga, took to the stage in the Bug Bounty Vill_
+
+- [Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials](https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro ("solidity-pro") that has been observed delivering a browser wallet and credentia_
 
 ## 🎓 Free Certifications
 
@@ -146,6 +159,34 @@ tags:
   - _<p>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Mapping the malware blast radius a single alert won’t show you In this interview with Help Net Secu_
 
 ## ❓ Uncategorized
+
+- [TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore](https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html)
+  - Confidence: 🟫 LOW
+  - _The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, _
+
+- [Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development](https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html)
+  - Confidence: 🟫 LOW
+  - _AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.  Whe_
+
+- [New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA](https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html)
+  - Confidence: 🟫 LOW
+  - _Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on.  Passkeys are designed to replace reusable passwords and resis_
+
+- [Critical Progress LoadMaster flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]_
+
+- [Valve notifies Steam hardware customers of a data breach](https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/)
+  - Confidence: 🟫 LOW
+  - _Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]_
+
+- [LexisNexis shuts down services after suspicious activity on servers](https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/)
+  - Confidence: 🟫 LOW
+  - _LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]_
+
+- [Member of The Com sent to prison for blackmail, sextortion](https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/)
+  - Confidence: 🟫 LOW
+  - _A member of "The Com," a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120_
 
 - [OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause](https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html)
   - Confidence: 🟫 LOW
