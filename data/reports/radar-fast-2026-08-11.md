@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-11
-date: 2026-08-11T01:24:33Z
+date: 2026-08-11T07:02:26Z
 type: radar-report
 report_type: fast
-total_opportunities: 48
+total_opportunities: 49
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 48
+**Total opportunities:** 49
 
 | Category | Count |
 |----------|-------|
 | ❓ Uncategorized | 42 |
+| 🎓 Free Certifications | 4 |
 | 💰 Bug Bounties | 3 |
-| 🎓 Free Certifications | 3 |
 
 ## 💰 Bug Bounties
 
@@ -40,6 +40,11 @@ tags:
 
 ## 🎓 Free Certifications
 
+- [ISC Stormcast For Tuesday, August 11th, 2026 https://isc.sans.edu/podcastdetail/10046, (Tue, Aug 11th)](https://isc.sans.edu/diary/rss/33232)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
+
 - [Cisco Warns of High-Severity ClamAV Vulnerabilities With Public PoC](https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
@@ -56,6 +61,10 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins](https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily dis_
 
 - [Frustrated with AI SOC false positive noise, need advice](https://www.reddit.com/r/security/comments/1vkfj3u/frustrated_with_ai_soc_false_positive_noise_need/)
   - Confidence: 🟫 LOW
@@ -220,7 +229,3 @@ tags:
 - [OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause](https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html)
   - Confidence: 🟫 LOW
   - _OpenAI has announced that it's pausing some "internal activities" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancement_
-
-- [Good bye search hijacking chrome extension finally good news from Google](https://www.reddit.com/r/security/comments/1vjijs7/good_bye_search_hijacking_chrome_extension/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>The number of extensions I’m finding and reporting that silently override users’ search engines is honestly crazy.</p> <p><a href="https://malext.io/?q=SearchJack">ht_
