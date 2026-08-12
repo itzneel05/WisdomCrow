@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-12
-date: 2026-08-12T13:03:10Z
+date: 2026-08-12T19:00:17Z
 type: radar-report
 report_type: fast
-total_opportunities: 66
+total_opportunities: 78
 tags:
   - radar
   - fast
@@ -13,17 +13,92 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 66
+**Total opportunities:** 78
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 53 |
-| 💰 Bug Bounties | 4 |
-| 🏰 CTF Competitions | 4 |
+| ❓ Uncategorized | 52 |
+| 🏰 CTF Competitions | 19 |
+| 💰 Bug Bounties | 3 |
 | 🎓 Free Certifications | 3 |
-| 🔥 Hackathons & Conferences | 2 |
+| 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
+
+- [Looking for a team](https://www.reddit.com/r/securityCTF/comments/1vl9i8z/looking_for_a_team/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>Looking for an active CTF team. I’m pretty new to competitive CTFs, but I have my OSCP and I’m looking to compete regularly, ideally every week.</p> <p>I’d like to jo_
+
+- [[CTF] New "Intermediate" vulnerable VM aka "Xslib" at hackmyvm.eu](https://www.reddit.com/r/securityCTF/comments/1vladru/ctf_new_intermediate_vulnerable_vm_aka_xslib_at/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><h1>New &quot;Intermediate&quot; vulnerable VM aka &quot;Xslib&quot; is now available at <a href="https://hackmyvm.eu/">hackmyvm.eu</a> :) Have fun!</h1> </div><!-- SC_O_
+
+- [DefCon - AI village CTF](https://www.reddit.com/r/securityCTF/comments/1vl9l2k/defcon_ai_village_ctf/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>This year, the AI Village introduced HalCTF (Hostile Autonomous Layer CTF), a first-of-its-kind agentic security competition. Instead of focusing on frontier models, _
+
+- [CTF Sponsorship – Looking for Companies & Advice](https://www.reddit.com/r/securityCTF/comments/1vleaak/ctf_sponsorship_looking_for_companies_advice/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`, `india_friendly`
+  - _<!-- SC_OFF --><div class="md"><p>We’re organizing a **CTF competition at our university** and are currently looking for sponsorship from cybersecurity and tech companies to help provide **prizes and _
+
+- [How do I start learning CTFs?](https://www.reddit.com/r/securityCTF/comments/1vl3gp5/how_do_i_start_learning_ctfs/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>Okay so I'm a cybersecurity student and I wanted to get started with CTFs and stuff. But I'm feeling really lost and could use some help. </p> <p>So I've heard people_
+
+- [Built a free cybersecurity CTF — looking for people to break it 😅](https://www.reddit.com/r/securityCTF/comments/1vl71lp/built_a_free_cybersecurity_ctf_looking_for_people/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>I’ve been working on a cybersecurity learning platform and recently put together a CTF section with challenges for people who want to practice instead of just watchin_
+
+- [👋 Welcome to r/agenticpentesting - Introduce Yourself and Read First!](https://www.reddit.com/r/securityCTF/comments/1vltf6h/welcome_to_ragenticpentesting_introduce_yourself/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/mercjr443"> /u/mercjr443 </a> <br /> <span><a href="/r/agenticpentesting/comments/1vlteav/welcome_to_ragenticpentesting_introduce_yourself_
+
+- [Someone found our stickers at DEFCON, challenge will be alive until 14th aug](https://www.reddit.com/r/securityCTF/comments/1vlqesb/someone_found_our_stickers_at_defcon_challenge/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/tandera-security"> /u/tandera-security </a> <br /> <span><a href="https://www.reddit.com/gallery/1vhfy74">[link]</a></span> &#32; <span><a_
+
+- [Ctf Hack If you Can](https://www.reddit.com/r/securityCTF/comments/1vmiti9/ctf_hack_if_you_can/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>Have anyone solved Cyber Talent Hack if you can ctf?</p> <p>Please tell how it can be solved...</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www_
+
+- [Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://ctftime.org/event/3381)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`, `india_friendly`
+  - _Name: Hacker's Gambit 2026 (Round 2 – Grand Finale) (an <a href="/ctf/1415">Hacker's Gambit</a> event.)<br /> Date: Oct. 30, 2026, 6:30 a.m. &mdash; 31 Oct. 2026, 06:30 UTC &nbsp;<a href="/event/3381._
+
+- [Hacker's Gambit 2026 (Round 1 – Online Qualifier)](https://ctftime.org/event/3380)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`, `india_friendly`
+  - _Name: Hacker's Gambit 2026 (Round 1 – Online Qualifier) (an <a href="/ctf/1415">Hacker's Gambit</a> event.)<br /> Date: Oct. 2, 2026, 6:30 a.m. &mdash; 04 Oct. 2026, 06:30 UTC &nbsp;<a href="/event/33_
+
+- [OmniCTF 2026 Finals](https://ctftime.org/event/3401)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: OmniCTF 2026 Finals (an <a href="/ctf/1412">OmniCTF</a> event.)<br /> Date: Sept. 19, 2026, 6 a.m. &mdash; 19 Sept. 2026, 16:00 UTC &nbsp;<a href="/event/3401.ics">[add to calendar]</a><br /> Fo_
+
+- [E0F CTF](https://ctftime.org/event/3400)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: E0F CTF (an <a href="/ctf/1478">EOF CTF</a> event.)<br /> Date: Aug. 22, 2026, 7 a.m. &mdash; 23 Aug. 2026, 07:00 UTC &nbsp;<a href="/event/3400.ics">[add to calendar]</a><br /> Format: Jeopardy_
+
+- [Trace Athena OSINT CTF](https://ctftime.org/event/3391)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: Trace Athena OSINT CTF  (an <a href="/ctf/1670">Trace Athena OSINT CTF</a> event.)<br /> Date: Aug. 15, 2026, 3:30 a.m. &mdash; 15 Aug. 2026, 18:30 UTC &nbsp;<a href="/event/3391.ics">[add to ca_
+
+- [EYCC CTF 2026 Finals](https://ctftime.org/event/3405)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: EYCC CTF 2026 Finals (an <a href="/ctf/1637">EYCC CTF</a> event.)<br /> Date: Aug. 13, 2026, 6 a.m. &mdash; 13 Aug. 2026, 16:00 UTC &nbsp;<a href="/event/3405.ics">[add to calendar]</a><br /> Fo_
 
 - [HITCON CTF 2026](https://ctftime.org/event/3340)
   - Confidence: 🟢 HIGH
@@ -62,11 +137,6 @@ tags:
   - Tags: `bug_bounty`
   - _<p>GPT-5.6-Cyber is a new OpenAI model built on GPT-5.6 Sol, trained to find zero-day vulnerabilities and build exploit chains, with fewer refusals on higher-risk, dual-use work. Model is available on_
 
-- [DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt](https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience.  "I_
-
 ## 🎓 Free Certifications
 
 - [Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS](https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html)
@@ -91,12 +161,47 @@ tags:
   - Tags: `hackathon`, `conference`
   - _<p>The Water Watch Center launched at DEF CON aims to help under-resourced utilities protect their systems against hackers.</p> <p>The post <a href="https://www.securityweek.com/us-water-systems-get-c_
 
-- [Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees](https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/)
-  - Confidence: 🟢 HIGH
-  - Tags: `hackathon`, `conference`
-  - _Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]_
-
 ## ❓ Uncategorized
+
+- [Enterprise Defenses Recovered at the Edge and Collapsed Inside](https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html)
+  - Confidence: 🟫 LOW
+  - _Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none.  According to Picus Labs' new Blue Report 2026, which measured more than 33_
+
+- [OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning](https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html)
+  - Confidence: 🟫 LOW
+  - _A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API ke_
+
+- [737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One](https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html)
+  - Confidence: 🟫 LOW
+  - _A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them th_
+
+- [Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor](https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html)
+  - Confidence: 🟫 LOW
+  - _The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdo_
+
+- [Linux Kernel Process Accounting, (Wed, Aug 12th)](https://isc.sans.edu/diary/rss/33240)
+  - Confidence: 🟫 LOW
+  - _<p>A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by "bash&&#x23&#x3b;x26&#x3b;&#x23_
+
+- [The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In](https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/)
+  - Confidence: 🟫 LOW
+  - _Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and b_
+
+- [FBI: Hackers target online accounts to steal nude photos](https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/)
+  - Confidence: 🟫 LOW
+  - _The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos. [...]_
+
+- [Lazarus hackers exploited Windows zero-day to target defense firms](https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/)
+  - Confidence: 🟫 LOW
+  - _North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]_
+
+- [Plug and Pwn attack uses fake USB devices for Windows SYSTEM access](https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/)
+  - Confidence: 🟫 LOW
+  - _Security researchers have disclosed new "Plug and Pwn" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM pr_
+
+- [Hundreds of fake Chrome VPN extensions route traffic through a proxy](https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/)
+  - Confidence: 🟫 LOW
+  - _More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [.._
 
 - [Gunra Ransomware Exploits Fortinet FortiOS, FortiProxy Flaws to Breach Networks](https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html)
   - Confidence: 🟫 LOW
@@ -265,47 +370,3 @@ tags:
 - ['GhostJacking' Exposes Identity Governance Gaps in AI Agents](https://www.darkreading.com/cyber-risk/ghostjacking-identity-governance-gaps-ai-agents)
   - Confidence: 🟫 LOW
   - _New research shows how attackers can use security alerts and blocked events to manipulate and hijack AI agents._
-
-- [OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development](https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html)
-  - Confidence: 🟫 LOW
-  - _OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response.  "Built on GPT‑5.6 Sol, _
-
-- [Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE](https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html)
-  - Confidence: 🟫 LOW
-  - _Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an _
-
-- [Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands](https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html)
-  - Confidence: 🟫 LOW
-  - _The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the coun_
-
-- [Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)](https://isc.sans.edu/diary/rss/33236)
-  - Confidence: 🟫 LOW
-  - _<p>This month we got patches for 418 vulnerabilities. Of these, 62 are critical, 1 is being exploited in the wild, and 2 were publicly disclosed as zero-days. Notable fixes include Windows privilege e_
-
-- [DDoS attacks over 1 Tbps surged fivefold in the second quarter](https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/)
-  - Confidence: 🟫 LOW
-  - _Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]_
-
-- [Vague Task, Total Access: When AI Delegation Becomes a Security Risk](https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/)
-  - Confidence: 🟫 LOW
-  - _AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains why organizations need to define agent intent and c_
-
-- [Mozilla updates GPG signing key for Firefox releases after exposure](https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/)
-  - Confidence: 🟫 LOW
-  - _Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub. [...]_
-
-- [Wesco confirms security incident after ExfilSquad claims data theft](https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/)
-  - Confidence: 🟫 LOW
-  - _Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. [...]_
-
-- [Windows 11 KB5121003 & KB5120240 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]_
-
-- [Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/)
-  - Confidence: 🟫 LOW
-  - _Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]_
-
-- [Windows 10 KB5120249 cumulative update released with fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]_
