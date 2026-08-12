@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-12
-date: 2026-08-12T01:42:11Z
+date: 2026-08-12T07:20:43Z
 type: radar-report
 report_type: fast
-total_opportunities: 61
+total_opportunities: 63
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 61
+**Total opportunities:** 63
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 52 |
+| ❓ Uncategorized | 54 |
 | 💰 Bug Bounties | 3 |
 | 🎓 Free Certifications | 3 |
 | 🔥 Hackathons & Conferences | 2 |
@@ -49,6 +49,11 @@ tags:
 
 ## 🎓 Free Certifications
 
+- [ISC Stormcast For Wednesday, August 12th, 2026 https://isc.sans.edu/podcastdetail/10048, (Wed, Aug 12th)](https://isc.sans.edu/diary/rss/33238)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
+
 - [Cisco warns of ASA and FTD VPN flaw exploited to crash devices](https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
@@ -58,11 +63,6 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
   - _Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]_
-
-- [ISC Stormcast For Tuesday, August 11th, 2026 https://isc.sans.edu/podcastdetail/10046, (Tue, Aug 11th)](https://isc.sans.edu/diary/rss/33232)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## 🔥 Hackathons & Conferences
 
@@ -77,6 +77,18 @@ tags:
   - _Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]_
 
 ## ❓ Uncategorized
+
+- [CYBER security project](https://www.reddit.com/r/netsecstudents/comments/1vlhqgp/cyber_security_project/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I’ve been working on this for almost 3 years while exploring different areas of cybersecurity, and eventually turned a lot of that research and hands-on learning into_
+
+- [I managed to shrink a hardware USB injector down to 12x13mm. Looking for feedback on the PCB design/components!](https://www.reddit.com/r/netsecstudents/comments/1vlb6dc/i_managed_to_shrink_a_hardware_usb_injector_down/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I’ve been working on a personal hardware project lately. I wanted to see how small I could realistically make a USB keystroke injector (primarily_
+
+- [CRTP lab and revision Strategy](https://www.reddit.com/r/netsecstudents/comments/1vm329n/crtp_lab_and_revision_strategy/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi all. I am taking CRTP Sept 26, lab expired long ago, can't afford another lab rn. I'm thinking of setting up on GOAD + my own notes.</p> <ol> <li><p>Did GOAD trans_
 
 - [Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client](https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html)
   - Confidence: 🟫 LOW
@@ -281,7 +293,3 @@ tags:
 - [CISA: Microsoft SharePoint flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/)
   - Confidence: 🟫 LOW
   - _CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [_
-
-- [BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins](https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily dis_
