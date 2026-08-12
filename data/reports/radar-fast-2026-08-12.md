@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-12
-date: 2026-08-12T07:20:43Z
+date: 2026-08-12T13:03:10Z
 type: radar-report
 report_type: fast
-total_opportunities: 63
+total_opportunities: 66
 tags:
   - radar
   - fast
@@ -13,22 +13,37 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 63
+**Total opportunities:** 66
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 54 |
-| 💰 Bug Bounties | 3 |
+| ❓ Uncategorized | 53 |
+| 💰 Bug Bounties | 4 |
+| 🏰 CTF Competitions | 4 |
 | 🎓 Free Certifications | 3 |
 | 🔥 Hackathons & Conferences | 2 |
-| 🏰 CTF Competitions | 1 |
 
 ## 🏰 CTF Competitions
 
-- [How KURUV4 achieved 15% faster attack path discovery with HTB | Hack The Box Blog](https://www.hackthebox.com/blog/how-kuruv4-achieved-15-faster-attack-path-discovery-with-hack-the-box)
+- [HITCON CTF 2026](https://ctftime.org/event/3340)
   - Confidence: 🟢 HIGH
   - Tags: `ctf`
-  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/how-kuruv4-achieved-15-faster-attack-path-discovery-with-hack-the-box" title=""> <img _
+  - _Name: HITCON CTF 2026 (an <a href="/ctf/79">HITCON CTF</a> event.)<br /> Date: Oct. 23, 2026, 2 p.m. &mdash; 25 Oct. 2026, 14:00 UTC &nbsp;<a href="/event/3340.ics">[add to calendar]</a><br /> Format:_
+
+- [SunshineCTF 2026](https://ctftime.org/event/3399)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: SunshineCTF 2026 (an <a href="/ctf/137">SunshineCTF</a> event.)<br /> Date: Sept. 26, 2026, 2 p.m. &mdash; 28 Sept. 2026, 14:00 UTC &nbsp;<a href="/event/3399.ics">[add to calendar]</a><br /> Fo_
+
+- [TallDwarf Hosting: Hosting Takeover](https://ctftime.org/event/3394)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: TallDwarf Hosting: Hosting Takeover (an <a href="/ctf/1664">TallDwarf Hosting CTF: Hostile Takeover</a> event.)<br /> Date: Aug. 22, 2026, 8 a.m. &mdash; 23 Aug. 2026, 20:00 UTC &nbsp;<a href="/_
+
+- [CTFZone 2026](https://ctftime.org/event/3402)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: CTFZone 2026 (an <a href="/ctf/201">CTFZone</a> event.)<br /> Date: Aug. 19, 2026, 8 a.m. &mdash; 19 Aug. 2026, 16:00 UTC &nbsp;<a href="/event/3402.ics">[add to calendar]</a><br /> Format: Jeop_
 
 ## 💰 Bug Bounties
 
@@ -36,6 +51,11 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `bug_bounty`, `audit_contest`
   - _The crime solver wore disguises, spied on targets, and built intelligence networks long before modern-day tactics emerged. He has lessons for today's ethical- and unethical hackers._
+
+- [ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access](https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`, `india_friendly`
+  - _The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldB_
 
 - [GPT-5.6-Cyber refuses security researchers’ requests far less often](https://www.helpnetsecurity.com/2026/08/11/openai-gpt-5-6-cyber-model/)
   - Confidence: 🟡 MEDIUM
@@ -49,6 +69,11 @@ tags:
 
 ## 🎓 Free Certifications
 
+- [Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS](https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild.  The hi_
+
 - [ISC Stormcast For Wednesday, August 12th, 2026 https://isc.sans.edu/podcastdetail/10048, (Wed, Aug 12th)](https://isc.sans.edu/diary/rss/33238)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`, `india_friendly`
@@ -58,11 +83,6 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
   - _Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices_
-
-- [Cisco warns of high-severity ClamAV flaws with public exploits](https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]_
 
 ## 🔥 Hackathons & Conferences
 
@@ -77,6 +97,38 @@ tags:
   - _Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]_
 
 ## ❓ Uncategorized
+
+- [Gunra Ransomware Exploits Fortinet FortiOS, FortiProxy Flaws to Breach Networks](https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world.  Targets of these_
+
+- [SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code](https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html)
+  - Confidence: 🟫 LOW
+  - _SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution.  The vulnerability, assigned the CVE ide_
+
+- [Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations](https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html)
+  - Confidence: 🟫 LOW
+  - _Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other _
+
+- [Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access](https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.  The vulnerability in question is CVE-2026-593_
+
+- [Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws](https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html)
+  - Confidence: 🟫 LOW
+  - _Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code exe_
+
+- [New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/)
+  - Confidence: 🟫 LOW
+  - _Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named "ShieldBreak" after Microsoft released the August 2026 Patch Tuesday security updates. [...]_
+
+- [Signal adds new security feature to thwart man-in-the-middle attacks](https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/)
+  - Confidence: 🟫 LOW
+  - _​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]_
+
+- [Hackers leverage new Microsoft SharePoint exploit in attacks](https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]_
 
 - [CYBER security project](https://www.reddit.com/r/netsecstudents/comments/1vlhqgp/cyber_security_project/)
   - Confidence: 🟫 LOW
@@ -257,39 +309,3 @@ tags:
 - [Windows 10 KB5120249 cumulative update released with fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/)
   - Confidence: 🟫 LOW
   - _Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]_
-
-- [Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine](https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html)
-  - Confidence: 🟫 LOW
-  - _Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reac_
-
-- [Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks](https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world.  Targets of these_
-
-- [Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets](https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html)
-  - Confidence: 🟫 LOW
-  - _A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instructi_
-
-- [Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11](https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html)
-  - Confidence: 🟫 LOW
-  - _Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updat_
-
-- [Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers](https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html)
-  - Confidence: 🟫 LOW
-  - _Security researchers invented a cryptocurrency startup, advertised developer jobs, and hired three people they believe were North Korean operatives. Every virtual machine the company issued was record_
-
-- [Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo](https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html)
-  - Confidence: 🟫 LOW
-  - _Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake to one of the company's own private code reposito_
-
-- [A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices](https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html)
-  - Confidence: 🟫 LOW
-  - _A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car telematics un_
-
-- [US and South Korea warn of Gunra ransomware targeting govt agencies](https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/)
-  - Confidence: 🟫 LOW
-  - _U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks. [...]_
-
-- [CISA: Microsoft SharePoint flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/)
-  - Confidence: 🟫 LOW
-  - _CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [_
