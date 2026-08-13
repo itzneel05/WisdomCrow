@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-13
-date: 2026-08-13T13:03:13Z
+date: 2026-08-13T18:59:48Z
 type: radar-report
 report_type: fast
-total_opportunities: 61
+total_opportunities: 46
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 61
+**Total opportunities:** 46
 
 | Category | Count |
 |----------|-------|
 | ❓ Uncategorized | 42 |
-| 🏰 CTF Competitions | 18 |
+| 🏰 CTF Competitions | 3 |
 | 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
@@ -38,81 +38,6 @@ tags:
   - Tags: `ctf`
   - _Name: Sudocrypt v16.0 (an <a href="/ctf/869">Sudocrypt</a> event.)<br /> Date: Oct. 27, 2026, 3:30 a.m. &mdash; 28 Oct. 2026, 15:30 UTC &nbsp;<a href="/event/3404.ics">[add to calendar]</a><br /> Form_
 
-- [Looking for a team](https://www.reddit.com/r/securityCTF/comments/1vl9i8z/looking_for_a_team/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>Looking for an active CTF team. I’m pretty new to competitive CTFs, but I have my OSCP and I’m looking to compete regularly, ideally every week.</p> <p>I’d like to jo_
-
-- [[CTF] New "Intermediate" vulnerable VM aka "Xslib" at hackmyvm.eu](https://www.reddit.com/r/securityCTF/comments/1vladru/ctf_new_intermediate_vulnerable_vm_aka_xslib_at/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><h1>New &quot;Intermediate&quot; vulnerable VM aka &quot;Xslib&quot; is now available at <a href="https://hackmyvm.eu/">hackmyvm.eu</a> :) Have fun!</h1> </div><!-- SC_O_
-
-- [DefCon - AI village CTF](https://www.reddit.com/r/securityCTF/comments/1vl9l2k/defcon_ai_village_ctf/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>This year, the AI Village introduced HalCTF (Hostile Autonomous Layer CTF), a first-of-its-kind agentic security competition. Instead of focusing on frontier models, _
-
-- [CTF Sponsorship – Looking for Companies & Advice](https://www.reddit.com/r/securityCTF/comments/1vleaak/ctf_sponsorship_looking_for_companies_advice/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>We’re organizing a **CTF competition at our university** and are currently looking for sponsorship from cybersecurity and tech companies to help provide **prizes and _
-
-- [How do I start learning CTFs?](https://www.reddit.com/r/securityCTF/comments/1vl3gp5/how_do_i_start_learning_ctfs/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>Okay so I'm a cybersecurity student and I wanted to get started with CTFs and stuff. But I'm feeling really lost and could use some help. </p> <p>So I've heard people_
-
-- [Built a free cybersecurity CTF — looking for people to break it 😅](https://www.reddit.com/r/securityCTF/comments/1vl71lp/built_a_free_cybersecurity_ctf_looking_for_people/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>I’ve been working on a cybersecurity learning platform and recently put together a CTF section with challenges for people who want to practice instead of just watchin_
-
-- [👋 Welcome to r/agenticpentesting - Introduce Yourself and Read First!](https://www.reddit.com/r/securityCTF/comments/1vltf6h/welcome_to_ragenticpentesting_introduce_yourself/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/mercjr443"> /u/mercjr443 </a> <br /> <span><a href="/r/agenticpentesting/comments/1vlteav/welcome_to_ragenticpentesting_introduce_yourself_
-
-- [Someone found our stickers at DEFCON, challenge will be alive until 14th aug](https://www.reddit.com/r/securityCTF/comments/1vlqesb/someone_found_our_stickers_at_defcon_challenge/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/tandera-security"> /u/tandera-security </a> <br /> <span><a href="https://www.reddit.com/gallery/1vhfy74">[link]</a></span> &#32; <span><a_
-
-- [Ctf Hack If you Can](https://www.reddit.com/r/securityCTF/comments/1vmiti9/ctf_hack_if_you_can/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>Have anyone solved Cyber Talent Hack if you can ctf?</p> <p>Please tell how it can be solved...</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www_
-
-- [Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://ctftime.org/event/3381)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`, `india_friendly`
-  - _Name: Hacker's Gambit 2026 (Round 2 – Grand Finale) (an <a href="/ctf/1415">Hacker's Gambit</a> event.)<br /> Date: Oct. 30, 2026, 6:30 a.m. &mdash; 31 Oct. 2026, 06:30 UTC &nbsp;<a href="/event/3381._
-
-- [Hacker's Gambit 2026 (Round 1 – Online Qualifier)](https://ctftime.org/event/3380)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`, `india_friendly`
-  - _Name: Hacker's Gambit 2026 (Round 1 – Online Qualifier) (an <a href="/ctf/1415">Hacker's Gambit</a> event.)<br /> Date: Oct. 2, 2026, 6:30 a.m. &mdash; 04 Oct. 2026, 06:30 UTC &nbsp;<a href="/event/33_
-
-- [OmniCTF 2026 Finals](https://ctftime.org/event/3401)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: OmniCTF 2026 Finals (an <a href="/ctf/1412">OmniCTF</a> event.)<br /> Date: Sept. 19, 2026, 6 a.m. &mdash; 19 Sept. 2026, 16:00 UTC &nbsp;<a href="/event/3401.ics">[add to calendar]</a><br /> Fo_
-
-- [E0F CTF](https://ctftime.org/event/3400)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: E0F CTF (an <a href="/ctf/1478">EOF CTF</a> event.)<br /> Date: Aug. 22, 2026, 7 a.m. &mdash; 23 Aug. 2026, 07:00 UTC &nbsp;<a href="/event/3400.ics">[add to calendar]</a><br /> Format: Jeopardy_
-
-- [Trace Athena OSINT CTF](https://ctftime.org/event/3391)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: Trace Athena OSINT CTF  (an <a href="/ctf/1670">Trace Athena OSINT CTF</a> event.)<br /> Date: Aug. 15, 2026, 3:30 a.m. &mdash; 15 Aug. 2026, 18:30 UTC &nbsp;<a href="/event/3391.ics">[add to ca_
-
-- [EYCC CTF 2026 Finals](https://ctftime.org/event/3405)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: EYCC CTF 2026 Finals (an <a href="/ctf/1637">EYCC CTF</a> event.)<br /> Date: Aug. 13, 2026, 6 a.m. &mdash; 13 Aug. 2026, 16:00 UTC &nbsp;<a href="/event/3405.ics">[add to calendar]</a><br /> Fo_
-
 ## 🎓 Free Certifications
 
 - [ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)](https://isc.sans.edu/diary/rss/33244)
@@ -121,6 +46,34 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [White House taps security firms for offensive hack-back operations](https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/)
+  - Confidence: 🟫 LOW
+  - _A new White House memo signed by U.S. President Donald Trump instructs the National Coordination Center (NCC) to establish a program that would allow private security companies to apply for approval t_
+
+- [Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion](https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/)
+  - Confidence: 🟫 LOW
+  - _AI coding tools can introduce unvetted or hallucinated open source dependencies faster than traditional security reviews can keep pace. ActiveState explains why organizations should govern packages at_
+
+- [Trezor discloses data breach affecting nearly 14,000 customers](https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/)
+  - Confidence: 🟫 LOW
+  - _Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provider, was hacked [...]_
+
+- [Critical VMware vCenter RCE flaw exploited for reverse SSH access](https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/)
+  - Confidence: 🟫 LOW
+  - _A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [..._
+
+- [AI 'watermark removers' flood the web. Almost none can prove they work.](https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/)
+  - Confidence: 🟫 LOW
+  - _Multiple 'watermark removers' have surfaced days after Anthropic began watermarking text generated by Claude, including an open source project with over 4,500 GitHub stars and paid AI detection evasio_
+
+- [Microsoft patches LegacyHive Windows zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has released security patches to address a Windows zero-day vulnerability known as "LegacyHive," disclosed after the July 2026 Patch Tuesday. [...]_
+
+- [Hackers breach govt webmail while running parallel crypto fraud](https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/)
+  - Confidence: 🟫 LOW
+  - _The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]_
 
 - [WhatsApp rolls out new feature that flags potential scam messages](https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/)
   - Confidence: 🟫 LOW
@@ -261,31 +214,3 @@ tags:
 - [737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One](https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html)
   - Confidence: 🟫 LOW
   - _A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them th_
-
-- [Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor](https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html)
-  - Confidence: 🟫 LOW
-  - _The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdo_
-
-- [Linux Kernel Process Accounting, (Wed, Aug 12th)](https://isc.sans.edu/diary/rss/33240)
-  - Confidence: 🟫 LOW
-  - _<p>A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by "bash&&#x23&#x3b;x26&#x3b;&#x23_
-
-- [The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In](https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/)
-  - Confidence: 🟫 LOW
-  - _Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and b_
-
-- [FBI: Hackers target online accounts to steal nude photos](https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/)
-  - Confidence: 🟫 LOW
-  - _The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos. [...]_
-
-- [Lazarus hackers exploited Windows zero-day to target defense firms](https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/)
-  - Confidence: 🟫 LOW
-  - _North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]_
-
-- [Plug and Pwn attack uses fake USB devices for Windows SYSTEM access](https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/)
-  - Confidence: 🟫 LOW
-  - _Security researchers have disclosed new "Plug and Pwn" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM pr_
-
-- [Hundreds of fake Chrome VPN extensions route traffic through a proxy](https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/)
-  - Confidence: 🟫 LOW
-  - _More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [.._
