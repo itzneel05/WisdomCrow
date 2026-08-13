@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-13
-date: 2026-08-13T01:44:08Z
+date: 2026-08-13T07:23:00Z
 type: radar-report
 report_type: fast
-total_opportunities: 74
+total_opportunities: 72
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 74
+**Total opportunities:** 72
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 51 |
+| ❓ Uncategorized | 49 |
 | 🏰 CTF Competitions | 20 |
 | 🎓 Free Certifications | 2 |
 | 💰 Bug Bounties | 1 |
@@ -133,17 +133,21 @@ tags:
 
 ## 🎓 Free Certifications
 
+- [ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)](https://isc.sans.edu/diary/rss/33244)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
+
 - [Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS](https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
   - _Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild.  The hi_
 
-- [ISC Stormcast For Wednesday, August 12th, 2026 https://isc.sans.edu/podcastdetail/10048, (Wed, Aug 12th)](https://isc.sans.edu/diary/rss/33238)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [Attackers Exploit SharePoint Authentication Bypass After Public PoC Release](https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.  The vulnerability in question is CVE-2026-55040 (CVSS _
 
 - [Using Gemma4 with Ollama - Testing File Hash Analysis and Recommendations with AI, (Wed, Aug 12th)](https://isc.sans.edu/diary/rss/33242)
   - Confidence: 🟫 LOW
@@ -336,15 +340,3 @@ tags:
 - [Hackers leverage new Microsoft SharePoint exploit in attacks](https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/)
   - Confidence: 🟫 LOW
   - _Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]_
-
-- [CYBER security project](https://www.reddit.com/r/netsecstudents/comments/1vlhqgp/cyber_security_project/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I’ve been working on this for almost 3 years while exploring different areas of cybersecurity, and eventually turned a lot of that research and hands-on learning into_
-
-- [I managed to shrink a hardware USB injector down to 12x13mm. Looking for feedback on the PCB design/components!](https://www.reddit.com/r/netsecstudents/comments/1vlb6dc/i_managed_to_shrink_a_hardware_usb_injector_down/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I’ve been working on a personal hardware project lately. I wanted to see how small I could realistically make a USB keystroke injector (primarily_
-
-- [CRTP lab and revision Strategy](https://www.reddit.com/r/netsecstudents/comments/1vm329n/crtp_lab_and_revision_strategy/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi all. I am taking CRTP Sept 26, lab expired long ago, can't afford another lab rn. I'm thinking of setting up on GOAD + my own notes.</p> <ol> <li><p>Did GOAD trans_
