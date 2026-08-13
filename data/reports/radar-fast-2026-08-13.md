@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-13
-date: 2026-08-13T07:23:00Z
+date: 2026-08-13T13:03:13Z
 type: radar-report
 report_type: fast
-total_opportunities: 72
+total_opportunities: 61
 tags:
   - radar
   - fast
@@ -13,16 +13,25 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 72
+**Total opportunities:** 61
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 49 |
-| 🏰 CTF Competitions | 20 |
-| 🎓 Free Certifications | 2 |
-| 💰 Bug Bounties | 1 |
+| ❓ Uncategorized | 42 |
+| 🏰 CTF Competitions | 18 |
+| 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
+
+- [Hack the Orbit: The HTB Satellite Exploitation Track Is Live](https://www.hackthebox.com/blog/hack-the-orbit-satellite-exploitation-track)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/hack-the-orbit-satellite-exploitation-track" title=""> <img alt="Hack the Orbit: The H_
+
+- [BCS CTF 2026](https://ctftime.org/event/3374)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: BCS CTF 2026 (an <a href="/ctf/1653">BCS CTF</a> event.)<br /> Date: Sept. 25, 2026, 2 p.m. &mdash; 27 Sept. 2026, 14:00 UTC &nbsp;<a href="/event/3374.ics">[add to calendar]</a><br /> Format: J_
 
 - [Sudocrypt v16.0](https://ctftime.org/event/3404)
   - Confidence: 🟢 HIGH
@@ -104,33 +113,6 @@ tags:
   - Tags: `ctf`
   - _Name: EYCC CTF 2026 Finals (an <a href="/ctf/1637">EYCC CTF</a> event.)<br /> Date: Aug. 13, 2026, 6 a.m. &mdash; 13 Aug. 2026, 16:00 UTC &nbsp;<a href="/event/3405.ics">[add to calendar]</a><br /> Fo_
 
-- [HITCON CTF 2026](https://ctftime.org/event/3340)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: HITCON CTF 2026 (an <a href="/ctf/79">HITCON CTF</a> event.)<br /> Date: Oct. 23, 2026, 2 p.m. &mdash; 25 Oct. 2026, 14:00 UTC &nbsp;<a href="/event/3340.ics">[add to calendar]</a><br /> Format:_
-
-- [SunshineCTF 2026](https://ctftime.org/event/3399)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: SunshineCTF 2026 (an <a href="/ctf/137">SunshineCTF</a> event.)<br /> Date: Sept. 26, 2026, 2 p.m. &mdash; 28 Sept. 2026, 14:00 UTC &nbsp;<a href="/event/3399.ics">[add to calendar]</a><br /> Fo_
-
-- [TallDwarf Hosting: Hosting Takeover](https://ctftime.org/event/3394)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: TallDwarf Hosting: Hosting Takeover (an <a href="/ctf/1664">TallDwarf Hosting CTF: Hostile Takeover</a> event.)<br /> Date: Aug. 22, 2026, 8 a.m. &mdash; 23 Aug. 2026, 20:00 UTC &nbsp;<a href="/_
-
-- [CTFZone 2026](https://ctftime.org/event/3402)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: CTFZone 2026 (an <a href="/ctf/201">CTFZone</a> event.)<br /> Date: Aug. 19, 2026, 8 a.m. &mdash; 19 Aug. 2026, 16:00 UTC &nbsp;<a href="/event/3402.ics">[add to calendar]</a><br /> Format: Jeop_
-
-## 💰 Bug Bounties
-
-- [ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access](https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`, `india_friendly`
-  - _The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldB_
-
 ## 🎓 Free Certifications
 
 - [ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)](https://isc.sans.edu/diary/rss/33244)
@@ -138,12 +120,11 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
-- [Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS](https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild.  The hi_
-
 ## ❓ Uncategorized
+
+- [WhatsApp rolls out new feature that flags potential scam messages](https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/)
+  - Confidence: 🟫 LOW
+  - _WhatsApp has begun rolling out a new optional "Scam Alert" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]_
 
 - [Attackers Exploit SharePoint Authentication Bypass After Public PoC Release](https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html)
   - Confidence: 🟫 LOW
@@ -308,35 +289,3 @@ tags:
 - [Hundreds of fake Chrome VPN extensions route traffic through a proxy](https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/)
   - Confidence: 🟫 LOW
   - _More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [.._
-
-- [Gunra Ransomware Exploits Fortinet FortiOS, FortiProxy Flaws to Breach Networks](https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world.  Targets of these_
-
-- [SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code](https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html)
-  - Confidence: 🟫 LOW
-  - _SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution.  The vulnerability, assigned the CVE ide_
-
-- [Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations](https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html)
-  - Confidence: 🟫 LOW
-  - _Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other _
-
-- [Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access](https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.  The vulnerability in question is CVE-2026-593_
-
-- [Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws](https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html)
-  - Confidence: 🟫 LOW
-  - _Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code exe_
-
-- [New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/)
-  - Confidence: 🟫 LOW
-  - _Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named "ShieldBreak" after Microsoft released the August 2026 Patch Tuesday security updates. [...]_
-
-- [Signal adds new security feature to thwart man-in-the-middle attacks](https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/)
-  - Confidence: 🟫 LOW
-  - _​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]_
-
-- [Hackers leverage new Microsoft SharePoint exploit in attacks](https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]_
