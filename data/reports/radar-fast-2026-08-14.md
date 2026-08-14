@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-14
-date: 2026-08-14T12:59:48Z
+date: 2026-08-14T18:49:39Z
 type: radar-report
 report_type: fast
-total_opportunities: 55
+total_opportunities: 56
 tags:
   - radar
   - fast
@@ -13,25 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 55
+**Total opportunities:** 56
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 49 |
+| ❓ Uncategorized | 52 |
 | 🎓 Free Certifications | 4 |
-| 🏰 CTF Competitions | 2 |
-
-## 🏰 CTF Competitions
-
-- [Hack the Orbit: The HTB Satellite Exploitation Track Is Live](https://www.hackthebox.com/blog/hack-the-orbit-satellite-exploitation-track)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/hack-the-orbit-satellite-exploitation-track" title=""> <img alt="Hack the Orbit: The H_
-
-- [BCS CTF 2026](https://ctftime.org/event/3374)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: BCS CTF 2026 (an <a href="/ctf/1653">BCS CTF</a> event.)<br /> Date: Sept. 25, 2026, 2 p.m. &mdash; 27 Sept. 2026, 14:00 UTC &nbsp;<a href="/event/3374.ics">[add to calendar]</a><br /> Format: J_
 
 ## 🎓 Free Certifications
 
@@ -56,6 +43,22 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>Ask me any hard problem , I will give the answer here , I am using advance AI pipeline,</p> <p>Those who participate will get free access for PT tool for limited time_
 
 ## ❓ Uncategorized
+
+- [Max severity SAP Commerce Cloud flaw now targeted in attacks](https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]_
+
+- [The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI](https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/)
+  - Confidence: 🟫 LOW
+  - _Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need def_
+
+- [Hackers exploit macOS Screen Sharing flaw to deploy Monero miner](https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/)
+  - Confidence: 🟫 LOW
+  - _The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]_
+
+- [Hackers arrested over €30M bank fraud exploiting service provider flaw](https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/)
+  - Confidence: 🟫 LOW
+  - _Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Co_
 
 - [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
   - Confidence: 🟫 LOW
@@ -248,7 +251,3 @@ tags:
 - [Hackers breach govt webmail while running parallel crypto fraud](https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/)
   - Confidence: 🟫 LOW
   - _The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]_
-
-- [WhatsApp rolls out new feature that flags potential scam messages](https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/)
-  - Confidence: 🟫 LOW
-  - _WhatsApp has begun rolling out a new optional "Scam Alert" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]_
