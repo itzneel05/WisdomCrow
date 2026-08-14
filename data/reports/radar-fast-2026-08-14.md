@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-14
-date: 2026-08-14T07:19:57Z
+date: 2026-08-14T12:59:48Z
 type: radar-report
 report_type: fast
-total_opportunities: 53
+total_opportunities: 55
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 53
+**Total opportunities:** 55
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 46 |
-| 🎓 Free Certifications | 5 |
+| ❓ Uncategorized | 49 |
+| 🎓 Free Certifications | 4 |
 | 🏰 CTF Competitions | 2 |
 
 ## 🏰 CTF Competitions
@@ -50,17 +50,28 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>A massive 153GB archive stolen during the LiteLLM supply chain attack exposes credentials and other sensitive data linked to thousands of corporate domains, including AWS, Samsung, Cisco, and Sales_
 
-- [ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)](https://isc.sans.edu/diary/rss/33244)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 - [Ask me any hard problem](https://www.reddit.com/r/hacking/comments/1vnitfj/ask_me_any_hard_problem/)
   - Confidence: 🟡 MEDIUM
   - Tags: `free_cert`, `india_friendly`
   - _<!-- SC_OFF --><div class="md"><p>Ask me any hard problem , I will give the answer here , I am using advance AI pipeline,</p> <p>Those who participate will get free access for PT tool for limited time_
 
 ## ❓ Uncategorized
+
+- [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
+  - Confidence: 🟫 LOW
+  - _It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but_
+
+- [Data analyst sent to prison for stealing data, extorting employer](https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/)
+  - Confidence: 🟫 LOW
+  - _A former data analyst contractor for Brightly Software has been sentenced to two years in prison for targeting his employer in a $2.5 million extortion scheme. [...]_
+
+- [RingCentral data breach exposed info of 1.6 million accounts](https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/)
+  - Confidence: 🟫 LOW
+  - _The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned_
+
+- [Shell investigates 'potential incident' after Clop data theft claims](https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/)
+  - Confidence: 🟫 LOW
+  - _Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]_
 
 - [Defeating LLM Watermarks & Detection Heuristics](https://www.reddit.com/r/hacking/comments/1vmhnny/defeating_llm_watermarks_detection_heuristics/)
   - Confidence: 🟫 LOW
@@ -241,7 +252,3 @@ tags:
 - [WhatsApp rolls out new feature that flags potential scam messages](https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/)
   - Confidence: 🟫 LOW
   - _WhatsApp has begun rolling out a new optional "Scam Alert" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]_
-
-- [Attackers Exploit SharePoint Authentication Bypass After Public PoC Release](https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.  The vulnerability in question is CVE-2026-55040 (CVSS _
