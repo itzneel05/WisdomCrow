@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-14
-date: 2026-08-14T01:42:04Z
+date: 2026-08-14T07:19:57Z
 type: radar-report
 report_type: fast
-total_opportunities: 57
+total_opportunities: 53
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 57
+**Total opportunities:** 53
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 50 |
-| 🎓 Free Certifications | 4 |
-| 🏰 CTF Competitions | 3 |
+| ❓ Uncategorized | 46 |
+| 🎓 Free Certifications | 5 |
+| 🏰 CTF Competitions | 2 |
 
 ## 🏰 CTF Competitions
 
@@ -33,12 +33,12 @@ tags:
   - Tags: `ctf`
   - _Name: BCS CTF 2026 (an <a href="/ctf/1653">BCS CTF</a> event.)<br /> Date: Sept. 25, 2026, 2 p.m. &mdash; 27 Sept. 2026, 14:00 UTC &nbsp;<a href="/event/3374.ics">[add to calendar]</a><br /> Format: J_
 
-- [Sudocrypt v16.0](https://ctftime.org/event/3404)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: Sudocrypt v16.0 (an <a href="/ctf/869">Sudocrypt</a> event.)<br /> Date: Oct. 27, 2026, 3:30 a.m. &mdash; 28 Oct. 2026, 15:30 UTC &nbsp;<a href="/event/3404.ics">[add to calendar]</a><br /> Form_
-
 ## 🎓 Free Certifications
+
+- [ISC Stormcast For Friday, August 14th, 2026 https://isc.sans.edu/podcastdetail/10052, (Fri, Aug 14th)](https://isc.sans.edu/diary/rss/33246)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 - [Cisco fixes vulnerability exploited to DoS its firewalls (CVE-2026-20349)](https://www.helpnetsecurity.com/2026/08/13/cve-2026-20349-cisco-firewalls-dos/)
   - Confidence: 🟢 HIGH
@@ -245,19 +245,3 @@ tags:
 - [Attackers Exploit SharePoint Authentication Bypass After Public PoC Release](https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html)
   - Confidence: 🟫 LOW
   - _Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.  The vulnerability in question is CVE-2026-55040 (CVSS _
-
-- [Using Gemma4 with Ollama - Testing File Hash Analysis and Recommendations with AI, (Wed, Aug 12th)](https://isc.sans.edu/diary/rss/33242)
-  - Confidence: 🟫 LOW
-  - _<p>In the past few weeks, I have been using Gemma4 as a Large Language Model (LLM) to see how useful it can be to analyze some of the malware hashes uploaded to the DShield sensor over the past 30 day_
-
-- [Hackers exploit critical Adobe Commerce flaw to hijack customer accounts](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/)
-  - Confidence: 🟫 LOW
-  - _Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]_
-
-- [Android malware combo takes out loans and relays victims' credit cards](https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/)
-  - Confidence: 🟫 LOW
-  - _A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]_
-
-- ["City-Forum" data-theft attacks target Salesforce, ServiceNow portals](https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/)
-  - Confidence: 🟫 LOW
-  - _An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]_
