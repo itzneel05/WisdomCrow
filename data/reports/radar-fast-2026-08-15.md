@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-15
-date: 2026-08-15T01:03:30Z
+date: 2026-08-15T06:34:07Z
 type: radar-report
 report_type: fast
-total_opportunities: 50
+total_opportunities: 40
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 50
+**Total opportunities:** 40
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 47 |
-| 🎓 Free Certifications | 2 |
+| ❓ Uncategorized | 38 |
+| 🎓 Free Certifications | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🎓 Free Certifications
@@ -28,11 +28,6 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
-- [Ask me any hard problem](https://www.reddit.com/r/hacking/comments/1vnitfj/ask_me_any_hard_problem/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `free_cert`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>Ask me any hard problem , I will give the answer here , I am using advance AI pipeline,</p> <p>Those who participate will get free access for PT tool for limited time_
-
 ## 🔥 Hackathons & Conferences
 
 - [In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities](https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/)
@@ -41,6 +36,34 @@ tags:
   - _<p>Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disr_
 
 ## ❓ Uncategorized
+
+- [Target site never fully loads - reverse proxy config issue](https://www.reddit.com/r/AskNetsec/comments/1vn5uhh/target_site_never_fully_loads_reverse_proxy/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hello. I am doing a cyber apprenticeship, and my project is reverse proxy phishing. I thought it would be easy but damn this is driving me crazy. I am running a modde_
+
+- [Best SASE platform for stopping data leaks into ChatGPT and Gemini](https://www.reddit.com/r/AskNetsec/comments/1vn3hb0/best_sase_platform_for_stopping_data_leaks_into/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Requirement is to prevent sensitive content such as source code, customer PII, and unreleased financials from being submitted to public LLM interfaces, while still al_
+
+- [Question the value of vpn in modern or last 15 years corporate infrastructure.](https://www.reddit.com/r/AskNetsec/comments/1vncqda/question_the_value_of_vpn_in_modern_or_last_15/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hello Reddit, </p> <p>Question: is there real value for vpn in large companies (WFH) when modern zero trust exists?</p> <p>Brief tldr: </p> <p>I think VPNs for remote_
+
+- [Palo Alto firewall malicious dns requests](https://www.reddit.com/r/AskNetsec/comments/1vndtq5/palo_alto_firewall_malicious_dns_requests/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Palo alto firewall is making dns requests to resolve random malicious domains. We noticed the activity while checking the logs on our dns server. Has anyone observed _
+
+- [Insider threat software looks useful in theory but where does it actually fit?](https://www.reddit.com/r/AskNetsec/comments/1vo9pgz/insider_threat_software_looks_useful_in_theory/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Ive been looking at insider threat software lately and honestly Im still trying to figure out where security teams actually use this stuff day to day.</p> <p>The usua_
+
+- [How should provenance be verified across multi-agent delegation boundaries?](https://www.reddit.com/r/AskNetsec/comments/1volnw8/how_should_provenance_be_verified_across/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I'm looking at a security problem in multi-agent/distributed systems:</p> <p>Human → orchestrator → agent → sub-agent → tool</p> <p>Once a delegation crosses process _
+
+- [[ Removed by Reddit ]](https://www.reddit.com/r/AskNetsec/comments/1vom6zb/removed_by_reddit/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>[ Removed by Reddit on account of violating the <a href="/help/contentpolicy">content policy</a>. ]</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https:/_
 
 - [How Anthropic plans to watermark Claude's AI-generated text](https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/)
   - Confidence: 🟫 LOW
@@ -165,67 +188,3 @@ tags:
 - [Shell investigates 'potential incident' after Clop data theft claims](https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/)
   - Confidence: 🟫 LOW
   - _Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]_
-
-- [Defeating LLM Watermarks & Detection Heuristics](https://www.reddit.com/r/hacking/comments/1vmhnny/defeating_llm_watermarks_detection_heuristics/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1vmhnny/defeating_llm_watermarks_detection_heuristics/"> <img alt="Defeating LLM Watermarks &amp; Detection Heuristics" src="https:/_
-
-- [Accessing a locked Android phone and a laptop](https://www.reddit.com/r/hacking/comments/1vmsh93/accessing_a_locked_android_phone_and_a_laptop/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I’m trying to figure out whether something I was told is actually possible.</p> <p>My Sister in law is currently in the ICU. Her Android phone is locked, and her lapt_
-
-- [AMA Today: Join TechCrunch Journalist Zack Whittaker and Security Researcher Runa Sandvik](https://www.reddit.com/r/hacking/comments/1vmt02j/ama_today_join_techcrunch_journalist_zack/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p><strong>Join TechCrunch Security Editor Zack Whittaker and Security Researcher Runa Sandvik today (Weds, Aug 12) at 5pm PT</strong></p> </div><!-- SC_ON --> &#32; sub_
-
-- [Our meta ad account was hacked and we were charged $2K. What do you think happened?](https://www.reddit.com/r/hacking/comments/1vn7evn/our_meta_ad_account_was_hacked_and_we_were/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>The facebook pages, ad account and business manager were connected to my personal account buy i did not get any notification that someone opened and used it.</p> <p>W_
-
-- [Can anyone do reverse engineering this app?](https://www.reddit.com/r/hacking/comments/1vng859/can_anyone_do_reverse_engineering_this_app/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>everyone knows pokemon go right. So there are some spoofing softwares like pgsharp and ipogo. So can anyone help me by dng the reverse engineering (Ghidra, x64dbg, id_
-
-- [This could be interesting](https://www.reddit.com/r/hacking/comments/1vngm9l/this_could_be_interesting/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Someone built p2p chat on blockchain ledger, It's free to use , try it</p> <p>https[:]//github.com/stefanbx/xchat-alpha</p> </div><!-- SC_ON --> &#32; submitted by &#_
-
-- [Not a first time Chess.com has an alleged leak, this one seems to be like the ones before but on a larger scale](https://www.reddit.com/r/hacking/comments/1vm81lv/not_a_first_time_chesscom_has_an_alleged_leak/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1vm81lv/not_a_first_time_chesscom_has_an_alleged_leak/"> <img alt="Not a first time Chess.com has an alleged leak, this one seems to_
-
-- [Once you have initial access, what do you do afterwards?](https://www.reddit.com/r/hacking/comments/1vnijol/once_you_have_initial_access_what_do_you_do/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I find it hard to privilege escalate, but first I do enumeration and discovery, later I set persistence, then the privilege escalation and more persistence (I think t_
-
-- [Can a laptop previously owned by company call back?](https://www.reddit.com/r/hacking/comments/1vmz18t/can_a_laptop_previously_owned_by_company_call_back/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello, this is my first time in this sub.</p> <p>I got a laptop that used to be for company use, (Not my company). I want to make sure there is no call back software _
-
-- [Mmm m m m mm...](https://www.reddit.com/r/hacking/comments/1vnobf0/mmm_m_m_m_mm/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/BRI_4N"> /u/BRI_4N </a> <br /> <span><a href="/r/Microcenter/comments/1vno8m8/well_guys_i_guess_thats_all_folks/">[link]</a></span> &#32; _
-
-- [How to access wifi only camera without the app?](https://www.reddit.com/r/hacking/comments/1vnd5ku/how_to_access_wifi_only_camera_without_the_app/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I'm fairly new to linux, but these home &quot;ethical&quot; hacking projects are a fun way to learn about networks, computers, ip devices, etc. </p> <p>I've got an ol_
-
-- [University hostel Wi-Fi is heavily restricting websites and video calls — VPNs, WARP, DoH, and DPI bypasses all fail. Is there a way around this?](https://www.reddit.com/r/hacking/comments/1vnlpbl/university_hostel_wifi_is_heavily_restricting/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I’m staying in a <strong>university hostel</strong>, and the Wi-Fi is extremely restrictive. A lot of websites and services don’t work at all, while other sites work _
-
-- [In a first, US will allow some private firms to carry out cyberattacks | TechCrunch](https://www.reddit.com/r/hacking/comments/1vnntu8/in_a_first_us_will_allow_some_private_firms_to/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1vnntu8/in_a_first_us_will_allow_some_private_firms_to/"> <img alt="In a first, US will allow some private firms to carry out cybera_
-
-- [Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt](https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/)
-  - Confidence: 🟫 LOW
-  - _An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]_
-
-- [Ukraine shuts down 94 fraudulent call centers, seize millions in cash](https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/)
-  - Confidence: 🟫 LOW
-  - _Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]_
-
-- [Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks](https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/)
-  - Confidence: 🟫 LOW
-  - _You're not alone if you just received an "Apple Threat Notification" saying it detected a "mercenary spyware attack targeted at your iPhone." [...]_
