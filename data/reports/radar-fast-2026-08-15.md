@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-15
-date: 2026-08-15T06:34:07Z
+date: 2026-08-15T18:24:35Z
 type: radar-report
 report_type: fast
-total_opportunities: 40
+total_opportunities: 37
 tags:
   - radar
   - fast
@@ -13,20 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 40
+**Total opportunities:** 37
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 38 |
-| 🎓 Free Certifications | 1 |
+| ❓ Uncategorized | 36 |
 | 🔥 Hackathons & Conferences | 1 |
-
-## 🎓 Free Certifications
-
-- [ISC Stormcast For Friday, August 14th, 2026 https://isc.sans.edu/podcastdetail/10052, (Fri, Aug 14th)](https://isc.sans.edu/diary/rss/33246)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## 🔥 Hackathons & Conferences
 
@@ -36,6 +28,14 @@ tags:
   - _<p>Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disr_
 
 ## ❓ Uncategorized
+
+- [Identity governance tools that actually work for a small team](https://www.reddit.com/r/AskNetsec/comments/1vp6vw8/identity_governance_tools_that_actually_work_for/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Been looking at identity governance tools for our setup and most of them feel way more heavy than what we need. </p> <p>We’re a small team, a mix of SaaS apps, Azure _
+
+- [New Evooo1Bot Linux botnet turns routers into traffic relay nodes](https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/)
+  - Confidence: 🟫 LOW
+  - _A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]_
 
 - [Target site never fully loads - reverse proxy config issue](https://www.reddit.com/r/AskNetsec/comments/1vn5uhh/target_site_never_fully_loads_reverse_proxy/)
   - Confidence: 🟫 LOW
@@ -172,19 +172,3 @@ tags:
 - [Hackers arrested over €30M bank fraud exploiting service provider flaw](https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/)
   - Confidence: 🟫 LOW
   - _Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Co_
-
-- [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
-  - Confidence: 🟫 LOW
-  - _It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but_
-
-- [Data analyst sent to prison for stealing data, extorting employer](https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/)
-  - Confidence: 🟫 LOW
-  - _A former data analyst contractor for Brightly Software has been sentenced to two years in prison for targeting his employer in a $2.5 million extortion scheme. [...]_
-
-- [RingCentral data breach exposed info of 1.6 million accounts](https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/)
-  - Confidence: 🟫 LOW
-  - _The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned_
-
-- [Shell investigates 'potential incident' after Clop data theft claims](https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/)
-  - Confidence: 🟫 LOW
-  - _Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]_
