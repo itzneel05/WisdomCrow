@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-17
-date: 2026-08-17T01:05:03Z
+date: 2026-08-17T06:48:41Z
 type: radar-report
 report_type: fast
-total_opportunities: 6
+total_opportunities: 11
 tags:
   - radar
   - fast
@@ -13,13 +13,45 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 6
+**Total opportunities:** 11
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 6 |
+| ❓ Uncategorized | 8 |
+| 💰 Bug Bounties | 1 |
+| 🎓 Free Certifications | 1 |
+| 🔥 Hackathons & Conferences | 1 |
+
+## 💰 Bug Bounties
+
+- [CVE-2026-6837: Command Injection in Zyxel export-cgi PKCS#12 Export Handling](https://www.reddit.com/r/netsec/comments/1vq55y4/cve20266837_command_injection_in_zyxel_exportcgi/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>Technical analysis of CVE-2026-6837, an authenticated command-injection vulnerability in Zyxel’s PKCS#12 certificate export flow.</p> <p>The post covers the vulnerabl_
+
+## 🎓 Free Certifications
+
+- [ISC Stormcast For Monday, August 17th, 2026 https://isc.sans.edu/podcastdetail/10054, (Mon, Aug 17th)](https://isc.sans.edu/diary/rss/33250)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
+
+## 🔥 Hackathons & Conferences
+
+- [AMA with Black Hat Speakers Lidor B. & Elad Meged (Pre-Auth RCE in Enterprise Java, Hijacking AI Coding Agents)](https://www.reddit.com/r/netsec/comments/1vq6fef/ama_with_black_hat_speakers_lidor_b_elad_meged/)
+  - Confidence: 🟢 HIGH
+  - Tags: `hackathon`, `conference`
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/_cybersecurity_"> /u/_cybersecurity_ </a> <br /> <span><a href="https://pwnhackers.substack.com/p/ama-with-black-hat-speakers-lidor">[link_
 
 ## ❓ Uncategorized
+
+- [Finding Hidden Internal Apps Through Public Certificate Logs](https://www.reddit.com/r/netsec/comments/1vp35wv/finding_hidden_internal_apps_through_public/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Huge-Wear-125"> /u/Huge-Wear-125 </a> <br /> <span><a href="https://naveensrinivasan.com/posts/2026-08-07-finding-hidden-internal-apps-thr_
+
+- [CVE-2026-33696: From a Schema Name to RCE in n8n](https://www.reddit.com/r/netsec/comments/1vpx6ku/cve202633696_from_a_schema_name_to_rce_in_n8n/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/TradeGold6317"> /u/TradeGold6317 </a> <br /> <span><a href="https://simonkoeck.com/writeups/n8n-gsuiteadmin-prototype-pollution-rce">[link_
 
 - [Wireshark 4.6.8 Released, (Sun, Aug 16th)](https://isc.sans.edu/diary/rss/33248)
   - Confidence: 🟫 LOW
