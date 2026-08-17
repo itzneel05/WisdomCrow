@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-17
-date: 2026-08-17T12:39:00Z
+date: 2026-08-17T18:35:17Z
 type: radar-report
 report_type: fast
-total_opportunities: 35
+total_opportunities: 38
 tags:
   - radar
   - fast
@@ -13,17 +13,22 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 35
+**Total opportunities:** 38
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 29 |
+| ❓ Uncategorized | 31 |
 | 💰 Bug Bounties | 3 |
-| 🏰 CTF Competitions | 1 |
+| 🏰 CTF Competitions | 2 |
 | 🎓 Free Certifications | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
+
+- [PwnSec CTF 2026 [postponed]](https://ctftime.org/event/3159)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: PwnSec CTF 2026 [postponed] (an <a href="/ctf/1150">PwnSec CTF</a> event.)<br /> Date: Aug. 21, 2026, 2 p.m. &mdash; 22 Aug. 2026, 14:00 UTC &nbsp;<a href="/event/3159.ics">[add to calendar]</a>_
 
 - [China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud](https://thehackernews.com/2026/08/china-linked-jewelbug-uses-xg-web-for.html)
   - Confidence: 🟡 MEDIUM
@@ -62,6 +67,22 @@ tags:
   - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/_cybersecurity_"> /u/_cybersecurity_ </a> <br /> <span><a href="https://pwnhackers.substack.com/p/ama-with-black-hat-speakers-lidor">[link_
 
 ## ❓ Uncategorized
+
+- [⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More](https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html)
+  - Confidence: 🟫 LOW
+  - _The expensive attacks are not always the clever ones.  This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problem_
+
+- [Apple Screen Sharing Security, (Mon, Aug 17th)](https://isc.sans.edu/diary/rss/33252)
+  - Confidence: 🟫 LOW
+  - _<p>About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing. Apple did not invent a new protocol for screen sharing. Instead, it used the established VNC protocol. VNC is a prett_
+
+- [Certighost and the Privilege Hiding in Your Certificate Authority](https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/)
+  - Confidence: 🟫 LOW
+  - _CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier _
+
+- [Microsoft confirms GitHub is down worldwide](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/)
+  - Confidence: 🟫 LOW
+  - _GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]_
 
 - [North Korean Remote Workers Are Infiltrating Government and Businesses: How to Expose Them Before Hiring](https://thehackernews.com/2026/08/north-korean-remote-workers-are.html)
   - Confidence: 🟫 LOW
@@ -170,11 +191,3 @@ tags:
 - [Week in review: Salesforce and ServiceNow portals exposed for 17 months, exploited Metabase 0-day](https://www.helpnetsecurity.com/2026/08/16/week-in-review-salesforce-and-servicenow-portals-exposed-for-17-months-exploited-metabase-0-day/)
   - Confidence: 🟫 LOW
   - _<p>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: GitHub Dependabot malware alerts now cover eight ecosystems GitHub has flagged npm malware since Ma_
-
-- [New AmnesiaStealer macOS malware hijacks browser sessions via remote control](https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/)
-  - Confidence: 🟫 LOW
-  - _A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web_
-
-- [Large-scale DDoS attacks disrupted Threema secure messaging service](https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/)
-  - Confidence: 🟫 LOW
-  - _Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]_
