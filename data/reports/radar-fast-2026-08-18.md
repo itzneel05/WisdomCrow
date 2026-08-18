@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-18
-date: 2026-08-18T01:02:58Z
+date: 2026-08-18T06:38:22Z
 type: radar-report
 report_type: fast
-total_opportunities: 62
+total_opportunities: 60
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 62
+**Total opportunities:** 60
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 53 |
+| ❓ Uncategorized | 50 |
 | 💰 Bug Bounties | 5 |
 | 🏰 CTF Competitions | 2 |
-| 🎓 Free Certifications | 1 |
+| 🎓 Free Certifications | 2 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
@@ -63,6 +63,11 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>Technical analysis of CVE-2026-6837, an authenticated command-injection vulnerability in Zyxel’s PKCS#12 certificate export flow.</p> <p>The post covers the vulnerabl_
 
 ## 🎓 Free Certifications
+
+- [ISC Stormcast For Tuesday, August 18th, 2026 https://isc.sans.edu/podcastdetail/10056, (Tue, Aug 18th)](https://isc.sans.edu/diary/rss/33256)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 - [ISC Stormcast For Monday, August 17th, 2026 https://isc.sans.edu/podcastdetail/10054, (Mon, Aug 17th)](https://isc.sans.edu/diary/rss/33250)
   - Confidence: 🟢 HIGH
@@ -277,15 +282,3 @@ tags:
 - [CVE-2026-33696: From a Schema Name to RCE in n8n](https://www.reddit.com/r/netsec/comments/1vpx6ku/cve202633696_from_a_schema_name_to_rce_in_n8n/)
   - Confidence: 🟫 LOW
   - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/TradeGold6317"> /u/TradeGold6317 </a> <br /> <span><a href="https://simonkoeck.com/writeups/n8n-gsuiteadmin-prototype-pollution-rce">[link_
-
-- [Wireshark 4.6.8 Released, (Sun, Aug 16th)](https://isc.sans.edu/diary/rss/33248)
-  - Confidence: 🟫 LOW
-  - _<p>Wireshark release <a href="https://www.wireshark.org/docs/relnotes/wireshark-4.6.8.html">4.6.8</a> fixes 28 vulnerabilities and 25 bugs.</p>&#xd;_
-
-- [Anthropic confirms Claude is down in major outage affecting multiple services](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/)
-  - Confidence: 🟫 LOW
-  - _Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]_
-
-- [SafePal data breach impacts 39,798 customers, stolen info for sale](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/)
-  - Confidence: 🟫 LOW
-  - _Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now c_
