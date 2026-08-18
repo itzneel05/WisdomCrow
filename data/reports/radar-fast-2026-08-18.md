@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-18
-date: 2026-08-18T12:39:48Z
+date: 2026-08-18T18:34:30Z
 type: radar-report
 report_type: fast
-total_opportunities: 39
+total_opportunities: 44
 tags:
   - radar
   - fast
@@ -13,21 +13,26 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 39
+**Total opportunities:** 44
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 35 |
+| ❓ Uncategorized | 39 |
 | 💰 Bug Bounties | 2 |
-| 🏰 CTF Competitions | 1 |
+| 🏰 CTF Competitions | 2 |
 | 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
 
-- [PwnSec CTF 2026 [postponed]](https://ctftime.org/event/3159)
+- [Humans and AI: 5 Cybersecurity Leadership Lessons](https://www.hackthebox.com/blog/humans-ai-cybersecurity-leadership-lessons)
   - Confidence: 🟢 HIGH
   - Tags: `ctf`
-  - _Name: PwnSec CTF 2026 [postponed] (an <a href="/ctf/1150">PwnSec CTF</a> event.)<br /> Date: Aug. 21, 2026, 2 p.m. &mdash; 22 Aug. 2026, 14:00 UTC &nbsp;<a href="/event/3159.ics">[add to calendar]</a>_
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/humans-ai-cybersecurity-leadership-lessons" title=""> <img alt="Humans and AI: 5 Cyber_
+
+- [Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets](https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and _
 
 ## 💰 Bug Bounties
 
@@ -49,6 +54,30 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks](https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT.  "TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its_
+
+- [AI "Mind Viruses" Can Spread Between Agents Through Persistent Prompt Files](https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html)
+  - Confidence: 🟫 LOW
+  - _Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system_
+
+- [Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000](https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html)
+  - Confidence: 🟫 LOW
+  - _A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange fo_
+
+- [Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps](https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html)
+  - Confidence: 🟫 LOW
+  - _Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other info_
+
+- [Your Controls Block Known Attacks. What About the Behavior?](https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/)
+  - Confidence: 🟫 LOW
+  - _Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by tec_
+
+- [Clop created custom web shell for Windchill data theft attacks](https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/)
+  - Confidence: 🟫 LOW
+  - _A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file reposit_
 
 - [CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE](https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html)
   - Confidence: 🟫 LOW
@@ -181,11 +210,3 @@ tags:
 - [Apple Screen Sharing Security, (Mon, Aug 17th)](https://isc.sans.edu/diary/rss/33252)
   - Confidence: 🟫 LOW
   - _<p>About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing. Apple did not invent a new protocol for screen sharing. Instead, it used the established VNC protocol. VNC is a prett_
-
-- [Certighost and the Privilege Hiding in Your Certificate Authority](https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/)
-  - Confidence: 🟫 LOW
-  - _CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier _
-
-- [Microsoft confirms GitHub is down worldwide](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/)
-  - Confidence: 🟫 LOW
-  - _GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]_
