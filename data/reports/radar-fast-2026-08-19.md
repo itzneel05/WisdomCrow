@@ -1,6 +1,6 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-19
-date: 2026-08-19T01:05:05Z
+date: 2026-08-19T06:39:09Z
 type: radar-report
 report_type: fast
 total_opportunities: 81
@@ -74,7 +74,7 @@ tags:
 
 ## 🎓 Free Certifications
 
-- [ISC Stormcast For Tuesday, August 18th, 2026 https://isc.sans.edu/podcastdetail/10056, (Tue, Aug 18th)](https://isc.sans.edu/diary/rss/33256)
+- [ISC Stormcast For Wednesday, August 19th, 2026 https://isc.sans.edu/podcastdetail/10058, (Wed, Aug 19th)](https://isc.sans.edu/diary/rss/33258)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
