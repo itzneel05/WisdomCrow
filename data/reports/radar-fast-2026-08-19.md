@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-19
-date: 2026-08-19T12:40:24Z
+date: 2026-08-19T18:31:07Z
 type: radar-report
 report_type: fast
-total_opportunities: 81
+total_opportunities: 89
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 81
+**Total opportunities:** 89
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 70 |
+| ❓ Uncategorized | 78 |
 | 🏰 CTF Competitions | 8 |
 | 💰 Bug Bounties | 1 |
 | 🎓 Free Certifications | 1 |
@@ -87,6 +87,38 @@ tags:
   - _Private Sprint: apply by pull request to build a privacy app on Starknet mainnet. 14-31 August 2026._
 
 ## ❓ Uncategorized
+
+- [Phishing 3.0: The Fight Moves to Agent Versus Agent](https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html)
+  - Confidence: 🟫 LOW
+  - _Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It st_
+
+- [Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P](https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two auth_
+
+- [SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs](https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html)
+  - Confidence: 🟫 LOW
+  - _A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia.  The intrusion set makes use of seven remote access tool (RAT) fami_
+
+- [Simple Scans for Cloud Metadata Service, (Wed, Aug 19th)](https://isc.sans.edu/diary/rss/33260)
+  - Confidence: 🟫 LOW
+  - _<p>Cloud providers typically expose a REST API at 169.254.169.254 that allows code running on virtual machines to retrieve machine-specific data. Some of the data is more or less harmless, such as the_
+
+- [Password spraying attacks surge 155x as hackers exploit MFA gaps](https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/)
+  - Confidence: 🟫 LOW
+  - _Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentica_
+
+- [US charges Iranian hackers over $3.4 billion intellectual property theft](https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/)
+  - Confidence: 🟫 LOW
+  - _The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]_
+
+- [US warns of AI-powered attacks on Siemens PLCs in critical infrastructure](https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/)
+  - Confidence: 🟫 LOW
+  - _U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]_
+
+- [Hackers compromise 14,500 Dahua web cameras in 35-day campaign](https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/)
+  - Confidence: 🟫 LOW
+  - _In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]_
 
 - [Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data](https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html)
   - Confidence: 🟫 LOW
