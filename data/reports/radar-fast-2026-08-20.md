@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-20
-date: 2026-08-20T01:03:18Z
+date: 2026-08-20T06:41:25Z
 type: radar-report
 report_type: fast
-total_opportunities: 73
+total_opportunities: 56
 tags:
   - radar
   - fast
@@ -13,24 +13,72 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 73
+**Total opportunities:** 56
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 71 |
-| 💰 Bug Bounties | 1 |
+| ❓ Uncategorized | 45 |
+| 💰 Bug Bounties | 9 |
+| 🏰 CTF Competitions | 1 |
 | 🎓 Free Certifications | 1 |
+
+## 🏰 CTF Competitions
+
+- [Does AI really take away the skills you need to be a good bug bounty hunter or pentester?](https://www.reddit.com/r/bugbounty/comments/1vsbv86/does_ai_really_take_away_the_skills_you_need_to/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>With the rise of AI on everything I am now convinced that you really need a clear understanding of what you are doing in order for AI to work, with exploit chaining w_
 
 ## 💰 Bug Bounties
 
-- [AMA Today: Novee Security researchers who presented at Black Hat 2026 (Java RCE & GitHub Al Agent Hijacking)](https://www.reddit.com/r/hacking/comments/1vqu66v/ama_today_novee_security_researchers_who/)
+- [Akamai WAF blocking in-scope bug bounty targets — legitimate access issue or something I'm missing?](https://www.reddit.com/r/bugbounty/comments/1vs9max/akamai_waf_blocking_inscope_bug_bounty_targets/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>I’m conducting authorized testing for a HackerOne bug bounty program and I’m encountering an Akamai access-control/WAF block on several explicitly in-scope assets:</p_
+
+- [When is there actually an Information Disclosure?](https://www.reddit.com/r/bugbounty/comments/1vs5l0l/when_is_there_actually_an_information_disclosure/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone, I wanted to ask about your personal experience with one particular topic: reports about Information Disclosure.</p> <p>I’m not talking about things like _
+
+- [Lose motivation to do bug bounty](https://www.reddit.com/r/bugbounty/comments/1vrzmw8/lose_motivation_to_do_bug_bounty/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>Hello Hunters,</p> <p>I have been doing bug bounty for while but now I am feeling like I am learning nothing new. All I am doing is same thing everytime I am doing bu_
+
+- [2FA bypass via race condition](https://www.reddit.com/r/bugbounty/comments/1vs19c5/2fa_bypass_via_race_condition/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>I found a 2FA bypass where I can send concurrent requests via a single packet attack which bypasses the rate limit for predictable 5 digits, However the program polic_
+
+- [A payment decision has been made for my HackerOne report, but the payment has not been made yet.](https://www.reddit.com/r/bugbounty/comments/1vsqipv/a_payment_decision_has_been_made_for_my_hackerone/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>A payment decision was made for my report on HackerOne almost two weeks ago, but the payment has still not been made. My report was triaged, and I was later told that_
+
+- [Suggestions needed](https://www.reddit.com/r/bugbounty/comments/1vskhr1/suggestions_needed/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>I submit a valid P3 report. They agree that it is P3, but due to program policy, they are not accepting it. So, he asked me to chain this vulnerability to a P2 or P1 _
+
+- [Bugcrowd Report: Vulnerable Chrome Extension Removed, New Beta Version Released — What Happens to My Report?](https://www.reddit.com/r/bugbounty/comments/1vsxgdl/bugcrowd_report_vulnerable_chrome_extension/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/bugbounty/comments/1vsxgdl/bugcrowd_report_vulnerable_chrome_extension/"> <img alt="Bugcrowd Report: Vulnerable Chrome Extension Removed, New Beta Ve_
+
+- [Swisscom Bug Bounty response time?](https://www.reddit.com/r/bugbounty/comments/1vsw3eo/swisscom_bug_bounty_response_time/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>For anyone who has experience with the Swisscom bug bounty program: how long does it usually take to get a response after submitting a vulnerability?</p> <p>Also is S_
+
+- [Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code](https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>“We're Lidor B./thisis0xczar and Elad Meged, founding-team vulnerability researchers at Novee Security. </p> <p>At Black Hat this year we presented pre-auth remote co_
+  - _Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution.  The vulnerability, trac_
 
 ## 🎓 Free Certifications
 
-- [ISC Stormcast For Wednesday, August 19th, 2026 https://isc.sans.edu/podcastdetail/10058, (Wed, Aug 19th)](https://isc.sans.edu/diary/rss/33258)
+- [ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail/10060, (Thu, Aug 20th)](https://isc.sans.edu/diary/rss/33262)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
@@ -216,107 +264,3 @@ tags:
 - [Microsoft fixes known issue causing Windows Defender crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/)
   - Confidence: 🟫 LOW
   - _Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]_
-
-- [I made a video about wardriving (FRENCH)](https://www.reddit.com/r/hacking/comments/1vqvzhi/i_made_a_video_about_wardriving_french/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1vqvzhi/i_made_a_video_about_wardriving_french/"> <img alt="I made a video about wardriving (FRENCH)" src="https://external-preview._
-
-- [Free Makerspaces in NYC?](https://www.reddit.com/r/hacking/comments/1vr78me/free_makerspaces_in_nyc/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I’m looking for a free makerspace in NYC.</p> <p>I used to mess around with cybersecurity when I was in uni, and I’d like to get back into it. I’m definitely a beginn_
-
-- [Remcos Malware Analysis](https://www.reddit.com/r/hacking/comments/1vre51j/remcos_malware_analysis/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I revisited this malware variant that I came across in the wild to demonstrate to everyone how it works. Stay safe and I hope this helps someone learn something! </p>_
-
-- [Rn I'm doing Professor Messers Tuturials (Currently on the A+ course), but I'm curious:](https://www.reddit.com/r/hacking/comments/1vr597n/rn_im_doing_professor_messers_tuturials_currently/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1vr597n/rn_im_doing_professor_messers_tuturials_currently/"> <img alt="Rn I'm doing Professor Messers Tuturials (Currently on the A+_
-
-- [I hacked the NYC building permit portal](https://www.reddit.com/r/hacking/comments/1vqz34j/i_hacked_the_nyc_building_permit_portal/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1vqz34j/i_hacked_the_nyc_building_permit_portal/"> <img alt="I hacked the NYC building permit portal" src="https://external-preview._
-
-- [[RFZO.RS] Serbia Health Insurance Fund hacked](https://www.reddit.com/r/hacking/comments/1vrmh58/rfzors_serbia_health_insurance_fund_hacked/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Fit_Asidy"> /u/Fit_Asidy </a> <br /> <span><a href="https://www.reddit.com/gallery/1vrmddp">[link]</a></span> &#32; <span><a href="https:/_
-
-- [Most Secure Smart Lock for Homes: Cybersecurity & Offline Operation Recommendations](https://www.reddit.com/r/cybersecurity/comments/1vrseu9/most_secure_smart_lock_for_homes_cybersecurity/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Which electronic lock is considered the most secure for residential doors? I would like recommendations from cybersecurity experts, considering resistance to physical_
-
-- [How to analyze a Remcos phishing payload](https://www.reddit.com/r/cybersecurity/comments/1vs4bvs/how_to_analyze_a_remcos_phishing_payload/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1vs4bvs/how_to_analyze_a_remcos_phishing_payload/"> <img alt="How to analyze a Remcos phishing payload" src="https://external-_
-
-- [CVE-2026-6837: Root Command Injection Affecting 18 Zyxel Access Point Models with full firmware emulation guide](https://www.reddit.com/r/cybersecurity/comments/1vrnwu3/cve20266837_root_command_injection_affecting_18/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1vrnwu3/cve20266837_root_command_injection_affecting_18/"> <img alt="CVE-2026-6837: Root Command Injection Affecting 18 Zyxel _
-
-- [❄️ Chilling Discoveries: Unpacking Vulnerabilities in Copeland XWEB Pro Controllers](https://www.reddit.com/r/cybersecurity/comments/1vrze6q/chilling_discoveries_unpacking_vulnerabilities_in/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Team82 analyzed the attack surface of the <strong>Copeland XWEB Pro</strong> supervisory platform and identified <strong>23 vulnerabilities, including 21 high-severit_
-
-- [Engineering advice on detection logic](https://www.reddit.com/r/cybersecurity/comments/1vrlxkh/engineering_advice_on_detection_logic/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello fellow nerds</p> <p>I come bearing issues. MSSP is restricting SIEM detection logic to a “one-solution-fits-all” shitology. </p> <p>I am the only engineer, and _
-
-- [28 Evil-Twin Open VSX Extensions - A New Wave of Coordinated Beacons](https://www.reddit.com/r/cybersecurity/comments/1vrwczi/28_eviltwin_open_vsx_extensions_a_new_wave_of/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1vrwczi/28_eviltwin_open_vsx_extensions_a_new_wave_of/"> <img alt="28 Evil-Twin Open VSX Extensions - A New Wave of Coordinate_
-
-- [Agentic Red Team](https://www.reddit.com/r/cybersecurity/comments/1vs6xyp/agentic_red_team/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Seeing a bunch of well funded vendors pop up in the space… purely noise or worth some research? Anyone having success with these types of tools?</p> </div><!-- SC_ON _
-
-- [ServiceRadar (OSS) - Threat Intelligence feed integrations](https://www.reddit.com/r/cybersecurity/comments/1vs7mj5/serviceradar_oss_threat_intelligence_feed/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Just finished integrating the VulnCheck community feeds for CISA-KEV and NVD2 into ServiceRadar. Software inventory is collected from endpoints with our agent and an _
-
-- [Hacker claims 3.6 million Azure account records stolen from major companies](https://www.reddit.com/r/cybersecurity/comments/1vr2mql/hacker_claims_36_million_azure_account_records/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1vr2mql/hacker_claims_36_million_azure_account_records/"> <img alt="Hacker claims 3.6 million Azure account records stolen fro_
-
-- [Varonis researchers got Copilot to reveal its own undocumented autorun=1 parameter by repeatedly asking why auto-execution was blocked then used it to build a one-click data-exfiltration chain. Microsoft has patched.](https://www.reddit.com/r/cybersecurity/comments/1vrqsc3/varonis_researchers_got_copilot_to_reveal_its_own/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1vrqsc3/varonis_researchers_got_copilot_to_reveal_its_own/"> <img alt="Varonis researchers got Copilot to reveal its own undoc_
-
-- [For those who got the CISSP, what has it done for your career?](https://www.reddit.com/r/cybersecurity/comments/1vr2t1s/for_those_who_got_the_cissp_what_has_it_done_for/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I’m curious to hear from people who earned their CISSP. What kind of impact did it have on your career?</p> <p>Did you notice more recruiters reaching out or start ge_
-
-- [Moving from frontend to backend made me realize how bad my secrets management actually is. How do you handle credential rotation?](https://www.reddit.com/r/cybersecurity/comments/1vrq8kf/moving_from_frontend_to_backend_made_me_realize/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>While working on the frontend of applications, handling an API key usually just means putting it into a .env file and trusting the process. Recently, I've been explor_
-
-- [How would you protect 4–6 high-risk inboxes without breaking the bank?](https://www.reddit.com/r/cybersecurity/comments/1vs6hcz/how_would_you_protect_46_highrisk_inboxes_without/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>We’re a small company with only 16 employees and currently use Microsoft Defender for email security. It works well overall, but a few of our executive accounts are t_
-
-- [How to Stop OTP SMS Abuse When Attackers Rotate Valid Phone Numbers, Emails, and IPs?](https://www.reddit.com/r/cybersecurity/comments/1vrzfym/how_to_stop_otp_sms_abuse_when_attackers_rotate/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi friends, I am currently dealing with a problem. An unknown person is targeting the OTP SMS service on our website's sign-up page. They are attempting this using mu_
-
-- [Is a masters degree worth it ?](https://www.reddit.com/r/cybersecurity/comments/1vrgqrh/is_a_masters_degree_worth_it/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Is getting a masters good for cybersecurity some people are telling me that i should do it after bachelors but all the videos online are about getting certificates an_
-
-- [What certificates should I pursue?](https://www.reddit.com/r/cybersecurity/comments/1vro5q4/what_certificates_should_i_pursue/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi all, </p> <p>I was wondering if anyone could recommend me some certs to pursue or training I should take. I have been a threat hunter for 2 years after completing _
-
-- [Can you recommend a free source for learning network and it's concepts?](https://www.reddit.com/r/cybersecurity/comments/1vrni53/can_you_recommend_a_free_source_for_learning/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I started learning about cybersecurity. Right now I'm learning about network and it's concepts such as switch, router, AP, ARP, DHCP, OSI, TCP etc.</p> <p>Can you rec_
-
-- [Feasibility of Blocking User App Installs](https://www.reddit.com/r/cybersecurity/comments/1vs0izl/feasibility_of_blocking_user_app_installs/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I’m interesting in deploying some kind of solution for my org (~300 users/PCs) that restricts app execution from user writable directories. The risk being addressed i_
-
-- [Feeling Stuck](https://www.reddit.com/r/cybersecurity/comments/1vrxr5k/feeling_stuck/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>2 years and a few months of IT experience as a whole. Bachelors in Cybersecurity and have some basic fundamentals certs such as CySA+. Not cyber many jobs where I liv_
-
-- [Apple plugs image-processing hole ripe for spyware abuse](https://www.reddit.com/r/cybersecurity/comments/1vrz8t6/apple_plugs_imageprocessing_hole_ripe_for_spyware/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/homothebrave"> /u/homothebrave </a> <br /> <span><a href="https://www.theregister.com/security/2026/08/18/apple-plugs-image-processing-hol_
