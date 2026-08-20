@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-20
-date: 2026-08-20T12:42:13Z
+date: 2026-08-20T18:35:55Z
 type: radar-report
 report_type: fast
-total_opportunities: 57
+total_opportunities: 63
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 57
+**Total opportunities:** 63
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 46 |
-| 💰 Bug Bounties | 9 |
+| ❓ Uncategorized | 50 |
+| 💰 Bug Bounties | 11 |
 | 🏰 CTF Competitions | 1 |
 | 🎓 Free Certifications | 1 |
 
@@ -30,6 +30,11 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>With the rise of AI on everything I am now convinced that you really need a clear understanding of what you are doing in order for AI to work, with exploit chaining w_
 
 ## 💰 Bug Bounties
+
+- [Web fuzzing for hackers](https://www.intigriti.com/researchers/blog/hacking-tools/web-fuzzing-for-hackers)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`, `india_friendly`
+  - _Fuzzing has been around for as long as web applications have. In fact, the term itself was coined back in 1988, when Barton Miller, a professor at the University of Wisconsin, was working over a dial-_
 
 - [Akamai WAF blocking in-scope bug bounty targets — legitimate access issue or something I'm missing?](https://www.reddit.com/r/bugbounty/comments/1vs9max/akamai_waf_blocking_inscope_bug_bounty_targets/)
   - Confidence: 🟢 HIGH
@@ -71,6 +76,11 @@ tags:
   - Tags: `bug_bounty`
   - _<!-- SC_OFF --><div class="md"><p>For anyone who has experience with the Swisscom bug bounty program: how long does it usually take to get a response after submitting a vulnerability?</p> <p>Also is S_
 
+- [Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE](https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape_
+
 - [Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code](https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
@@ -84,6 +94,54 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices](https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html)
+  - Confidence: 🟫 LOW
+  - _A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financial insti_
+
+- [CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification](https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the _
+
+- [Why "Shady AI" is Security's Next Big Governance Problem](https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html)
+  - Confidence: 🟫 LOW
+  - _In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it.&nbsp;  The incident began w_
+
+- [Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments](https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html)
+  - Confidence: 🟫 LOW
+  - _Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a poi_
+
+- [Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution](https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html)
+  - Confidence: 🟫 LOW
+  - _A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska).  The vulnerabil_
+
+- [Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers](https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html)
+  - Confidence: 🟫 LOW
+  - _Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability.  According to th_
+
+- [New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data](https://thehackernews.com/2026/08/new-cryptographic-context-injection.html)
+  - Confidence: 🟫 LOW
+  - _Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to _
+
+- [AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure](https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. government on Wednesday warned of an "active threat" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts.  The activity_
+
+- [Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)](https://isc.sans.edu/diary/rss/33266)
+  - Confidence: 🟫 LOW
+  - _<p>Building on the last diary on Using MS Graph and Powershell, let&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s look at "Risky" logins.</p>&#xd;_
+
+- [How MSPs can catch phishing attacks email filters miss](https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/)
+  - Confidence: 🟫 LOW
+  - _AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detec_
+
+- [Critical Elementor Pro bug exposes WordPress sites to RCE attacks](https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/)
+  - Confidence: 🟫 LOW
+  - _A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]_
+
+- [Hackers poison arrayref Rust crate to push infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/)
+  - Confidence: 🟫 LOW
+  - _Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]_
 
 - [40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets](https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html)
   - Confidence: 🟫 LOW
@@ -236,35 +294,3 @@ tags:
 - [SilkParasite Threatens Central Asian Orgs With Flurry of RATs](https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats)
   - Confidence: 🟫 LOW
   - _A spear-phishing campaign by a Chinese-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by China's APTs._
-
-- [Phishing 3.0: The Fight Moves to Agent Versus Agent](https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html)
-  - Confidence: 🟫 LOW
-  - _Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It st_
-
-- [Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P](https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two auth_
-
-- [SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs](https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html)
-  - Confidence: 🟫 LOW
-  - _A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia.  The intrusion set makes use of seven remote access tool (RAT) fami_
-
-- [Simple Scans for Cloud Metadata Service, (Wed, Aug 19th)](https://isc.sans.edu/diary/rss/33260)
-  - Confidence: 🟫 LOW
-  - _<p>Cloud providers typically expose a REST API at 169.254.169.254 that allows code running on virtual machines to retrieve machine-specific data. Some of the data is more or less harmless, such as the_
-
-- [Password spraying attacks surge 155x as hackers exploit MFA gaps](https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/)
-  - Confidence: 🟫 LOW
-  - _Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentica_
-
-- [US charges Iranian hackers over $3.4 billion intellectual property theft](https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/)
-  - Confidence: 🟫 LOW
-  - _The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]_
-
-- [US warns of AI-powered attacks on Siemens PLCs in critical infrastructure](https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/)
-  - Confidence: 🟫 LOW
-  - _U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]_
-
-- [Hackers compromise 14,500 Dahua web cameras in 35-day campaign](https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/)
-  - Confidence: 🟫 LOW
-  - _In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]_
