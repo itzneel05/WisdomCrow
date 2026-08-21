@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-21
-date: 2026-08-21T06:41:15Z
+date: 2026-08-21T12:40:49Z
 type: radar-report
 report_type: fast
-total_opportunities: 67
+total_opportunities: 75
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 67
+**Total opportunities:** 75
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 60 |
-| 🎓 Free Certifications | 4 |
+| ❓ Uncategorized | 67 |
+| 🎓 Free Certifications | 5 |
 | 💰 Bug Bounties | 2 |
 | 🔥 Hackathons & Conferences | 1 |
 
@@ -35,6 +35,11 @@ tags:
   - _Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape_
 
 ## 🎓 Free Certifications
+
+- [Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0](https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review.  Four of the security vulnerab_
 
 - [ISC Stormcast For Friday, August 21st, 2026 https://isc.sans.edu/podcastdetail/10062, (Fri, Aug 21st)](https://isc.sans.edu/diary/rss/33270)
   - Confidence: 🟢 HIGH
@@ -64,6 +69,34 @@ tags:
   - _<p>OpenAI <a href="https://www.youtube.com/watch?v=87DyyMV0kCY">presented</a> details of its AI&#8217;s model&#8217;s cyberattack on Hugging Face at Black Hat last week. Simon Willison <a href="https:_
 
 ## ❓ Uncategorized
+
+- [GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure](https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html)
+  - Confidence: 🟫 LOW
+  - _A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr.  The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4_
+
+- [Wazuh and AI For Enhanced SOC Workflows](https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html)
+  - Confidence: 🟫 LOW
+  - _Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repeti_
+
+- [sec+ to oscp](https://www.reddit.com/r/oscp/comments/1vtt9xs/sec_to_oscp/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hello everyone, </p> <p>I have about 10 years of experience in the field of systems administration and I would say a fair grasp on cyber security (been somewhat of a _
+
+- [SickKids data breach exposes employee and job applicant info](https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/)
+  - Confidence: 🟫 LOW
+  - _Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-pa_
+
+- [Hackers abuse FTP server banners to deliver new Windows malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/)
+  - Confidence: 🟫 LOW
+  - _Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]_
+
+- [Microsoft warns of max severity Entra ID flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]_
+
+- [CISA orders feds to patch actively exploited TrueConf Server flaws](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communic_
 
 - [ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More](https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html)
   - Confidence: 🟫 LOW
