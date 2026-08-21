@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-21
-date: 2026-08-21T12:40:49Z
+date: 2026-08-21T18:33:14Z
 type: radar-report
 report_type: fast
-total_opportunities: 75
+total_opportunities: 74
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 75
+**Total opportunities:** 74
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 67 |
+| ❓ Uncategorized | 66 |
 | 🎓 Free Certifications | 5 |
 | 💰 Bug Bounties | 2 |
 | 🔥 Hackathons & Conferences | 1 |
@@ -69,6 +69,38 @@ tags:
   - _<p>OpenAI <a href="https://www.youtube.com/watch?v=87DyyMV0kCY">presented</a> details of its AI&#8217;s model&#8217;s cyberattack on Hugging Face at Black Hat last week. Simon Willison <a href="https:_
 
 ## ❓ Uncategorized
+
+- [Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution](https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html)
+  - Confidence: 🟫 LOW
+  - _Update: The story was updated after publication to note that the vulnerability has not been exploited.  Although the security bulletin originally marked the "Exploited" field under the Exploitability _
+
+- [Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet](https://thehackernews.com/2026/08/android-car-malware-spreads-through.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun.  Kaspersky, which discovered the threat _
+
+- [Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot](https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html)
+  - Confidence: 🟫 LOW
+  - _Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Win_
+
+- [Microsoft rolls out Classic Outlook theme for New Outlook users](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]_
+
+- [Is Online Privacy Possible? How Digital Identities Can Help](https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/)
+  - Confidence: 🟫 LOW
+  - _Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas _
+
+- [Microsoft blames Windows gaming issues on RGB lighting devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/)
+  - Confidence: 🟫 LOW
+  - _Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]_
+
+- [Hundreds of leaked AWS keys give full control over corporate accounts](https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/)
+  - Confidence: 🟫 LOW
+  - _More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]_
+
+- [New SynkLoader malware pushed in Microsoft Teams phishing campaign](https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/)
+  - Confidence: 🟫 LOW
+  - _A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]_
 
 - [GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure](https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html)
   - Confidence: 🟫 LOW
@@ -301,39 +333,3 @@ tags:
 - [Hackers poison arrayref Rust crate to push infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/)
   - Confidence: 🟫 LOW
   - _Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]_
-
-- [40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets](https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html)
-  - Confidence: 🟫 LOW
-  - _A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products.  According to the Socket Threat _
-
-- [ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud](https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with "significant enhancements," including a set of 167 remote commands and expands its targeting_
-
-- [NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands](https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html)
-  - Confidence: 🟫 LOW
-  - _Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacke_
-
-- [Using Microsoft Graph and Powershell to Mine for Information - Stale Accounts and Licenses, (Thu, Aug 20th)](https://isc.sans.edu/diary/rss/33264)
-  - Confidence: 🟫 LOW
-  - _<p>Microsoft Graph is a newer API that is meant to replace several others.&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b; OK, it&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x_
-
-- [Microsoft says August Windows updates may cause gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/)
-  - Confidence: 🟫 LOW
-  - _Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]_
-
-- [Critical Zimbra RCE flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]_
-
-- [New Manic Android malware can exfiltrate data through nearby devices](https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/)
-  - Confidence: 🟫 LOW
-  - _A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]_
-
-- [CISA warns of hackers exploiting critical MLflow vulnerability](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/)
-  - Confidence: 🟫 LOW
-  - _The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [._
-
-- [Citrix urges admins to patch new NetScaler flaws as soon as possible](https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/)
-  - Confidence: 🟫 LOW
-  - _Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]_
