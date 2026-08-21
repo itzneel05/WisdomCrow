@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-21
-date: 2026-08-21T01:06:58Z
+date: 2026-08-21T06:41:15Z
 type: radar-report
 report_type: fast
-total_opportunities: 73
+total_opportunities: 67
 tags:
   - radar
   - fast
@@ -13,22 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 73
+**Total opportunities:** 67
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 56 |
-| 💰 Bug Bounties | 11 |
+| ❓ Uncategorized | 60 |
 | 🎓 Free Certifications | 4 |
-| 🏰 CTF Competitions | 1 |
+| 💰 Bug Bounties | 2 |
 | 🔥 Hackathons & Conferences | 1 |
-
-## 🏰 CTF Competitions
-
-- [Does AI really take away the skills you need to be a good bug bounty hunter or pentester?](https://www.reddit.com/r/bugbounty/comments/1vsbv86/does_ai_really_take_away_the_skills_you_need_to/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>With the rise of AI on everything I am now convinced that you really need a clear understanding of what you are doing in order for AI to work, with exploit chaining w_
 
 ## 💰 Bug Bounties
 
@@ -37,57 +29,17 @@ tags:
   - Tags: `bug_bounty`, `india_friendly`
   - _Fuzzing has been around for as long as web applications have. In fact, the term itself was coined back in 1988, when Barton Miller, a professor at the University of Wisconsin, was working over a dial-_
 
-- [Akamai WAF blocking in-scope bug bounty targets — legitimate access issue or something I'm missing?](https://www.reddit.com/r/bugbounty/comments/1vs9max/akamai_waf_blocking_inscope_bug_bounty_targets/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>I’m conducting authorized testing for a HackerOne bug bounty program and I’m encountering an Akamai access-control/WAF block on several explicitly in-scope assets:</p_
-
-- [When is there actually an Information Disclosure?](https://www.reddit.com/r/bugbounty/comments/1vs5l0l/when_is_there_actually_an_information_disclosure/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Hi everyone, I wanted to ask about your personal experience with one particular topic: reports about Information Disclosure.</p> <p>I’m not talking about things like _
-
-- [Lose motivation to do bug bounty](https://www.reddit.com/r/bugbounty/comments/1vrzmw8/lose_motivation_to_do_bug_bounty/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Hello Hunters,</p> <p>I have been doing bug bounty for while but now I am feeling like I am learning nothing new. All I am doing is same thing everytime I am doing bu_
-
-- [2FA bypass via race condition](https://www.reddit.com/r/bugbounty/comments/1vs19c5/2fa_bypass_via_race_condition/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>I found a 2FA bypass where I can send concurrent requests via a single packet attack which bypasses the rate limit for predictable 5 digits, However the program polic_
-
-- [A payment decision has been made for my HackerOne report, but the payment has not been made yet.](https://www.reddit.com/r/bugbounty/comments/1vsqipv/a_payment_decision_has_been_made_for_my_hackerone/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>A payment decision was made for my report on HackerOne almost two weeks ago, but the payment has still not been made. My report was triaged, and I was later told that_
-
-- [Suggestions needed](https://www.reddit.com/r/bugbounty/comments/1vskhr1/suggestions_needed/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>I submit a valid P3 report. They agree that it is P3, but due to program policy, they are not accepting it. So, he asked me to chain this vulnerability to a P2 or P1 _
-
-- [Bugcrowd Report: Vulnerable Chrome Extension Removed, New Beta Version Released — What Happens to My Report?](https://www.reddit.com/r/bugbounty/comments/1vsxgdl/bugcrowd_report_vulnerable_chrome_extension/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/bugbounty/comments/1vsxgdl/bugcrowd_report_vulnerable_chrome_extension/"> <img alt="Bugcrowd Report: Vulnerable Chrome Extension Removed, New Beta Ve_
-
-- [Swisscom Bug Bounty response time?](https://www.reddit.com/r/bugbounty/comments/1vsw3eo/swisscom_bug_bounty_response_time/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>For anyone who has experience with the Swisscom bug bounty program: how long does it usually take to get a response after submitting a vulnerability?</p> <p>Also is S_
-
 - [Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE](https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
   - _Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape_
 
-- [Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code](https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution.  The vulnerability, trac_
-
 ## 🎓 Free Certifications
+
+- [ISC Stormcast For Friday, August 21st, 2026 https://isc.sans.edu/podcastdetail/10062, (Fri, Aug 21st)](https://isc.sans.edu/diary/rss/33270)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 - [Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities](https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/)
   - Confidence: 🟢 HIGH
@@ -104,11 +56,6 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>Learn how organizations can develop relevant offensive knowledge across every security function responsible for AI systems.</p> <p>The post <a href="https://www.offsec.com/blog/who-secures-ai-when-_
 
-- [ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail/10060, (Thu, Aug 20th)](https://isc.sans.edu/diary/rss/33262)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## 🔥 Hackathons & Conferences
 
 - [Detailed Timeline of OpenAI’s Cyberattack on Hugging Face](https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html)
@@ -117,6 +64,22 @@ tags:
   - _<p>OpenAI <a href="https://www.youtube.com/watch?v=87DyyMV0kCY">presented</a> details of its AI&#8217;s model&#8217;s cyberattack on Hugging Face at Black Hat last week. Simon Willison <a href="https:_
 
 ## ❓ Uncategorized
+
+- [ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More](https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html)
+  - Confidence: 🟫 LOW
+  - _A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do.  Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header ch_
+
+- [Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution](https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html)
+  - Confidence: 🟫 LOW
+  - _Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required.  The vulnerability, tracked as _
+
+- [Even MOAR Powershell, looking at Entra logins - the good, the bad and the password sprays, (Fri, Aug 21st)](https://isc.sans.edu/diary/rss/33268)
+  - Confidence: 🟫 LOW
+  - _<p>One thing that folks never seem to do after "going to the CLOOOOUUUUD" is to look at their logs, logs that they would have checked daily when things were on premise.<br />&#xd; One log that really _
+
+- [Who Got Missed in the MFA Rollout&#x3f; More Powershell &#x2b; Graph &#x2b; Entra scripting&#x21;, (Fri, Aug 21st)](https://isc.sans.edu/diary/rss/33272)
+  - Confidence: 🟫 LOW
+  - _<p>In every MFA rollout, there will come a time where you think you are closing in on "done", and some automation to list what&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s left would be handy.  Something _
 
 - [ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More](https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html)
   - Confidence: 🟫 LOW
