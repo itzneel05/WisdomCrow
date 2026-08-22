@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-22
-date: 2026-08-22T06:34:56Z
+date: 2026-08-22T12:33:01Z
 type: radar-report
 report_type: fast
-total_opportunities: 45
+total_opportunities: 41
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 45
+**Total opportunities:** 41
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 43 |
-| 🎓 Free Certifications | 2 |
+| ❓ Uncategorized | 40 |
+| 🎓 Free Certifications | 1 |
 
 ## 🎓 Free Certifications
 
@@ -27,12 +27,11 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review.  Four of the security vulnerab_
 
-- [ISC Stormcast For Friday, August 21st, 2026 https://isc.sans.edu/podcastdetail/10062, (Fri, Aug 21st)](https://isc.sans.edu/diary/rss/33270)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [Microsoft patches max severity code execution, privilege escalation flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]_
 
 - [14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2](https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html)
   - Confidence: 🟫 LOW
@@ -189,19 +188,3 @@ tags:
 - [CISA orders feds to patch actively exploited TrueConf Server flaws](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/)
   - Confidence: 🟫 LOW
   - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communic_
-
-- [ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More](https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html)
-  - Confidence: 🟫 LOW
-  - _A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do.  Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header ch_
-
-- [Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution](https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html)
-  - Confidence: 🟫 LOW
-  - _Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required.  The vulnerability, tracked as _
-
-- [Even MOAR Powershell, looking at Entra logins - the good, the bad and the password sprays, (Fri, Aug 21st)](https://isc.sans.edu/diary/rss/33268)
-  - Confidence: 🟫 LOW
-  - _<p>One thing that folks never seem to do after "going to the CLOOOOUUUUD" is to look at their logs, logs that they would have checked daily when things were on premise.<br />&#xd; One log that really _
-
-- [Who Got Missed in the MFA Rollout&#x3f; More Powershell &#x2b; Graph &#x2b; Entra scripting&#x21;, (Fri, Aug 21st)](https://isc.sans.edu/diary/rss/33272)
-  - Confidence: 🟫 LOW
-  - _<p>In every MFA rollout, there will come a time where you think you are closing in on "done", and some automation to list what&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s left would be handy.  Something _
