@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-22
-date: 2026-08-22T01:03:04Z
+date: 2026-08-22T06:34:56Z
 type: radar-report
 report_type: fast
-total_opportunities: 52
+total_opportunities: 45
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 52
+**Total opportunities:** 45
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 50 |
+| ❓ Uncategorized | 43 |
 | 🎓 Free Certifications | 2 |
 
 ## 🎓 Free Certifications
@@ -205,31 +205,3 @@ tags:
 - [Who Got Missed in the MFA Rollout&#x3f; More Powershell &#x2b; Graph &#x2b; Entra scripting&#x21;, (Fri, Aug 21st)](https://isc.sans.edu/diary/rss/33272)
   - Confidence: 🟫 LOW
   - _<p>In every MFA rollout, there will come a time where you think you are closing in on "done", and some automation to list what&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s left would be handy.  Something _
-
-- [ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More](https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html)
-  - Confidence: 🟫 LOW
-  - _A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do.  Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header ch_
-
-- [Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts](https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html)
-  - Confidence: 🟫 LOW
-  - _Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, gov_
-
-- [Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads](https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html)
-  - Confidence: 🟫 LOW
-  - _The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose bui_
-
-- [The Curious Incidents with DNS in the Sandbox at Escape-Time](https://www.reddit.com/r/netsec/comments/1vsbk66/the_curious_incidents_with_dns_in_the_sandbox_at/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Three variations on subversive use of DNS by the Agent are documented in Hugging Face's technical writeup of the July 2026 security incident involving OpenAI models. _
-
-- [ValleyRAT campaign uses fake GSTR-3B overdue notice targeting Indian taxpayers](https://www.reddit.com/r/netsec/comments/1vsm77y/valleyrat_campaign_uses_fake_gstr3b_overdue/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/unknownhad"> /u/unknownhad </a> <br /> <span><a href="https://blog.himanshuanand.com/2026/08/someone-is-filing-your-gst-return-and-it-is-n_
-
-- [CRLF-Powered Desync Attacks: Beheading HTTP Streams](https://www.reddit.com/r/netsec/comments/1vslpnb/crlfpowered_desync_attacks_beheading_http_streams/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/t0xodile"> /u/t0xodile </a> <br /> <span><a href="https://portswigger.net/research/crlf-powered-desync-attacks">[link]</a></span> &#32; <s_
-
-- [How to break secure boot without touching any cryptography](https://www.reddit.com/r/netsec/comments/1vskftw/how_to_break_secure_boot_without_touching_any/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I finally found some time to organize my notes on secure boot, remote attestation, measured boot and in general embedded security. </p> <p>This is not ground breaking_
