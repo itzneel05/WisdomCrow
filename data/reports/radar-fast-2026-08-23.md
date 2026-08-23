@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-23
-date: 2026-08-23T06:36:17Z
+date: 2026-08-23T12:33:47Z
 type: radar-report
 report_type: fast
-total_opportunities: 22
+total_opportunities: 23
 tags:
   - radar
   - fast
@@ -13,14 +13,24 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 22
+**Total opportunities:** 23
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 20 |
-| 🏰 CTF Competitions | 2 |
+| ❓ Uncategorized | 19 |
+| 🏰 CTF Competitions | 4 |
 
 ## 🏰 CTF Competitions
+
+- [SCAN 2026 Final](https://ctftime.org/event/3417)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: SCAN 2026 Final (an <a href="/ctf/1190">SCAN Digital Asset Tracing Challenge</a> event.)<br /> Date: Sept. 28, 2026, 1 a.m. &mdash; 28 Sept. 2026, 08:00 UTC &nbsp;<a href="/event/3417.ics">[add _
+
+- [DiceCTF 2026 Finals](https://ctftime.org/event/3416)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: DiceCTF 2026 Finals (an <a href="/ctf/568">DiceCTF</a> event.)<br /> Date: Aug. 29, 2026, 4 p.m. &mdash; 30 Aug. 2026, 22:00 UTC &nbsp;<a href="/event/3416.ics">[add to calendar]</a><br /> Forma_
 
 - [COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)](https://ctftime.org/event/3290)
   - Confidence: 🟢 HIGH
@@ -109,7 +119,3 @@ tags:
 - [Hackers infect Android car head units with proxy botnet malware](https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/)
   - Confidence: 🟫 LOW
   - _A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [.._
-
-- [Microsoft patches max severity code execution, privilege escalation flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]_
