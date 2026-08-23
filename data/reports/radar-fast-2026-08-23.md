@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-23
-date: 2026-08-23T12:33:47Z
+date: 2026-08-23T18:25:47Z
 type: radar-report
 report_type: fast
-total_opportunities: 23
+total_opportunities: 37
 tags:
   - radar
   - fast
@@ -13,14 +13,25 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 23
+**Total opportunities:** 37
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 19 |
+| ❓ Uncategorized | 32 |
 | 🏰 CTF Competitions | 4 |
+| 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
+
+- [Looking for a Team to Build CTF Challenges](https://www.reddit.com/r/tryhackme/comments/1vv3s11/looking_for_a_team_to_build_ctf_challenges/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Silent-Witness-8007"> /u/Silent-Witness-8007 </a> <br /> <span><a href="/r/securityCTF/comments/1vv3rtl/looking_for_a_team_to_build_ctf_ch_
+
+- [🚩 STOP JUST WATCHING. START HACKING. - CTF Chanllenges](https://www.reddit.com/r/tryhackme/comments/1vw22uq/stop_just_watching_start_hacking_ctf_chanllenges/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1vw22uq/stop_just_watching_start_hacking_ctf_chanllenges/"> <img alt="🚩 STOP JUST WATCHING. START HACKING. - CTF Chanllenges" src=_
 
 - [SCAN 2026 Final](https://ctftime.org/event/3417)
   - Confidence: 🟢 HIGH
@@ -32,17 +43,130 @@ tags:
   - Tags: `ctf`
   - _Name: DiceCTF 2026 Finals (an <a href="/ctf/568">DiceCTF</a> event.)<br /> Date: Aug. 29, 2026, 4 p.m. &mdash; 30 Aug. 2026, 22:00 UTC &nbsp;<a href="/event/3416.ics">[add to calendar]</a><br /> Forma_
 
-- [COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)](https://ctftime.org/event/3290)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION) (an <a href="/ctf/502">COMPFEST CTF</a> event.)<br /> Date: Aug. 29, 2026, midnight &mdash; 30 Aug. 2026, 00:00 UTC &nbsp;<a href="/event/3290.ics"_
+## 🎓 Free Certifications
 
-- [What am I missing from my tools list?](https://www.reddit.com/r/AskNetsec/comments/1vve110/what_am_i_missing_from_my_tools_list/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>so I've been putting together a categorized list of pentest/security tools for a while now, honestly just for myself at first because I kept forgetting what does what_
+- [How are Cisco firewalls these days?](https://www.reddit.com/r/cybersecurity/comments/1vuwamd/how_are_cisco_firewalls_these_days/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _<!-- SC_OFF --><div class="md"><p>I used to deploy a lot of 5506 firewalls, and at the time, firepower kinda sucked. I ended up moving to Fortinet, but they’ve really been dropping the ball a lot late_
 
 ## ❓ Uncategorized
+
+- [Cpent is tough](https://www.reddit.com/r/tryhackme/comments/1vv8qaw/cpent_is_tough/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Zodiak_130810"> /u/Zodiak_130810 </a> <br /> <span><a href="/r/Pentesting/comments/1vv8q5w/cpent_is_tough/">[link]</a></span> &#32; <span>_
+
+- [Salut à tous !](https://www.reddit.com/r/tryhackme/comments/1vvw5p3/salut_à_tous/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>J’aimerais avoir quelques conseils pour me lancer dans le Hack éthique.<br /> Si quelques-uns d’entre vous pouvaient me renseigner ou me dire où je dois chercher les _
+
+- [Rate my 8-Month Cybersecurity Roadmap for Landing a Job Post-Graduation (IT Student)](https://www.reddit.com/r/tryhackme/comments/1vv97x1/rate_my_8month_cybersecurity_roadmap_for_landing/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I’m currently in my 3rd year of IT. Through my university courses, I have covered basic programming concepts (Java, OOP, Data Structures), Operati_
+
+- [Is Jr Penetration Tester worth ?](https://www.reddit.com/r/tryhackme/comments/1vvpbv9/is_jr_penetration_tester_worth/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hello ethical people.</p> <p>I started the beautiful world of the cybersecurity for now one year.</p> <p>I do a lot, a loooot of networking (Wireshark my best friend)_
+
+- [I just completed Prompt Engineering room on TryHackMe! Learn how LLMs process text and craft effective prompts for security and adversarial testing.](https://www.reddit.com/r/tryhackme/comments/1vvyg2j/i_just_completed_prompt_engineering_room_on/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Get started with this if you want to understand AI security better! highly recommended.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit._
+
+- [cs student pivoting to cyber — how to actually land a part time Help Desk job while in school?](https://www.reddit.com/r/tryhackme/comments/1vvzrge/cs_student_pivoting_to_cyber_how_to_actually_land/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Looking for some real advice on breaking into IT/cyber. I’m currently a senior studying CS (minor in data science) with a background in SWE (internships) and hands on_
+
+- [need guidance in getting into Cybersecurity](https://www.reddit.com/r/cybersecurity/comments/1vw1isb/need_guidance_in_getting_into_cybersecurity/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>hi! im 22f. Cybersecurity student. im new to this field and the university im in doesnt really teach well to really understand the subjects.</p> <p>i need someone who_
+
+- [I was hacked on Microsoft and somebody told me to come here](https://www.reddit.com/r/cybersecurity/comments/1vw88g1/i_was_hacked_on_microsoft_and_somebody_told_me_to/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I have proof showing the account was mine, I can’t log in to it anymore and I can’t do a lot of the stuff with Microsoft support since I no longer have the account st_
+
+- [How does the malware search process work?](https://www.reddit.com/r/cybersecurity/comments/1vvjolq/how_does_the_malware_search_process_work/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone, I’m a malware analysis learner. Earlier this week, while hunting for samples on MalwareBazaar, a question crossed my mind: how do malware researchers act_
+
+- [I Am A Young Teenager Looking To Get Into Cybersecurity what skills will I need?](https://www.reddit.com/r/cybersecurity/comments/1vw1bhk/i_am_a_young_teenager_looking_to_get_into/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>How can I set up skills to be able to setup a good future for myself, I specifically want to have a career in cybersecurity because I am interested in computers. Any _
+
+- [Fal.con does it suck?](https://www.reddit.com/r/cybersecurity/comments/1vuz979/falcon_does_it_suck/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>We recently went full Crowdstrike, and got Fal.con tickets. Is this thing going to blow? I haven't found a ton of independent info online about the event. Only promos_
+
+- [Opsec feels like paranoia](https://www.reddit.com/r/cybersecurity/comments/1vw6znv/opsec_feels_like_paranoia/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I think full OPSEC is overkill for regular people. It’s only really relevant if you’re someone at actual risk. For most of us, the only useful thing is not sharing to_
+
+- [Log everything, I’m begging you](https://www.reddit.com/r/cybersecurity/comments/1vuooju/log_everything_im_begging_you/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Yes, there’s noise you can filter out, but you need to log things!<br /> A client I work with finally implemented DNS resolver logs and we found unmanaged devices (th_
+
+- [secure browser?](https://www.reddit.com/r/cybersecurity/comments/1vw5n11/secure_browser/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Is anyone using a secure browser? We’ll be providing HTTPS, HTTP, SSH and RDP for third-party users; we’re looking for something that might replace VDI in the future._
+
+- [Fellas a lil help please.](https://www.reddit.com/r/cybersecurity/comments/1vw78ph/fellas_a_lil_help_please/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Fellas and fellinas, im starting uni doing cybersec this september, im trynna get a job straight out of uni and the first year is mostly moneygrab filler stuff and li_
+
+- [Australia - Is a Cert IV in digital forensics worth it ? considering it is very expensive](https://www.reddit.com/r/cybersecurity/comments/1vva2r7/australia_is_a_cert_iv_in_digital_forensics_worth/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Any_Recording_7929"> /u/Any_Recording_7929 </a> <br /> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1vva2r7/australia_is_
+
+- [My Road map for the next 2years atleast](https://www.reddit.com/r/cybersecurity/comments/1vw9hkr/my_road_map_for_the_next_2years_atleast/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Here is my road map that i put my self to learn web security /network security any thoughts? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.r_
+
+- [Do phishing simulations actually change employee behavior?](https://www.reddit.com/r/cybersecurity/comments/1vv4ck2/do_phishing_simulations_actually_change_employee/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>For companies that run phishing simulations, have you actually seen people become better at spotting suspicious emails?</p> <p>I can see the value in training, but I’_
+
+- [Splunk app for investigating AWS CloudTrail alerts - looking for feedback](https://www.reddit.com/r/cybersecurity/comments/1vw3h86/splunk_app_for_investigating_aws_cloudtrail/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>EventTimeline, a free Splunk app that turns CloudTrail alerts from saved searches into investigation timelines.</p> <p>You can send any CloudTrail-based Splunk alert _
+
+- [Posting Repos](https://www.reddit.com/r/cybersecurity/comments/1vw92hd/posting_repos/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I noticed a user just posting a repo link with one sentence here. Some other sub reddita class this as &quot;low effort &quot; </p> <p>But this is ok here?</p> <p>I a_
+
+- [Hey folks,Security engineer here. Doing SOC work. Want to get into detection engineering/ Incident Response. Whats it like working IR. What kind of projects would one get ? Any suggestions are appreciated](https://www.reddit.com/r/cybersecurity/comments/1vvrlt9/hey_folkssecurity_engineer_here_doing_soc_work/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/HearingLast1637"> /u/HearingLast1637 </a> <br /> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1vvrlt9/hey_folkssecurity__
+
+- [TrueConf flaws enabling attacks on meeting participants added to KEV catalog](https://www.reddit.com/r/cybersecurity/comments/1vwdq35/trueconf_flaws_enabling_attacks_on_meeting/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1vwdq35/trueconf_flaws_enabling_attacks_on_meeting/"> <img alt="TrueConf flaws enabling attacks on meeting participants added _
+
+- [So what do you actually do day to day?](https://www.reddit.com/r/cybersecurity/comments/1vvoe6w/so_what_do_you_actually_do_day_to_day/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I can read a job description but I wanna know what your day to day looks like? Do you sit and stare at a screen until something pops up red? Are you actively looking _
+
+- [COVER: Replace your secrets before they are sent to LLM and get the original value back](https://www.reddit.com/r/cybersecurity/comments/1vvl4ra/cover_replace_your_secrets_before_they_are_sent/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1vvl4ra/cover_replace_your_secrets_before_they_are_sent/"> <img alt="COVER: Replace your secrets before they are sent to LLM a_
+
+- [Metasploit Vulnerabilities](https://www.reddit.com/r/cybersecurity/comments/1vwdwkn/metasploit_vulnerabilities/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I want to learn how to exploit vulnerabilities using Metasploit. Can someone give me ideas on how to do this or recommend a step-by-step guide on vulnerability exploi_
+
+- [Looking for a cybersecurity risk assessment sample report](https://www.reddit.com/r/cybersecurity/comments/1vw7drr/looking_for_a_cybersecurity_risk_assessment/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I have tried looking on the internet for a sample report on cybersecurity risk assessment based on NIST CSF/800-53. </p> <p>I have not found one.</p> <p>I understand _
+
+- [Splunk](https://www.reddit.com/r/cybersecurity/comments/1vw073v/splunk/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I want to learn how to use splunk (cybersecurity analyst).<br /> Any suggestion courses, certifcation ..?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="h_
+
+- [I left my role as a security practitioner to happily work for a vendor. Ask Me Anything about the other side of the table.](https://www.reddit.com/r/cybersecurity/comments/1vw9o2u/i_left_my_role_as_a_security_practitioner_to/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p><strong>This AMA will run all week from 08-23-2026 to 08-28-2026. The editors at CISO Series present this AMA.</strong> </p> <p>This month, we've gathered a group of _
+
+- [ToxicPanda Android malware uses VPN permissions to block Google Play](https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/)
+  - Confidence: 🟫 LOW
+  - _The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]_
 
 - [Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight](https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/)
   - Confidence: 🟫 LOW
@@ -55,67 +179,3 @@ tags:
 - [TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html)
   - Confidence: 🟫 LOW
   - _The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country._
-
-- [The absolute worst OSINT mistakes beginners make that completely blow their OpSec?](https://www.reddit.com/r/AskNetsec/comments/1vu0yic/the_absolute_worst_osint_mistakes_beginners_make/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey guys, let’s do a reality check. What are the most common, stupid mistakes people make when starting with digital investigations that instantly burn their burner a_
-
-- [How do you validate WordPress vulnerability findings before notifying customers?](https://www.reddit.com/r/AskNetsec/comments/1vu9cge/how_do_you_validate_wordpress_vulnerability/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I’m helping establish an authorized website-security process for a hosting company. Most of the assets are WordPress sites, and the work will be limited to websites o_
-
-- [What actually works for session hijacking prevention after a user has completed MFA?](https://www.reddit.com/r/AskNetsec/comments/1vu8wsq/what_actually_works_for_session_hijacking/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>MFA stops the initial compromise but does nothing once an attacker has a valid session token, and we've seen that gap exploited more than once this year.</p> <p>what'_
-
-- [[ Removed by Reddit ]](https://www.reddit.com/r/AskNetsec/comments/1vud1kv/removed_by_reddit/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>[ Removed by Reddit on account of violating the <a href="/help/contentpolicy">content policy</a>. ]</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https:/_
-
-- [Is authentication really the hard part of keeping an account secure?](https://www.reddit.com/r/AskNetsec/comments/1vuhdwr/is_authentication_really_the_hard_part_of_keeping/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>A strong login doesn't necessarily stop an account from being taken over later.</p> <p>Recovery flows, password resets, new devices, session changes, and support requ_
-
-- [SIEM question](https://www.reddit.com/r/AskNetsec/comments/1vuhkco/siem_question/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi All!!!<br /> Does anyone have any personal experiences working with Seceon Siem? And if so, would you share? Are they a good siem to go with?<br /> Thank you!</p> _
-
-- [Are you guys automating containment / isolation?](https://www.reddit.com/r/AskNetsec/comments/1vurnbi/are_you_guys_automating_containment_isolation/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I've heard from a friend that their (small) team is starting to try and automate much more of their containment process, as they are trying to reduce the manual appro_
-
-- [What's the best way to trace vulnerability ownership across engineering teams in 2026](https://www.reddit.com/r/AskNetsec/comments/1vucxxe/whats_the_best_way_to_trace_vulnerability/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Not even exaggerating. Got a P1 finding flagged in one of our services, and then spent three days pinging people in Slack trying to figure out who actually owns it. T_
-
-- [How are people handling security boundaries for coding agents in practice?](https://www.reddit.com/r/AskNetsec/comments/1vut5xm/how_are_people_handling_security_boundaries_for/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>We’ve been testing a setup where agent permissions are enforced outside the agent itself, with separate controls for tools, data sources, approvals, auditability, and_
-
-- [How do you detect a compromised identity when the login itself looks legitimate?](https://www.reddit.com/r/AskNetsec/comments/1vudrr3/how_do_you_detect_a_compromised_identity_when_the/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>had an incident where the attacker used valid credentials from a legitimate device and the login itself tripped zero alerts.</p> <p>attackers aren't breaking in anymo_
-
-- [Is there a security platform that doesn’t just find vulnerabilities, but prioritizes what actually matters and automatically remediates them too?](https://www.reddit.com/r/AskNetsec/comments/1vubbbh/is_there_a_security_platform_that_doesnt_just/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Feels like most security tools are really good at telling you what’s wrong and then leaving you with a massive list to deal with.</p> <p>Is there anything that can fi_
-
-- [How are teams scoping write permissions for LLM agents that touch staging/prod config?](https://www.reddit.com/r/AskNetsec/comments/1vuz8ap/how_are_teams_scoping_write_permissions_for_llm/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Looking at how to bound what an autonomous agent can modify when it has legitimate write access to infrastructure config, not just what task it's authorized to perfor_
-
-- [I been trying so hard so i can retrieve my app lock password](https://www.reddit.com/r/AskNetsec/comments/1vvaacn/i_been_trying_so_hard_so_i_can_retrieve_my_app/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Yooo, I've been trying to recover access to an app because I forgot the App Lock password, and I really don't want to reformat/reset the device.</p> <p>I'm working on_
-
-- [what does cybersecurity for small business look like without overcomplicating it?](https://www.reddit.com/r/AskNetsec/comments/1vvacgk/what_does_cybersecurity_for_small_business_look/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>we’re a really small business and don’t have a dedicated it person or security team yet.</p> <p>we have a handful of laptops, email accounts, shared files, and the us_
-
-- [Named Pipes Under Attack: Securing Windows Interprocess Communication](https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/)
-  - Confidence: 🟫 LOW
-  - _Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command au_
-
-- [Hackers infect Android car head units with proxy botnet malware](https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/)
-  - Confidence: 🟫 LOW
-  - _A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [.._
