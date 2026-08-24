@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-24
-date: 2026-08-24T06:52:07Z
+date: 2026-08-24T12:43:40Z
 type: radar-report
 report_type: fast
-total_opportunities: 39
+total_opportunities: 48
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 39
+**Total opportunities:** 48
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 32 |
-| 🏰 CTF Competitions | 4 |
+| ❓ Uncategorized | 41 |
+| 💰 Bug Bounties | 3 |
+| 🏰 CTF Competitions | 2 |
 | 🎓 Free Certifications | 2 |
-| 💰 Bug Bounties | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -34,17 +34,17 @@ tags:
   - Tags: `ctf`
   - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1vw22uq/stop_just_watching_start_hacking_ctf_chanllenges/"> <img alt="🚩 STOP JUST WATCHING. START HACKING. - CTF Chanllenges" src=_
 
-- [SCAN 2026 Final](https://ctftime.org/event/3417)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: SCAN 2026 Final (an <a href="/ctf/1190">SCAN Digital Asset Tracing Challenge</a> event.)<br /> Date: Sept. 28, 2026, 1 a.m. &mdash; 28 Sept. 2026, 08:00 UTC &nbsp;<a href="/event/3417.ics">[add _
-
-- [DiceCTF 2026 Finals](https://ctftime.org/event/3416)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: DiceCTF 2026 Finals (an <a href="/ctf/568">DiceCTF</a> event.)<br /> Date: Aug. 29, 2026, 4 p.m. &mdash; 30 Aug. 2026, 22:00 UTC &nbsp;<a href="/event/3416.ics">[add to calendar]</a><br /> Forma_
-
 ## 💰 Bug Bounties
+
+- [When fear no longer holds you back. Interview with Ryan Bonner (Roll4CombatUS)](https://www.intigriti.com/researchers/blog/hacker-spotlight/interview-with-ryan-bonner-aka-roll4combatus)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`, `india_friendly`
+  - _Ryan Bonner, also known as Roll4CombatUS, is a respected Bug Bounty hunter, consultant, speaker, and Intigriti Hacker Ambassador based in the United States. In today’s interview, we discuss his journe_
+
+- [When fear no longer holds you back. Interview with Ryan Bonner (Roll4CombatUS)](https://www.intigriti.com/blog/business-insights/interview-with-ryan-bonner-roll4combatus)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`, `india_friendly`
+  - _Ryan Bonner, also known as Roll4CombatUS, is a respected Bug Bounty hunter, consultant, speaker, and Intigriti Hacker Ambassador based in the United States. In today’s interview, we discuss his journe_
 
 - [Zyrexnn/Cybermes](https://github.com/Zyrexnn/Cybermes)
   - Confidence: 🟢 HIGH
@@ -64,6 +64,42 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>I used to deploy a lot of 5506 firewalls, and at the time, firepower kinda sucked. I ended up moving to Fortinet, but they’ve really been dropping the ball a lot late_
 
 ## ❓ Uncategorized
+
+- [UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit](https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology_
+
+- [The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk](https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html)
+  - Confidence: 🟫 LOW
+  - _Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is p_
+
+- [Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor](https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent.  The campaign, codenamed O_
+
+- [Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account](https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html)
+  - Confidence: 🟫 LOW
+  - _Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker _
+
+- [Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt](https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html)
+  - Confidence: 🟫 LOW
+  - _If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.  The harder part is what comes after. AI c_
+
+- [DOUBLECUP's PNG Payload, (Mon, Aug 24th)](https://isc.sans.edu/diary/rss/33274)
+  - Confidence: 🟫 LOW
+  - _<p>New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest <a href="https://socradar.io/blog/doublecup-clickfix-loader-devicemanager-rats/">DOU_
+
+- [Microsoft shares temporary fix for Windows 11 gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]_
+
+- [CISA orders urgent patching of actively exploited Zimbra flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/)
+  - Confidence: 🟫 LOW
+  - _The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [.._
+
+- [Microsoft: August updates break printing, PDF export in WPF apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications. [...]_
 
 - [Week in review: Records allegedly stolen from Azure tenants, Medusa ransomware hits 500+ orgs](https://www.helpnetsecurity.com/2026/08/23/week-in-review-records-allegedly-stolen-from-azure-tenants-medusa-ransomware-hits-500-orgs/)
   - Confidence: 🟫 LOW
