@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-24
-date: 2026-08-24T01:06:00Z
+date: 2026-08-24T06:52:07Z
 type: radar-report
 report_type: fast
-total_opportunities: 38
+total_opportunities: 39
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 38
+**Total opportunities:** 39
 
 | Category | Count |
 |----------|-------|
 | ❓ Uncategorized | 32 |
 | 🏰 CTF Competitions | 4 |
+| 🎓 Free Certifications | 2 |
 | 💰 Bug Bounties | 1 |
-| 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -52,6 +52,11 @@ tags:
   - _Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration._
 
 ## 🎓 Free Certifications
+
+- [ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)](https://isc.sans.edu/diary/rss/33276)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 - [How are Cisco firewalls these days?](https://www.reddit.com/r/cybersecurity/comments/1vuwamd/how_are_cisco_firewalls_these_days/)
   - Confidence: 🟢 HIGH
