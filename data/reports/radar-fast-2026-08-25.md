@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-25
-date: 2026-08-25T06:41:22Z
+date: 2026-08-25T12:42:04Z
 type: radar-report
 report_type: fast
-total_opportunities: 51
+total_opportunities: 58
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 51
+**Total opportunities:** 58
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 44 |
-| 🎓 Free Certifications | 3 |
+| ❓ Uncategorized | 52 |
 | 💰 Bug Bounties | 2 |
 | 🏰 CTF Competitions | 2 |
+| 🎓 Free Certifications | 2 |
 
 ## 🏰 CTF Competitions
 
@@ -58,12 +58,51 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>Job postings asking for AI skills in cybersecurity have doubled in a single year in G7 countries according to new research from the Cisco-founded AI Workforce Consortium. Analysis from recruitment _
 
-- [ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)](https://isc.sans.edu/diary/rss/33276)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data](https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnera_
+
+- [Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access](https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html)
+  - Confidence: 🟫 LOW
+  - _Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as an_
+
+- [Frontier AI: Vulnerability Management's Systemic Revolution](https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html)
+  - Confidence: 🟫 LOW
+  - _Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also exi_
+
+- [E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands](https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4_
+
+- [24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages](https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages.  "While _
+
+- [Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows](https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html)
+  - Confidence: 🟫 LOW
+  - _Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and_
+
+- [Built a Python-based lateral movement detector from scratch — here's how it works and what I learned](https://www.reddit.com/r/netsecstudents/comments/1vwit1q/built_a_pythonbased_lateral_movement_detector/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Lateral movement is one of the hardest attack stages to catch — once an attacker is inside a network, their traffic (SSH sessions, file transfers) often looks like no_
+
+- [56 Linux Commands Before Your First Nmap Scan | Beginner Lab Atlas](https://www.reddit.com/r/netsecstudents/comments/1vwm842/56_linux_commands_before_your_first_nmap_scan/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I'm building a step-by-step path from terminal basics → real nmap recon.</p> <p>Before touching nmap, most beginners stall on the same stuff: navigation, reading outp_
+
+- [Code Execution via Text Template Files](https://www.reddit.com/r/netsecstudents/comments/1vwyevw/code_execution_via_text_template_files/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/netbiosX"> /u/netbiosX </a> <br /> <span><a href="https://ipurple.team/2026/08/24/text-template/">[link]</a></span> &#32; <span><a href="h_
+
+- [Police arrests dozens of suspects in global cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/)
+  - Confidence: 🟫 LOW
+  - _Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]_
+
+- [Hackers breached over 270 Zimbra servers in ongoing attacks](https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/)
+  - Confidence: 🟫 LOW
+  - _Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]_
 
 - [Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning](https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html)
   - Confidence: 🟫 LOW
@@ -228,15 +267,3 @@ tags:
 - [DOUBLECUP's PNG Payload, (Mon, Aug 24th)](https://isc.sans.edu/diary/rss/33274)
   - Confidence: 🟫 LOW
   - _<p>New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest <a href="https://socradar.io/blog/doublecup-clickfix-loader-devicemanager-rats/">DOU_
-
-- [Microsoft shares temporary fix for Windows 11 gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]_
-
-- [CISA orders urgent patching of actively exploited Zimbra flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/)
-  - Confidence: 🟫 LOW
-  - _The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [.._
-
-- [Microsoft: August updates break printing, PDF export in WPF apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications. [...]_
