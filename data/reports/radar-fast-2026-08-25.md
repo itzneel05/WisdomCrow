@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-25
-date: 2026-08-25T12:42:04Z
+date: 2026-08-25T18:36:37Z
 type: radar-report
 report_type: fast
-total_opportunities: 58
+total_opportunities: 48
 tags:
   - radar
   - fast
@@ -13,40 +13,27 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 58
+**Total opportunities:** 48
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 52 |
-| 💰 Bug Bounties | 2 |
-| 🏰 CTF Competitions | 2 |
-| 🎓 Free Certifications | 2 |
-
-## 🏰 CTF Competitions
-
-- [Crate-CTF 2026](https://ctftime.org/event/3336)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: Crate-CTF 2026 (an <a href="/ctf/1172">Crate-CTF</a> event.)<br /> Date: Nov. 21, 2026, 1 p.m. &mdash; 21 Nov. 2026, 21:00 UTC &nbsp;<a href="/event/3336.ics">[add to calendar]</a><br /> Format:_
-
-- [HKCERT CTF 2026 (Qualifying Round)](https://ctftime.org/event/3418)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: HKCERT CTF 2026 (Qualifying Round) (an <a href="/ctf/529">HKCERT CTF</a> event.)<br /> Date: Nov. 6, 2026, 10 a.m. &mdash; 07 Nov. 2026, 10:00 UTC &nbsp;<a href="/event/3418.ics">[add to calenda_
+| ❓ Uncategorized | 44 |
+| 🎓 Free Certifications | 3 |
+| 💰 Bug Bounties | 1 |
 
 ## 💰 Bug Bounties
 
-- [When fear no longer holds you back. Interview with Ryan Bonner (Roll4CombatUS)](https://www.intigriti.com/researchers/blog/hacker-spotlight/interview-with-ryan-bonner-aka-roll4combatus)
+- [What's in a tag name? JavaScript, apparently](https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently)
   - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `india_friendly`
-  - _Ryan Bonner, also known as Roll4CombatUS, is a respected Bug Bounty hunter, consultant, speaker, and Intigriti Hacker Ambassador based in the United States. In today’s interview, we discuss his journe_
-
-- [When fear no longer holds you back. Interview with Ryan Bonner (Roll4CombatUS)](https://www.intigriti.com/blog/business-insights/interview-with-ryan-bonner-roll4combatus)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `india_friendly`
-  - _Ryan Bonner, also known as Roll4CombatUS, is a respected Bug Bounty hunter, consultant, speaker, and Intigriti Hacker Ambassador based in the United States. In today’s interview, we discuss his journe_
+  - Tags: `bug_bounty`
+  - _I was on my laptop, as I often am when there's rubbish on telly, and found myself wondering what characters are allowed in a tag. I knew they had to begin with "a-zA-Z", but what about after that? I t_
 
 ## 🎓 Free Certifications
+
+- [Obfuscating IP Addresses as Hostnames, (Tue, Aug 25th)](https://isc.sans.edu/diary/rss/33280)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _<p>It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about <a href="https://_
 
 - [ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)](https://isc.sans.edu/diary/rss/33278)
   - Confidence: 🟢 HIGH
@@ -59,6 +46,38 @@ tags:
   - _<p>Job postings asking for AI skills in cybersecurity have doubled in a single year in G7 countries according to new research from the Cisco-founded AI Workforce Consortium. Analysis from recruitment _
 
 ## ❓ Uncategorized
+
+- [Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode](https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html)
+  - Confidence: 🟫 LOW
+  - _Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted noteboo_
+
+- [WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android](https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html)
+  - Confidence: 🟫 LOW
+  - _Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accou_
+
+- [A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw](https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html)
+  - Confidence: 🟫 LOW
+  - _Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden _
+
+- [WhatsApp adds stronger two-step verification, multiple passkeys](https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/)
+  - Confidence: 🟫 LOW
+  - _WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]_
+
+- [Microsoft PowerToys adds Alt+Tab-style switching for an app's windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/)
+  - Confidence: 🟫 LOW
+  - _Microsoft updated its Windows PowerToys toolset with a new utility dubbed "Window Hopper" that lets users switch between an app's windows more quickly. [...]_
+
+- [From Fake Workers to Account Recovery: The Growing Identity Verification Risk](https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/)
+  - Confidence: 🟫 LOW
+  - _Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizati_
+
+- [Hospital operator Nutex Health says data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/)
+  - Confidence: 🟫 LOW
+  - _Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]_
+
+- [Massive DDoS attack disrupts Norway’s government digital services](https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/)
+  - Confidence: 🟫 LOW
+  - _A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]_
 
 - [Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data](https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html)
   - Confidence: 🟫 LOW
@@ -203,67 +222,3 @@ tags:
 - [Tricky 'SynkLoader' Multitool May Herald Ransomware](https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware)
   - Confidence: 🟫 LOW
   - _An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features._
-
-- [WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords](https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have flagged two new malware families called  WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups.  According_
-
-- [⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More](https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html)
-  - Confidence: 🟫 LOW
-  - _A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.  That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh _
-
-- [Failed with 20 points. Gutted, but not done.](https://www.reddit.com/r/oscp/comments/1vwaaa8/failed_with_20_points_gutted_but_not_done/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Failed my first OSCP today. I fully rooted the first machine in the AD set, then hit a wall trying to move laterally and just couldn’t find the way through.<br /> The_
-
-- [Looking for OSCP Study Buddies – 3 Months Until Exam](https://www.reddit.com/r/oscp/comments/1vwcd7v/looking_for_oscp_study_buddies_3_months_until_exam/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone!</p> <p>I recently got my <strong>OSCP voucher</strong>, and I’m planning to take the exam in about <strong>3 months</strong>.</p> <p>For the next 3 mont_
-
-- [OSCP Voucher Giveaway from Hack Smarter (No Purchase Needed)](https://www.reddit.com/r/oscp/comments/1vwgnb4/oscp_voucher_giveaway_from_hack_smarter_no/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone!</p> <p>I am partnering with an anonymous donor, and we're joining together to give away one OSCP + 90 Days of lab voucher ($1,800 value). No purchase ne_
-
-- [How did you land your first job after OSCP](https://www.reddit.com/r/oscp/comments/1vx6y82/how_did_you_land_your_first_job_after_oscp/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I've have been trying to break into a penetration role and have been wondering what I may be missing.</p> <p>My Background:</p> <p>- 7 years in IT as a Linux Systems _
-
-- [South Korean startup platform breach exposes key management failures](https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/)
-  - Confidence: 🟫 LOW
-  - _A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securel_
-
-- [Microsoft Teams now lets admins block external bots from meetings](https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/)
-  - Confidence: 🟫 LOW
-  - _Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]_
-
-- [ReliaQuest confirms failed data-theft attack after ShinyHunters breach](https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]_
-
-- [TikTok reaches $400M settlement with US over COPPA violations](https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/)
-  - Confidence: 🟫 LOW
-  - _The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (CO_
-
-- [UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit](https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology_
-
-- [The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk](https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html)
-  - Confidence: 🟫 LOW
-  - _Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is p_
-
-- [Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor](https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent.  The campaign, codenamed O_
-
-- [Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account](https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html)
-  - Confidence: 🟫 LOW
-  - _Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker _
-
-- [Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt](https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html)
-  - Confidence: 🟫 LOW
-  - _If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.  The harder part is what comes after. AI c_
-
-- [DOUBLECUP's PNG Payload, (Mon, Aug 24th)](https://isc.sans.edu/diary/rss/33274)
-  - Confidence: 🟫 LOW
-  - _<p>New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest <a href="https://socradar.io/blog/doublecup-clickfix-loader-devicemanager-rats/">DOU_
