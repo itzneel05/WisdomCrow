@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-25
-date: 2026-08-25T01:04:49Z
+date: 2026-08-25T06:41:22Z
 type: radar-report
 report_type: fast
-total_opportunities: 50
+total_opportunities: 51
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 50
+**Total opportunities:** 51
 
 | Category | Count |
 |----------|-------|
 | ❓ Uncategorized | 44 |
+| 🎓 Free Certifications | 3 |
 | 💰 Bug Bounties | 2 |
 | 🏰 CTF Competitions | 2 |
-| 🎓 Free Certifications | 2 |
 
 ## 🏰 CTF Competitions
 
@@ -47,6 +47,11 @@ tags:
   - _Ryan Bonner, also known as Roll4CombatUS, is a respected Bug Bounty hunter, consultant, speaker, and Intigriti Hacker Ambassador based in the United States. In today’s interview, we discuss his journe_
 
 ## 🎓 Free Certifications
+
+- [ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)](https://isc.sans.edu/diary/rss/33278)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 - [Cybersecurity job ads demanding AI skills double in a year](https://www.helpnetsecurity.com/2026/08/24/cybersecurity-job-ads-ai-skills-research/)
   - Confidence: 🟢 HIGH
