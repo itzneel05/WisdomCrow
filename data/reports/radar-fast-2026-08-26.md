@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-26
-date: 2026-08-26T06:43:00Z
+date: 2026-08-26T12:45:34Z
 type: radar-report
 report_type: fast
-total_opportunities: 53
+total_opportunities: 52
 tags:
   - radar
   - fast
@@ -13,14 +13,22 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 53
+**Total opportunities:** 52
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 44 |
+| ❓ Uncategorized | 42 |
 | 🎓 Free Certifications | 5 |
 | 💰 Bug Bounties | 2 |
 | 🔥 Hackathons & Conferences | 2 |
+| 🏰 CTF Competitions | 1 |
+
+## 🏰 CTF Competitions
+
+- [Hack The Box Report Finds AI Agents Used by 68% of Top 25 Cybersecurity Teams](https://www.hackthebox.com/blog/68-percent-top-cybersecurity-teams-use-ai-agents)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/68-percent-top-cybersecurity-teams-use-ai-agents" title=""> <img alt="Hack The Box Rep_
 
 ## 💰 Bug Bounties
 
@@ -74,6 +82,42 @@ tags:
   - _<p>Andy Ellis has a <a href="https://www.duha.co/reports/state-of-security-vendors-blackhat-2026/">roundup</a> of the security vendors at Black Hat this year.</p> <blockquote><p>Key Takeaways: We have_
 
 ## ❓ Uncategorized
+
+- [Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes](https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft vi_
+
+- [Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload](https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea.  The vulnerabilit_
+
+- [Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode](https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html)
+  - Confidence: 🟫 LOW
+  - _An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machin_
+
+- [INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown](https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html)
+  - Confidence: 🟫 LOW
+  - _An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects.  "The operation, which brought together 22 count_
+
+- [OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation](https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html)
+  - Confidence: 🟫 LOW
+  - _OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) too_
+
+- [Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests](https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html)
+  - Confidence: 🟫 LOW
+  - _Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a c_
+
+- [Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine](https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html)
+  - Confidence: 🟫 LOW
+  - _The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows_
+
+- [Hackers now exploit critical Gitea flaw in code injection attacks](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/)
+  - Confidence: 🟫 LOW
+  - _Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]_
+
+- [Microsoft tests new privacy controls for Windows 11 desktop apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]_
 
 - [U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches](https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html)
   - Confidence: 🟫 LOW
@@ -206,47 +250,3 @@ tags:
 - [Massive DDoS attack disrupts Norway’s government digital services](https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/)
   - Confidence: 🟫 LOW
   - _A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]_
-
-- [Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data](https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnera_
-
-- [Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access](https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html)
-  - Confidence: 🟫 LOW
-  - _Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as an_
-
-- [Frontier AI: Vulnerability Management's Systemic Revolution](https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html)
-  - Confidence: 🟫 LOW
-  - _Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also exi_
-
-- [E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands](https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4_
-
-- [24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages](https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages.  "While _
-
-- [Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows](https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html)
-  - Confidence: 🟫 LOW
-  - _Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and_
-
-- [Built a Python-based lateral movement detector from scratch — here's how it works and what I learned](https://www.reddit.com/r/netsecstudents/comments/1vwit1q/built_a_pythonbased_lateral_movement_detector/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Lateral movement is one of the hardest attack stages to catch — once an attacker is inside a network, their traffic (SSH sessions, file transfers) often looks like no_
-
-- [56 Linux Commands Before Your First Nmap Scan | Beginner Lab Atlas](https://www.reddit.com/r/netsecstudents/comments/1vwm842/56_linux_commands_before_your_first_nmap_scan/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I'm building a step-by-step path from terminal basics → real nmap recon.</p> <p>Before touching nmap, most beginners stall on the same stuff: navigation, reading outp_
-
-- [Code Execution via Text Template Files](https://www.reddit.com/r/netsecstudents/comments/1vwyevw/code_execution_via_text_template_files/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/netbiosX"> /u/netbiosX </a> <br /> <span><a href="https://ipurple.team/2026/08/24/text-template/">[link]</a></span> &#32; <span><a href="h_
-
-- [Police arrests dozens of suspects in global cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/)
-  - Confidence: 🟫 LOW
-  - _Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]_
-
-- [Hackers breached over 270 Zimbra servers in ongoing attacks](https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/)
-  - Confidence: 🟫 LOW
-  - _Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]_
