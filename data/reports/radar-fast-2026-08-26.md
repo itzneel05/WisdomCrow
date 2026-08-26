@@ -1,6 +1,6 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-26
-date: 2026-08-26T01:07:12Z
+date: 2026-08-26T06:43:00Z
 type: radar-report
 report_type: fast
 total_opportunities: 53
@@ -36,6 +36,11 @@ tags:
 
 ## 🎓 Free Certifications
 
+- [ISC Stormcast For Wednesday, August 26th, 2026 https://isc.sans.edu/podcastdetail/10068, (Wed, Aug 26th)](https://isc.sans.edu/diary/rss/33282)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
+
 - [CVE-2026-72898: Critical Metabase Unauthenticated SQL Injection Vulnerability](https://www.offsec.com/blog/cve-2026-72898-2/)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
@@ -55,11 +60,6 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _<p>It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about <a href="https://_
-
-- [ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)](https://isc.sans.edu/diary/rss/33278)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## 🔥 Hackathons & Conferences
 
