@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-26
-date: 2026-08-26T12:45:34Z
+date: 2026-08-26T19:45:43Z
 type: radar-report
 report_type: fast
-total_opportunities: 52
+total_opportunities: 30
 tags:
   - radar
   - fast
@@ -13,34 +13,25 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 52
+**Total opportunities:** 30
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 42 |
-| 🎓 Free Certifications | 5 |
-| 💰 Bug Bounties | 2 |
-| 🔥 Hackathons & Conferences | 2 |
-| 🏰 CTF Competitions | 1 |
+| ❓ Uncategorized | 27 |
+| 🏰 CTF Competitions | 2 |
+| 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
+
+- [EyesOpenCTF 7th edition](https://ctftime.org/event/3419)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: EyesOpenCTF 7th edition (an <a href="/ctf/847">EyesOpenCTF</a> event.)<br /> Date: Nov. 20, 2026, 10 a.m. &mdash; 22 Nov. 2026, 10:00 UTC &nbsp;<a href="/event/3419.ics">[add to calendar]</a><br_
 
 - [Hack The Box Report Finds AI Agents Used by 68% of Top 25 Cybersecurity Teams](https://www.hackthebox.com/blog/68-percent-top-cybersecurity-teams-use-ai-agents)
   - Confidence: 🟢 HIGH
   - Tags: `ctf`
   - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/68-percent-top-cybersecurity-teams-use-ai-agents" title=""> <img alt="Hack The Box Rep_
-
-## 💰 Bug Bounties
-
-- [pis10/TraceSurface](https://github.com/pis10/TraceSurface)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _发现藏在前端代码里的 API，验证未授权访问风险 · 动态浏览器追踪 × JavaScript 静态分析_
-
-- [What's in a tag name? JavaScript, apparently](https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _I was on my laptop, as I often am when there's rubbish on telly, and found myself wondering what characters are allowed in a tag. I knew they had to begin with "a-zA-Z", but what about after that? I t_
 
 ## 🎓 Free Certifications
 
@@ -49,39 +40,63 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
-- [CVE-2026-72898: Critical Metabase Unauthenticated SQL Injection Vulnerability](https://www.offsec.com/blog/cve-2026-72898-2/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _<p>CVE-2026-72898 is a critical unauthenticated SQL injection in Metabase's password-reset functionality. Learn more about it. </p> <p>The post <a href="https://www.offsec.com/blog/cve-2026-72898-2/">_
-
-- [Knowing what not to attack](https://www.offsec.com/blog/knowing-what-not-to-attack/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _<p>Most talk about offensive security agents is about power. Can it find the bug? Can it chain the exploit? Can it own the box? That&#8217;s the easy part. Wiring a model up to tools is normal enginee_
-
-- [Road to OSCE3: Episodio 1 – OSEP](https://www.offsec.com/blog/road-to-osce3-episodio-1/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _<p>¡Hola a todos!&#160; Con este post da comienzo una serie de 3 posts donde hablaré de las certificaciones que forman OSCE3 y de cómo yo me las he preparado.&#160; ¿Qué es OSCE3?  Si llevas algún tie_
-
-- [Obfuscating IP Addresses as Hostnames, (Tue, Aug 25th)](https://isc.sans.edu/diary/rss/33280)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _<p>It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about <a href="https://_
-
-## 🔥 Hackathons & Conferences
-
-- [Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference](https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/)
-  - Confidence: 🟢 HIGH
-  - Tags: `hackathon`, `conference`
-  - _<p>Hands-on Cyber Attack Methods course returns to SecurityWeek’s ICS Cybersecurity Conference, October 6–8 at the W Nashville.</p> <p>The post <a href="https://www.securityweek.com/hands-on-cyber-phy_
-
-- [Black Hat State of Security Vendors](https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `hackathon`, `conference`, `india_friendly`
-  - _<p>Andy Ellis has a <a href="https://www.duha.co/reports/state-of-security-vendors-blackhat-2026/">roundup</a> of the security vendors at Black Hat this year.</p> <blockquote><p>Key Takeaways: We have_
-
 ## ❓ Uncategorized
+
+- [New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode](https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html)
+  - Confidence: 🟫 LOW
+  - _An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machin_
+
+- [Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code](https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html)
+  - Confidence: 🟫 LOW
+  - _The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a _
+
+- [CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing](https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, us_
+
+- [NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions](https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing _
+
+- [Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler](https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the I_
+
+- [FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations](https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and oth_
+
+- [Who Has Admin Rights in your Entra ID Directory&#x3f;, (Wed, Aug 26th)](https://isc.sans.edu/diary/rss/33284)
+  - Confidence: 🟫 LOW
+  - _<p>A common thing that folks should "worry" about in Entra (or any platform really) is "who has rights to administer"&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x3f&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&_
+
+- [Ubiquiti patches three max severity security vulnerabilities](https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/)
+  - Confidence: 🟫 LOW
+  - _Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]_
+
+- [Snowflake ends service-account passwords. Now comes the hard part](https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/)
+  - Confidence: 🟫 LOW
+  - _Snowflake is ending password authentication for legacy service accounts, forcing organizations to migrate them to passwordless methods. Token Security explains why the harder challenge is identifying _
+
+- [FBI disrupts proxy network enabling Chinese espionage operations](https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/)
+  - Confidence: 🟫 LOW
+  - _The FBI has disrupted infrastructure associated with a technical "quartermaster" that provided reconnaissance, proxy management, and operational routing capabilities for Chinese cyber espionage activi_
+
+- [Hackers target Microsoft SharePoint RCE chain with PoC exploit](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/)
+  - Confidence: 🟫 LOW
+  - _Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [._
+
+- [Boston Scientific says cyberattack disrupted operations globally](https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/)
+  - Confidence: 🟫 LOW
+  - _Medical technology company Boston Scientific has been targeted in a cyberattack that disrupted some of its IT systems, causing operational disruptions globally. [...]_
+
+- [Meta agrees to $18 billion settlement over teen social media harms](https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/)
+  - Confidence: 🟫 LOW
+  - _Meta has reached a proposed settlement worth up to approximately $18 billion with a bipartisan coalition of 52 attorneys generals over allegations that Facebook and Instagram were deliberately designe_
+
+- [New GPUThor attack defeats NVIDIA ECC protection for root access](https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/)
+  - Confidence: 🟫 LOW
+  - _A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...]_
 
 - [Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes](https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html)
   - Confidence: 🟫 LOW
@@ -134,119 +149,3 @@ tags:
 - [LACMA data breach last year exposed social security and medical data](https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/)
   - Confidence: 🟫 LOW
   - _The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]_
-
-- [CISA Warns of Exploited Oracle WebLogic Vulnerability](https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/)
-  - Confidence: 🟫 LOW
-  - _<p>The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers.</p> <p>The post <a href="https://www.securityweek.com/cisa-warns-of-exploi_
-
-- [Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff](https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/)
-  - Confidence: 🟫 LOW
-  - _<p>AI infrastructure, including advanced semiconductors mostly made in Taiwan, has become a key point of competition between the U.S. and China.</p> <p>The post <a href="https://www.securityweek.com/t_
-
-- [Silent Patches Don’t Stop Attackers – They Blind Defenders](https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/)
-  - Confidence: 🟫 LOW
-  - _<p>Silent patches can become exploit intelligence for attackers while leaving defenders without the context needed to prioritize risk.</p> <p>The post <a href="https://www.securityweek.com/silent-patc_
-
-- [First Malware Built Specifically for Car Head Units Fuels Botnet](https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/)
-  - Confidence: 🟫 LOW
-  - _<p>Kaspersky researchers have linked the malware to the BadBox botnet, which has ensnared millions of devices.</p> <p>The post <a href="https://www.securityweek.com/first-malware-built-specifically-fo_
-
-- [WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update](https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/)
-  - Confidence: 🟫 LOW
-  - _<p>When Android users get a call from a non-contact, they will see more information about the caller, including their country.</p> <p>The post <a href="https://www.securityweek.com/whatsapp-adds-multi_
-
-- [WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities](https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/)
-  - Confidence: 🟫 LOW
-  - _<p>CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin.</p> <p>The post <a href="https://www.securityweek.com/wordpress-websites-ta_
-
-- [Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails](https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/)
-  - Confidence: 🟫 LOW
-  - _<p>The company, previously known as ActiveFence, has raised a total of $280 million from investors.</p> <p>The post <a href="https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-_
-
-- [Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation](https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/)
-  - Confidence: 🟫 LOW
-  - _<p>TRACE was developed by AMD, Intel, Microsoft, OPAQUE, and TII and contributed to the Linux Foundation.</p> <p>The post <a href="https://www.securityweek.com/linux-foundation-to-govern-trace-an-open_
-
-- [The cybercrime supply chain has five stages, each with a price](https://www.helpnetsecurity.com/2026/08/25/cybercrime-supply-chain-video/)
-  - Confidence: 🟫 LOW
-  - _<p>In this Help Net Security video, Chris Nyhuis, CEO at Vigilant, explains why the picture of a lone ransomware attacker is about 15 years out of date. He walks through the cybercrime supply chain an_
-
-- [HOL Guard: Open-source antivirus for AI agents](https://www.helpnetsecurity.com/2026/08/25/hol-guard-open-source-antivirus-ai-agents/)
-  - Confidence: 🟫 LOW
-  - _<p>HOL Guard is a free, open-source tool that sits between an AI assistant and the computer it runs on. When the assistant tries something risky, the tool pauses it and asks you first. It installs in _
-
-- [TruffleHog AWS Analyze reduces remediation time on leaked AWS credentials](https://www.helpnetsecurity.com/2026/08/25/trufflehog-aws-analyze-leaked-credentials/)
-  - Confidence: 🟫 LOW
-  - _<p>Truffle Security announced TruffleHog AWS Analyze, a new addition to TruffleHog Enterprise. TruffleHog AWS Analyze enriches found AWS credentials to highlight permissions and access levels, so a se_
-
-- [AI supply chain risk is showing up in developer workflows first](https://www.helpnetsecurity.com/2026/08/25/jaushin-lee-ai-zentera-systems-supply-chain-risk/)
-  - Confidence: 🟫 LOW
-  - _<p>In this Help Net Security interview, Dr. Jaushin Lee, CEO of Zentera Systems, discusses where AI supply chain risk shows up. He says most incidents still hit developer workflows and open-source pac_
-
-- [ShinyHunters taunts ReliaQuest after its own employee falls for social engineering attack](https://www.helpnetsecurity.com/2026/08/25/reliaquest-breach-social-engineering/)
-  - Confidence: 🟫 LOW
-  - _<p>Cybersecurity company ReliaQuest has confirmed that one of its own employees fell for a social engineering attack, handing attackers a password and a brief window into the company&#8217;s identity _
-
-- [Unpatched Zimbra servers are falling to CVE-2026-73570 attacks](https://www.helpnetsecurity.com/2026/08/25/zimbra-cve-2026-73570-compromised/)
-  - Confidence: 🟫 LOW
-  - _<p>At least 274 internet-facing Zimbra instances have been compromised by unknown attackers via CVE-2026-73570, the Shadowserver Foundation shared on Monday. About CVE-2026-73570 Zimbra Collaboration _
-
-- [Fake OpenAI Codex download tricks macOS users into installing malware](https://www.helpnetsecurity.com/2026/08/25/fake-openai-codex-download-macos-users/)
-  - Confidence: 🟫 LOW
-  - _<p>A malware campaign using a sponsored search ad and a fake OpenAI Codex download page to trick macOS users into pasting a malicious command into Terminal has been uncovered by Cato Networks. It&#821_
-
-- [Fideo Lens reveals connections across identities, accounts and devices](https://www.helpnetsecurity.com/2026/08/25/fideo-lens-investigative-intelligence-platform/)
-  - Confidence: 🟫 LOW
-  - _<p>Fideo Intelligence introduced Fideo Lens, an investigative intelligence platform that helps fraud and financial crime teams discover hidden relationships among identities, accounts, devices and beh_
-
-- [Citrix UniconOS dual boot turns Windows endpoints into their own recovery device](https://www.helpnetsecurity.com/2026/08/25/citrix-uniconos-dual-boot-endpoint-resiliency-capability/)
-  - Confidence: 🟫 LOW
-  - _<p>Citrix announced Citrix UniconOS dual boot, a new endpoint resiliency capability designed to help organizations recover access to work in minutes — without spare hardware, central reimaging or prol_
-
-- [INTERPOL crackdown on West African crime rings uncovers troubling new trend](https://www.helpnetsecurity.com/2026/08/25/interpol-jackal-iv-west-african-crime-groups-arrests/)
-  - Confidence: 🟫 LOW
-  - _<p>Police across 22 countries arrested 58 people and identified 263 suspects during an eight-month INTERPOL operation targeting West African organized crime groups. Suspects detained in an operation t_
-
-- [Foul Language: WordlistLoader Disguises Malware as Ordinary Text](https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text)
-  - Confidence: 🟫 LOW
-  - _ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer._
-
-- [Exploited Zimbra Flaw Highlights Shrinking Window to Patch](https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch)
-  - Confidence: 🟫 LOW
-  - _CISA issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications._
-
-- [Is Cyber Facing an Affordability Crisis?](https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-)
-  - Confidence: 🟫 LOW
-  - _As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security._
-
-- [Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode](https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html)
-  - Confidence: 🟫 LOW
-  - _Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted noteboo_
-
-- [WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android](https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html)
-  - Confidence: 🟫 LOW
-  - _Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accou_
-
-- [A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw](https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html)
-  - Confidence: 🟫 LOW
-  - _Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden _
-
-- [WhatsApp adds stronger two-step verification, multiple passkeys](https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/)
-  - Confidence: 🟫 LOW
-  - _WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]_
-
-- [Microsoft PowerToys adds Alt+Tab-style switching for an app's windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/)
-  - Confidence: 🟫 LOW
-  - _Microsoft updated its Windows PowerToys toolset with a new utility dubbed "Window Hopper" that lets users switch between an app's windows more quickly. [...]_
-
-- [From Fake Workers to Account Recovery: The Growing Identity Verification Risk](https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/)
-  - Confidence: 🟫 LOW
-  - _Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizati_
-
-- [Hospital operator Nutex Health says data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/)
-  - Confidence: 🟫 LOW
-  - _Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]_
-
-- [Massive DDoS attack disrupts Norway’s government digital services](https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/)
-  - Confidence: 🟫 LOW
-  - _A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]_
