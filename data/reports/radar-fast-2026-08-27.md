@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-27
-date: 2026-08-27T07:09:16Z
+date: 2026-08-27T21:43:59Z
 type: radar-report
 report_type: fast
-total_opportunities: 51
+total_opportunities: 29
 tags:
   - radar
   - fast
@@ -13,25 +13,43 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 51
+**Total opportunities:** 29
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 48 |
-| 🏰 CTF Competitions | 2 |
+| ❓ Uncategorized | 23 |
+| 🏰 CTF Competitions | 4 |
+| 💰 Bug Bounties | 1 |
 | 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
 
-- [EyesOpenCTF 7th edition](https://ctftime.org/event/3419)
+- [New High School CTF Team Looking for members](https://www.reddit.com/r/securityCTF/comments/1vyjzoq/new_high_school_ctf_team_looking_for_members/)
   - Confidence: 🟢 HIGH
   - Tags: `ctf`
-  - _Name: EyesOpenCTF 7th edition (an <a href="/ctf/847">EyesOpenCTF</a> event.)<br /> Date: Nov. 20, 2026, 10 a.m. &mdash; 22 Nov. 2026, 10:00 UTC &nbsp;<a href="/event/3419.ics">[add to calendar]</a><br_
+  - _<!-- SC_OFF --><div class="md"><p>Hello everyone, I'm creating a new high school CTF team looking for members that are current high schoolers. I was also able to find a mentor who can meet weekly for _
 
-- [Hack The Box Report Finds AI Agents Used by 68% of Top 25 Cybersecurity Teams](https://www.hackthebox.com/blog/68-percent-top-cybersecurity-teams-use-ai-agents)
+- [KernelKittens looking for 1-2 players for Black Hat MEA quals this weekend.](https://www.reddit.com/r/securityCTF/comments/1vysm86/kernelkittens_looking_for_12_players_for_black/)
   - Confidence: 🟢 HIGH
   - Tags: `ctf`
-  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/68-percent-top-cybersecurity-teams-use-ai-agents" title=""> <img alt="Hack The Box Rep_
+  - _<!-- SC_OFF --><div class="md"><p>We're a seat or two short for the Black Hat MEA qualification round this Saturday and want them filled before it kicks off.</p> <p>Event: Black Hat MEA CTF Qualificat_
+
+- [CTF sponsorship](https://www.reddit.com/r/securityCTF/comments/1vyw2sw/ctf_sponsorship/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/AncientSport3783"> /u/AncientSport3783 </a> <br /> <span><a href="/r/ambitionarena7/comments/1vyw2gq/ctf_sponsorship/">[link]</a></span> &_
+
+- [Learn How to Build Security Operations Ready for AI-Powered Attacks](https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.  Advanced AI models can now help attackers discover vulnerabi_
+
+## 💰 Bug Bounties
+
+- [Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers](https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate dat_
 
 ## 🎓 Free Certifications
 
@@ -42,6 +60,90 @@ tags:
 
 ## ❓ Uncategorized
 
+- [New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access](https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html)
+  - Confidence: 🟫 LOW
+  - _Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowha_
+
+- [GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address](https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communic_
+
+- [Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools](https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html)
+  - Confidence: 🟫 LOW
+  - _Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT.  "The samples employ diverse lure theme_
+
+- [What the Data Says About AI in Security Operations in 2026](https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html)
+  - Confidence: 🟫 LOW
+  - _AI is officially mainstream in security operations. According to Prophet Security's State of AI in Security Operations 2026 report (produced from ViB’s survey of 250+ cybersecurity pros), 40% of secur_
+
+- [Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks](https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html)
+  - Confidence: 🟫 LOW
+  - _The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromis_
+
+- [ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories](https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html)
+  - Confidence: 🟫 LOW
+  - _A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine.  The rest of the week gets stranger: botnets borro_
+
+- [Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE](https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html)
+  - Confidence: 🟫 LOW
+  - _Credit:&nbsp;Hacktron Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploi_
+
+- [OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face](https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html)
+  - Confidence: 🟫 LOW
+  - _OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior _
+
+- [A polymorphic phishing page (that occasionally breaks itself), (Thu, Aug 27th)](https://isc.sans.edu/diary/rss/33290)
+  - Confidence: 🟫 LOW
+  - _<p>As I&#x27ve mentioned before in some of my diaries, from time to time, I like to go over phishing messages that get caught in my various spam traps or sent to us here at the Internet Storm Center.<_
+
+- [Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/)
+  - Confidence: 🟫 LOW
+  - _Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply ch_
+
+- [ATF confirms “major incident” after recent Qilin breach claims](https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/)
+  - Confidence: 🟫 LOW
+  - _ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qili_
+
+- [CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _CISA has ordered U.S. government agencies to patch their Citrix NetScaler appliances against an actively exploited remote code execution vulnerability by Saturday. [...]_
+
+- [Carhartt data breach exposes information of 12.9 million accounts](https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/)
+  - Confidence: 🟫 LOW
+  - _The ShinyHunters extortion group has published sensitive data from nearly 13 million accounts stolen from clothing retailer giant Carhartt earlier this month, according to data breach notification ser_
+
+- [Webinar: How Google Workspace breaches happen and what to do next](https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/)
+  - Confidence: 🟫 LOW
+  - _Google Workspace breaches can begin with social engineering or forgotten third-party integrations rather than sophisticated exploits. This webinar examines real-world breaches, what happens during the_
+
+- [Microsoft rolls out fix for Windows 11 crashes, gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has started rolling out a permanent fix for a known issue that causes system crashes and gaming issues on Windows 11 devices. [...]_
+
+- [Australia arrests alleged TeamPCP hackers behind supply-chain attacks](https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/)
+  - Confidence: 🟫 LOW
+  - _Australian authorities have arrested and charged two young men accused of being part of the TeamPCP hacking group linked to a string of far-reaching developer supply chain attacks. [...]_
+
+- [Android 17 adds ECH support to make web browsing harder to track](https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/)
+  - Confidence: 🟫 LOW
+  - _Google is introducing new network security protections in Android 17 to strengthen connection privacy, address cellular vulnerabilities, and protect the privacy of users' home networks. [...]_
+
+- [How Threat Research and MDR Help SMBs Build a Defensive Edge](https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/)
+  - Confidence: 🟫 LOW
+  - _Threat research gives security teams insight into how attackers operate, while MDR turns that intelligence into faster detection and response. ESET explains how combining threat intelligence, continuo_
+
+- [Manchester Airports Group says hackers stole travelers' data](https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/)
+  - Confidence: 🟫 LOW
+  - _The Manchester Airports Group (MAG) disclosed that hackers breached its systems and stole customer data, including Wi-Fi sign-ups from Manchester, Stansted, and East Midlands airports. [...]_
+
+- [PaperCut warns of NG, MF flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/)
+  - Confidence: 🟫 LOW
+  - _PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]_
+
+- [Nearly 700 rogue AI agents coordinated in the Hugging Face attack](https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/)
+  - Confidence: 🟫 LOW
+  - _New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]_
+
 - [CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs](https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html)
   - Confidence: 🟫 LOW
   - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability imp_
@@ -49,187 +151,3 @@ tags:
 - [Critical Avada WordPress theme flaw enables zero-click RCE](https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/)
   - Confidence: 🟫 LOW
   - _A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]_
-
-- [CISA Warns of Exploited Gitea Vulnerability](https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/)
-  - Confidence: 🟫 LOW
-  - _<p>CVE-2026-60004 is a remote code execution vulnerability patched by Gitea developers in late July with the release of version 1.27.1.</p> <p>The post <a href="https://www.securityweek.com/cisa-warns_
-
-- [Sensitive Information Exposed in Nutex Health Data Breach](https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/)
-  - Confidence: 🟫 LOW
-  - _<p>Nutex Health has informed the SEC that it recently detected unauthorized access and data exfiltration.</p> <p>The post <a href="https://www.securityweek.com/sensitive-information-exposed-in-nutex-h_
-
-- [Chrome 152 Patches Over 300 Vulnerabilities](https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/)
-  - Confidence: 🟫 LOW
-  - _<p>Most of the flaws were discovered by Google using AI, but researchers are still discovering high-value Chrome vulnerabilities.</p> <p>The post <a href="https://www.securityweek.com/chrome-152-patch_
-
-- [The MFA Identity Trap: When Authentication Creates a False Sense of Security](https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/)
-  - Confidence: 🟫 LOW
-  - _<p>Organizations must distinguish identity verification, authentication and threat detection, or risk successfully authenticating the attackers they are trying to stop.</p> <p>The post <a href="https:_
-
-- [CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks](https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/)
-  - Confidence: 🟫 LOW
-  - _<p>The agency has released guidance on reducing internet exposure in the wake of the recent Iran-linked hacker attacks.</p> <p>The post <a href="https://www.securityweek.com/cisa-over-100-internet-exp_
-
-- [Adobe and Nvidia Patch Dozens of Vulnerabilities](https://www.securityweek.com/adobe-and-nvidia-patch-dozens-of-vulnerabilities/)
-  - Confidence: 🟫 LOW
-  - _<p>Adobe and Nvidia each published several advisories, including ones that address critical vulnerabilities in their products.</p> <p>The post <a href="https://www.securityweek.com/adobe-and-nvidia-pa_
-
-- [AI Speeds Up Malware Development, Not Its Success Rate: Analysis](https://www.securityweek.com/ai-speeds-up-malware-development-not-its-success-rate-analysis/)
-  - Confidence: 🟫 LOW
-  - _<p>Palo Alto Networks Unit 42 analyzed 405 AI-linked malware samples and found only 12 reached production endpoints.</p> <p>The post <a href="https://www.securityweek.com/ai-speeds-up-malware-developm_
-
-- [Spyware for Babies](https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html)
-  - Confidence: 🟫 LOW
-  - _<p><i>The New York Times</i> has a <a href="https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html">long article</a> (<a href="https://archive.is/CffBe">alt link</a>) on surv_
-
-- [Hottest cybersecurity open-source tools of the month: August 2026](https://www.helpnetsecurity.com/2026/08/26/hottest-cybersecurity-open-source-tools-august-2026/)
-  - Confidence: 🟫 LOW
-  - _<p>Presented here is a curated selection of noteworthy open-source cybersecurity solutions that have drawn recognition for their ability to enhance security postures across diverse settings. SkillSpec_
-
-- [AI vulnerability discovery scores the highest impact of 20 emerging risks](https://www.helpnetsecurity.com/2026/08/26/ai-vulnerability-discovery-emerging-risks/)
-  - Confidence: 🟫 LOW
-  - _<p>Risk managers, auditors and senior executives at 316 companies spent April and May ranking 20 threats they have not yet felt. AI discovery of cyber vulnerabilities came back first, according to Gar_
-
-- [Production data in testing is still common, and Tricentis’ CISO wants it gone](https://www.helpnetsecurity.com/2026/08/26/erika-dean-tricentis-production-data-in-testing/)
-  - Confidence: 🟫 LOW
-  - _<p>In this Help Net Security interview, Erika Dean, CISO at Tricentis, talks about keeping production data out of test environments and why she thinks the alternatives are good enough now. She explain_
-
-- [Linux Foundation takes on TRACE, a hardware-backed runtime evidence specification for AI agents](https://www.helpnetsecurity.com/2026/08/26/the-linux-foundation-trace-ai-agent-security/)
-  - Confidence: 🟫 LOW
-  - _<p>The Linux Foundation announced the contribution of TRACE (Trust, Runtime Attestation and Compliance Evidence), from OPAQUE. Collaboratively developed by AMD, Intel, Microsoft, OPAQUE and the Techno_
-
-- [Meta adds three new features to keep WhatsApp accounts secure](https://www.helpnetsecurity.com/2026/08/26/meta-whatsapp-security-enhancements/)
-  - Confidence: 🟫 LOW
-  - _<p>Meta has added new security enhancements to WhatsApp, this time in the form of stronger two-step verification, additional information about calls from unknown numbers, and the ability to add multip_
-
-- [Bogus recruiters go after high-value corporate credentials on mobile](https://www.helpnetsecurity.com/2026/08/26/recruitment-scam-corporate-passwords-mobile/)
-  - Confidence: 🟫 LOW
-  - _<p>Scammers posing as HR staff at well-known companies are running interview scheduling scams that end with a stolen corporate password, according to Zimperium. Attackers are using a technique called _
-
-- [RightCrowd Pass unifies mobile, physical, and biometric credentials](https://www.helpnetsecurity.com/2026/08/26/rightcrowd-pass-credentialing-solution/)
-  - Confidence: 🟫 LOW
-  - _<p>RightCrowd announced RightCrowd Pass, a credentialing solution that issues and manages mobile, physical and biometric access credentials from a single platform. Many large enterprises and universit_
-
-- [Critical Gitea vulnerability now exploited in the wild (CVE-2026-60004)](https://www.helpnetsecurity.com/2026/08/26/gitea-cve-2026-60004-exploited-in-the-wild/)
-  - Confidence: 🟫 LOW
-  - _<p>Attackers have begun exploiting CVE-2026-60004, a critical code injection vulnerability in the Gitea Git platform, CISA confirmed on Tuesday by adding the vulnerability to its Known Exploited Vulne_
-
-- [AnonyMousKIT phishing-as-a-service uses AI voice calls to steal iPhone passcodes](https://www.helpnetsecurity.com/2026/08/26/anonymouskit-phishing-stolen-iphone/)
-  - Confidence: 🟫 LOW
-  - _<p>A phishing-as-a-service (PhaaS) platform called AnonyMousKIT is automating the theft of Apple ID credentials needed to remove Activation Lock from stolen iPhones, SOCRadar found. &#8220;By leveragi_
-
-- [Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw](https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw)
-  - Confidence: 🟫 LOW
-  - _Attackers can exploit a security bug in Nvidia's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption._
-
-- [Hidden Prompts Trick AI Into False Email Summaries](https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries)
-  - Confidence: 🟫 LOW
-  - _With some simple HTML that's invisible to users, attackers can manipulate AI-powered email summarizers into producing malicious information._
-
-- [Nigeria Looks to Sovereign Cloud for Cyber, National Security](https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security)
-  - Confidence: 🟫 LOW
-  - _The West African nation launched financing, procurement, and infrastructure policies to boost its sovereign cloud initiative and increase domestic technical knowledge._
-
-- [Interpol's Jackal IV Disrupts West African Crime Infrastructure](https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure)
-  - Confidence: 🟫 LOW
-  - _The international law enforcement operation focused on disrupting crime-as-a-service networks and infrastructure behind groups like Black Axe._
-
-- ['NovaCookies' Kit Steals Microsoft 365 Sessions for $320 a Month](https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month)
-  - Confidence: 🟫 LOW
-  - _The adversary-in-the-middle (AitM) phishing service lowers the barrier to entry for actors to create attacks and steal more than just user credentials._
-
-- [Android Malware Hijacks Update System for Car Head Units](https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units)
-  - Confidence: 🟫 LOW
-  - _Threat actors behind a notorious click-fraud botnet have set their sights on vehicle infotainment modules and are abusing legitimate functionality to spread infections._
-
-- [New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode](https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html)
-  - Confidence: 🟫 LOW
-  - _An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machin_
-
-- [Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code](https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html)
-  - Confidence: 🟫 LOW
-  - _The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a _
-
-- [CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing](https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, us_
-
-- [NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions](https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing _
-
-- [Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler](https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the I_
-
-- [FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations](https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and oth_
-
-- [Who Has Admin Rights in your Entra ID Directory&#x3f;, (Wed, Aug 26th)](https://isc.sans.edu/diary/rss/33284)
-  - Confidence: 🟫 LOW
-  - _<p>A common thing that folks should "worry" about in Entra (or any platform really) is "who has rights to administer"&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x3f&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&_
-
-- [Ubiquiti patches three max severity security vulnerabilities](https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/)
-  - Confidence: 🟫 LOW
-  - _Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]_
-
-- [Snowflake ends service-account passwords. Now comes the hard part](https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/)
-  - Confidence: 🟫 LOW
-  - _Snowflake is ending password authentication for legacy service accounts, forcing organizations to migrate them to passwordless methods. Token Security explains why the harder challenge is identifying _
-
-- [FBI disrupts proxy network enabling Chinese espionage operations](https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/)
-  - Confidence: 🟫 LOW
-  - _The FBI has disrupted infrastructure associated with a technical "quartermaster" that provided reconnaissance, proxy management, and operational routing capabilities for Chinese cyber espionage activi_
-
-- [Hackers target Microsoft SharePoint RCE chain with PoC exploit](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/)
-  - Confidence: 🟫 LOW
-  - _Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [._
-
-- [Boston Scientific says cyberattack disrupted operations globally](https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/)
-  - Confidence: 🟫 LOW
-  - _Medical technology company Boston Scientific has been targeted in a cyberattack that disrupted some of its IT systems, causing operational disruptions globally. [...]_
-
-- [Meta agrees to $18 billion settlement over teen social media harms](https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/)
-  - Confidence: 🟫 LOW
-  - _Meta has reached a proposed settlement worth up to approximately $18 billion with a bipartisan coalition of 52 attorneys generals over allegations that Facebook and Instagram were deliberately designe_
-
-- [New GPUThor attack defeats NVIDIA ECC protection for root access](https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/)
-  - Confidence: 🟫 LOW
-  - _A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...]_
-
-- [Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes](https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft vi_
-
-- [Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload](https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea.  The vulnerabilit_
-
-- [Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode](https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html)
-  - Confidence: 🟫 LOW
-  - _An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machin_
-
-- [INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown](https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html)
-  - Confidence: 🟫 LOW
-  - _An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects.  "The operation, which brought together 22 count_
-
-- [OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation](https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html)
-  - Confidence: 🟫 LOW
-  - _OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) too_
-
-- [Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests](https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html)
-  - Confidence: 🟫 LOW
-  - _Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a c_
-
-- [Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine](https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html)
-  - Confidence: 🟫 LOW
-  - _The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows_
-
-- [Hackers now exploit critical Gitea flaw in code injection attacks](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/)
-  - Confidence: 🟫 LOW
-  - _Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]_
-
-- [Microsoft tests new privacy controls for Windows 11 desktop apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]_
