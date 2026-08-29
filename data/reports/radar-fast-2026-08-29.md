@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-29
-date: 2026-08-29T05:33:07Z
+date: 2026-08-29T12:15:51Z
 type: radar-report
 report_type: fast
-total_opportunities: 92
+total_opportunities: 83
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 92
+**Total opportunities:** 83
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 78 |
+| ❓ Uncategorized | 71 |
 | 💰 Bug Bounties | 6 |
-| 🎓 Free Certifications | 4 |
 | 🏰 CTF Competitions | 3 |
+| 🎓 Free Certifications | 2 |
 | 📦 Open Source Tools | 1 |
 
 ## 🏰 CTF Competitions
@@ -84,16 +84,6 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>New research shows that country-of-origin labels can obscure an AI model’s upstream dependencies, inherited behaviors and potential security risks.</p> <p>The post <a href="https://www.securityweek_
 
-- [ISC Stormcast For Friday, August 28th, 2026 https://isc.sans.edu/podcastdetail/10072, (Fri, Aug 28th)](https://isc.sans.edu/diary/rss/33294)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
-- [Some Malicious PE Stats, (Thu, Aug 27th)](https://isc.sans.edu/diary/rss/33292)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _<p>During my last FOR610 session, a student asked me if I had some statistics in mind about the compilers used to generate malicious PE files&#x3f; A couple of months ago, I shared some stats about th_
-
 ## 📦 Open Source Tools
 
 - [Metasploit Wrap Up: Payloads and Exploits, and Scanners, Oh my!](https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-payloads-exploits-scanners)
@@ -101,6 +91,18 @@ tags:
   - Tags: `open_source`
 
 ## ❓ Uncategorized
+
+- [A fake resume invoked China’s defence tech elite, then installed VShell](https://www.reddit.com/r/netsec/comments/1vzxkxm/a_fake_resume_invoked_chinas_defence_tech_elite/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/unknownhad"> /u/unknownhad </a> <br /> <span><a href="https://blog.himanshuanand.com/2026/08/a-fake-resume-invoked-chinas-defence-tech-eli_
+
+- [LLM-Driven Reverse Engineering vs Iterative LLM Obfuscation](https://www.reddit.com/r/netsec/comments/1vzx029/llmdriven_reverse_engineering_vs_iterative_llm/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/AvenueJay"> /u/AvenueJay </a> <br /> <span><a href="https://www.elastic.co/security-labs/llm-reversing-vs-llm-obfuscation">[link]</a></spa_
+
+- [UniBLEed: Unauthenticated Root RCE on Any Unitree G1 Humanoid Robot Within Bluetooth Range](https://www.reddit.com/r/netsec/comments/1w05xwz/unibleed_unauthenticated_root_rce_on_any_unitree/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/WiseTuna"> /u/WiseTuna </a> <br /> <span><a href="https://boschko.ca/g1-ble-rce/">[link]</a></span> &#32; <span><a href="https://www.reddi_
 
 - [Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network](https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html)
   - Confidence: 🟫 LOW
@@ -371,43 +373,3 @@ tags:
 - [PaperCut releases second emergency patch for exploited flaws](https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/)
   - Confidence: 🟫 LOW
   - _PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to by_
-
-- [APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations](https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late September 2025 and early April 2026.  Thes_
-
-- [PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions](https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html)
-  - Confidence: 🟫 LOW
-  - _PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks.  The com_
-
-- [A list of 50+ new captive portals specifically designed to work with Marauder](https://www.reddit.com/r/hacking/comments/1vzdikr/a_list_of_50_new_captive_portals_specifically/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Pristine-Tangelo-100"> /u/Pristine-Tangelo-100 </a> <br /> <span><a href="https://github.com/rianhanft/Rian-s_Evil_Portals_For_Marauder.gi_
-
-- [Drone with Raspberry pi running Kali Linux.](https://www.reddit.com/r/hacking/comments/1vzk54l/drone_with_raspberry_pi_running_kali_linux/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1vzk54l/drone_with_raspberry_pi_running_kali_linux/"> <img alt="Drone with Raspberry pi running Kali Linux." src="https://preview.re_
-
-- [Justice Department and FBI Seize Platforms Operated and Used by China State-Sponsored Hackers to Target U.S. Critical Infrastructure](https://www.reddit.com/r/hacking/comments/1vz1qvb/justice_department_and_fbi_seize_platforms/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1vz1qvb/justice_department_and_fbi_seize_platforms/"> <img alt="Justice Department and FBI Seize Platforms Operated and Used by Chin_
-
-- [I Turned a $400 Enterprise AP Into a Fully Emulated Root Shell — Here's the Whole Story, Bugs and All](https://www.reddit.com/r/hacking/comments/1vztle0/i_turned_a_400_enterprise_ap_into_a_fully/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1vztle0/i_turned_a_400_enterprise_ap_into_a_fully/"> <img alt="I Turned a $400 Enterprise AP Into a Fully Emulated Root Shell — Here_
-
-- [Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://www.reddit.com/r/hacking/comments/1vztuhr/two_alleged_teampcp_hackers_arrested_in_australia/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/intelw1zard"> /u/intelw1zard </a> <br /> <span><a href="https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-austra_
-
-- [UniBLEed: Unauthenticated Root RCE on Any Unitree G1 Humanoid Robot Within Bluetooth Range](https://www.reddit.com/r/hacking/comments/1w05ybn/unibleed_unauthenticated_root_rce_on_any_unitree/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1w05ybn/unibleed_unauthenticated_root_rce_on_any_unitree/"> <img alt="UniBLEed: Unauthenticated Root RCE on Any Unitree G1 Humanoid _
-
-- [Three UK airports hit by cyber-attack with data of 8.7m customers accessed](https://www.reddit.com/r/hacking/comments/1vzw4r9/three_uk_airports_hit_by_cyberattack_with_data_of/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1vzw4r9/three_uk_airports_hit_by_cyberattack_with_data_of/"> <img alt="Three UK airports hit by cyber-attack with data of 8.7m custo_
-
-- [I pwned OpenClaw with just email and a new injection escalation technique: prompt laundering](https://www.reddit.com/r/hacking/comments/1w071mp/i_pwned_openclaw_with_just_email_and_a_new/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1w071mp/i_pwned_openclaw_with_just_email_and_a_new/"> <img alt="I pwned OpenClaw with just email and a new injection escalation tech_
