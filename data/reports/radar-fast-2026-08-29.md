@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-29
-date: 2026-08-29T12:15:51Z
+date: 2026-08-29T20:22:51Z
 type: radar-report
 report_type: fast
-total_opportunities: 83
+total_opportunities: 85
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 83
+**Total opportunities:** 85
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 71 |
+| ❓ Uncategorized | 73 |
 | 💰 Bug Bounties | 6 |
 | 🏰 CTF Competitions | 3 |
 | 🎓 Free Certifications | 2 |
@@ -91,6 +91,14 @@ tags:
   - Tags: `open_source`
 
 ## ❓ Uncategorized
+
+- [Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html)
+  - Confidence: 🟫 LOW
+  - _Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, a_
+
+- [Brave browser adds email aliases to help users evade tracking](https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/)
+  - Confidence: 🟫 LOW
+  - _The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]_
 
 - [A fake resume invoked China’s defence tech elite, then installed VShell](https://www.reddit.com/r/netsec/comments/1vzxkxm/a_fake_resume_invoked_chinas_defence_tech_elite/)
   - Confidence: 🟫 LOW
