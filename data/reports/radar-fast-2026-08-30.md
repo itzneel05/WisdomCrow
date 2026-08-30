@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-30
-date: 2026-08-30T03:31:35Z
+date: 2026-08-30T11:13:19Z
 type: radar-report
 report_type: fast
-total_opportunities: 80
+total_opportunities: 44
 tags:
   - radar
   - fast
@@ -13,26 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 80
+**Total opportunities:** 44
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 62 |
-| 💰 Bug Bounties | 15 |
-| 🏰 CTF Competitions | 2 |
-| 🎓 Free Certifications | 1 |
-
-## 🏰 CTF Competitions
-
-- [Automated penetration testing vs manual pentesting: which finds more real risk?](https://www.reddit.com/r/Pentesting/comments/1vzskpn/automated_penetration_testing_vs_manual/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>I'm a manual pentester, and I'm watching platforms automate the validation of misconfigurations and missing patches. They are even using AI to chain exploits and tail_
-
-- [Hackathon 72 hours challenge - Cyber Forensics](https://www.reddit.com/r/Pentesting/comments/1w0hhc1/hackathon_72_hours_challenge_cyber_forensics/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>Built a Vehicle Cyber ForenX Tool(MVP) -Vehicle and Cybercrime investigation tool.</p> <p>Just try it and let me know your feedback</p> <p>Try it:</p> <p><a href="htt_
+| ❓ Uncategorized | 32 |
+| 💰 Bug Bounties | 12 |
 
 ## 💰 Bug Bounties
 
@@ -96,29 +82,15 @@ tags:
   - Tags: `bug_bounty`
   - _Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local._
 
-- [Looking to join a bug bounty team — hands-on with Burp Suite, IDOR, and recon](https://www.reddit.com/r/Pentesting/comments/1w00kgg/looking_to_join_a_bug_bounty_team_handson_with/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I'm an Cybersecurity student with a hands-on background in practical web application security. I'd like to join an active bug bounty hunting team _
-
-- [Bug bounty hunting & penetration testing skills for Claude, Codex, and any agentic coding tool.](https://www.reddit.com/r/Pentesting/comments/1w05acw/bug_bounty_hunting_penetration_testing_skills_for/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p><a href="https://github.com/m4vic/bug-hunting">https://github.com/m4vic/bug-hunting</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit._
-
-- [I'm the only Application Security Engineer in my company and I have no clue what I'm doing](https://www.reddit.com/r/cybersecurity/comments/1vzwmiv/im_the_only_application_security_engineer_in_my/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>Hello everyone,</p> <p>I'm a 2025 graduate and was recently hired as an Application Security Engineer in April 2026. I got the role mainly because of my security-rela_
-
-## 🎓 Free Certifications
-
-- [Can you take Security+ after the Google Cybersecurity Certificate? And is ISC2 CC even worth it then?](https://www.reddit.com/r/cybersecurity/comments/1w0tkra/can_you_take_security_after_the_google/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `exam_voucher`, `certificate`
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,<br /> I’m finishing the <em>Google Cybersecurity Professional Certificate</em> on Coursera and I’m wondering if it actually prepares you well enough to _
-
 ## ❓ Uncategorized
+
+- [TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html)
+  - Confidence: 🟫 LOW
+  - _Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell.  "While traditional ClickFix_
+
+- [YARA-X 1.20.0 Release, (Sun, Aug 30th)](https://isc.sans.edu/diary/rss/33288)
+  - Confidence: 🟫 LOW
+  - _<p><a href="https://github.com/VirusTotal/yara-x/releases/tag/v1.20.0">YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.20.0</a> release brings 14 improvements and 13 bugfixes.</p>&#xd;_
 
 - [SonicWall GMS - Unauthenticated RCE and Encrypted Password Hash Extraction (CVE-2026-66145)](https://www.reddit.com/r/blueteamsec/comments/1w0t1u8/sonicwall_gms_unauthenticated_rce_and_encrypted/)
   - Confidence: 🟫 LOW
@@ -239,131 +211,3 @@ tags:
 - [UniBLEed: Unauthenticated Root RCE on Any Unitree G1 Humanoid Robot Within Bluetooth Range](https://www.reddit.com/r/netsec/comments/1w05xwz/unibleed_unauthenticated_root_rce_on_any_unitree/)
   - Confidence: 🟫 LOW
   - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/WiseTuna"> /u/WiseTuna </a> <br /> <span><a href="https://boschko.ca/g1-ble-rce/">[link]</a></span> &#32; <span><a href="https://www.reddi_
-
-- [Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network](https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html)
-  - Confidence: 🟫 LOW
-  - _Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortio_
-
-- [I am looking for a Red Team partner.](https://www.reddit.com/r/Pentesting/comments/1vzniva/i_am_looking_for_a_red_team_partner/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I want to infiltrate my website and find suitable red team members to collaborate with.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit._
-
-- [BSCP EXAM](https://www.reddit.com/r/Pentesting/comments/1vzybjv/bscp_exam/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Can I use AI for generating payloads? Not doing requests to the apps.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kirafoxox_
-
-- [Looking For a partner for CPTS Path on HTB](https://www.reddit.com/r/Pentesting/comments/1vzx7yp/looking_for_a_partner_for_cpts_path_on_htb/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello guys! I’m looking for a partner to work through the HTB CPTS path on Hack The Box.</p> <p>I’m honestly quite inconsistent with my learning, so I think having a _
-
-- [How often should you run security control validation?](https://www.reddit.com/r/Pentesting/comments/1vzse1x/how_often_should_you_run_security_control/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>We are building out a validation pipeline and I'm trying to decide on the cadence. We have 500+ controls mapped to CIS/NIST. A new platform we are evaluating promises_
-
-- [HELP WITH SSH 5.3 Exploit](https://www.reddit.com/r/Pentesting/comments/1w085b6/help_with_ssh_53_exploit/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>If you found a ssh 5.3 on a target how would you exploit it </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/au6ix"> /u/au6ix <_
-
-- [Nmaps 101](https://www.reddit.com/r/Pentesting/comments/1w04g3v/nmaps_101/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1w04g3v/nmaps_101/"> <img alt="Nmaps 101" src="https://preview.redd.it/lyeov64e2zlh1.jpg?width=140&amp;height=140&amp;crop=1:1,sm_
-
-- [What’s the most challenging day to day responsibilities of your job?](https://www.reddit.com/r/Pentesting/comments/1w00voc/whats_the_most_challenging_day_to_day/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Crazy_Calendar_8366"> /u/Crazy_Calendar_8366 </a> <br /> <span><a href="https://www.reddit.com/r/Pentesting/comments/1w00voc/whats_the_mos_
-
-- [Friendly volunteer pentester needed](https://www.reddit.com/r/Pentesting/comments/1w17bft/friendly_volunteer_pentester_needed/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I need a very good pentester to help test my mobile app for me voluntarily</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Publ_
-
-- [I want to learn network pentesting](https://www.reddit.com/r/Pentesting/comments/1w1br64/i_want_to_learn_network_pentesting/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>For 5-6 months I have been struggling to learn network pentesting.</p> <p>First I took EJPT but the account got suspended by some dispute.</p> <p>Then I tried tryhack_
-
-- [Russian-speaking cybercriminals used SpaceX's Cursor Al tool to hack seven companies](https://www.reddit.com/r/cybersecurity/comments/1vzs8tg/russianspeaking_cybercriminals_used_spacexs/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/NBrief"> /u/NBrief </a> <br /> <span><a href="https://www.reuters.com/world/russian-speaking-cybercriminals-used-spacexs-cursor-ai-tool-ha_
-
-- [Two alleged TeamPCP members arrested and charged after months of software supply-chain chaos](https://www.reddit.com/r/cybersecurity/comments/1vzvvnl/two_alleged_teampcp_members_arrested_and_charged/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1vzvvnl/two_alleged_teampcp_members_arrested_and_charged/"> <img alt="Two alleged TeamPCP members arrested and charged after m_
-
-- [Exploratory vs. Deterministic Assessments | Comcast Corporation](https://www.reddit.com/r/cybersecurity/comments/1w0mm5t/exploratory_vs_deterministic_assessments_comcast/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1w0mm5t/exploratory_vs_deterministic_assessments_comcast/"> <img alt="Exploratory vs. Deterministic Assessments | Comcast Corp_
-
-- [Do you guys Beyond Trust PRA for all Internal all Admins or just for your contractors and Non-IT Admins (App admins)](https://www.reddit.com/r/cybersecurity/comments/1w0hgl2/do_you_guys_beyond_trust_pra_for_all_internal_all/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Do you guys Beyond Trust PRA for all Internal all Admins or just for your contractors and Non IT Admins (App admins) What are some benefits of using PRA for IT Admins_
-
-- [how does an IAM department actually work inside a company?](https://www.reddit.com/r/cybersecurity/comments/1w00t9v/how_does_an_iam_department_actually_work_inside_a/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>hi everyone!</p> <p>I'm currently studying IAM, mainly within the microsoft entra ID ecosystem, but I'm having a hard time finding content that explains how an IAM de_
-
-- [The Cyber Scheme VA+ Course](https://www.reddit.com/r/cybersecurity/comments/1w0v8ph/the_cyber_scheme_va_course/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi All,</p> <p>I am looking to take the VA+ assessment but I can't find much information on what to revise.</p> <p>Has anyone taken this already?</p> <p>What can I ex_
-
-- [Three major UK airports are hit by cyber attack with millions of passengers affected](https://www.reddit.com/r/cybersecurity/comments/1vzsk70/three_major_uk_airports_are_hit_by_cyber_attack/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/thesun"> /u/thesun </a> <br /> <span><a href="http://thesun.co.uk/news/40189277/three-uk-airports-cyber-attack-millions-passengers-data-st_
-
-- [What email security settings get put on an insider threat once known?](https://www.reddit.com/r/cybersecurity/comments/1w0bk6t/what_email_security_settings_get_put_on_an/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I know some people who take leave right before leaving a company, and I understand FMLA leave or disability leave can be a way to offer an employee identified as a th_
-
-- [Odd Threat Intel Service Question](https://www.reddit.com/r/cybersecurity/comments/1w0xcli/odd_threat_intel_service_question/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello folks. Looking for a bit of a unique ask here. We all know that Intel providers like Intel471, Recorded Future, Flashpoint, etc do RFIs as an augment to their p_
-
-- [Data CyberSec?](https://www.reddit.com/r/cybersecurity/comments/1w10ier/data_cybersec/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey!</p> <p>Not another post on how to transition to cybersecurity.</p> <p>I’m a data engineer and I’m curious if there’s such a thing as a data specialised role insi_
-
-- [Building a Custom SMB1 Authentication Server from Scratch](https://www.reddit.com/r/cybersecurity/comments/1w0xzar/building_a_custom_smb1_authentication_server_from/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>For the past 8 months, in my spare time, I’ve been working on a personal project with the goal of studying the old SMB1 down to its lowest levels. During this time, I_
-
-- [Claude, Codex, and Hermes installed unowned code inside corporate networks](https://www.reddit.com/r/cybersecurity/comments/1vzybz2/claude_codex_and_hermes_installed_unowned_code/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1vzybz2/claude_codex_and_hermes_installed_unowned_code/"> <img alt="Claude, Codex, and Hermes installed unowned code inside co_
-
-- [D500S IronKey security???](https://www.reddit.com/r/cybersecurity/comments/1w0ylp7/d500s_ironkey_security/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>How secure is the D500S Ironkey from Kingston memory for data storage. I know it has a 140-3 rating but is it really secure from forensic labs?</p> </div><!-- SC_ON -_
-
-- [How to break into hedge fund?](https://www.reddit.com/r/cybersecurity/comments/1w0li7o/how_to_break_into_hedge_fund/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Very curious is the hiring process the same as any other company.</p> <p>I Work in FAANG (London), but a hedge fund recruiter reached out and the salary was close to _
-
-- [Are you worried that everyone is getting into cybersecurity that it will be like computer science?](https://www.reddit.com/r/cybersecurity/comments/1w074e1/are_you_worried_that_everyone_is_getting_into/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>These days everywhere you look it seems like everyone is starting cybersecurity, I get that there is a lot you can do in cybersecurity but it’s looking like it will b_
-
-- [How come shinyhunters has been able to get into so many different businesses?](https://www.reddit.com/r/cybersecurity/comments/1w0mge4/how_come_shinyhunters_has_been_able_to_get_into/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello, I know absolutely nothing about your field!</p> <p>I was messing about with hibp and saw the sheer excess of massive breaches of recognisable businesses throug_
-
-- [Substantial jump from help desk to IAM role](https://www.reddit.com/r/cybersecurity/comments/1w0xdwn/substantial_jump_from_help_desk_to_iam_role/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>What can I expect? Is this a technically intensive role? It doesn't seem like it based off the contents I'm studying so far. It seems like its a lot of theory and app_
-
-- [DoD Contractor -> Big Tech](https://www.reddit.com/r/cybersecurity/comments/1w130ho/dod_contractor_big_tech/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I have a cybersecurity degree and 5 years of experience at a prime DoD contractor right out of college, but am wondering if this skillset is really transferable to th_
-
-- [What is it actually like to work in Data Forensics?](https://www.reddit.com/r/cybersecurity/comments/1w16nbs/what_is_it_actually_like_to_work_in_data_forensics/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I currently work in DFIR and I’m considering a consulting role described as “Data Forensics.” I’m interested in the investigative side of the work, but the title feel_
-
-- [Trying to Breakout in IT but unsure how](https://www.reddit.com/r/cybersecurity/comments/1w198wj/trying_to_breakout_in_it_but_unsure_how/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>Im looking for some advice and experiences on how to break into IT. Ive been trying for 2 years now since graduating with my BS in Cyber Security _
-
-- [Verity - X Uncovers 200K Chinese Bot Farm Targeting US Energy, AI Policy](https://www.reddit.com/r/cybersecurity/comments/1w0yj5e/verity_x_uncovers_200k_chinese_bot_farm_targeting/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1w0yj5e/verity_x_uncovers_200k_chinese_bot_farm_targeting/"> <img alt="Verity - X Uncovers 200K Chinese Bot Farm Targeting US _
-
-- [McKesson discloses breach after ShinyHunters claims patient data theft](https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/)
-  - Confidence: 🟫 LOW
-  - _Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extorti_
