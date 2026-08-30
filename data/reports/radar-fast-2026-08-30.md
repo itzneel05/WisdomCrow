@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-30
-date: 2026-08-30T16:00:54Z
+date: 2026-08-30T20:31:22Z
 type: radar-report
 report_type: fast
-total_opportunities: 48
+total_opportunities: 46
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 48
+**Total opportunities:** 46
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 35 |
+| ❓ Uncategorized | 33 |
 | 💰 Bug Bounties | 12 |
 | 🏰 CTF Competitions | 1 |
 
@@ -223,11 +223,3 @@ tags:
 - [Hasbro Data Breach Exposed Employee Personal Information](https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/)
   - Confidence: 🟫 LOW
   - _<p>A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach.</p> <p>The post <a href="https://www.securityweek.com/hasbro-data-breac_
-
-- [Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html)
-  - Confidence: 🟫 LOW
-  - _Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, a_
-
-- [Brave browser adds email aliases to help users evade tracking](https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/)
-  - Confidence: 🟫 LOW
-  - _The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]_
