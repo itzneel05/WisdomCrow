@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-30
-date: 2026-08-30T11:13:19Z
+date: 2026-08-30T16:00:54Z
 type: radar-report
 report_type: fast
-total_opportunities: 44
+total_opportunities: 48
 tags:
   - radar
   - fast
@@ -13,12 +13,20 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 44
+**Total opportunities:** 48
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 32 |
+| ❓ Uncategorized | 35 |
 | 💰 Bug Bounties | 12 |
+| 🏰 CTF Competitions | 1 |
+
+## 🏰 CTF Competitions
+
+- [Chrome Web Store extensions caught stealing crypto, browser data](https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`, `india_friendly`
+  - _Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lu_
 
 ## 💰 Bug Bounties
 
@@ -83,6 +91,30 @@ tags:
   - _Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local._
 
 ## ❓ Uncategorized
+
+- [Alternative course for AD part](https://www.reddit.com/r/oscp/comments/1w1g03f/alternative_course_for_ad_part/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone! I completed an older version of the OSCP, before Active Directory was included in the training. I’d like to fill that gap and get up to speed with the AD_
+
+- [Help with Web](https://www.reddit.com/r/oscp/comments/1w1tt1l/help_with_web/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone, I have my exam coming up next month, and I’m really struggling with webapp pentesting, my methodology is everywhere, I feel like it’s too broad a topic t_
+
+- [OSCP exam Last minutes](https://www.reddit.com/r/oscp/comments/1w1papa/oscp_exam_last_minutes/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Since january I have been studying for OSCP (a lot). What I did? </p> <p>- LainKusanagi list of OSCP like machines<br /> - HTB training path<br /> - Hacker blueprint<_
+
+- [OSCP-LK: Practice Exam by LainKusanagi Free For a Week!](https://www.reddit.com/r/oscp/comments/1w1y6ws/oscplk_practice_exam_by_lainkusanagi_free_for_a/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hello everyone! LainKusanagi here.</p> <p>I'm offering OSCP-LK for free for a week! It's a set of virtual machines carefully designed to be &quot;OSCP Style&quot; tha_
+
+- [Anthropic warns infostealer malware is hijacking Claude sessions to drain usage](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/)
+  - Confidence: 🟫 LOW
+  - _Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...]_
+
+- [FulcrumSec claims Manchester Airports hack, theft of 86 GB of data](https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/)
+  - Confidence: 🟫 LOW
+  - _FulcrumSec claims it stole 86 GB of data from Manchester Airports Group. BleepingComputer validated one traveller's record, while samples revealed detailed customer, booking, and travel information be_
 
 - [TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html)
   - Confidence: 🟫 LOW
@@ -199,15 +231,3 @@ tags:
 - [Brave browser adds email aliases to help users evade tracking](https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/)
   - Confidence: 🟫 LOW
   - _The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]_
-
-- [A fake resume invoked China’s defence tech elite, then installed VShell](https://www.reddit.com/r/netsec/comments/1vzxkxm/a_fake_resume_invoked_chinas_defence_tech_elite/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/unknownhad"> /u/unknownhad </a> <br /> <span><a href="https://blog.himanshuanand.com/2026/08/a-fake-resume-invoked-chinas-defence-tech-eli_
-
-- [LLM-Driven Reverse Engineering vs Iterative LLM Obfuscation](https://www.reddit.com/r/netsec/comments/1vzx029/llmdriven_reverse_engineering_vs_iterative_llm/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/AvenueJay"> /u/AvenueJay </a> <br /> <span><a href="https://www.elastic.co/security-labs/llm-reversing-vs-llm-obfuscation">[link]</a></spa_
-
-- [UniBLEed: Unauthenticated Root RCE on Any Unitree G1 Humanoid Robot Within Bluetooth Range](https://www.reddit.com/r/netsec/comments/1w05xwz/unibleed_unauthenticated_root_rce_on_any_unitree/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/WiseTuna"> /u/WiseTuna </a> <br /> <span><a href="https://boschko.ca/g1-ble-rce/">[link]</a></span> &#32; <span><a href="https://www.reddi_
