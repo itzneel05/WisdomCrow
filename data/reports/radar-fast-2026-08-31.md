@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-08-31
-date: 2026-08-31T12:38:37Z
+date: 2026-08-31T22:26:02Z
 type: radar-report
 report_type: fast
-total_opportunities: 19
+total_opportunities: 26
 tags:
   - radar
   - fast
@@ -13,22 +13,19 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 19
+**Total opportunities:** 26
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 16 |
-| 🎓 Free Certifications | 2 |
-| 🏰 CTF Competitions | 1 |
-
-## 🏰 CTF Competitions
-
-- [Chrome Web Store extensions caught stealing crypto, browser data](https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`, `india_friendly`
-  - _Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lu_
+| ❓ Uncategorized | 23 |
+| 🎓 Free Certifications | 3 |
 
 ## 🎓 Free Certifications
+
+- [Chinese Fire Ant hackers turn Cisco routers into spying platforms](https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _The researchers discovered Fire Ant's new tactic after finding an active GRE (Generic Routing Encapsulation) tunnel interface on a Cisco IOS XR router that could not be explained by a running configur_
 
 - [China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs](https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html)
   - Confidence: 🟢 HIGH
@@ -41,6 +38,62 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More](https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html)
+  - Confidence: 🟫 LOW
+  - _The boring parts caused most of the trouble.  A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs._
+
+- [North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales](https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent i_
+
+- [The Coding-Agent Trap: When a "Free" LLM Endpoint Is the Adversary, (Mon, Aug 31st)](https://isc.sans.edu/diary/rss/33298)
+  - Confidence: 🟫 LOW
+  - _<p><em>One of my internet-exposed inference honeypots was discovered, relabeled with sought-after model names, and incorporated into infrastructure apparently used to provide "free" LLM backends. It t_
+
+- [Cyber Security Survey](https://www.reddit.com/r/netsecstudents/comments/1w2mg2l/cyber_security_survey/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone! I'm currently working on a school project and I'm collecting responses for a short anonymous survey. If you have a few minutes to participate, I'd really_
+
+- [Projects and internship guidance](https://www.reddit.com/r/netsecstudents/comments/1w2hk28/projects_and_internship_guidance/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I am a 3rd year cyber student and I want to apply for internships and improve my skills.</p> <p>I am planning for the SOC analyst role and further on.</p> <p>Can anyo_
+
+- [Title: FYP Idea: GraphSAGE-Based Network Intrusion Detection System — What Features/Architecture Should I Use?](https://www.reddit.com/r/netsecstudents/comments/1w2r16c/title_fyp_idea_graphsagebased_network_intrusion/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone, I’m an undergraduate planning my FYP around a Network Intrusion Detection System (NIDS) that uses a Graph Neural Network (GNN) to detect network intrusio_
+
+- [Stop trusting a single port scan on HTB](https://www.reddit.com/r/netsecstudents/comments/1w3acjr/stop_trusting_a_single_port_scan_on_htb/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p><a href="https://github.com/Demgainschill/massmap">https://github.com/Demgainschill/massmap</a></p> <p>If you have spent any time on a Hack The Box VPN, you already k_
+
+- [Building a Custom SMB1 Authentication Server from Scratch](https://www.reddit.com/r/netsecstudents/comments/1w346b0/building_a_custom_smb1_authentication_server_from/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>For the past 8 months, in my spare time, I’ve been working on a personal project with the goal of studying the old SMB1 down to its lowest levels. During this time, I_
+
+- [Berlin confirms data theft after Rhysida ransomware attack claims](https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/)
+  - Confidence: 🟫 LOW
+  - _Berlin's city administration has confirmed that cybercriminals are attempting to extort the city after the Rhysida ransomware gang listed it on their data leak site. [...]_
+
+- [File servers are here to stay. Here’s how to manage them securely](https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/)
+  - Confidence: 🟫 LOW
+  - _File servers remain a critical part of many IT environments, but managing access securely can become complex as permissions accumulate. tenfold Software outlines five best practices for simplifying fi_
+
+- [OpenAI confirms ChatGPT outage as users report errors](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/)
+  - Confidence: 🟫 LOW
+  - _ChatGPT Work is experiencing a partial outage, and users across multiple subscription plans may be unable to start or continue tasks. [...]_
+
+- [Microsoft Exchange Online outage causes email failures, auth issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/)
+  - Confidence: 🟫 LOW
+  - _Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]_
+
+- [Microsoft warns of TerminalFix attacks deploying reverse tunnels](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/)
+  - Confidence: 🟫 LOW
+  - _A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]_
+
+- [Cronos blockchain restarts after $74 million Tectonic exploit](https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/)
+  - Confidence: 🟫 LOW
+  - _The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]_
 
 - [DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims](https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html)
   - Confidence: 🟫 LOW
@@ -77,31 +130,3 @@ tags:
 - [Anatomy of a ServiceNow Red Team](https://www.reddit.com/r/netsec/comments/1w2mktz/anatomy_of_a_servicenow_red_team/)
   - Confidence: 🟫 LOW
   - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/gid0rah"> /u/gid0rah </a> <br /> <span><a href="https://www.mdsec.co.uk/2026/08/when-it-snows-it-pours-anatomy-of-a-servicenow-red-team/">_
-
-- [Week in review: Compromised Zimbra servers, previously patched Citrix NetScaler flaw exploited](https://www.helpnetsecurity.com/2026/08/30/week-in-review-compromised-zimbra-servers-previously-patched-citrix-netscaler-flaw-exploited/)
-  - Confidence: 🟫 LOW
-  - _<p>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Unpatched Zimbra servers are falling to CVE-2026-73570 attacks At least 274 internet-facing Zimbra _
-
-- [Alternative course for AD part](https://www.reddit.com/r/oscp/comments/1w1g03f/alternative_course_for_ad_part/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi everyone! I completed an older version of the OSCP, before Active Directory was included in the training. I’d like to fill that gap and get up to speed with the AD_
-
-- [Help with Web](https://www.reddit.com/r/oscp/comments/1w1tt1l/help_with_web/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi everyone, I have my exam coming up next month, and I’m really struggling with webapp pentesting, my methodology is everywhere, I feel like it’s too broad a topic t_
-
-- [OSCP exam Last minutes](https://www.reddit.com/r/oscp/comments/1w1papa/oscp_exam_last_minutes/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Since january I have been studying for OSCP (a lot). What I did? </p> <p>- LainKusanagi list of OSCP like machines<br /> - HTB training path<br /> - Hacker blueprint<_
-
-- [OSCP-LK: Practice Exam by LainKusanagi Free For a Week!](https://www.reddit.com/r/oscp/comments/1w1y6ws/oscplk_practice_exam_by_lainkusanagi_free_for_a/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello everyone! LainKusanagi here.</p> <p>I'm offering OSCP-LK for free for a week! It's a set of virtual machines carefully designed to be &quot;OSCP Style&quot; tha_
-
-- [Anthropic warns infostealer malware is hijacking Claude sessions to drain usage](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/)
-  - Confidence: 🟫 LOW
-  - _Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...]_
-
-- [FulcrumSec claims Manchester Airports hack, theft of 86 GB of data](https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/)
-  - Confidence: 🟫 LOW
-  - _FulcrumSec claims it stole 86 GB of data from Manchester Airports Group. BleepingComputer validated one traveller's record, while samples revealed detailed customer, booking, and travel information be_
