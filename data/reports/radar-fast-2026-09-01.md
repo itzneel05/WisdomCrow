@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-01
-date: 2026-09-01T03:27:44Z
+date: 2026-09-01T11:04:03Z
 type: radar-report
 report_type: fast
-total_opportunities: 53
+total_opportunities: 60
 tags:
   - radar
   - fast
@@ -13,13 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 53
+**Total opportunities:** 60
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 47 |
+| ❓ Uncategorized | 53 |
 | 🏰 CTF Competitions | 3 |
 | 🎓 Free Certifications | 3 |
+| 💰 Bug Bounties | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -37,6 +38,13 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `ctf`
   - _<!-- SC_OFF --><div class="md"><p>Preferably looking for people who aren’t absolute beginners and have at least 1–2 project/hackathon experiences. Mainly interested in cybersecurity, AI/ML, web dev, e_
+
+## 💰 Bug Bounties
+
+- [Reconnaissance unleashed: Meet CrowdRecon](https://www.intigriti.com/blog/news/reconnaissance-unleashed-meet-crowdrecon)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _At Intigriti, we have been exploring a simple but important shift in security: the work that happens before a vulnerability report is often where the real signal begins. As vulnerability discovery acc_
 
 ## 🎓 Free Certifications
 
@@ -56,6 +64,30 @@ tags:
   - _A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control Sys_
 
 ## ❓ Uncategorized
+
+- [Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity](https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck.  The vulnerabilities in question are listed below -     CVE-2026-0768 (C_
+
+- [Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis](https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interf_
+
+- [Attackers Steal METR API Key and Consume AI Credits Worth About $600,000](https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html)
+  - Confidence: 🟫 LOW
+  - _METR (short for Model Evaluation and Threat Research and pronounced "Meter"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-hori_
+
+- [Massive Microsoft 365 outage causes auth issues, service failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/)
+  - Confidence: 🟫 LOW
+  - _Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]_
+
+- [Recently patched PaperCut zero-days used in data theft attacks](https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/)
+  - Confidence: 🟫 LOW
+  - _Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks. [...]_
+
+- [Five Venezuelans plead guilty to ATM jackpotting attacks in US](https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/)
+  - Confidence: 🟫 LOW
+  - _Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]_
 
 - [Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)](https://isc.sans.edu/diary/rss/33300)
   - Confidence: 🟫 LOW
