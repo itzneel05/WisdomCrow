@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-02
-date: 2026-09-02T10:37:17Z
+date: 2026-09-02T15:56:36Z
 type: radar-report
 report_type: fast
-total_opportunities: 95
+total_opportunities: 97
 tags:
   - radar
   - fast
@@ -13,13 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 95
+**Total opportunities:** 97
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 91 |
+| ❓ Uncategorized | 94 |
 | 🎓 Free Certifications | 2 |
-| 💰 Bug Bounties | 1 |
 | 🏰 CTF Competitions | 1 |
 
 ## 🏰 CTF Competitions
@@ -28,13 +27,6 @@ tags:
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
   - _Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution.  The vulnerability in question i_
-
-## 💰 Bug Bounties
-
-- [Reconnaissance unleashed: Meet CrowdRecon](https://www.intigriti.com/blog/news/reconnaissance-unleashed-meet-crowdrecon)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _At Intigriti, we have been exploring a simple but important shift in security: the work that happens before a vulnerability report is often where the real signal begins. As vulnerability discovery acc_
 
 ## 🎓 Free Certifications
 
@@ -49,6 +41,42 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>Hi, </p> <p>I'm a 2026 graduate with 3 months of full stack dev experience as an intern but cyber security really interests me so I started doing courses on it with C_
 
 ## ❓ Uncategorized
+
+- [Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain](https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html)
+  - Confidence: 🟫 LOW
+  - _SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks.  The vulnerabili_
+
+- [How to Secure Enterprise AI: From Adoption to Incident Readiness](https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html)
+  - Confidence: 🟫 LOW
+  - _The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizat_
+
+- [Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control](https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and c_
+
+- [BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access](https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html)
+  - Confidence: 🟫 LOW
+  - _Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some_
+
+- [Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages](https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html)
+  - Confidence: 🟫 LOW
+  - _A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions_
+
+- [Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code](https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html)
+  - Confidence: 🟫 LOW
+  - _Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's mac_
+
+- [Dropbox accounts breached through Lenovo email verification flaw](https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/)
+  - Confidence: 🟫 LOW
+  - _Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]_
+
+- [Ransomware protection for MSPs: A 6-point checklist for faster recovery](https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/)
+  - Confidence: 🟫 LOW
+  - _Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attack_
+
+- [Hackers exploit critical JFrog Artifactory flaw to forge admin tokens](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/)
+  - Confidence: 🟫 LOW
+  - _A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]_
 
 - [Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads](https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html)
   - Confidence: 🟫 LOW
@@ -389,27 +417,3 @@ tags:
 - [Hackers push malicious Virtualizor update in BGP hijacking attack](https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/)
   - Confidence: 🟫 LOW
   - _Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers. [...]_
-
-- [Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity](https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck.  The vulnerabilities in question are listed below -     CVE-2026-0768 (C_
-
-- [Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis](https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interf_
-
-- [Attackers Steal METR API Key and Consume AI Credits Worth About $600,000](https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html)
-  - Confidence: 🟫 LOW
-  - _METR (short for Model Evaluation and Threat Research and pronounced "Meter"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-hori_
-
-- [Massive Microsoft 365 outage causes auth issues, service failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/)
-  - Confidence: 🟫 LOW
-  - _Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]_
-
-- [Recently patched PaperCut zero-days used in data theft attacks](https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/)
-  - Confidence: 🟫 LOW
-  - _Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks. [...]_
-
-- [Five Venezuelans plead guilty to ATM jackpotting attacks in US](https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/)
-  - Confidence: 🟫 LOW
-  - _Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]_
