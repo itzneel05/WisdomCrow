@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-02
-date: 2026-09-02T02:46:14Z
+date: 2026-09-02T10:37:17Z
 type: radar-report
 report_type: fast
-total_opportunities: 64
+total_opportunities: 95
 tags:
   - radar
   - fast
@@ -13,31 +13,21 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 64
+**Total opportunities:** 95
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 57 |
-| 🏰 CTF Competitions | 3 |
-| 🎓 Free Certifications | 3 |
+| ❓ Uncategorized | 91 |
+| 🎓 Free Certifications | 2 |
 | 💰 Bug Bounties | 1 |
+| 🏰 CTF Competitions | 1 |
 
 ## 🏰 CTF Competitions
 
-- [Hand Coded a challenge website, looking for reviewers](https://www.reddit.com/r/securityCTF/comments/1w2dxfr/hand_coded_a_challenge_website_looking_for/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>My teammates and I have been working on building a new challenge site and we want to know how the community feels about it.</p> <p>We have 20 challenges created so fa_
-
-- [Question about beginner CTFs and how to teach PWN better](https://www.reddit.com/r/securityCTF/comments/1w366px/question_about_beginner_ctfs_and_how_to_teach_pwn/)
-  - Confidence: 🟢 HIGH
+- [Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials](https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html)
+  - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>Hello everyone! I'm fairly new to the world of cybersecurity. I just finished a basic CTF-oriented course that ended with an AD competition that I didn't even get to _
-
-- [Looking for people to participate in Hackathons & CTFs](https://www.reddit.com/r/securityCTF/comments/1w3kba3/looking_for_people_to_participate_in_hackathons/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>Preferably looking for people who aren’t absolute beginners and have at least 1–2 project/hackathon experiences. Mainly interested in cybersecurity, AI/ML, web dev, e_
+  - _Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution.  The vulnerability in question i_
 
 ## 💰 Bug Bounties
 
@@ -58,12 +48,147 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _<!-- SC_OFF --><div class="md"><p>Hi, </p> <p>I'm a 2026 graduate with 3 months of full stack dev experience as an intern but cyber security really interests me so I started doing courses on it with C_
 
-- [ISC Stormcast For Tuesday, September 1st, 2026 https://isc.sans.edu/podcastdetail/10076, (Tue, Sep 1st)](https://isc.sans.edu/diary/rss/33302)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads](https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation.  The effort was _
+
+- [Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another](https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html)
+  - Confidence: 🟫 LOW
+  - _Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, _
+
+- [Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands](https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attac_
+
+- [GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends](https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html)
+  - Confidence: 🟫 LOW
+  - _Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geo_
+
+- [Team PCP (Shai-Hulud, LiteLLM breach) exposed](https://www.reddit.com/r/hacking/comments/1w3eoj3/team_pcp_shaihulud_litellm_breach_exposed/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1w3eoj3/team_pcp_shaihulud_litellm_breach_exposed/"> <img alt="Team PCP (Shai-Hulud, LiteLLM breach) exposed" src="https://external-_
+
+- [Uk plans safeguards to stop terrorists using AI for bioweapons](https://www.reddit.com/r/hacking/comments/1w4ctig/uk_plans_safeguards_to_stop_terrorists_using_ai/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1w4ctig/uk_plans_safeguards_to_stop_terrorists_using_ai/"> <img alt="Uk plans safeguards to stop terrorists using AI for bioweapons"_
+
+- [Owning ChatGPT's Secure Sandbox](https://www.reddit.com/r/hacking/comments/1w4kom2/owning_chatgpts_secure_sandbox/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1w4kom2/owning_chatgpts_secure_sandbox/"> <img alt="Owning ChatGPT's Secure Sandbox" src="https://external-preview.redd.it/HTZEA7GOe_
+
+- [Owning the Secure Sandbox](https://www.reddit.com/r/cybersecurity/comments/1w4g8fd/owning_the_secure_sandbox/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1w4g8fd/owning_the_secure_sandbox/"> <img alt="Owning the Secure Sandbox" src="https://external-preview.redd.it/HTZEA7GOeUyd-n_
+
+- [AI-driven cyber risk is top concern for global financial stability, watchdog says](https://www.reddit.com/r/cybersecurity/comments/1w4ayxl/aidriven_cyber_risk_is_top_concern_for_global/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/KeanuRave100"> /u/KeanuRave100 </a> <br /> <span><a href="https://www.reuters.com/legal/litigation/ai-driven-cyber-risk-is-top-concern-glo_
+
+- [The Hugging Face Incident Is Not an AI Story](https://www.reddit.com/r/cybersecurity/comments/1w3cbnz/the_hugging_face_incident_is_not_an_ai_story/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1w3cbnz/the_hugging_face_incident_is_not_an_ai_story/"> <img alt="The Hugging Face Incident Is Not an AI Story" src="https://e_
+
+- [Breaking Down Appsec](https://www.reddit.com/r/cybersecurity/comments/1w4o56u/breaking_down_appsec/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I started a blog series to provide free insights into appsec. I do have a company but I will not be shilling anything there. It’s mainly to breakdown what application_
+
+- [What would make a dedicated DFIR and authorized security-testing Linux distribution worth using in 2026?](https://www.reddit.com/r/cybersecurity/comments/1w4pwc5/what_would_make_a_dedicated_dfir_and_authorized/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I’m the developer of T-PHANTOM, a Linux distribution I’ve been building around DFIR and authorized security testing.</p> <p>I’m not posting this as a launch announcem_
+
+- [Detection Engineering Basics](https://www.reddit.com/r/cybersecurity/comments/1w4c1jg/detection_engineering_basics/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I want to understand how can one learn the basics of detection engineering. What are the prerequisites to detection engineering. I think there are no fixed steps to c_
+
+- [[ Removed by Reddit ]](https://www.reddit.com/r/cybersecurity/comments/1w4x9id/removed_by_reddit/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>[ Removed by Reddit on account of violating the <a href="/help/contentpolicy">content policy</a>. ]</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https:/_
+
+- [Content debt is now an engineering problem](https://www.reddit.com/r/cybersecurity/comments/1w46wij/content_debt_is_now_an_engineering_problem/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1w46wij/content_debt_is_now_an_engineering_problem/"> <img alt="Content debt is now an engineering problem" src="https://exter_
+
+- [I am new to GRC, recommended resources?](https://www.reddit.com/r/cybersecurity/comments/1w47b0n/i_am_new_to_grc_recommended_resources/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi, I am joining a GRC software company very soon as their US/EU AE and Im looking to learn more about the space and compliance and frameworks.</p> <p>Where do you th_
+
+- [Five Venezuelans plead guilty to ATM jackpotting attacks in US](https://www.reddit.com/r/cybersecurity/comments/1w4au2i/five_venezuelans_plead_guilty_to_atm_jackpotting/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1w4au2i/five_venezuelans_plead_guilty_to_atm_jackpotting/"> <img alt="Five Venezuelans plead guilty to ATM jackpotting attacks_
+
+- [Regarding cybersecurity and documentation, are you expected to reinvent the wheel?](https://www.reddit.com/r/cybersecurity/comments/1w4ih1r/regarding_cybersecurity_and_documentation_are_you/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>So I'm under the impression that in terms of cybersecurity, employers care more about skill than degrees, and one of those ways to show skill is projects and document_
+
+- [Tired and Feel Stuck](https://www.reddit.com/r/cybersecurity/comments/1w4cp4n/tired_and_feel_stuck/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I’ve been in working in the general sector of IT for about 3 years now and have always enjoyed studying cybersecurity. I got my B.S. in Cybersecur_
+
+- [Is docusign sufficiently secure? Does this example raise any security concerns?](https://www.reddit.com/r/cybersecurity/comments/1w4biwl/is_docusign_sufficiently_secure_does_this_example/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Apologies if this is meant for <a href="https://www.reddit.com/r/cybersecurity_help/">r/cybersecurity_help</a>, it felt like a general question that concerns the over_
+
+- [China-linked campaign targets high-value networks, critical infrastructure](https://www.reddit.com/r/cybersecurity/comments/1w44wtj/chinalinked_campaign_targets_highvalue_networks/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1w44wtj/chinalinked_campaign_targets_highvalue_networks/"> <img alt="China-linked campaign targets high-value networks, critic_
+
+- [Quantum computing needs software engineers](https://www.reddit.com/r/cybersecurity/comments/1w566pc/quantum_computing_needs_software_engineers/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1w566pc/quantum_computing_needs_software_engineers/"> <img alt="Quantum computing needs software engineers" src="https://exter_
+
+- [SAP security job](https://www.reddit.com/r/cybersecurity/comments/1w567kx/sap_security_job/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey guys,</p> <p>I am earning 50k INR in SAP security job with 5 yrs exp. And looking for a change. Any leads.</p> <p>I don't have hands on GRC, but will be prepared _
+
+- [Cybersecurity as a hobby?](https://www.reddit.com/r/cybersecurity/comments/1w56eza/cybersecurity_as_a_hobby/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I’ve realized that ever since I was young, I’ve always had an interest in networks, computers, and even the dumb little hacks and cheats people used to do for faceboo_
+
+- [Don’t Let Abliteration Abliterate Your Bug Hunting: Discovering Verdict Bias in Uncensored Models](https://www.reddit.com/r/cybersecurity/comments/1w4rtds/dont_let_abliteration_abliterate_your_bug_hunting/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1w4rtds/dont_let_abliteration_abliterate_your_bug_hunting/"> <img alt="Don’t Let Abliteration Abliterate Your Bug Hunting: Dis_
+
+- [Will the rush into security ever slow down or is this the new normal?](https://www.reddit.com/r/cybersecurity/comments/1w4aghz/will_the_rush_into_security_ever_slow_down_or_is/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Now that we have been in this security “boom” for a few years now it’s got me thinking about the long term implications of the field. We’ve constantly hear that about_
+
+- [Police Scotland warns ‘robust security’ needed to stop attacks on AI datacentres | ‘A great deal of public opposition is likely’ to a proposed datacentre near Edinburgh, the force says](https://www.reddit.com/r/cybersecurity/comments/1w526cb/police_scotland_warns_robust_security_needed_to/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1w526cb/police_scotland_warns_robust_security_needed_to/"> <img alt="Police Scotland warns ‘robust security’ needed to stop at_
+
+- [What is actually expected from a cybersecurity manager at a FAANG-level company?](https://www.reddit.com/r/cybersecurity/comments/1w4kpwu/what_is_actually_expected_from_a_cybersecurity/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Beyond technical skills, what does success look like for a cybersecurity manager at a FAANG-scale organization?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a h_
+
+- [Hackers abuse Faronics Deploy admin tool to install ScreenConnect](https://www.reddit.com/r/cybersecurity/comments/1w4xe0i/hackers_abuse_faronics_deploy_admin_tool_to/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1w4xe0i/hackers_abuse_faronics_deploy_admin_tool_to/"> <img alt="Hackers abuse Faronics Deploy admin tool to install ScreenCon_
+
+- [4 CVEs in GeoNetwork exposed government geoportals in 39 countries to unauthenticated RCE, fully patched after coordinated disclosure](https://www.reddit.com/r/cybersecurity/comments/1w54tgo/4_cves_in_geonetwork_exposed_government/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1w54tgo/4_cves_in_geonetwork_exposed_government/"> <img alt="4 CVEs in GeoNetwork exposed government geoportals in 39 countrie_
+
+- [FBI Probes Service Selling 153M+ Drivers Licenses](https://www.reddit.com/r/cybersecurity/comments/1w4xss2/fbi_probes_service_selling_153m_drivers_licenses/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/BarnacleBasic1988"> /u/BarnacleBasic1988 </a> <br /> <span><a href="https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-dr_
+
+- [SonicWall warns of actively exploited SMA1000 zero-day flaws](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/)
+  - Confidence: 🟫 LOW
+  - _SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]_
+
+- [Sality botnet infrastructure dismantled in joint global takedown](https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/)
+  - Confidence: 🟫 LOW
+  - _International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]_
+
+- [US charges Russian for infecting 80,000 freelancers with malware](https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/)
+  - Confidence: 🟫 LOW
+  - _A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]_
+
+- [Microsoft Defender flags legitimate Google search links as malicious](https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/)
+  - Confidence: 🟫 LOW
+  - _Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]_
 
 - [I want to buy laptop for learning hacking and daily uses also for college my budget is ₹70k in india](https://www.reddit.com/r/Pentesting/comments/1w34mr8/i_want_to_buy_laptop_for_learning_hacking_and/)
   - Confidence: 🟫 LOW
@@ -288,7 +413,3 @@ tags:
 - [Five Venezuelans plead guilty to ATM jackpotting attacks in US](https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/)
   - Confidence: 🟫 LOW
   - _Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]_
-
-- [Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)](https://isc.sans.edu/diary/rss/33300)
-  - Confidence: 🟫 LOW
-  - _<p><em><strong>Introduction</strong></em></p>&#xd;_
