@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-02
-date: 2026-09-02T15:56:36Z
+date: 2026-09-02T20:29:58Z
 type: radar-report
 report_type: fast
-total_opportunities: 97
+total_opportunities: 91
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 97
+**Total opportunities:** 91
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 94 |
+| ❓ Uncategorized | 88 |
 | 🎓 Free Certifications | 2 |
 | 🏰 CTF Competitions | 1 |
 
@@ -41,6 +41,18 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>Hi, </p> <p>I'm a 2026 graduate with 3 months of full stack dev experience as an intern but cyber security really interests me so I started doing courses on it with C_
 
 ## ❓ Uncategorized
+
+- [Fake Software Installers Disable Windows Update and Weaken Microsoft Defender](https://thehackernews.com/2026/09/fake-software-installers-disable.html)
+  - Confidence: 🟫 LOW
+  - _An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers.  "The campaign has targeted users looking to download popular s_
+
+- [Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs](https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html)
+  - Confidence: 🟫 LOW
+  - _Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called th_
+
+- [WordPress backup plugin flaw exposes millions of sites to takeover attacks](https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/)
+  - Confidence: 🟫 LOW
+  - _An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]_
 
 - [Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain](https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html)
   - Confidence: 🟫 LOW
@@ -381,39 +393,3 @@ tags:
 - [Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure](https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html)
   - Confidence: 🟫 LOW
   - _Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr.  The vulnerability in question is CVE-2026-_
-
-- [Critical Langflow flaw exploited to steal OpenAI and AWS keys](https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/)
-  - Confidence: 🟫 LOW
-  - _Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, an_
-
-- [Aesto Health says data breach affects over 9.5 million patients](https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/)
-  - Confidence: 🟫 LOW
-  - _Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]_
-
-- [Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones](https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html)
-  - Confidence: 🟫 LOW
-  - _The most common way into a company last year was to ask.  A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. _
-
-- [Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests](https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html)
-  - Confidence: 🟫 LOW
-  - _The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting foo_
-
-- [13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds](https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install_
-
-- [Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks](https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/)
-  - Confidence: 🟫 LOW
-  - _Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...]_
-
-- [Why Even the Best Edge Security Still Misses High-Risk Sessions](https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/)
-  - Confidence: 🟫 LOW
-  - _Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment a_
-
-- [Novocure data breach affects more than 1,400 cancer patients](https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/)
-  - Confidence: 🟫 LOW
-  - _Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack. [...]_
-
-- [Hackers push malicious Virtualizor update in BGP hijacking attack](https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/)
-  - Confidence: 🟫 LOW
-  - _Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers. [...]_
