@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-03
-date: 2026-09-03T15:48:10Z
+date: 2026-09-03T20:30:06Z
 type: radar-report
 report_type: fast
-total_opportunities: 116
+total_opportunities: 131
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 116
+**Total opportunities:** 131
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 105 |
+| ❓ Uncategorized | 119 |
 | 🏰 CTF Competitions | 6 |
-| 🎓 Free Certifications | 3 |
+| 🎓 Free Certifications | 4 |
 | 💰 Bug Bounties | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 
@@ -64,6 +64,11 @@ tags:
 
 ## 🎓 Free Certifications
 
+- [Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root](https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongsid_
+
 - [ISC Stormcast For Thursday, September 3rd, 2026 https://isc.sans.edu/podcastdetail/10080, (Thu, Sep 3rd)](https://isc.sans.edu/diary/rss/33308)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`, `india_friendly`
@@ -87,6 +92,110 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>Hey guys</p> <p>Are there any researchers or professionals who work in aiml domain ? I needed to clarify some doubts regarding a hackathon I'm participating in. It wo_
 
 ## ❓ Uncategorized
+
+- [Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data](https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html)
+  - Confidence: 🟫 LOW
+  - _Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting_
+
+- [BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory](https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised h_
+
+- [ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories](https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html)
+  - Confidence: 🟫 LOW
+  - _The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door?  That idea runs through_
+
+- [cybersecurity research](https://www.reddit.com/r/netsecstudents/comments/1w56s9d/cybersecurity_research/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I'm enthusiastic about research and recently got in touch with a student writing his own paper. Now my topic is dynamic datasets for cybersecurity intrusion detection_
+
+- [I captured what Nmap actually does for open, closed and filtered ports](https://www.reddit.com/r/netsecstudents/comments/1w4p6ze/i_captured_what_nmap_actually_does_for_open/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I have been trying to understand network scanning below the Nmap-output level, so I ran a few controlled experiments inside my own host-only lab.</p> <p>Kali was the _
+
+- [Looking for a Cybersecurity Roadmap as a Final-Year CS Student](https://www.reddit.com/r/netsecstudents/comments/1w6d6rv/looking_for_a_cybersecurity_roadmap_as_a/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I’m currently in my final year of Computer Science and have been focusing on full-stack development. However, I’m not sure I want to pursue full-s_
+
+- [Do you actually trust your BAS tool's results? JHU researcher looking for honest answers](https://www.reddit.com/r/netsecstudents/comments/1w6ezt8/do_you_actually_trust_your_bas_tools_results_jhu/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I'm a JHU cybersecurity researcher going through the National Science Foundation I-Corps program — basically trying to figure out if what I'm bui_
+
+- [Counterfeit installers to system compromise: Tracking a deceptive software download campaign](https://www.reddit.com/r/blueteamsec/comments/1w4yfnc/counterfeit_installers_to_system_compromise/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-com_
+
+- [Update on Security at METR](https://www.reddit.com/r/blueteamsec/comments/1w4yh46/update_on_security_at_metr/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://metr.org/blog/2026-08-31-security-update/">[link]</a></span> &#32; <span><a href="_
+
+- [Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams](https://www.reddit.com/r/blueteamsec/comments/1w4ykfk/spring_ring_an_inside_look_at_voice_phishing/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/">[link]</a></spa_
+
+- [Daisy-Chaining Trust: Investigating Faronics Deploy Abuse](https://www.reddit.com/r/blueteamsec/comments/1w4ymz2/daisychaining_trust_investigating_faronics_deploy/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.huntress.com/blog/faronics-deploy-abuse">[link]</a></span> &#32; <span><a href_
+
+- [Breaking the Seal: Static Deobfuscation of JSCeal’s Compiled V8 Bytecode](https://www.reddit.com/r/blueteamsec/comments/1w4yntq/breaking_the_seal_static_deobfuscation_of_jsceals/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://research.checkpoint.com/2026/breaking-the-seal-static-deobfuscation-of-jsceals-com_
+
+- [Financially Motivated Threat Actor BREEZE COMET Targets Brazil](https://www.reddit.com/r/blueteamsec/comments/1w4ylsj/financially_motivated_threat_actor_breeze_comet/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-acto_
+
+- [SuperProxy: How Residential Proxy Networks Have Become Malware Delivery Platforms](https://www.reddit.com/r/blueteamsec/comments/1w4yobl/superproxy_how_residential_proxy_networks_have/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.plume.com/resources/superproxy-how-residential-proxy-networks-have-become-malw_
+
+- [FBI investigation leads to five Venezuelan nationals pleading guilty to attempting to jackpot Kansas ATMs](https://www.reddit.com/r/blueteamsec/comments/1w4yma0/fbi_investigation_leads_to_five_venezuelan/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.justice.gov/usao-ks/pr/fbi-investigation-leads-five-venezuelan-nationals-plead_
+
+- [Bintracer - Purpose-built malware analysis for macOS](https://www.reddit.com/r/blueteamsec/comments/1w506yu/bintracer_purposebuilt_malware_analysis_for_macos/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>A friend's commercial offering (first of a kind!), includes a free tier so I thought it worth sharing.. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="ht_
+
+- [Persistent Engagement and the Illusion of Cyber Equilibrium](https://www.reddit.com/r/blueteamsec/comments/1w5meh4/persistent_engagement_and_the_illusion_of_cyber/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.lawfaremedia.org/article/persistent-engagement-and-the-illusion-of-cyber-equil_
+
+- [ephemora-cell: Ephemora Cell — The execution layer for untrusted AI-generated code. Fast, capability-based WASM execution with explicit CPU, memory, time, I/O, and filesystem limits.](https://www.reddit.com/r/blueteamsec/comments/1w6gvom/ephemoracell_ephemora_cell_the_execution_layer/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://github.com/MichaelS1011/ephemora-cell">[link]</a></span> &#32; <span><a href="http_
+
+- [🇨🇳 🤖 Chinese-Speaking Operator Uses AI Agents to Target Government and Education Systems Across Asia](https://www.reddit.com/r/blueteamsec/comments/1w6cs6s/chinesespeaking_operator_uses_ai_agents_to_target/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>A Chinese-speaking operator used an orchestration framework (SecFlow) to coordinate Claude, Qwen, and DeepSeek AI agents across five workspaces targeting government, _
+
+- [SonicWall SMA1000 Series Appliances Affected By Multiple Vulnerabilities](https://www.reddit.com/r/blueteamsec/comments/1w6da46/sonicwall_sma1000_series_appliances_affected_by/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/jnazario"> /u/jnazario </a> <br /> <span><a href="https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0016">[link]</a></span> &#32;_
+
+- [FalconFlank: Crowdstrike Falcon 0day Privilege Escalation Vulnerability](https://www.reddit.com/r/blueteamsec/comments/1w5yuqv/falconflank_crowdstrike_falcon_0day_privilege/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://github.com/MSNightmare/FalconFlank">[link]</a></span> &#32; <span><a href="https:/_
+
+- [Rogue ScreenConnect Installations Across Unrelated Hosts Suggest Worm-Like Activity](https://www.reddit.com/r/blueteamsec/comments/1w6gw6h/rogue_screenconnect_installations_across/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/jnazario"> /u/jnazario </a> <br /> <span><a href="https://www.huntress.com/blog/rogue-screenconnect-installations">[link]</a></span> &#32;_
+
+- [Sality Malware Disrupted in International Cyber Takedown](https://www.reddit.com/r/blueteamsec/comments/1w6db5g/sality_malware_disrupted_in_international_cyber/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/jnazario"> /u/jnazario </a> <br /> <span><a href="https://www.justice.gov/usao-cdca/pr/sality-malware-disrupted-international-cyber-takedo_
+
+- [CVE Update: JFrog Artifactory CVE-2026-82329 actively exploited, CISA deadline is Sept 5](https://www.reddit.com/r/blueteamsec/comments/1w69cqa/cve_update_jfrog_artifactory_cve202682329/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p><strong>CVE-2026-82329</strong> is a critical auth bypass (CVSS 9.8) in Artifactory's default configuration. Under out-of-the-box settings, an unauthenticated attacke_
+
+- [HPE patches critical ArubaOS-CX remote code execution flaw](https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/)
+  - Confidence: 🟫 LOW
+  - _Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]_
+
+- [Coder's registry infrastructure compromised to push malicious modules](https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/)
+  - Confidence: 🟫 LOW
+  - _Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]_
 
 - [Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means](https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html)
   - Confidence: 🟫 LOW
@@ -459,51 +568,3 @@ tags:
 - [SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE](https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce)
   - Confidence: 🟫 LOW
   - _The exploitation activity follows attacks earlier this summer on two other zero-day vulnerabilities in the vendor's edge devices._
-
-- [Fake Software Installers Disable Windows Update and Weaken Microsoft Defender](https://thehackernews.com/2026/09/fake-software-installers-disable.html)
-  - Confidence: 🟫 LOW
-  - _An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers.  "The campaign has targeted users looking to download popular s_
-
-- [Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs](https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html)
-  - Confidence: 🟫 LOW
-  - _Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called th_
-
-- [WordPress backup plugin flaw exposes millions of sites to takeover attacks](https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/)
-  - Confidence: 🟫 LOW
-  - _An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]_
-
-- [Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain](https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html)
-  - Confidence: 🟫 LOW
-  - _SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks.  The vulnerabili_
-
-- [How to Secure Enterprise AI: From Adoption to Incident Readiness](https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html)
-  - Confidence: 🟫 LOW
-  - _The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizat_
-
-- [Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control](https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and c_
-
-- [BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access](https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html)
-  - Confidence: 🟫 LOW
-  - _Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some_
-
-- [Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages](https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html)
-  - Confidence: 🟫 LOW
-  - _A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions_
-
-- [Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code](https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html)
-  - Confidence: 🟫 LOW
-  - _Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's mac_
-
-- [Dropbox accounts breached through Lenovo email verification flaw](https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/)
-  - Confidence: 🟫 LOW
-  - _Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]_
-
-- [Ransomware protection for MSPs: A 6-point checklist for faster recovery](https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/)
-  - Confidence: 🟫 LOW
-  - _Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attack_
-
-- [Hackers exploit critical JFrog Artifactory flaw to forge admin tokens](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/)
-  - Confidence: 🟫 LOW
-  - _A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]_
