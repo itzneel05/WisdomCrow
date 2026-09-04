@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-04
-date: 2026-09-04T10:33:21Z
+date: 2026-09-04T15:45:09Z
 type: radar-report
 report_type: fast
-total_opportunities: 118
+total_opportunities: 117
 tags:
   - radar
   - fast
@@ -13,38 +13,20 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 118
+**Total opportunities:** 117
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 110 |
+| ❓ Uncategorized | 112 |
 | 🎓 Free Certifications | 4 |
-| 🏰 CTF Competitions | 3 |
 | 💰 Bug Bounties | 1 |
-
-## 🏰 CTF Competitions
-
-- [Pricing changes on HTB Academy: moving to tier-based access and updating subscription rates](https://www.hackthebox.com/blog/new-academy-pricing)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/new-academy-pricing" title=""> <img alt="HTB Academy Pricing Change" class="hs-feature_
-
-- [Standard Chartered and Hack The Box Partner to Strengthen Cyber Workforce Readiness Across Poland’s Financial Sector](https://www.hackthebox.com/blog/standard-chartered-hack-the-box-ctf-financial-institutions-poland)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/standard-chartered-hack-the-box-ctf-financial-institutions-poland" title=""> <img alt=_
-
-- [CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners](https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs_
 
 ## 💰 Bug Bounties
 
-- [Hacking AI customer service agents](https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents)
+- [Sherlock Kraken](https://www.reddit.com/r/hackthebox/comments/1w5j0pa/sherlock_kraken/)
   - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _As AI agents are deployed to automate more tasks, they become more capable. And as the famous quote goes: "With great power comes great responsibility." Assuming that humans in the loop can mitigate t_
+  - Tags: `bug_bounty`, `audit_contest`
+  - _<!-- SC_OFF --><div class="md"><p>Hi, I've spent hours trying to figure out the solution to Kraken question 5. Can anyone give me some advice or guidance?</p> </div><!-- SC_ON --> &#32; submitted by &_
 
 ## 🎓 Free Certifications
 
@@ -69,6 +51,54 @@ tags:
   - _Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongsid_
 
 ## ❓ Uncategorized
+
+- [New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic](https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html)
+  - Confidence: 🟫 LOW
+  - _A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served alter_
+
+- [Confused](https://www.reddit.com/r/hackthebox/comments/1w5mw6i/confused/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>So Basically my 5th semester will be starting soon of BS computer science. I've done very basic cert like cyber101 and IBM security analyst etc. Right now I'm extreme_
+
+- [Promo: Free UK Codes for cybersecurity book](https://www.reddit.com/r/hackthebox/comments/1w6t1bn/promo_free_uk_codes_for_cybersecurity_book/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1w6t1bn/promo_free_uk_codes_for_cybersecurity_book/"> <img alt="Promo: Free UK Codes for cybersecurity book" src="https://preview_
+
+- [File Upload Bypass](https://www.reddit.com/r/hackthebox/comments/1w77gk5/file_upload_bypass/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I found lfi and saw the code(upload.php )</p> <p>&lt;?phpsession_start();if (isset($_SESSION[&quot;logged&quot;])) { $target_dir = &quot;./user_submissions/&quot;; $f_
+
+- [[Advice Needed] Prep strategy for OSCP after passing CPTS (PG vs HTB, Learn One vs 90-Day)](https://www.reddit.com/r/hackthebox/comments/1w6w0kx/advice_needed_prep_strategy_for_oscp_after/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/CommonCow8846"> /u/CommonCow8846 </a> <br /> <span><a href="/r/oscp/comments/1w6w0di/advice_needed_prep_strategy_for_oscp_after/">[link]</_
+
+- [What's about this Pricing change !? it's getting a lot more expensive!!](https://www.reddit.com/r/hackthebox/comments/1w6m573/whats_about_this_pricing_change_its_getting_a_lot/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1w6m573/whats_about_this_pricing_change_its_getting_a_lot/"> <img alt="What's about this Pricing change !? it's getting a lot mor_
+
+- [Google warns of new Chrome zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]_
+
+- [Exchange Online outage causes email delays, 'Server busy' errors](https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/)
+  - Confidence: 🟫 LOW
+  - _Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]_
+
+- [New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/)
+  - Confidence: 🟫 LOW
+  - _An anonymous security researcher who uses the "Nightmare Eclipse" handle released a CrowdStrike Falcon zero-day exploit named "FalconFlank" that lets attackers escalate privileges on up-to-date Window_
+
+- [39 New Methods That Compromise Passkey Authentication](https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/)
+  - Confidence: 🟫 LOW
+  - _Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prom_
+
+- [Microsoft says some users can’t open the Teams desktop client](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/)
+  - Confidence: 🟫 LOW
+  - _Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]_
+
+- [Critical Citrix NetScaler auth bypass now leveraged in attacks](https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]_
 
 - [GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests](https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html)
   - Confidence: 🟫 LOW
@@ -469,43 +499,3 @@ tags:
 - [Third-party vendor breach scenario, how do you tabletop something you don't control?](https://www.reddit.com/r/AskNetsec/comments/1w5zaa0/thirdparty_vendor_breach_scenario_how_do_you/)
   - Confidence: 🟫 LOW
   - _<!-- SC_OFF --><div class="md"><p>Most of our tabletop scenarios assume the breach originates inside our own environment, but our biggest actual exposure is probably a critical SaaS vendor or MSP gett_
-
-- [Plex warns users to patch security vulnerabilities immediately](https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/)
-  - Confidence: 🟫 LOW
-  - _Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]_
-
-- [Microsoft says KB5120998 Windows update resets desktop settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]_
-
-- [Your Employee’s Password Appeared in an Infostealer Log. Now What?](https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/)
-  - Confidence: 🟫 LOW
-  - _Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine wheth_
-
-- [Critical Elementor Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/)
-  - Confidence: 🟫 LOW
-  - _A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the_
-
-- [Anthropic confirms Claude is down, multiple models affected](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/)
-  - Confidence: 🟫 LOW
-  - _Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]_
-
-- [OpenAI confirms ChatGPT is down ahead of 'Astra' model launch](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/)
-  - Confidence: 🟫 LOW
-  - _ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]_
-
-- [Microsoft: KB5120998 mouse reset bug affects only non-English PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/)
-  - Confidence: 🟫 LOW
-  - _Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]_
-
-- [Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon](https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html)
-  - Confidence: 🟫 LOW
-  - _The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowd_
-
-- [Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone](https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html)
-  - Confidence: 🟫 LOW
-  - _The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foun_
-
-- [Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/)
-  - Confidence: 🟫 LOW
-  - _Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]_
