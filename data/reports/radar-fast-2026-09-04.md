@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-04
-date: 2026-09-04T02:49:07Z
+date: 2026-09-04T10:33:21Z
 type: radar-report
 report_type: fast
-total_opportunities: 125
+total_opportunities: 118
 tags:
   - radar
   - fast
@@ -13,15 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 125
+**Total opportunities:** 118
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 112 |
-| 🎓 Free Certifications | 6 |
-| 🏰 CTF Competitions | 5 |
+| ❓ Uncategorized | 110 |
+| 🎓 Free Certifications | 4 |
+| 🏰 CTF Competitions | 3 |
 | 💰 Bug Bounties | 1 |
-| 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -39,16 +38,6 @@ tags:
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
   - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs_
-
-- [Web vuln advise](https://www.reddit.com/r/tryhackme/comments/1w4gm17/web_vuln_advise/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>I've been trying to learn the basic web vulns from portswigger web academy. The issue isn't that I'm not trying hard enough... the issue is the academy doesn't exactl_
-
-- [Hackers exploit Sangoma Switchvox flaw to deploy reverse shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]_
 
 ## 💰 Bug Bounties
 
@@ -79,24 +68,23 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongsid_
 
-- [ISC Stormcast For Thursday, September 3rd, 2026 https://isc.sans.edu/podcastdetail/10080, (Thu, Sep 3rd)](https://isc.sans.edu/diary/rss/33308)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
-- [Honeypot-Omaha and batch.py &#x5b;Guest Diary&#x5d;, (Wed, Sep 2nd)](https://isc.sans.edu/diary/rss/33306)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _<p>&#x5b;This is a Guest Diary by Frank Igbokwe, an ISC intern as part of the SANS.edu BACS program&#x5d;</p>&#xd;_
-
-## 🔥 Hackathons & Conferences
-
-- [Need Guidance for an AIML hackathon](https://www.reddit.com/r/tryhackme/comments/1w58i09/need_guidance_for_an_aiml_hackathon/)
-  - Confidence: 🟢 HIGH
-  - Tags: `hackathon`
-  - _<!-- SC_OFF --><div class="md"><p>Hey guys</p> <p>Are there any researchers or professionals who work in aiml domain ? I needed to clarify some doubts regarding a hackathon I'm participating in. It wo_
-
 ## ❓ Uncategorized
+
+- [GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests](https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html)
+  - Confidence: 🟫 LOW
+  - _OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the "world's most intelligent and aligned model."  The development comes days after the artificial intelligence (AI) company s_
+
+- [Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day](https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html)
+  - Confidence: 🟫 LOW
+  - _Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild.  The high-severity vulnerability, tracked as CVE-2026-85046_
+
+- [Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws](https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html)
+  - Confidence: 🟫 LOW
+  - _Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.  The fixes are available in Plex Media Server 1.43.3 and P_
+
+- [Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws](https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.  The vulnerabilities in question are -     CVE-2026-1_
 
 - [French hospital fined €500,000 after breach exposes data of 727,000](https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/)
   - Confidence: 🟫 LOW
@@ -521,27 +509,3 @@ tags:
 - [Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/)
   - Confidence: 🟫 LOW
   - _Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]_
-
-- [I just completed Offensive Security Intro room on TryHackMe! Hack your first website (legally in a safe environment) and experience an ethical hacker's job.](https://www.reddit.com/r/tryhackme/comments/1w4bv7p/i_just_completed_offensive_security_intro_room_on/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-University-6415"> /u/Ok-University-6415 </a> <br /> <span><a href="https://tryhackme.com/room/offensivesecurityintrokKx12?utm_campaign=_
-
-- [I just completed Defensive Security Intro room on TryHackMe! Get a taster for how cyber defenders stop a hacker in this interactive scenario](https://www.reddit.com/r/tryhackme/comments/1w4cuos/i_just_completed_defensive_security_intro_room_on/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-University-6415"> /u/Ok-University-6415 </a> <br /> <span><a href="https://tryhackme.com/room/defensivesecurityintroexp?utm_campaign=so_
-
-- [How can I get SAL1 at the lowest possible price? Any current discounts/coupons?](https://www.reddit.com/r/tryhackme/comments/1w4h258/how_can_i_get_sal1_at_the_lowest_possible_price/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I'm planning to take the <strong>TryHackMe Security Analyst Level 1 (SAL1)</strong> certification and I'm looking for the cheapest legitimate way _
-
-- [BITEME room (need help)](https://www.reddit.com/r/tryhackme/comments/1w4u5mc/biteme_room_need_help/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I’ve been stuck on the Biteme room for two days. I found the correct file under <code>/console/</code>, but every time I request it, I get a <strong>403 Forbidden</st_
-
-- [Is THM premium worth it??](https://www.reddit.com/r/tryhackme/comments/1w5cplg/is_thm_premium_worth_it/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I’m starting to learn cybersecurity, and I’m starting basically from scratch. I now Linux fundamentals, but that’s all. I was thinking abt doing the pre security cour_
-
-- [AI and SecEng Path](https://www.reddit.com/r/tryhackme/comments/1w5f9ys/ai_and_seceng_path/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey all!</p> <p>I’m wondering if others are having a similar experience. I am premium user and have been bouncing between the AI Security and Security Engineer paths._
