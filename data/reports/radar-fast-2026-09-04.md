@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-04
-date: 2026-09-04T15:45:09Z
+date: 2026-09-04T20:15:25Z
 type: radar-report
 report_type: fast
-total_opportunities: 117
+total_opportunities: 71
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 117
+**Total opportunities:** 71
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 112 |
+| ❓ Uncategorized | 66 |
 | 🎓 Free Certifications | 4 |
 | 💰 Bug Bounties | 1 |
 
@@ -51,6 +51,18 @@ tags:
   - _Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongsid_
 
 ## ❓ Uncategorized
+
+- [PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution](https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html)
+  - Confidence: 🟫 LOW
+  - _PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server.  The fl_
+
+- [Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters](https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html)
+  - Confidence: 🟫 LOW
+  - _Microsoft is alerting of a "high-volume phishing campaign" that's using invisible Unicode tag characters to bypass email filters.  "Instead of using these characters to hide instructions from people w_
+
+- [IDScan sued over alleged data breach affecting 153 million drivers](https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/)
+  - Confidence: 🟫 LOW
+  - _Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]_
 
 - [New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic](https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html)
   - Confidence: 🟫 LOW
@@ -303,199 +315,3 @@ tags:
 - [Coder's registry infrastructure compromised to push malicious modules](https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/)
   - Confidence: 🟫 LOW
   - _Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]_
-
-- [Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means](https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html)
-  - Confidence: 🟫 LOW
-  - _In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Inte_
-
-- [Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks](https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads.  According to a new report published by the Symantec Threat Hunter _
-
-- [US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries](https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html)
-  - Confidence: 🟫 LOW
-  - _An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 count_
-
-- [How could CyberLeek X/Twitter posts on GTA leaks not be traceable back to they?](https://www.reddit.com/r/hacking/comments/1w5le61/how_could_cyberleek_xtwitter_posts_on_gta_leaks/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I just found out that CyberLeek (the person/group responsible for GTA leaks) posted some of his stuff on X/Twitter in a dedicated account. Considering how Sony/TakeTw_
-
-- [I want someone who can change my perferences in a portal!](https://www.reddit.com/r/hacking/comments/1w64ruw/i_want_someone_who_can_change_my_perferences_in_a/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/shafaqbatoor"> /u/shafaqbatoor </a> <br /> <span><a href="/r/HowToHack/comments/1w64rlt/i_want_someone_who_can_change_my_perferences_in_a/_
-
-- [Hacking my e-bike with AI (for maintenance, but also a minor security problem)](https://www.reddit.com/r/hacking/comments/1w5btuu/hacking_my_ebike_with_ai_for_maintenance_but_also/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1w5btuu/hacking_my_ebike_with_ai_for_maintenance_but_also/"> <img alt="Hacking my e-bike with AI (for maintenance, but also a minor _
-
-- [Simcha Kosman AMA: Owning ChatGPT's Secure Sandbox](https://www.reddit.com/r/hacking/comments/1w5wmh8/simcha_kosman_ama_owning_chatgpts_secure_sandbox/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1w5wmh8/simcha_kosman_ama_owning_chatgpts_secure_sandbox/"> <img alt="Simcha Kosman AMA: Owning ChatGPT's Secure Sandbox" src="https_
-
-- [Could cybersecurity jobs be targeted by malicious actors?](https://www.reddit.com/r/cybersecurity/comments/1w5kbtm/could_cybersecurity_jobs_be_targeted_by_malicious/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I'm exploring all kinds of possibilities to explain a strange phenomenon.</p> <p>A L1 SOC job listed yesterday with on-site demand gained 180 applicants in one day, I_
-
-- [Impersonating IT support: how threat actors turn a remote session into enterprise-wide access | Microsoft Security Blog](https://www.reddit.com/r/cybersecurity/comments/1w5rnrk/impersonating_it_support_how_threat_actors_turn_a/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1w5rnrk/impersonating_it_support_how_threat_actors_turn_a/"> <img alt="Impersonating IT support: how threat actors turn a remo_
-
-- [Wireless Routers as Motion Detectors - Schneier on Security](https://www.reddit.com/r/cybersecurity/comments/1w5hrzh/wireless_routers_as_motion_detectors_schneier_on/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/homothebrave"> /u/homothebrave </a> <br /> <span><a href="https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detect_
-
-- [Penetration testing with a MacBook](https://www.reddit.com/r/cybersecurity/comments/1w64os3/penetration_testing_with_a_macbook/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I’ve read comments saying that it’s difficult to set up a virtualised Kali system on a MacBook to carry out penetration testing, and that some features might not work_
-
-- [How can you tell in system logs when an AI agent is trying to break rules, rather than a human hacker?](https://www.reddit.com/r/cybersecurity/comments/1w5hftj/how_can_you_tell_in_system_logs_when_an_ai_agent/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p><em>Building log alerts, so trying to understand how autonomous behavior looks in practice</em></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www_
-
-- [I need Some advice](https://www.reddit.com/r/cybersecurity/comments/1w65icm/i_need_some_advice/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>i am currently starting my 3rd year in uni and i am ready to start investing in some certs after saving up for a while. While i dont say that my level is high i have _
-
-- [Training on Try hack me but get certifications on Googles coursera?](https://www.reddit.com/r/cybersecurity/comments/1w61g0o/training_on_try_hack_me_but_get_certifications_on/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I want to do that because I feel like watching videos aren't a good way to study for the certification test because try hack me give me good hands on experience howev_
-
-- [Interview Help - Cybersecurity Rotational Program](https://www.reddit.com/r/cybersecurity/comments/1w5wq48/interview_help_cybersecurity_rotational_program/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey, everyone! Hope you’re all having a beautiful week! :)</p> <p>I would like some guidance / suggestions on what I should study/research and prep for.</p> <p>To giv_
-
-- [How do non technical leaders manage technical security engineers?](https://www.reddit.com/r/cybersecurity/comments/1w5boq6/how_do_non_technical_leaders_manage_technical/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi, I am not sure if anyone has been in a team led by a non technical manager. I know a few who became directors in well known organizations with zero background in c_
-
-- [Lazy Colleagues?](https://www.reddit.com/r/cybersecurity/comments/1w5ay4w/lazy_colleagues/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I belong to a SOC team. Lately I’ve noticed a few teammates cherry-picking tickets. Grabbing the quick, easy ones and leaving the rest sitting in the queue.</p> <p>We_
-
-- [What’s it like working in risk management?](https://www.reddit.com/r/cybersecurity/comments/1w666fs/whats_it_like_working_in_risk_management/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>My background is IT. My security experience is mostly in IAM, but I have touch on things such as compliance (from a technical standpoint), asset protection and malwar_
-
-- [Matrix/Element preferred by governments vs. using Signal](https://www.reddit.com/r/cybersecurity/comments/1w60pj7/matrixelement_preferred_by_governments_vs_using/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I use Element for secure communications. Apparently EU countries are setting up their own restricted servers for government use only. For example: Tchap - France, Bel_
-
-- [Que opinan de la certificación AI Security de TryHackMe?](https://www.reddit.com/r/cybersecurity/comments/1w66rxy/que_opinan_de_la_certificación_ai_security_de/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>He visto una nueva certificación tryhackme y me gustaría saber que opinan de ella, alguien ya la tomó? sí hay empresas que ya la piden en sus solicitudes de empleo o _
-
-- [SHARE Foundation: Students and Opposition Politicians Targeted by Spyware](https://www.reddit.com/r/cybersecurity/comments/1w5rkz1/share_foundation_students_and_opposition/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1w5rkz1/share_foundation_students_and_opposition/"> <img alt="SHARE Foundation: Students and Opposition Politicians Targeted b_
-
-- [How does multiple products that require traffic decryption work on the same endpoint?](https://www.reddit.com/r/cybersecurity/comments/1w6418e/how_does_multiple_products_that_require_traffic/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>With lots of ShadowIT and shadowAI, many organizations are worried about data controls. I was reading on the new products, safeguards, guardrails and what not. There _
-
-- [Evaluating Outsourcing Computer Requirements - Third Party Security](https://www.reddit.com/r/cybersecurity/comments/1w68ovc/evaluating_outsourcing_computer_requirements/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello everyone's!</p> <p>We’re currently reviewing the security of our outsourced/third-party workers after discovering that some were using personal computers with l_
-
-- [How do you handle logs normalization at scale ?](https://www.reddit.com/r/cybersecurity/comments/1w62kfs/how_do_you_handle_logs_normalization_at_scale/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Context: I'm new in this domain. I'm building a pipeline where data (logs) from many different sources needs to be normalized into a single schema, for detection purp_
-
-- [Which area of cybersecurity will be the most resistant to AI and layoffs?](https://www.reddit.com/r/cybersecurity/comments/1w5rx2g/which_area_of_cybersecurity_will_be_the_most/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Any position is not invincible, but are there areas of cybersecurity, like GRC, that will have the most long-term resiliency and growth?</p> </div><!-- SC_ON --> &#32_
-
-- [‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents | US owner of Claude chatbot previously said its models had hacked three organisations during testing](https://www.reddit.com/r/cybersecurity/comments/1w68udz/not_perfectly_aligned_with_human_values_anthropic/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1w68udz/not_perfectly_aligned_with_human_values_anthropic/"> <img alt="‘Not perfectly aligned’ with human values: Anthropic ad_
-
-- [Cyber question](https://www.reddit.com/r/cybersecurity/comments/1w6618m/cyber_question/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Would you leave a Fortune 500 company making 100k as a SOC analyst to go work at a Private equity back hospital getting paid 50% more as a cybersecurity manager wanna_
-
-- [Serious ethical concerns about the IT / cybersecurity industry](https://www.reddit.com/r/cybersecurity/comments/1w5usyn/serious_ethical_concerns_about_the_it/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Took a job I’m not already comfortable with a few months back and actively looking for something more ethical in nature and in general, but recently I’m having more t_
-
-- [Plex warns users to patch security vulnerabilities immediately](https://www.reddit.com/r/cybersecurity/comments/1w66xgm/plex_warns_users_to_patch_security/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1w66xgm/plex_warns_users_to_patch_security/"> <img alt="Plex warns users to patch security vulnerabilities immediately" src="h_
-
-- [Ran the POVs, now choosing between Abnormal, Checkpoint and Sublime. help?](https://www.reddit.com/r/AskNetsec/comments/1w4p4yy/ran_the_povs_now_choosing_between_abnormal/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>just concluded a 60 day trial POV on the same M365 tenant all three on top of Defender for a 500 seat finance shop. we're doing this only because of vendor email comp_
-
-- [Disable IMAP / POP3 while still using Apple Mail?](https://www.reddit.com/r/AskNetsec/comments/1w4xqlz/disable_imap_pop3_while_still_using_apple_mail/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi! Bit of a basic question, but I’m helping out our organization meet some security requirements, and one of them is that our provider wants to disable POP3/IMAP for_
-
-- [Where does video injection fit into liveness testing?](https://www.reddit.com/r/AskNetsec/comments/1w5b8sv/where_does_video_injection_fit_into_liveness/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Liveness checks are good at detecting things like a photo or replayed video being presented to the camera. But there's a different problem when the attacker bypasses _
-
-- [Varonis competitors worth looking at?](https://www.reddit.com/r/AskNetsec/comments/1w4qb4a/varonis_competitors_worth_looking_at/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>We're reviewing data security platforms and Varonis is obviously on the list, but I don’t want to default to it just because it’s the name everyone knows.</p> <p>Our _
-
-- [Is cybersecurity a team sport?](https://www.reddit.com/r/AskNetsec/comments/1w4tsoj/is_cybersecurity_a_team_sport/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Cybersecurity Awareness Month is coming up and Im already seeing more campaigns lean into team metaphors again</p> <p>Saw this <a href="https://www.linkedin.com/posts_
-
-- [How do you determine the real owner of an Entra application when the Owner field is stale or misleading?](https://www.reddit.com/r/AskNetsec/comments/1w553u8/how_do_you_determine_the_real_owner_of_an_entra/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I’m testing a read-only OSS PowerShell tool, that combines signals like owners, Azure RBAC, tags, relationships and recent activity to identify likely ownership.</p> _
-
-- [Third-party org-chart site (theorg.com) shows data that looks 1:1 sourced from MS Teams/Entra ID — even the default avatar initials match. How is this possible without a company opting in?](https://www.reddit.com/r/AskNetsec/comments/1w553vp/thirdparty_orgchart_site_theorgcom_shows_data/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi!<br /> I compared org charts on <a href="http://theorg.com">theorg.com</a> for a couple of companies I've worked at, and the structural data (reporting lines, titl_
-
-- [How are people actually validating SAST findings before they hit a sprint?](https://www.reddit.com/r/AskNetsec/comments/1w52h2d/how_are_people_actually_validating_sast_findings/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Our SAST tool flags a huge volume of findings every scan and the true-positive rate feels low once someone actually digs in. We've tried tuning rulesets and suppressi_
-
-- [Anyone found a practical way to stop sensitive data getting pasted into AI tools without blocking them outright?](https://www.reddit.com/r/AskNetsec/comments/1w58h7g/anyone_found_a_practical_way_to_stop_sensitive/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Our initial policy was effectively: &quot;Do not paste sensitive information into public AI tools.&quot; The policy is sound, but it assumes people can make a correct_
-
-- [Detecting real world attack techniques in lab went way too real and now my boss is furious](https://www.reddit.com/r/AskNetsec/comments/1w59kth/detecting_real_world_attack_techniques_in_lab/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>So... yeah. I work on detection engineering and continuous exposure validation, and we use this platform to simulate real world attack techniques in a lab tenant befo_
-
-- [Will AI make the existing network attack surface much harder to defend?](https://www.reddit.com/r/AskNetsec/comments/1w57v9q/will_ai_make_the_existing_network_attack_surface/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>A lot of infrastructure still relies on protocols and network architecture designed long before today’s threats.</p> <p>AI doesnt need to invent new attacks . If it m_
-
-- [How much ai runtime visibility do you actually need before you can trust an agent in production?](https://www.reddit.com/r/AskNetsec/comments/1w5k2vc/how_much_ai_runtime_visibility_do_you_actually/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>We keep adding dashboards and I'm not convinced we're actually more secure, just better informed about problems after they happen. Ai runtime visibility into what an _
-
-- [How do tech companies handle the race condition of a user deleting their account to dodge a not yet implemented ban?](https://www.reddit.com/r/AskNetsec/comments/1w63u9e/how_do_tech_companies_handle_the_race_condition/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I'm interested in the backend mechanics and data architecture of modern Trust &amp; Safety engineering, specifically regarding ban evasion, identity tracking, and dat_
-
-- [ChatGPT is approved but how are you enforcing AI usage rules on BYOD without managing the whole laptop?](https://www.reddit.com/r/AskNetsec/comments/1w641ui/chatgpt_is_approved_but_how_are_you_enforcing_ai/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Figuring out where the line is with personal devices. ChatGPT is approved for work, we have rules around what people can put into it but then someone opens the same a_
-
-- [Detailed Explanation on Nextcloud Governance](https://www.reddit.com/r/AskNetsec/comments/1w5v15s/detailed_explanation_on_nextcloud_governance/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello Everyone!</p> <p>So i am a cybersecurity intern leaning towards to GRC from a growing company. My background is Software Engineering and with that i dont really_
-
-- [What are people doing or using (apps) for AI Security testing?](https://www.reddit.com/r/AskNetsec/comments/1w5uwx4/what_are_people_doing_or_using_apps_for_ai/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I see lots of articles and discussions on AI-enabled traditional cybersecurity pentesting, but what a people doing or using for AI-security pentesting?</p> </div><!--_
-
-- [Evaluating AI SOC tools for threat triage in a noisy mid size environment](https://www.reddit.com/r/AskNetsec/comments/1w613kq/evaluating_ai_soc_tools_for_threat_triage_in_a/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi all, CISO at a mid size org here. We have a small SOC, like 24x5 plus on call, and our SIEM bill and alert volume are both getting silly. Been looking at a few AI _
-
-- [How does multiple products that require traffic decryption work on the same endpoint?](https://www.reddit.com/r/AskNetsec/comments/1w6432a/how_does_multiple_products_that_require_traffic/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>With lots of ShadowIT and shadowAI, many organizations are worried about data controls. I was reading on the new products, safeguards, guardrails and what not. There _
-
-- [Agentic AI governance best practices without killing dev velocity?](https://www.reddit.com/r/AskNetsec/comments/1w62qcr/agentic_ai_governance_best_practices_without/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Security wants to slow AI tool adoption, engineering wants to move fast, and I'm in the middle trying to find something that doesn't tank velocity or just push everyo_
-
-- [Third-party vendor breach scenario, how do you tabletop something you don't control?](https://www.reddit.com/r/AskNetsec/comments/1w5zaa0/thirdparty_vendor_breach_scenario_how_do_you/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Most of our tabletop scenarios assume the breach originates inside our own environment, but our biggest actual exposure is probably a critical SaaS vendor or MSP gett_
