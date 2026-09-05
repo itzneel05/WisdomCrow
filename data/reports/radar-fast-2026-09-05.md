@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-05
-date: 2026-09-05T09:56:32Z
+date: 2026-09-05T14:32:44Z
 type: radar-report
 report_type: fast
-total_opportunities: 53
+total_opportunities: 54
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 53
+**Total opportunities:** 54
 
 | Category | Count |
 |----------|-------|
 | ❓ Uncategorized | 45 |
 | 🏰 CTF Competitions | 6 |
-| 💰 Bug Bounties | 1 |
+| 💰 Bug Bounties | 2 |
 | 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
@@ -61,6 +61,11 @@ tags:
   - Tags: `bug_bounty`, `audit_contest`
   - _<!-- SC_OFF --><div class="md"><p>Hi, I've spent hours trying to figure out the solution to Kraken question 5. Can anyone give me some advice or guidance?</p> </div><!-- SC_ON --> &#32; submitted by &_
 
+- [Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain](https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]_
+
 ## 🎓 Free Certifications
 
 - [numbat - AI agent observability, (Fri, Sep 4th)](https://isc.sans.edu/diary/rss/33312)
@@ -69,6 +74,22 @@ tags:
   - _<p><img alt="numbat logo" src="https://isc.sans.edu/diaryimages/images/numbat&amp;#x5f&#x3b;logo&amp;#x5f&#x3b;small.png" />&#xe2;&#x20ac;&#x2039;&#xe2;&#x20ac;&#x2039;&#xe2;&#x20ac;&#x2039;&#xe2;&#x2_
 
 ## ❓ Uncategorized
+
+- [From fake interview to signed ClickOnce: inside a three-payload Windows chain (Part 2)](https://www.reddit.com/r/netsec/comments/1w6ynzn/from_fake_interview_to_signed_clickonce_inside_a/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/JDBHub"> /u/JDBHub </a> <br /> <span><a href="https://haveibeensquatted.com/blog/from-gapiupdate-to-odyssey-stealer-inside-a-macos-wallet-_
+
+- [Self-hosted Coder: check whether you pulled a registry module on Aug 31. no CVE, so nothing will flag it for you](https://www.reddit.com/r/netsec/comments/1w77oxx/selfhosted_coder_check_whether_you_pulled_a/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>On Aug 31, rogue origins were added to the Cloudflare pool in front of <code>registry.coder.com</code>. For roughly 14 hours, 07:35–21:45 UTC, the real registry domai_
+
+- [Getting Agents to tell on themselves](https://www.reddit.com/r/netsec/comments/1w7605w/getting_agents_to_tell_on_themselves/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/thinkst"> /u/thinkst </a> <br /> <span><a href="https://blog.thinkst.com/2026/09/getting-agents-to-tell-on-themselves.html">[link]</a></sp_
+
+- [OpenAI admits it didn't disclose rogue AI wiki hijacking incident](https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/)
+  - Confidence: 🟫 LOW
+  - _OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as mode_
 
 - [Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities](https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html)
   - Confidence: 🟫 LOW
@@ -233,19 +254,3 @@ tags:
 - [Critical Citrix NetScaler auth bypass now leveraged in attacks](https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/)
   - Confidence: 🟫 LOW
   - _Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]_
-
-- [GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests](https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html)
-  - Confidence: 🟫 LOW
-  - _OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the "world's most intelligent and aligned model."  The development comes days after the artificial intelligence (AI) company s_
-
-- [Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day](https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html)
-  - Confidence: 🟫 LOW
-  - _Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild.  The high-severity vulnerability, tracked as CVE-2026-85046_
-
-- [Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws](https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html)
-  - Confidence: 🟫 LOW
-  - _Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.  The fixes are available in Plex Media Server 1.43.3 and P_
-
-- [Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws](https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.  The vulnerabilities in question are -     CVE-2026-1_
