@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-05
-date: 2026-09-05T14:32:44Z
+date: 2026-09-05T19:55:01Z
 type: radar-report
 report_type: fast
-total_opportunities: 54
+total_opportunities: 44
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 54
+**Total opportunities:** 44
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 45 |
+| ❓ Uncategorized | 36 |
 | 🏰 CTF Competitions | 6 |
-| 💰 Bug Bounties | 2 |
+| 💰 Bug Bounties | 1 |
 | 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
@@ -56,11 +56,6 @@ tags:
 
 ## 💰 Bug Bounties
 
-- [Sherlock Kraken](https://www.reddit.com/r/hackthebox/comments/1w5j0pa/sherlock_kraken/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `audit_contest`
-  - _<!-- SC_OFF --><div class="md"><p>Hi, I've spent hours trying to figure out the solution to Kraken question 5. Can anyone give me some advice or guidance?</p> </div><!-- SC_ON --> &#32; submitted by &_
-
 - [Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain](https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
@@ -74,6 +69,18 @@ tags:
   - _<p><img alt="numbat logo" src="https://isc.sans.edu/diaryimages/images/numbat&amp;#x5f&#x3b;logo&amp;#x5f&#x3b;small.png" />&#xe2;&#x20ac;&#x2039;&#xe2;&#x20ac;&#x2039;&#xe2;&#x20ac;&#x2039;&#xe2;&#x2_
 
 ## ❓ Uncategorized
+
+- [Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted](https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html)
+  - Confidence: 🟫 LOW
+  - _Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk.  The exposed information includes _
+
+- [Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code](https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html)
+  - Confidence: 🟫 LOW
+  - _Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions_
+
+- [Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials](https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html)
+  - Confidence: 🟫 LOW
+  - _JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerabilit_
 
 - [From fake interview to signed ClickOnce: inside a three-payload Windows chain (Part 2)](https://www.reddit.com/r/netsec/comments/1w6ynzn/from_fake_interview_to_signed_clickonce_inside_a/)
   - Confidence: 🟫 LOW
@@ -206,51 +213,3 @@ tags:
 - [IDScan sued over alleged data breach affecting 153 million drivers](https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/)
   - Confidence: 🟫 LOW
   - _Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]_
-
-- [New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic](https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html)
-  - Confidence: 🟫 LOW
-  - _A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served alter_
-
-- [Confused](https://www.reddit.com/r/hackthebox/comments/1w5mw6i/confused/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>So Basically my 5th semester will be starting soon of BS computer science. I've done very basic cert like cyber101 and IBM security analyst etc. Right now I'm extreme_
-
-- [Promo: Free UK Codes for cybersecurity book](https://www.reddit.com/r/hackthebox/comments/1w6t1bn/promo_free_uk_codes_for_cybersecurity_book/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1w6t1bn/promo_free_uk_codes_for_cybersecurity_book/"> <img alt="Promo: Free UK Codes for cybersecurity book" src="https://preview_
-
-- [File Upload Bypass](https://www.reddit.com/r/hackthebox/comments/1w77gk5/file_upload_bypass/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I found lfi and saw the code(upload.php )</p> <p>&lt;?phpsession_start();if (isset($_SESSION[&quot;logged&quot;])) { $target_dir = &quot;./user_submissions/&quot;; $f_
-
-- [[Advice Needed] Prep strategy for OSCP after passing CPTS (PG vs HTB, Learn One vs 90-Day)](https://www.reddit.com/r/hackthebox/comments/1w6w0kx/advice_needed_prep_strategy_for_oscp_after/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/CommonCow8846"> /u/CommonCow8846 </a> <br /> <span><a href="/r/oscp/comments/1w6w0di/advice_needed_prep_strategy_for_oscp_after/">[link]</_
-
-- [What's about this Pricing change !? it's getting a lot more expensive!!](https://www.reddit.com/r/hackthebox/comments/1w6m573/whats_about_this_pricing_change_its_getting_a_lot/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1w6m573/whats_about_this_pricing_change_its_getting_a_lot/"> <img alt="What's about this Pricing change !? it's getting a lot mor_
-
-- [Google warns of new Chrome zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]_
-
-- [Exchange Online outage causes email delays, 'Server busy' errors](https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/)
-  - Confidence: 🟫 LOW
-  - _Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]_
-
-- [New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/)
-  - Confidence: 🟫 LOW
-  - _An anonymous security researcher who uses the "Nightmare Eclipse" handle released a CrowdStrike Falcon zero-day exploit named "FalconFlank" that lets attackers escalate privileges on up-to-date Window_
-
-- [39 New Methods That Compromise Passkey Authentication](https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/)
-  - Confidence: 🟫 LOW
-  - _Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prom_
-
-- [Microsoft says some users can’t open the Teams desktop client](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/)
-  - Confidence: 🟫 LOW
-  - _Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]_
-
-- [Critical Citrix NetScaler auth bypass now leveraged in attacks](https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]_
