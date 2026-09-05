@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-05
-date: 2026-09-05T02:51:12Z
+date: 2026-09-05T09:56:32Z
 type: radar-report
 report_type: fast
-total_opportunities: 51
+total_opportunities: 53
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 51
+**Total opportunities:** 53
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 43 |
+| ❓ Uncategorized | 45 |
 | 🏰 CTF Competitions | 6 |
 | 💰 Bug Bounties | 1 |
 | 🎓 Free Certifications | 1 |
@@ -69,6 +69,14 @@ tags:
   - _<p><img alt="numbat logo" src="https://isc.sans.edu/diaryimages/images/numbat&amp;#x5f&#x3b;logo&amp;#x5f&#x3b;small.png" />&#xe2;&#x20ac;&#x2039;&#xe2;&#x20ac;&#x2039;&#xe2;&#x20ac;&#x2039;&#xe2;&#x2_
 
 ## ❓ Uncategorized
+
+- [Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities](https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe.  The Arctic Wolf Adversary Research Tea_
+
+- [Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel](https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html)
+  - Confidence: 🟫 LOW
+  - _A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, _
 
 - [Nvidia Is Buying AI Platform Hugging Face for $13 Billion](https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/)
   - Confidence: 🟫 LOW
