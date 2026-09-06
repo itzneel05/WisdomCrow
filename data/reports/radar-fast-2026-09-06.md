@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-06
-date: 2026-09-06T02:49:46Z
+date: 2026-09-06T10:14:12Z
 type: radar-report
 report_type: fast
-total_opportunities: 49
+total_opportunities: 43
 tags:
   - radar
   - fast
@@ -13,41 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 49
+**Total opportunities:** 43
 
 | Category | Count |
 |----------|-------|
 | ❓ Uncategorized | 41 |
-| 🏰 CTF Competitions | 5 |
-| 🎓 Free Certifications | 2 |
 | 💰 Bug Bounties | 1 |
-
-## 🏰 CTF Competitions
-
-- [AltayCTF 2026](https://ctftime.org/event/3432)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: AltayCTF 2026 (an <a href="/ctf/111">AltayCTF</a> event.)<br /> Date: Oct. 4, 2026, 3 a.m. &mdash; 04 Oct. 2026, 12:00 UTC &nbsp;<a href="/event/3432.ics">[add to calendar]</a><br /> Format: Att_
-
-- [FlightPath2026](https://ctftime.org/event/3422)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: FlightPath2026 (an <a href="/ctf/1632">FlightPath</a> event.)<br /> Date: Sept. 25, 2026, 1:30 p.m. &mdash; 27 Sept. 2026, 21:00 UTC &nbsp;<a href="/event/3422.ics">[add to calendar]</a><br /> F_
-
-- [LUN4R CTF Quals](https://ctftime.org/event/3435)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: LUN4R CTF Quals (an <a href="/ctf/1685">Lun4R CTF</a> event.)<br /> Date: Sept. 20, 2026, 4:30 a.m. &mdash; 20 Sept. 2026, 16:30 UTC &nbsp;<a href="/event/3435.ics">[add to calendar]</a><br /> F_
-
-- [z0d1ak CTF Finals](https://ctftime.org/event/3428)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`, `india_friendly`
-  - _Name: z0d1ak CTF Finals (an <a href="/ctf/1648"> z0d1ak CTF </a> event.)<br /> Date: Sept. 19, 2026, 3:30 a.m. &mdash; 19 Sept. 2026, 12:30 UTC &nbsp;<a href="/event/3428.ics">[add to calendar]</a><br_
-
-- [Haruulzangi CTF 2026 Semi-Final](https://ctftime.org/event/3431)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: Haruulzangi CTF 2026 Semi-Final (an <a href="/ctf/985">Haruulzangi CTF</a> event.)<br /> Date: Sept. 19, 2026, 2 a.m. &mdash; 19 Sept. 2026, 08:00 UTC &nbsp;<a href="/event/3431.ics">[add to cal_
+| 🎓 Free Certifications | 1 |
 
 ## 💰 Bug Bounties
 
@@ -63,12 +35,15 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce secu_
 
-- [numbat - AI agent observability, (Fri, Sep 4th)](https://isc.sans.edu/diary/rss/33312)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _<p><img alt="numbat logo" src="https://isc.sans.edu/diaryimages/images/numbat&amp;#x5f&#x3b;logo&amp;#x5f&#x3b;small.png" />&#xe2;&#x20ac;&#x2039;&#xe2;&#x20ac;&#x2039;&#xe2;&#x20ac;&#x2039;&#xe2;&#x2_
-
 ## ❓ Uncategorized
+
+- [Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner](https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html)
+  - Confidence: 🟫 LOW
+  - _Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer delet_
+
+- [Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication](https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html)
+  - Confidence: 🟫 LOW
+  - _Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, accordi_
 
 - [How to prep for standalone machines](https://www.reddit.com/r/oscp/comments/1w6wq0m/how_to_prep_for_standalone_machines/)
   - Confidence: 🟫 LOW
@@ -225,11 +200,3 @@ tags:
 - [OpenAI admits it didn't disclose rogue AI wiki hijacking incident](https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/)
   - Confidence: 🟫 LOW
   - _OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as mode_
-
-- [Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities](https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe.  The Arctic Wolf Adversary Research Tea_
-
-- [Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel](https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html)
-  - Confidence: 🟫 LOW
-  - _A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, _
