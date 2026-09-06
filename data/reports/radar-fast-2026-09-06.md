@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-06
-date: 2026-09-06T14:54:30Z
+date: 2026-09-06T19:58:37Z
 type: radar-report
 report_type: fast
-total_opportunities: 39
+total_opportunities: 37
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 39
+**Total opportunities:** 37
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 38 |
+| ❓ Uncategorized | 36 |
 | 🎓 Free Certifications | 1 |
 
 ## 🎓 Free Certifications
@@ -28,6 +28,10 @@ tags:
   - _Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce secu_
 
 ## ❓ Uncategorized
+
+- [I gave my agent an API key and lost $100. Never again.](https://www.reddit.com/r/netsec/comments/1w8zkce/i_gave_my_agent_an_api_key_and_lost_100_never/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Author here. I wanna open source some of my stuff that I count useful, looking for feedback. If the problem is relevant, appreciate upvotes so more people can share t_
 
 - [Attackers conceal phishing lures using invisible Unicode characters](https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/)
   - Confidence: 🟫 LOW
@@ -168,15 +172,3 @@ tags:
 - [Insurers Search for Answers to Rein in Rogue AI](https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai)
   - Confidence: 🟫 LOW
   - _As incidents of unintended harm caused by rogue AI agents mount, CISOs and insurance firms are figuring out how to handle the fallout._
-
-- [Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted](https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html)
-  - Confidence: 🟫 LOW
-  - _Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk.  The exposed information includes _
-
-- [Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code](https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html)
-  - Confidence: 🟫 LOW
-  - _Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions_
-
-- [Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials](https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html)
-  - Confidence: 🟫 LOW
-  - _JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerabilit_
