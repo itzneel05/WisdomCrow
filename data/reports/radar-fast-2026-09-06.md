@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-06
-date: 2026-09-06T10:14:12Z
+date: 2026-09-06T14:54:30Z
 type: radar-report
 report_type: fast
-total_opportunities: 43
+total_opportunities: 39
 tags:
   - radar
   - fast
@@ -13,20 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 43
+**Total opportunities:** 39
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 41 |
-| 💰 Bug Bounties | 1 |
+| ❓ Uncategorized | 38 |
 | 🎓 Free Certifications | 1 |
-
-## 💰 Bug Bounties
-
-- [Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain](https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]_
 
 ## 🎓 Free Certifications
 
@@ -36,6 +28,10 @@ tags:
   - _Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce secu_
 
 ## ❓ Uncategorized
+
+- [Attackers conceal phishing lures using invisible Unicode characters](https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/)
+  - Confidence: 🟫 LOW
+  - _Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]_
 
 - [Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner](https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html)
   - Confidence: 🟫 LOW
@@ -184,19 +180,3 @@ tags:
 - [Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials](https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html)
   - Confidence: 🟫 LOW
   - _JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerabilit_
-
-- [From fake interview to signed ClickOnce: inside a three-payload Windows chain (Part 2)](https://www.reddit.com/r/netsec/comments/1w6ynzn/from_fake_interview_to_signed_clickonce_inside_a/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/JDBHub"> /u/JDBHub </a> <br /> <span><a href="https://haveibeensquatted.com/blog/from-gapiupdate-to-odyssey-stealer-inside-a-macos-wallet-_
-
-- [Self-hosted Coder: check whether you pulled a registry module on Aug 31. no CVE, so nothing will flag it for you](https://www.reddit.com/r/netsec/comments/1w77oxx/selfhosted_coder_check_whether_you_pulled_a/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>On Aug 31, rogue origins were added to the Cloudflare pool in front of <code>registry.coder.com</code>. For roughly 14 hours, 07:35–21:45 UTC, the real registry domai_
-
-- [Getting Agents to tell on themselves](https://www.reddit.com/r/netsec/comments/1w7605w/getting_agents_to_tell_on_themselves/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/thinkst"> /u/thinkst </a> <br /> <span><a href="https://blog.thinkst.com/2026/09/getting-agents-to-tell-on-themselves.html">[link]</a></sp_
-
-- [OpenAI admits it didn't disclose rogue AI wiki hijacking incident](https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/)
-  - Confidence: 🟫 LOW
-  - _OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as mode_
