@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-07
-date: 2026-09-07T17:12:23Z
+date: 2026-09-07T21:06:29Z
 type: radar-report
 report_type: fast
-total_opportunities: 21
+total_opportunities: 20
 tags:
   - radar
   - fast
@@ -13,13 +13,17 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 21
+**Total opportunities:** 20
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 21 |
+| ❓ Uncategorized | 20 |
 
 ## ❓ Uncategorized
+
+- [PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution](https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.  "Requiring prior admi_
 
 - [Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released](https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html)
   - Confidence: 🟫 LOW
@@ -96,11 +100,3 @@ tags:
 - [ChatGPT Astra is now rolling out to $20 Plus subscription](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/)
   - Confidence: 🟫 LOW
   - _OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]_
-
-- [Week in review: Claude accounts compromised through infostealer, Patch Tuesday forecast](https://www.helpnetsecurity.com/2026/09/06/week-in-review-claude-accounts-compromised-through-infostealer-patch-tuesday-forecast/)
-  - Confidence: 🟫 LOW
-  - _<p>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Anthropic locks out Claude users after infostealers hijack login sessions Anthropic has started loc_
-
-- [I gave my agent an API key and lost $100. Never again.](https://www.reddit.com/r/netsec/comments/1w8zkce/i_gave_my_agent_an_api_key_and_lost_100_never/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Author here. I wanna open source some of my stuff that I count useful, looking for feedback. If the problem is relevant, appreciate upvotes so more people can share t_
