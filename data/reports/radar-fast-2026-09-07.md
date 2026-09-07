@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-07
-date: 2026-09-07T11:31:48Z
+date: 2026-09-07T17:12:23Z
 type: radar-report
 report_type: fast
-total_opportunities: 13
+total_opportunities: 21
 tags:
   - radar
   - fast
@@ -13,13 +13,49 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 13
+**Total opportunities:** 21
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 13 |
+| ❓ Uncategorized | 21 |
 
 ## ❓ Uncategorized
+
+- [Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released](https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html)
+  - Confidence: 🟫 LOW
+  - _A TantoSec proof-of-concept turns an AES-CBC "padding oracle" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default config_
+
+- [Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts](https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems_
+
+- [Your Cloud Security Checklist Doesn't Work the Way You Think It Does](https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html)
+  - Confidence: 🟫 LOW
+  - _If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organi_
+
+- [⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More](https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html)
+  - Confidence: 🟫 LOW
+  - _Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, bu_
+
+- [Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks](https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html)
+  - Confidence: 🟫 LOW
+  - _Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information techno_
+
+- [Trezor data breach impact now reaches 81,000 customers](https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/)
+  - Confidence: 🟫 LOW
+  - _Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]_
+
+- [Mathspace discloses data breach affecting over 1 million people](https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/)
+  - Confidence: 🟫 LOW
+  - _Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting syst_
+
+- [BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations](https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/)
+  - Confidence: 🟫 LOW
+  - _A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials. [...]_
+
+- [Magento StyleSmuggler zero-day exploited to deploy Linux backdoor](https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/)
+  - Confidence: 🟫 LOW
+  - _A zero-day vulnerability dubbed "StyleSmuggler" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]_
 
 - [JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies](https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html)
   - Confidence: 🟫 LOW
@@ -68,7 +104,3 @@ tags:
 - [I gave my agent an API key and lost $100. Never again.](https://www.reddit.com/r/netsec/comments/1w8zkce/i_gave_my_agent_an_api_key_and_lost_100_never/)
   - Confidence: 🟫 LOW
   - _<!-- SC_OFF --><div class="md"><p>Author here. I wanna open source some of my stuff that I count useful, looking for feedback. If the problem is relevant, appreciate upvotes so more people can share t_
-
-- [Attackers conceal phishing lures using invisible Unicode characters](https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/)
-  - Confidence: 🟫 LOW
-  - _Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]_
