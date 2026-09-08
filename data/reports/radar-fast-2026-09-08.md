@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-08
-date: 2026-09-08T02:58:02Z
+date: 2026-09-08T10:34:13Z
 type: radar-report
 report_type: fast
-total_opportunities: 33
+total_opportunities: 48
 tags:
   - radar
   - fast
@@ -13,14 +13,45 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 33
+**Total opportunities:** 48
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 32 |
-| 🎓 Free Certifications | 1 |
+| ❓ Uncategorized | 42 |
+| 🏰 CTF Competitions | 3 |
+| 🎓 Free Certifications | 2 |
+| 💰 Bug Bounties | 1 |
+
+## 🏰 CTF Competitions
+
+- [Build a CTF room with wrong kernel and ubuntu versions](https://www.reddit.com/r/tryhackme/comments/1w9o890/build_a_ctf_room_with_wrong_kernel_and_ubuntu/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>I am building a Room for the TryhackMe but after the completion of the room i realized that I built in latest versions of Ubuntu and kernel and THM won't support the _
+
+- [Got tired of messy notes while grinding HTB & THM, so I made a free tracker/cheatsheet (ZeroBox). Still a WIP, would love some feedback!](https://www.reddit.com/r/tryhackme/comments/1w9bcu5/got_tired_of_messy_notes_while_grinding_htb_thm/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>Hey guys,</p> <p>Whenever I'm doing boxes on Hack The Box or TryHackMe, I always end up with a mess of tabs—one for notes, one for Notion, a couple for revshell gener_
+
+- [Stuck on THM Cryptosystem Challenge](https://www.reddit.com/r/tryhackme/comments/1wa2tpz/stuck_on_thm_cryptosystem_challenge/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1wa2tpz/stuck_on_thm_cryptosystem_challenge/"> <img alt="Stuck on THM Cryptosystem Challenge" src="https://preview.redd.it/0acr8k7_
+
+## 💰 Bug Bounties
+
+- [How AI has changed the way I think, build, and work. A day in the life of an Intigriti Engineer](https://www.intigriti.com/blog/business-insights/how-ai-has-changed-the-way-i-think-build-and-work)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _When I wake up in the morning, as a Senior Software Engineer at Intigriti, the first thing I do is make coffee. The second thing I do is pick up exactly where I left off the day before, usually mid-co_
 
 ## 🎓 Free Certifications
+
+- [Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell](https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild.  The vulnerability, n_
 
 - [ISC Stormcast For Tuesday, September 8th, 2026 https://isc.sans.edu/podcastdetail/10084, (Tue, Sep 8th)](https://isc.sans.edu/diary/rss/33316)
   - Confidence: 🟢 HIGH
@@ -28,6 +59,46 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing](https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html)
+  - Confidence: 🟫 LOW
+  - _Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with thir_
+
+- [BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams](https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams.  The campaign, dis_
+
+- [THM WEB1 or TCM PWPA](https://www.reddit.com/r/tryhackme/comments/1w8v2wa/thm_web1_or_tcm_pwpa/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hello everyone! Looking to get my first intermediate level cert.</p> <p>Does anyone have both the certifications and could I get your opinions on each?</p> <p>Thank y_
+
+- [Should I try to memorize everything I learn on TryHackMe, or just keep moving forward?](https://www.reddit.com/r/tryhackme/comments/1w9jx39/should_i_try_to_memorize_everything_i_learn_on/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/AdLate4936"> /u/AdLate4936 </a> <br /> <span><a href="/r/cybersecurity/comments/1w9jwt7/should_i_try_to_memorize_everything_i_learn_on/">[_
+
+- [Just completed Module 1 (Intro to Cyber Security) on TryHackMe! Starting my Linux journey next](https://www.reddit.com/r/tryhackme/comments/1w9vp8y/just_completed_module_1_intro_to_cyber_security/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1w9vp8y/just_completed_module_1_intro_to_cyber_security/"> <img alt="Just completed Module 1 (Intro to Cyber Security) on TryHackM_
+
+- [Anyone else having this problem with pulse?](https://www.reddit.com/r/tryhackme/comments/1w9nj4g/anyone_else_having_this_problem_with_pulse/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1w9nj4g/anyone_else_having_this_problem_with_pulse/"> <img alt="Anyone else having this problem with pulse?" src="https://preview._
+
+- [I just completed Offensive Security Intro room on TryHackMe! Hack your first website (legally in a safe environment) and experience an ethical hacker's job.](https://www.reddit.com/r/tryhackme/comments/1w9om9j/i_just_completed_offensive_security_intro_room_on/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/psychothrut"> /u/psychothrut </a> <br /> <span><a href="https://tryhackme.com/room/offensivesecurityintrokKx12?utm_campaign=social_share&a_
+
+- [SSH no reaction](https://www.reddit.com/r/tryhackme/comments/1w9pqw1/ssh_no_reaction/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1w9pqw1/ssh_no_reaction/"> <img alt="SSH no reaction" src="https://preview.redd.it/9v25q4qr33oh1.png?width=640&amp;crop=smart&amp;_
+
+- [Is it still worth training for a career in cybersecurity in the age of AI?](https://www.reddit.com/r/tryhackme/comments/1wab43y/is_it_still_worth_training_for_a_career_in/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi. I’m 28 and currently learning programming because I want to train for a career in cybersecurity. Right now I’m studying Bash/Linux, Python, programming fundamenta_
+
+- [220 million traveler records exposed in Vietnam-linked APIS leak](https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/)
+  - Confidence: 🟫 LOW
+  - _Exclusive: An exposed Advance Passenger Information System (APIS) database held 220 million passenger and crew records containing names, passport numbers, dates of birth, nationalities, and flight det_
 
 - [Agent-based vs agentless ZTNA, which one did you end up regretting?](https://www.reddit.com/r/AskNetsec/comments/1w9koxr/agentbased_vs_agentless_ztna_which_one_did_you/)
   - Confidence: 🟫 LOW
