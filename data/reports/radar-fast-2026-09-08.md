@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-08
-date: 2026-09-08T10:34:13Z
+date: 2026-09-08T15:58:14Z
 type: radar-report
 report_type: fast
-total_opportunities: 48
+total_opportunities: 53
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 48
+**Total opportunities:** 53
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 42 |
+| ❓ Uncategorized | 47 |
 | 🏰 CTF Competitions | 3 |
 | 🎓 Free Certifications | 2 |
 | 💰 Bug Bounties | 1 |
@@ -59,6 +59,58 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials](https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html)
+  - Confidence: 🟫 LOW
+  - _A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says.  FreeIPA is the system th_
+
+- [What It Took to Reach 1 Billion Build Manifests](https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html)
+  - Confidence: 🟫 LOW
+  - _In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in o_
+
+- [WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls](https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html)
+  - Confidence: 🟫 LOW
+  - _Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and&nbsp;demonstrated it spreading&nbsp;among three test phones.  The person being called_
+
+- [Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours](https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework_
+
+- [ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account](https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html)
+  - Confidence: 🟫 LOW
+  - _Check Point Research said in a&nbsp;report published today&nbsp;that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user_
+
+- [Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC](https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html)
+  - Confidence: 🟫 LOW
+  - _Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6,&nbsp;returned 3,400 of it&nbsp;the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back.  Li_
+
+- [Microsoft: Windows Server 2025 changes causing app crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/)
+  - Confidence: 🟫 LOW
+  - _Microsoft warned customers last week that they may experience application crashes on some Windows Server 2025 due to recent memory management changes. [...]_
+
+- [Hackers build AI frameworks for widescale credential theft](https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/)
+  - Confidence: 🟫 LOW
+  - _Threat actors are increasingly switching from AI-powered coding assistants to multi-agent frameworks that automate every stage of an attack. [...]_
+
+- [Webinar: The forgotten Google Workspace access that can lead to a breach](https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/)
+  - Confidence: 🟫 LOW
+  - _Third-party applications connected to Google Workspace can retain access long after their original purpose is forgotten. This webinar examines how overly permissive integrations contribute to breaches_
+
+- [Adobe fixes critical Magento zero-day exploited to backdoor servers](https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/)
+  - Confidence: 🟫 LOW
+  - _Adobe has released an emergency fix for CVE-2026-75650, an actively exploited max-severity zero-day vulnerability dubbed StyleSmuggler, that impacts multiple versions of Magento and Adobe Commerce. [._
+
+- [OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/)
+  - Confidence: 🟫 LOW
+  - _OpenAI confirmed that GPT-6 Astra is the first model it has broadly deployed to reach the "Critical level" for cybersecurity capabilities. [...]_
+
+- [SAP warns of maximum severity 'OVERPASS' kernel vulnerability](https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/)
+  - Confidence: 🟫 LOW
+  - _SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption flaw in the SAP Kernel code. [...]_
+
+- [August updates trigger 0xc0000409 errors on Windows Server 2016](https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/)
+  - Confidence: 🟫 LOW
+  - _Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnostic service is enabled. [...]_
 
 - [Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing](https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html)
   - Confidence: 🟫 LOW
@@ -195,35 +247,3 @@ tags:
 - [Magento StyleSmuggler zero-day exploited to deploy Linux backdoor](https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/)
   - Confidence: 🟫 LOW
   - _A zero-day vulnerability dubbed "StyleSmuggler" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]_
-
-- [JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies](https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities.  "The payloads are_
-
-- [N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw](https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html)
-  - Confidence: 🟫 LOW
-  - _Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its r_
-
-- [How can we detect if Claude in Chrome or other LLM browser agents are accessing/hijacking our web app user authenticated sessions and Block it](https://www.reddit.com/r/security/comments/1w92irx/how_can_we_detect_if_claude_in_chrome_or_other/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>We have an web UI apps. Users need to be logged to access the app. We are looking to identify and block usage of Claude browser agents or LLM browser agents hijacking_
-
-- [The Problem with LG TVs Spyware and Its Vulnerabilities](https://www.reddit.com/r/security/comments/1w9cfob/the_problem_with_lg_tvs_spyware_and_its/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/security/comments/1w9cfob/the_problem_with_lg_tvs_spyware_and_its/"> <img alt="The Problem with LG TVs Spyware and Its Vulnerabilities" src="https://_
-
-- [N-able patches max severity N-central flaw amid ongoing attacks](https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/)
-  - Confidence: 🟫 LOW
-  - _N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]_
-
-- [ConnectWise warns of new ScreenConnect flaw without patch](https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/)
-  - Confidence: 🟫 LOW
-  - _ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]_
-
-- [Hackers exploit new MikroTik RouterOS flaws to hijack routers](https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/)
-  - Confidence: 🟫 LOW
-  - _Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]_
-
-- [ChatGPT can now connect to your personal apps to mimic writing style](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/)
-  - Confidence: 🟫 LOW
-  - _OpenAI appears to be testing a new "Writing Style" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]_
