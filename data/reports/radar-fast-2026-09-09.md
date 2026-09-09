@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-09
-date: 2026-09-09T02:58:15Z
+date: 2026-09-09T10:45:11Z
 type: radar-report
 report_type: fast
-total_opportunities: 65
+total_opportunities: 62
 tags:
   - radar
   - fast
@@ -13,38 +13,20 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 65
+**Total opportunities:** 62
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 59 |
-| 🏰 CTF Competitions | 3 |
-| 🎓 Free Certifications | 2 |
+| ❓ Uncategorized | 60 |
 | 💰 Bug Bounties | 1 |
-
-## 🏰 CTF Competitions
-
-- [Build a CTF room with wrong kernel and ubuntu versions](https://www.reddit.com/r/tryhackme/comments/1w9o890/build_a_ctf_room_with_wrong_kernel_and_ubuntu/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>I am building a Room for the TryhackMe but after the completion of the room i realized that I built in latest versions of Ubuntu and kernel and THM won't support the _
-
-- [Got tired of messy notes while grinding HTB & THM, so I made a free tracker/cheatsheet (ZeroBox). Still a WIP, would love some feedback!](https://www.reddit.com/r/tryhackme/comments/1w9bcu5/got_tired_of_messy_notes_while_grinding_htb_thm/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>Hey guys,</p> <p>Whenever I'm doing boxes on Hack The Box or TryHackMe, I always end up with a mess of tabs—one for notes, one for Notion, a couple for revshell gener_
-
-- [Stuck on THM Cryptosystem Challenge](https://www.reddit.com/r/tryhackme/comments/1wa2tpz/stuck_on_thm_cryptosystem_challenge/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1wa2tpz/stuck_on_thm_cryptosystem_challenge/"> <img alt="Stuck on THM Cryptosystem Challenge" src="https://preview.redd.it/0acr8k7_
+| 🎓 Free Certifications | 1 |
 
 ## 💰 Bug Bounties
 
-- [How AI has changed the way I think, build, and work. A day in the life of an Intigriti Engineer](https://www.intigriti.com/blog/business-insights/how-ai-has-changed-the-way-i-think-build-and-work)
-  - Confidence: 🟢 HIGH
+- [Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed](https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html)
+  - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
-  - _When I wake up in the morning, as a Senior Software Engineer at Intigriti, the first thing I do is make coffee. The second thing I do is pick up exactly where I left off the day before, usually mid-co_
+  - _The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender.  The vulnerability, codenamed ShieldCrash, is assessed to be a pat_
 
 ## 🎓 Free Certifications
 
@@ -53,12 +35,51 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
-- [Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell](https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild.  The vulnerability, n_
-
 ## ❓ Uncategorized
+
+- [N-able N-central Pre-Auth RCE Flaw Exploited in the Wild](https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requ_
+
+- [Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days](https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html)
+  - Confidence: 🟫 LOW
+  - _Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in_
+
+- [SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution](https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html)
+  - Confidence: 🟫 LOW
+  - _SAP has released security updates to address multiple vulnerabilities, including a maximum-severity flaw in SAP Extended Passport (EPP) Processing that could have a severe impact on the confidentialit_
+
+- [F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans](https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html)
+  - Confidence: 🟫 LOW
+  - _Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an&nbsp;analysis published on September 7.  When _
+
+- [New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root](https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html)
+  - Confidence: 🟫 LOW
+  - _cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing o_
+
+- [Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox](https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html)
+  - Confidence: 🟫 LOW
+  - _Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild.  The medium-severity vulnerability, assigned the CVE ident_
+
+- [Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/)
+  - Confidence: 🟫 LOW
+  - _Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]_
+
+- [Google warns of new Chrome zero-day bug exploited in attacks](https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/)
+  - Confidence: 🟫 LOW
+  - _Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]_
+
+- [New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access](https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/)
+  - Confidence: 🟫 LOW
+  - _An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named "ShieldCrash" right after Microsoft rolled out its September 2026 Patch Tuesday_
+
+- [Man gets 15 years for extorting women with AI-generated porn videos](https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/)
+  - Confidence: 🟫 LOW
+  - _An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]_
+
+- [Over 36,000 exposed Plex servers vulnerable to recent flaws](https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/)
+  - Confidence: 🟫 LOW
+  - _Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]_
 
 - [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
   - Confidence: 🟫 LOW
@@ -255,43 +276,3 @@ tags:
 - [August updates trigger 0xc0000409 errors on Windows Server 2016](https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/)
   - Confidence: 🟫 LOW
   - _Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnostic service is enabled. [...]_
-
-- [Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing](https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html)
-  - Confidence: 🟫 LOW
-  - _Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with thir_
-
-- [BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams](https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams.  The campaign, dis_
-
-- [THM WEB1 or TCM PWPA](https://www.reddit.com/r/tryhackme/comments/1w8v2wa/thm_web1_or_tcm_pwpa/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello everyone! Looking to get my first intermediate level cert.</p> <p>Does anyone have both the certifications and could I get your opinions on each?</p> <p>Thank y_
-
-- [Should I try to memorize everything I learn on TryHackMe, or just keep moving forward?](https://www.reddit.com/r/tryhackme/comments/1w9jx39/should_i_try_to_memorize_everything_i_learn_on/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/AdLate4936"> /u/AdLate4936 </a> <br /> <span><a href="/r/cybersecurity/comments/1w9jwt7/should_i_try_to_memorize_everything_i_learn_on/">[_
-
-- [Just completed Module 1 (Intro to Cyber Security) on TryHackMe! Starting my Linux journey next](https://www.reddit.com/r/tryhackme/comments/1w9vp8y/just_completed_module_1_intro_to_cyber_security/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1w9vp8y/just_completed_module_1_intro_to_cyber_security/"> <img alt="Just completed Module 1 (Intro to Cyber Security) on TryHackM_
-
-- [Anyone else having this problem with pulse?](https://www.reddit.com/r/tryhackme/comments/1w9nj4g/anyone_else_having_this_problem_with_pulse/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1w9nj4g/anyone_else_having_this_problem_with_pulse/"> <img alt="Anyone else having this problem with pulse?" src="https://preview._
-
-- [I just completed Offensive Security Intro room on TryHackMe! Hack your first website (legally in a safe environment) and experience an ethical hacker's job.](https://www.reddit.com/r/tryhackme/comments/1w9om9j/i_just_completed_offensive_security_intro_room_on/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/psychothrut"> /u/psychothrut </a> <br /> <span><a href="https://tryhackme.com/room/offensivesecurityintrokKx12?utm_campaign=social_share&a_
-
-- [SSH no reaction](https://www.reddit.com/r/tryhackme/comments/1w9pqw1/ssh_no_reaction/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1w9pqw1/ssh_no_reaction/"> <img alt="SSH no reaction" src="https://preview.redd.it/9v25q4qr33oh1.png?width=640&amp;crop=smart&amp;_
-
-- [Is it still worth training for a career in cybersecurity in the age of AI?](https://www.reddit.com/r/tryhackme/comments/1wab43y/is_it_still_worth_training_for_a_career_in/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi. I’m 28 and currently learning programming because I want to train for a career in cybersecurity. Right now I’m studying Bash/Linux, Python, programming fundamenta_
-
-- [220 million traveler records exposed in Vietnam-linked APIS leak](https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/)
-  - Confidence: 🟫 LOW
-  - _Exclusive: An exposed Advance Passenger Information System (APIS) database held 220 million passenger and crew records containing names, passport numbers, dates of birth, nationalities, and flight det_
