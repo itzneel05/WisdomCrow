@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-09
-date: 2026-09-09T10:45:11Z
+date: 2026-09-09T15:53:55Z
 type: radar-report
 report_type: fast
-total_opportunities: 62
+total_opportunities: 72
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 62
+**Total opportunities:** 72
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 60 |
+| ❓ Uncategorized | 70 |
 | 💰 Bug Bounties | 1 |
 | 🎓 Free Certifications | 1 |
 
@@ -36,6 +36,46 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok](https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html)
+  - Confidence: 🟫 LOW
+  - _U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting "systematic extraction" of proprietary functionalities and capabilities of Am_
+
+- [Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets](https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html)
+  - Confidence: 🟫 LOW
+  - _Bitcoin wallet company Alby has&nbsp;warned of a critical flaw&nbsp;in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachab_
+
+- [DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval](https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html)
+  - Confidence: 🟫 LOW
+  - _A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command.  The tool runs an a_
+
+- [Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE](https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html)
+  - Confidence: 🟫 LOW
+  - _A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?  For many security teams, answering that means jumping between vulnerability s_
+
+- [Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA](https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html)
+  - Confidence: 🟫 LOW
+  - _Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create "stolen keys" that grant illicit access to tools from model providers like Google, Anthro_
+
+- [how to make my exe file undetectable by any apps?](https://www.reddit.com/r/hacking/comments/1wathjw/how_to_make_my_exe_file_undetectable_by_any_apps/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>so for educational purposes only, imagine if there was an app which detects certain apps (could be exam apps but not necessarily) and does not allow them if it sees t_
+
+- [Oops I did it again…](https://www.reddit.com/r/hacking/comments/1wa2lyj/oops_i_did_it_again/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/ChrisDaCrunk"> /u/ChrisDaCrunk </a> <br /> <span><a href="https://www.reddit.com/gallery/1wa2jr1">[link]</a></span> &#32; <span><a href="h_
+
+- [Verified HBO Max Reddit ad is phishing users into running a Terminal command — decoded it, here’s what I found](https://www.reddit.com/r/hacking/comments/1wa5u53/verified_hbo_max_reddit_ad_is_phishing_users_into/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1wa5u53/verified_hbo_max_reddit_ad_is_phishing_users_into/"> <img alt="Verified HBO Max Reddit ad is phishing users into running a T_
+
+- [MFA's Weakest Link: Account Recovery Is the New Attack Path](https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/)
+  - Confidence: 🟫 LOW
+  - _MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verificati_
+
+- [Veradigm warns of patient data breach after ransomware gang claims attack](https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/)
+  - Confidence: 🟫 LOW
+  - _Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]_
 
 - [N-able N-central Pre-Auth RCE Flaw Exploited in the Wild](https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html)
   - Confidence: 🟫 LOW
