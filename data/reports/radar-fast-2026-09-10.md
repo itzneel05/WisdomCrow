@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-10
-date: 2026-09-10T15:49:18Z
+date: 2026-09-10T20:24:56Z
 type: radar-report
 report_type: fast
-total_opportunities: 79
+total_opportunities: 69
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 79
+**Total opportunities:** 69
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 70 |
+| ❓ Uncategorized | 60 |
 | 🎓 Free Certifications | 7 |
 | 💰 Bug Bounties | 2 |
 
@@ -71,6 +71,22 @@ tags:
   - _Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks_
 
 ## ❓ Uncategorized
+
+- [ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories](https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html)
+  - Confidence: 🟫 LOW
+  - _A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?”  An extension asks for access and takes too much. A trusted service becomes part of a ph_
+
+- [AI-powered attack exploited PaperCut flaws to hack 395 organizations](https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/)
+  - Confidence: 🟫 LOW
+  - _A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]_
+
+- [Microsoft Excel KB5002914 update breaks copy and paste for some users](https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/)
+  - Confidence: 🟫 LOW
+  - _Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the _
+
+- [Surfshark VPN says hackers breached internal testing, proxy servers](https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/)
+  - Confidence: 🟫 LOW
+  - _Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]_
 
 - [Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks](https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html)
   - Confidence: 🟫 LOW
@@ -295,59 +311,3 @@ tags:
 - [US Government Accuses Chinese AI Firms of Distilling Frontier Models](https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models)
   - Confidence: 🟫 LOW
   - _US agencies claim Chinese companies covertly extracted billions of tokens from OpenAI, Anthropic, Google Gemini, and SpaceX's Grok to reduce development costs._
-
-- [Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week](https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html)
-  - Confidence: 🟫 LOW
-  - _Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows_
-
-- [U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto](https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram cha_
-
-- [Scans for Proxmox Servers, (Wed, Sep 9th)](https://isc.sans.edu/diary/rss/33324)
-  - Confidence: 🟫 LOW
-  - _<p>About a week ago, Proxmox published an advisory revealing a vulnerability in older versions of Proxmox VE, its flagship Virtual Environment product. The vulnerability only affects version 7, which _
-
-- [US says Chinese firms extracted billions of tokens from frontier AI models](https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/)
-  - Confidence: 🟫 LOW
-  - _U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]_
-
-- [U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok](https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html)
-  - Confidence: 🟫 LOW
-  - _U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting "systematic extraction" of proprietary functionalities and capabilities of Am_
-
-- [Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets](https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html)
-  - Confidence: 🟫 LOW
-  - _Bitcoin wallet company Alby has&nbsp;warned of a critical flaw&nbsp;in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachab_
-
-- [DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval](https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html)
-  - Confidence: 🟫 LOW
-  - _A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command.  The tool runs an a_
-
-- [Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE](https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html)
-  - Confidence: 🟫 LOW
-  - _A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?  For many security teams, answering that means jumping between vulnerability s_
-
-- [Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA](https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html)
-  - Confidence: 🟫 LOW
-  - _Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create "stolen keys" that grant illicit access to tools from model providers like Google, Anthro_
-
-- [how to make my exe file undetectable by any apps?](https://www.reddit.com/r/hacking/comments/1wathjw/how_to_make_my_exe_file_undetectable_by_any_apps/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>so for educational purposes only, imagine if there was an app which detects certain apps (could be exam apps but not necessarily) and does not allow them if it sees t_
-
-- [Oops I did it again…](https://www.reddit.com/r/hacking/comments/1wa2lyj/oops_i_did_it_again/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/ChrisDaCrunk"> /u/ChrisDaCrunk </a> <br /> <span><a href="https://www.reddit.com/gallery/1wa2jr1">[link]</a></span> &#32; <span><a href="h_
-
-- [Verified HBO Max Reddit ad is phishing users into running a Terminal command — decoded it, here’s what I found](https://www.reddit.com/r/hacking/comments/1wa5u53/verified_hbo_max_reddit_ad_is_phishing_users_into/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1wa5u53/verified_hbo_max_reddit_ad_is_phishing_users_into/"> <img alt="Verified HBO Max Reddit ad is phishing users into running a T_
-
-- [MFA's Weakest Link: Account Recovery Is the New Attack Path](https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/)
-  - Confidence: 🟫 LOW
-  - _MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verificati_
-
-- [Veradigm warns of patient data breach after ransomware gang claims attack](https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/)
-  - Confidence: 🟫 LOW
-  - _Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]_
