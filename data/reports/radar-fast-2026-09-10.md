@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-10
-date: 2026-09-10T02:59:07Z
+date: 2026-09-10T10:34:27Z
 type: radar-report
 report_type: fast
-total_opportunities: 62
+total_opportunities: 68
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 62
+**Total opportunities:** 68
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 59 |
+| ❓ Uncategorized | 64 |
 | 💰 Bug Bounties | 2 |
-| 🎓 Free Certifications | 1 |
+| 🎓 Free Certifications | 2 |
 
 ## 💰 Bug Bounties
 
@@ -35,12 +35,37 @@ tags:
 
 ## 🎓 Free Certifications
 
+- [ISC Stormcast For Thursday, September 10th, 2026 https://isc.sans.edu/podcastdetail/10088, (Thu, Sep 10th)](https://isc.sans.edu/diary/rss/33328)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
+
 - [Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
   - _Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks_
 
 ## ❓ Uncategorized
+
+- [Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6](https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html)
+  - Confidence: 🟫 LOW
+  - _Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised c_
+
+- [Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example "sk-1234" Admin Key](https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html)
+  - Confidence: 🟫 LOW
+  - _Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide.  LiteLLM is an open-_
+
+- [Trezor warns users of email provider breach, phishing attacks](https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/)
+  - Confidence: 🟫 LOW
+  - _Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]_
+
+- [Microsoft fixes bug that wiped Windows desktop settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/)
+  - Confidence: 🟫 LOW
+  - _Microsoft says the September 2026 Patch Tuesday updates fix a known issue causing desktop settings to be lost or reset on some Windows devices. [...]_
+
+- [CISA: WatchGuard RCE flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as activ_
 
 - [Agentic AI governance and accountability, who owns an agent actions?](https://www.reddit.com/r/AskNetsec/comments/1wajwno/agentic_ai_governance_and_accountability_who_owns/)
   - Confidence: 🟫 LOW
