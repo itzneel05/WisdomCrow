@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-10
-date: 2026-09-10T10:34:27Z
+date: 2026-09-10T15:49:18Z
 type: radar-report
 report_type: fast
-total_opportunities: 68
+total_opportunities: 79
 tags:
   - radar
   - fast
@@ -13,27 +13,52 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 68
+**Total opportunities:** 79
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 64 |
+| ❓ Uncategorized | 70 |
+| 🎓 Free Certifications | 7 |
 | 💰 Bug Bounties | 2 |
-| 🎓 Free Certifications | 2 |
 
 ## 💰 Bug Bounties
+
+- [I built a tool for vulnerability research and pentesting — feedback?](https://www.reddit.com/r/Pentesting/comments/1wc24zz/i_built_a_tool_for_vulnerability_research_and/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>I’ve been building a small tool called Luah AI for my own security research and pentesting work.</p> <p>It’s basically a chat interface for researching vulnerabilitie_
 
 - [September 2026 Patch Tuesday: Record patch count, 2 zero-days, and a SigRed successor](https://www.helpnetsecurity.com/2026/09/09/september-2026-patch-tuesday-zero-days-sigred-successor/)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
   - _<p>September 2026 Patch Tuesday is here, with Microsoft delivering another record-breaking number of patches, including those for two vulnerabilities that have been exploited as zero-days. Another &#8_
 
-- [Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed](https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender.  The vulnerability, codenamed ShieldCrash, is assessed to be a pat_
-
 ## 🎓 Free Certifications
+
+- [CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline](https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requi_
+
+- [Redtail Payload Analysis &#x5b;Guest Diary&#x5d;, (Wed, Sep 9th)](https://isc.sans.edu/diary/rss/33326)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _<p>&#x5b;This is a Guest Diary by Aaron Ng, an ISC intern as part of the SANS.edu <a href="https://www.sans.edu/cyber-security-programs/bachelors-degree/">BACS</a> program&#x5d;</p>&#xd;_
+
+- [Tripwire – open source sandboxed security scanner for MCP servers and AI skills](https://www.reddit.com/r/Pentesting/comments/1wbnogk/tripwire_open_source_sandboxed_security_scanner/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _<!-- SC_OFF --><div class="md"><p>MCP servers and AI skills execute code directly in your local environment. Most people install them from GitHub without any vetting. I have been guilty of doing the s_
+
+- [Why does SANS not offer social engineering pentesting courses anymore?](https://www.reddit.com/r/Pentesting/comments/1wc8865/why_does_sans_not_offer_social_engineering/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/notburneddown"> /u/notburneddown </a> <br /> <span><a href="https://www.reddit.com/r/Pentesting/comments/1wc8865/why_does_sans_not_offer_s_
+
+- [Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers](https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [._
 
 - [ISC Stormcast For Thursday, September 10th, 2026 https://isc.sans.edu/podcastdetail/10088, (Thu, Sep 10th)](https://isc.sans.edu/diary/rss/33328)
   - Confidence: 🟢 HIGH
@@ -46,6 +71,74 @@ tags:
   - _Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks_
 
 ## ❓ Uncategorized
+
+- [Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks](https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html)
+  - Confidence: 🟫 LOW
+  - _The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a&nbsp;report p_
+
+- [PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances](https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html)
+  - Confidence: 🟫 LOW
+  - _A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and b_
+
+- [Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE](https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html)
+  - Confidence: 🟫 LOW
+  - _Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to ru_
+
+- [Google Play Early Access Abused to Push Thousands of Deceptive Android Apps](https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html)
+  - Confidence: 🟫 LOW
+  - _Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content.  Early Access apps are apps that haven't bee_
+
+- [Aspiring PenTester](https://www.reddit.com/r/Pentesting/comments/1wbey6z/aspiring_pentester/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>What do you expect from a fresher who wants to be a Pentester? What should I focus on more since I’m hearing that AI is taking over(or at-least automating)a lot of st_
+
+- [We built a fully self-hosted AI pentesting workspace — central platform (with MCP & web interface) + local LLM + Claude Code/OpenCode as the harness. No client data leaves our infra.](https://www.reddit.com/r/Pentesting/comments/1wasc7f/we_built_a_fully_selfhosted_ai_pentesting/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1wasc7f/we_built_a_fully_selfhosted_ai_pentesting/"> <img alt="We built a fully self-hosted AI pentesting workspace — central pla_
+
+- [Feeling stuck with bug hunting](https://www.reddit.com/r/Pentesting/comments/1wbnd4w/feeling_stuck_with_bug_hunting/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>hello everyone, so i just started learning about cyber security for around two months, self taught, and i get plenty​​ Certificate of appreciation from my goverment I_
+
+- [Need Help- Pentesting GWT-RPC](https://www.reddit.com/r/Pentesting/comments/1wbja8s/need_help_pentesting_gwtrpc/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I’m testing an application that heavily uses GWT-RPC, and I’m finding it quite confusing. Can anyone help me understand how to approach testing it?</p> </div><!-- SC__
+
+- [[Open Source] Seeking Security Review & Code Audit for a Local](https://www.reddit.com/r/Pentesting/comments/1wbqzho/open_source_seeking_security_review_code_audit/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I've spent a lot of time building a local, open-source encrypted vault where sensitive files are stored in custom .bca archives.</p> <p>At this point, the cryptograph_
+
+- [Looking for career advice](https://www.reddit.com/r/Pentesting/comments/1wbm6er/looking_for_career_advice/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>I am looking for some career advice from cybersecurity professionals.</p> <p>A bit of background about myself. I completed my undergraduate CS degree i_
+
+- [Is it only me or anyone else scared of the future as well?](https://www.reddit.com/r/Pentesting/comments/1wb6dwj/is_it_only_me_or_anyone_else_scared_of_the_future/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I have around 15 years of experience in Pentesting and application security and with the boom of AI I am getting little scared of the future. Everyday someone is post_
+
+- [Empire 7.0 is out!!!!!](https://www.reddit.com/r/Pentesting/comments/1wc1esy/empire_70_is_out/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Empire 7.0 just released. 75+ new BOF modules. AES-256-GCM encryption. Sharpire agent completely overhauled. Port forwarding pivot for every agent. BloodHound integra_
+
+- [Tips for Penetration Tester Interview](https://www.reddit.com/r/Pentesting/comments/1wciua4/tips_for_penetration_tester_interview/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Does anyone know a good place to practice for pentester interviews, or have any tips/resources to share? Want to make sure I'm well-prepared and can do well in the in_
+
+- [Microsoft says September updates fix mouse settings reset issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]_
+
+- [The Top 4 Threats We Found by Investigating Every Alert for a Quarter](https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/)
+  - Confidence: 🟫 LOW
+  - _Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and_
+
+- [New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws](https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/)
+  - Confidence: 🟫 LOW
+  - _Multiple cyber-espionage groups deployed an exploit kit dubbed "BlueMoon" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]_
+
+- [IDScan confirms breach tied to 153 million stolen driver’s licenses](https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/)
+  - Confidence: 🟫 LOW
+  - _Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 15_
 
 - [Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6](https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html)
   - Confidence: 🟫 LOW
@@ -258,47 +351,3 @@ tags:
 - [Veradigm warns of patient data breach after ransomware gang claims attack](https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/)
   - Confidence: 🟫 LOW
   - _Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]_
-
-- [N-able N-central Pre-Auth RCE Flaw Exploited in the Wild](https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requ_
-
-- [Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days](https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html)
-  - Confidence: 🟫 LOW
-  - _Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in_
-
-- [SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution](https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html)
-  - Confidence: 🟫 LOW
-  - _SAP has released security updates to address multiple vulnerabilities, including a maximum-severity flaw in SAP Extended Passport (EPP) Processing that could have a severe impact on the confidentialit_
-
-- [F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans](https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html)
-  - Confidence: 🟫 LOW
-  - _Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an&nbsp;analysis published on September 7.  When _
-
-- [New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root](https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html)
-  - Confidence: 🟫 LOW
-  - _cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing o_
-
-- [Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox](https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html)
-  - Confidence: 🟫 LOW
-  - _Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild.  The medium-severity vulnerability, assigned the CVE ident_
-
-- [Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/)
-  - Confidence: 🟫 LOW
-  - _Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]_
-
-- [Google warns of new Chrome zero-day bug exploited in attacks](https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/)
-  - Confidence: 🟫 LOW
-  - _Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]_
-
-- [New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access](https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/)
-  - Confidence: 🟫 LOW
-  - _An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named "ShieldCrash" right after Microsoft rolled out its September 2026 Patch Tuesday_
-
-- [Man gets 15 years for extorting women with AI-generated porn videos](https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/)
-  - Confidence: 🟫 LOW
-  - _An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]_
-
-- [Over 36,000 exposed Plex servers vulnerable to recent flaws](https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/)
-  - Confidence: 🟫 LOW
-  - _Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]_
