@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-11
-date: 2026-09-11T02:53:59Z
+date: 2026-09-11T10:35:05Z
 type: radar-report
 report_type: fast
-total_opportunities: 75
+total_opportunities: 66
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 75
+**Total opportunities:** 66
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 59 |
-| 🎓 Free Certifications | 12 |
+| ❓ Uncategorized | 51 |
+| 🎓 Free Certifications | 11 |
 | 💰 Bug Bounties | 2 |
 | 🏰 CTF Competitions | 2 |
 
@@ -47,6 +47,11 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>I’ve been building a small tool called Luah AI for my own security research and pentesting work.</p> <p>It’s basically a chat interface for researching vulnerabilitie_
 
 ## 🎓 Free Certifications
+
+- [Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware](https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilitie_
 
 - [ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)](https://isc.sans.edu/diary/rss/33330)
   - Confidence: 🟢 HIGH
@@ -98,17 +103,31 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [._
 
-- [ISC Stormcast For Thursday, September 10th, 2026 https://isc.sans.edu/podcastdetail/10088, (Thu, Sep 10th)](https://isc.sans.edu/diary/rss/33328)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
-- [Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks_
-
 ## ❓ Uncategorized
+
+- [PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws](https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html)
+  - Confidence: 🟫 LOW
+  - _PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exp_
+
+- [China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor](https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html)
+  - Confidence: 🟫 LOW
+  - _A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security c_
+
+- [Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors](https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html)
+  - Confidence: 🟫 LOW
+  - _Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security _
+
+- [Conti ransomware gang member sentenced to 4 years in prison](https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/)
+  - Confidence: 🟫 LOW
+  - _A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]_
+
+- [Trezor: 347,000 users targeted in phishing attacks after Brevo breach](https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/)
+  - Confidence: 🟫 LOW
+  - _Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]_
+
+- [Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]_
 
 - [September Windows Server updates break Remote Desktop Services](https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/)
   - Confidence: 🟫 LOW
@@ -289,59 +308,3 @@ tags:
 - [IDScan confirms breach tied to 153 million stolen driver’s licenses](https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/)
   - Confidence: 🟫 LOW
   - _Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 15_
-
-- [Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6](https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html)
-  - Confidence: 🟫 LOW
-  - _Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised c_
-
-- [Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example "sk-1234" Admin Key](https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html)
-  - Confidence: 🟫 LOW
-  - _Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide.  LiteLLM is an open-_
-
-- [Trezor warns users of email provider breach, phishing attacks](https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/)
-  - Confidence: 🟫 LOW
-  - _Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]_
-
-- [Microsoft fixes bug that wiped Windows desktop settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/)
-  - Confidence: 🟫 LOW
-  - _Microsoft says the September 2026 Patch Tuesday updates fix a known issue causing desktop settings to be lost or reset on some Windows devices. [...]_
-
-- [CISA: WatchGuard RCE flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as activ_
-
-- [Agentic AI governance and accountability, who owns an agent actions?](https://www.reddit.com/r/AskNetsec/comments/1wajwno/agentic_ai_governance_and_accountability_who_owns/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Had a scare recently that traced back to an AI coding tool one of my teams adopted without any formal review. Nothing malicious happened, the agent just had more acce_
-
-- [Browser extension security... is anyone still using denylists or have you gone allowlist only?](https://www.reddit.com/r/AskNetsec/comments/1waguj2/browser_extension_security_is_anyone_still_using/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>So... serious question from a security architect brain that lives in the browser these days. We keep pushing phishing protection and browser security and telling peop_
-
-- [If an AI agent was authorized correctly, but the evidence it used changes before execution, where should the security control live?](https://www.reddit.com/r/AskNetsec/comments/1wbat38/if_an_ai_agent_was_authorized_correctly_but_the/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I'm trying to understand how security teams are treating a specific execution-time failure mode in production AI agents.</p> <p>Consider this sequence:</p> <ol> <li>A_
-
-- [[ Removed by Reddit ]](https://www.reddit.com/r/AskNetsec/comments/1wb5a4q/removed_by_reddit/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>[ Removed by Reddit on account of violating the <a href="/help/contentpolicy">content policy</a>. ]</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https:/_
-
-- [Anyone else struggling with false positives from ai runtime security tools?](https://www.reddit.com/r/AskNetsec/comments/1wbdd9b/anyone_else_struggling_with_false_positives_from/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Our AI runtime security tool flags so much noise that the team has started ignoring alerts by default, which obviously defeats the whole point of running it.</p> <p>A_
-
-- [How do you actually decide what makes your agent stop and escalate to a human?](https://www.reddit.com/r/AskNetsec/comments/1wbj0a3/how_do_you_actually_decide_what_makes_your_agent/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Everyone talks about what an agent is allowed to do, fewer people talk specifically about what makes it stop. Is it a confidence threshold, a specific action type reg_
-
-- [Vibe-coded internal apps are becoming a Shadow AI security problem... what controls are you using?](https://www.reddit.com/r/AskNetsec/comments/1wbv1q8/vibecoded_internal_apps_are_becoming_a_shadow_ai/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Ok so anyone else watching this go from ppl pasting stuff into ChatGPT to business teams spinning up their own AI tools and hooking them into Jira, Slack, Drive, APIs_
-
-- [Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking](https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/)
-  - Confidence: 🟫 LOW
-  - _The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring us_
-
-- [AdaptHealth confirms 4.1 million people exposed in July cyberattack](https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/)
-  - Confidence: 🟫 LOW
-  - _Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]_
