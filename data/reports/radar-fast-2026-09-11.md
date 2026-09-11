@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-11
-date: 2026-09-11T10:35:05Z
+date: 2026-09-11T15:51:04Z
 type: radar-report
 report_type: fast
-total_opportunities: 66
+total_opportunities: 56
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 66
+**Total opportunities:** 56
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 51 |
-| 🎓 Free Certifications | 11 |
+| ❓ Uncategorized | 46 |
+| 🎓 Free Certifications | 6 |
 | 💰 Bug Bounties | 2 |
 | 🏰 CTF Competitions | 2 |
 
@@ -36,15 +36,15 @@ tags:
 
 ## 💰 Bug Bounties
 
+- [Cybersecurity Researcher | $11K+ Bug Bounties | Open to Opportunities](https://www.reddit.com/r/Pentesting/comments/1wdbfi3/cybersecurity_researcher_11k_bug_bounties_open_to/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`, `cash_prize`, `india_friendly`
+  - _<!-- SC_OFF --><div class="md"><p>&#x200b;</p> <p>I’m a Cybersecurity Researcher with 4+ years of experience, mainly working in vulnerability research, penetration testing, web/API security, fuzzing, _
+
 - [WordPress adds automated security checks to block risky plugin releases](https://www.helpnetsecurity.com/2026/09/10/wordpress-automated-plugin-security-review/)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`, `india_friendly`
   - _<p>WordPress’ automated security review will now assess every plugin release before it is distributed through the WordPress.org update API. Releases considered a potential security risk will be blocke_
-
-- [I built a tool for vulnerability research and pentesting — feedback?](https://www.reddit.com/r/Pentesting/comments/1wc24zz/i_built_a_tool_for_vulnerability_research_and/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>I’ve been building a small tool called Luah AI for my own security research and pentesting work.</p> <p>It’s basically a chat interface for researching vulnerabilitie_
 
 ## 🎓 Free Certifications
 
@@ -78,32 +78,55 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>State-sponsored and financially-motivated attackers are actively exploiting CVE-2026-20079, a critical authentication bypass vulnerability in Cisco Secure Firewall Management Center (FMC), which is_
 
-- [CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline](https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requi_
-
-- [Redtail Payload Analysis &#x5b;Guest Diary&#x5d;, (Wed, Sep 9th)](https://isc.sans.edu/diary/rss/33326)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _<p>&#x5b;This is a Guest Diary by Aaron Ng, an ISC intern as part of the SANS.edu <a href="https://www.sans.edu/cyber-security-programs/bachelors-degree/">BACS</a> program&#x5d;</p>&#xd;_
-
-- [Tripwire – open source sandboxed security scanner for MCP servers and AI skills](https://www.reddit.com/r/Pentesting/comments/1wbnogk/tripwire_open_source_sandboxed_security_scanner/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _<!-- SC_OFF --><div class="md"><p>MCP servers and AI skills execute code directly in your local environment. Most people install them from GitHub without any vetting. I have been guilty of doing the s_
-
-- [Why does SANS not offer social engineering pentesting courses anymore?](https://www.reddit.com/r/Pentesting/comments/1wc8865/why_does_sans_not_offer_social_engineering/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/notburneddown"> /u/notburneddown </a> <br /> <span><a href="https://www.reddit.com/r/Pentesting/comments/1wc8865/why_does_sans_not_offer_s_
-
-- [Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers](https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [._
-
 ## ❓ Uncategorized
+
+- [Your Critical Vulnerabilities Might Not Be Your Biggest Risk](https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html)
+  - Confidence: 🟫 LOW
+  - _Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually cre_
+
+- [Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection](https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html)
+  - Confidence: 🟫 LOW
+  - _Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. _
+
+- [Claude Used to Automate Exploitation and Data Theft Across Multiple Victims](https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html)
+  - Confidence: 🟫 LOW
+  - _Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and Au_
+
+- [The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)](https://isc.sans.edu/diary/rss/33332)
+  - Confidence: 🟫 LOW
+  - _<p dir="auto">I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws a_
+
+- [Built a static security scanner in Python — here's what it found in a sample project](https://www.reddit.com/r/Pentesting/comments/1wd0cky/built_a_static_security_scanner_in_python_heres/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1wd0cky/built_a_static_security_scanner_in_python_heres/"> <img alt="Built a static security scanner in Python — here's what it f_
+
+- [Custom AI Prompts for Pentest Reporting in OWASP Faction 2.0](https://www.reddit.com/r/Pentesting/comments/1wd0fsr/custom_ai_prompts_for_pentest_reporting_in_owasp/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1wd0fsr/custom_ai_prompts_for_pentest_reporting_in_owasp/"> <img alt="Custom AI Prompts for Pentest Reporting in OWASP Faction 2._
+
+- [Is AI Pentesting all just hype? Webinar with leading practitioners from Tricon, Amp, and Veg](https://www.reddit.com/r/Pentesting/comments/1wdg13i/is_ai_pentesting_all_just_hype_webinar_with/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Everyone's shipping an &quot;autonomous pentesting&quot; claim right now so we wanted to bring together leading practitioners who have actually implemented it to debu_
+
+- [I built a browser and HTTP client together from scratch for pentesting. Turns out you can do a lot of Burp-like work without a proxy.](https://www.reddit.com/r/Pentesting/comments/1wdi180/i_built_a_browser_and_http_client_together_from/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I've been implementing a browser from scratch as a side project. Then, I realized that it owns the HTTP stack, and we can naturally inspect, edit, and replay traffic _
+
+- [Pwnagotchi fork running on the RaspyJack Waveshare 1.44" Display (Almost fully stable!)](https://www.reddit.com/r/Pentesting/comments/1wdjym0/pwnagotchi_fork_running_on_the_raspyjack/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1wdjym0/pwnagotchi_fork_running_on_the_raspyjack/"> <img alt="Pwnagotchi fork running on the RaspyJack Waveshare 1.44&quot; Displ_
+
+- [Accidentally shared a client name with AI](https://www.reddit.com/r/Pentesting/comments/1wdh7bd/accidentally_shared_a_client_name_with_ai/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I was testing an SSRF vulnerability. So i was trying to use to read files , some are generic like file://C:/Windows/win.ini or file://inetpub/Web.config. </p> <p>Anyw_
+
+- [GitLab urges users to patch max severity path traversal flaw](https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/)
+  - Confidence: 🟫 LOW
+  - _GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]_
+
+- [How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface](https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/)
+  - Confidence: 🟫 LOW
+  - _Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponi_
 
 - [PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws](https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html)
   - Confidence: 🟫 LOW
@@ -240,71 +263,3 @@ tags:
 - [Surfshark VPN says hackers breached internal testing, proxy servers](https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/)
   - Confidence: 🟫 LOW
   - _Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]_
-
-- [Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks](https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html)
-  - Confidence: 🟫 LOW
-  - _The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a&nbsp;report p_
-
-- [PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances](https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html)
-  - Confidence: 🟫 LOW
-  - _A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and b_
-
-- [Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE](https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html)
-  - Confidence: 🟫 LOW
-  - _Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to ru_
-
-- [Google Play Early Access Abused to Push Thousands of Deceptive Android Apps](https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html)
-  - Confidence: 🟫 LOW
-  - _Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content.  Early Access apps are apps that haven't bee_
-
-- [Aspiring PenTester](https://www.reddit.com/r/Pentesting/comments/1wbey6z/aspiring_pentester/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>What do you expect from a fresher who wants to be a Pentester? What should I focus on more since I’m hearing that AI is taking over(or at-least automating)a lot of st_
-
-- [We built a fully self-hosted AI pentesting workspace — central platform (with MCP & web interface) + local LLM + Claude Code/OpenCode as the harness. No client data leaves our infra.](https://www.reddit.com/r/Pentesting/comments/1wasc7f/we_built_a_fully_selfhosted_ai_pentesting/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1wasc7f/we_built_a_fully_selfhosted_ai_pentesting/"> <img alt="We built a fully self-hosted AI pentesting workspace — central pla_
-
-- [Feeling stuck with bug hunting](https://www.reddit.com/r/Pentesting/comments/1wbnd4w/feeling_stuck_with_bug_hunting/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>hello everyone, so i just started learning about cyber security for around two months, self taught, and i get plenty​​ Certificate of appreciation from my goverment I_
-
-- [Need Help- Pentesting GWT-RPC](https://www.reddit.com/r/Pentesting/comments/1wbja8s/need_help_pentesting_gwtrpc/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I’m testing an application that heavily uses GWT-RPC, and I’m finding it quite confusing. Can anyone help me understand how to approach testing it?</p> </div><!-- SC__
-
-- [[Open Source] Seeking Security Review & Code Audit for a Local](https://www.reddit.com/r/Pentesting/comments/1wbqzho/open_source_seeking_security_review_code_audit/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I've spent a lot of time building a local, open-source encrypted vault where sensitive files are stored in custom .bca archives.</p> <p>At this point, the cryptograph_
-
-- [Looking for career advice](https://www.reddit.com/r/Pentesting/comments/1wbm6er/looking_for_career_advice/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>I am looking for some career advice from cybersecurity professionals.</p> <p>A bit of background about myself. I completed my undergraduate CS degree i_
-
-- [Is it only me or anyone else scared of the future as well?](https://www.reddit.com/r/Pentesting/comments/1wb6dwj/is_it_only_me_or_anyone_else_scared_of_the_future/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I have around 15 years of experience in Pentesting and application security and with the boom of AI I am getting little scared of the future. Everyday someone is post_
-
-- [Empire 7.0 is out!!!!!](https://www.reddit.com/r/Pentesting/comments/1wc1esy/empire_70_is_out/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Empire 7.0 just released. 75+ new BOF modules. AES-256-GCM encryption. Sharpire agent completely overhauled. Port forwarding pivot for every agent. BloodHound integra_
-
-- [Tips for Penetration Tester Interview](https://www.reddit.com/r/Pentesting/comments/1wciua4/tips_for_penetration_tester_interview/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Does anyone know a good place to practice for pentester interviews, or have any tips/resources to share? Want to make sure I'm well-prepared and can do well in the in_
-
-- [Microsoft says September updates fix mouse settings reset issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]_
-
-- [The Top 4 Threats We Found by Investigating Every Alert for a Quarter](https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/)
-  - Confidence: 🟫 LOW
-  - _Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and_
-
-- [New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws](https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/)
-  - Confidence: 🟫 LOW
-  - _Multiple cyber-espionage groups deployed an exploit kit dubbed "BlueMoon" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]_
-
-- [IDScan confirms breach tied to 153 million stolen driver’s licenses](https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/)
-  - Confidence: 🟫 LOW
-  - _Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 15_
