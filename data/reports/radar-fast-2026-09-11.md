@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-11
-date: 2026-09-11T15:51:04Z
+date: 2026-09-11T20:26:03Z
 type: radar-report
 report_type: fast
-total_opportunities: 56
+total_opportunities: 64
 tags:
   - radar
   - fast
@@ -13,14 +13,15 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 56
+**Total opportunities:** 64
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 46 |
+| ❓ Uncategorized | 52 |
 | 🎓 Free Certifications | 6 |
-| 💰 Bug Bounties | 2 |
+| 💰 Bug Bounties | 3 |
 | 🏰 CTF Competitions | 2 |
+| 🎮 Arcade & Gamified Events | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -40,6 +41,11 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `bug_bounty`, `cash_prize`, `india_friendly`
   - _<!-- SC_OFF --><div class="md"><p>&#x200b;</p> <p>I’m a Cybersecurity Researcher with 4+ years of experience, mainly working in vulnerability research, penetration testing, web/API security, fuzzing, _
+
+- [GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure](https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure.  The vulnerability i_
 
 - [WordPress adds automated security checks to block risky plugin releases](https://www.helpnetsecurity.com/2026/09/10/wordpress-automated-plugin-security-review/)
   - Confidence: 🟡 MEDIUM
@@ -78,7 +84,54 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>State-sponsored and financially-motivated attackers are actively exploiting CVE-2026-20079, a critical authentication bypass vulnerability in Cisco Secure Firewall Management Center (FMC), which is_
 
+## 🎮 Arcade & Gamified Events
+
+- [when will i get my rewards for the last season](https://www.reddit.com/r/hackthebox/comments/1wcqakr/when_will_i_get_my_rewards_for_the_last_season/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `arcade`
+  - _<!-- SC_OFF --><div class="md"><p>i finished in some league so when will i get the voucher and the cubes?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Stapat1_
+
 ## ❓ Uncategorized
+
+- [Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks](https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html)
+  - Confidence: 🟫 LOW
+  - _Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhi_
+
+- [COAE exam experience — how long did it take you to pass?](https://www.reddit.com/r/hackthebox/comments/1wchpz9/coae_exam_experience_how_long_did_it_take_you_to/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I’m planning to take the <strong>COAE</strong> exam in the next few weeks and I’d really appreciate hearing from people who have already passed i_
+
+- [how to take notes for CPTS?](https://www.reddit.com/r/hackthebox/comments/1wcxqsf/how_to_take_notes_for_cpts/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>What do you reccomend? I’m currently taking deep long notes, but I don’t even know how to organize them and how many files create.</p> </div><!-- SC_ON --> &#32; subm_
+
+- [CPTS Exam made me depressed (not literally)](https://www.reddit.com/r/hackthebox/comments/1wcz9vh/cpts_exam_made_me_depressed_not_literally/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>How can I study for months, have notes (that I’m not even using because don’t even know what would apply) and can’t even get the first foothold. It’s been three days _
+
+- [COAE - stuck in AI Data Attacks.](https://www.reddit.com/r/hackthebox/comments/1wdj2xu/coae_stuck_in_ai_data_attacks/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Currently in the Steganography section - Execute the attack and I am stuck. I am trying to upload the pth file to the machine but I am stuck in “Sending POST request…_
+
+- [Cpts](https://www.reddit.com/r/hackthebox/comments/1wdlq87/cpts/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Any tips for cpts like I am at the 31 percent of the course I am just doing the course and taking the notes I am not practicing any labs other than the course is that_
+
+- [Artifactory flaws chained in attacks deploying backdoor malware](https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/)
+  - Confidence: 🟫 LOW
+  - _Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hos_
+
+- [Passkey-themed phishing attacks lead to Microsoft 365 data theft](https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/)
+  - Confidence: 🟫 LOW
+  - _Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts _
+
+- [Florida confirms DMV database breached via stolen police account](https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/)
+  - Confidence: 🟫 LOW
+  - _The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging_
+
+- [Hackers abused Claude to extract secrets from 1.8M Android apps](https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/)
+  - Confidence: 🟫 LOW
+  - _Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [_
 
 - [Your Critical Vulnerabilities Might Not Be Your Biggest Risk](https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html)
   - Confidence: 🟫 LOW
@@ -247,19 +300,3 @@ tags:
 - [Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data](https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data)
   - Confidence: 🟫 LOW
   - _Threat actors are leveraging Microsoft's Graph API to identify lucrative targets, then passing their access to extortion groups like ShinyHunters._
-
-- [ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories](https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html)
-  - Confidence: 🟫 LOW
-  - _A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?”  An extension asks for access and takes too much. A trusted service becomes part of a ph_
-
-- [AI-powered attack exploited PaperCut flaws to hack 395 organizations](https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/)
-  - Confidence: 🟫 LOW
-  - _A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]_
-
-- [Microsoft Excel KB5002914 update breaks copy and paste for some users](https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/)
-  - Confidence: 🟫 LOW
-  - _Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the _
-
-- [Surfshark VPN says hackers breached internal testing, proxy servers](https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/)
-  - Confidence: 🟫 LOW
-  - _Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]_
