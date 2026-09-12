@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-12
-date: 2026-09-12T03:01:13Z
+date: 2026-09-12T10:03:08Z
 type: radar-report
 report_type: fast
-total_opportunities: 62
+total_opportunities: 63
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 62
+**Total opportunities:** 63
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 55 |
+| ❓ Uncategorized | 56 |
 | 💰 Bug Bounties | 2 |
 | 🎓 Free Certifications | 2 |
 | 🔥 Hackathons & Conferences | 2 |
@@ -67,6 +67,10 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>i finished in some league so when will i get the voucher and the cubes?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Stapat1_
 
 ## ❓ Uncategorized
+
+- [OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html)
+  - Confidence: 🟫 LOW
+  - _The "major malicious attack" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Vo_
 
 - [PaperCut Flaws Exploited in AI-Powered Attacks](https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/)
   - Confidence: 🟫 LOW
