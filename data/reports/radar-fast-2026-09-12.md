@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-12
-date: 2026-09-12T14:57:59Z
+date: 2026-09-12T20:11:10Z
 type: radar-report
 report_type: fast
-total_opportunities: 58
+total_opportunities: 46
 tags:
   - radar
   - fast
@@ -13,22 +13,17 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 58
+**Total opportunities:** 46
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 52 |
-| 💰 Bug Bounties | 2 |
+| ❓ Uncategorized | 41 |
 | 🔥 Hackathons & Conferences | 2 |
 | 🎮 Arcade & Gamified Events | 1 |
+| 💰 Bug Bounties | 1 |
 | 🎓 Free Certifications | 1 |
 
 ## 💰 Bug Bounties
-
-- [Cybersecurity Researcher | $11K+ Bug Bounties | Open to Opportunities](https://www.reddit.com/r/Pentesting/comments/1wdbfi3/cybersecurity_researcher_11k_bug_bounties_open_to/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `cash_prize`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>&#x200b;</p> <p>I’m a Cybersecurity Researcher with 4+ years of experience, mainly working in vulnerability research, penetration testing, web/API security, fuzzing, _
 
 - [GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure](https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html)
   - Confidence: 🟡 MEDIUM
@@ -62,6 +57,10 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>i finished in some league so when will i get the voucher and the cubes?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Stapat1_
 
 ## ❓ Uncategorized
+
+- [CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV](https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vuln_
 
 - [When the Whole Company Adopts AI: What It Does to Your SOC](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
   - Confidence: 🟫 LOW
@@ -222,51 +221,3 @@ tags:
 - [Hackers abused Claude to extract secrets from 1.8M Android apps](https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/)
   - Confidence: 🟫 LOW
   - _Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [_
-
-- [Your Critical Vulnerabilities Might Not Be Your Biggest Risk](https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html)
-  - Confidence: 🟫 LOW
-  - _Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually cre_
-
-- [Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection](https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html)
-  - Confidence: 🟫 LOW
-  - _Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. _
-
-- [Claude Used to Automate Exploitation and Data Theft Across Multiple Victims](https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html)
-  - Confidence: 🟫 LOW
-  - _Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and Au_
-
-- [The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)](https://isc.sans.edu/diary/rss/33332)
-  - Confidence: 🟫 LOW
-  - _<p dir="auto">I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws a_
-
-- [Built a static security scanner in Python — here's what it found in a sample project](https://www.reddit.com/r/Pentesting/comments/1wd0cky/built_a_static_security_scanner_in_python_heres/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1wd0cky/built_a_static_security_scanner_in_python_heres/"> <img alt="Built a static security scanner in Python — here's what it f_
-
-- [Custom AI Prompts for Pentest Reporting in OWASP Faction 2.0](https://www.reddit.com/r/Pentesting/comments/1wd0fsr/custom_ai_prompts_for_pentest_reporting_in_owasp/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1wd0fsr/custom_ai_prompts_for_pentest_reporting_in_owasp/"> <img alt="Custom AI Prompts for Pentest Reporting in OWASP Faction 2._
-
-- [Is AI Pentesting all just hype? Webinar with leading practitioners from Tricon, Amp, and Veg](https://www.reddit.com/r/Pentesting/comments/1wdg13i/is_ai_pentesting_all_just_hype_webinar_with/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Everyone's shipping an &quot;autonomous pentesting&quot; claim right now so we wanted to bring together leading practitioners who have actually implemented it to debu_
-
-- [I built a browser and HTTP client together from scratch for pentesting. Turns out you can do a lot of Burp-like work without a proxy.](https://www.reddit.com/r/Pentesting/comments/1wdi180/i_built_a_browser_and_http_client_together_from/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I've been implementing a browser from scratch as a side project. Then, I realized that it owns the HTTP stack, and we can naturally inspect, edit, and replay traffic _
-
-- [Pwnagotchi fork running on the RaspyJack Waveshare 1.44" Display (Almost fully stable!)](https://www.reddit.com/r/Pentesting/comments/1wdjym0/pwnagotchi_fork_running_on_the_raspyjack/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1wdjym0/pwnagotchi_fork_running_on_the_raspyjack/"> <img alt="Pwnagotchi fork running on the RaspyJack Waveshare 1.44&quot; Displ_
-
-- [Accidentally shared a client name with AI](https://www.reddit.com/r/Pentesting/comments/1wdh7bd/accidentally_shared_a_client_name_with_ai/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I was testing an SSRF vulnerability. So i was trying to use to read files , some are generic like file://C:/Windows/win.ini or file://inetpub/Web.config. </p> <p>Anyw_
-
-- [GitLab urges users to patch max severity path traversal flaw](https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/)
-  - Confidence: 🟫 LOW
-  - _GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]_
-
-- [How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface](https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/)
-  - Confidence: 🟫 LOW
-  - _Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponi_
