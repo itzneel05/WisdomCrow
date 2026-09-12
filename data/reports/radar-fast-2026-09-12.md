@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-12
-date: 2026-09-12T10:03:08Z
+date: 2026-09-12T14:57:59Z
 type: radar-report
 report_type: fast
-total_opportunities: 63
+total_opportunities: 58
 tags:
   - radar
   - fast
@@ -13,15 +13,15 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 63
+**Total opportunities:** 58
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 56 |
+| ❓ Uncategorized | 52 |
 | 💰 Bug Bounties | 2 |
-| 🎓 Free Certifications | 2 |
 | 🔥 Hackathons & Conferences | 2 |
 | 🎮 Arcade & Gamified Events | 1 |
+| 🎓 Free Certifications | 1 |
 
 ## 💰 Bug Bounties
 
@@ -41,11 +41,6 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _<p style="direction: ltr;"><span style="font-size: undefined;"></span><img alt="metasploit-dials.png" class="embedded-asset" src="https://images.contentstack.io/v3/assets/blte4f029e766e6b253/blt4e6f43_
-
-- [Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware](https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilitie_
 
 ## 🔥 Hackathons & Conferences
 
@@ -67,6 +62,14 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>i finished in some league so when will i get the voucher and the cubes?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Stapat1_
 
 ## ❓ Uncategorized
+
+- [When the Whole Company Adopts AI: What It Does to Your SOC](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
+  - Confidence: 🟫 LOW
+  - _Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents_
+
+- [Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent](https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/)
+  - Confidence: 🟫 LOW
+  - _The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]_
 
 - [OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html)
   - Confidence: 🟫 LOW
@@ -267,27 +270,3 @@ tags:
 - [How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface](https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/)
   - Confidence: 🟫 LOW
   - _Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponi_
-
-- [PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws](https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html)
-  - Confidence: 🟫 LOW
-  - _PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exp_
-
-- [China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor](https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html)
-  - Confidence: 🟫 LOW
-  - _A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security c_
-
-- [Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors](https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html)
-  - Confidence: 🟫 LOW
-  - _Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security _
-
-- [Conti ransomware gang member sentenced to 4 years in prison](https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/)
-  - Confidence: 🟫 LOW
-  - _A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]_
-
-- [Trezor: 347,000 users targeted in phishing attacks after Brevo breach](https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/)
-  - Confidence: 🟫 LOW
-  - _Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]_
-
-- [Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]_
