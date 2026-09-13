@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-13
-date: 2026-09-13T11:03:59Z
+date: 2026-09-13T15:35:13Z
 type: radar-report
 report_type: fast
-total_opportunities: 6
+total_opportunities: 5
 tags:
   - radar
   - fast
@@ -13,13 +13,17 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 6
+**Total opportunities:** 5
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 6 |
+| ❓ Uncategorized | 5 |
 
 ## ❓ Uncategorized
+
+- [Hackers exploit Tencent app flaw to deploy GrayRabbit malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/)
+  - Confidence: 🟫 LOW
+  - _Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]_
 
 - [Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data](https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html)
   - Confidence: 🟫 LOW
@@ -36,11 +40,3 @@ tags:
 - [CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV](https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html)
   - Confidence: 🟫 LOW
   - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vuln_
-
-- [When the Whole Company Adopts AI: What It Does to Your SOC](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
-  - Confidence: 🟫 LOW
-  - _Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents_
-
-- [Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent](https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/)
-  - Confidence: 🟫 LOW
-  - _The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]_
