@@ -1,6 +1,6 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-13
-date: 2026-09-13T03:01:11Z
+date: 2026-09-13T11:03:59Z
 type: radar-report
 report_type: fast
 total_opportunities: 6
@@ -21,6 +21,10 @@ tags:
 
 ## ❓ Uncategorized
 
+- [Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data](https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html)
+  - Confidence: 🟫 LOW
+  - _Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social eng_
+
 - [Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says](https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/)
   - Confidence: 🟫 LOW
   - _<p>Anthropic said the users did not succeed in “fielding an operational device” but did carry out a failed test of a guided rocket.</p> <p>The post <a href="https://www.securityweek.com/users-in-houth_
@@ -40,7 +44,3 @@ tags:
 - [Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent](https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/)
   - Confidence: 🟫 LOW
   - _The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]_
-
-- [OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html)
-  - Confidence: 🟫 LOW
-  - _The "major malicious attack" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Vo_
