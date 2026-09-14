@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-14
-date: 2026-09-14T17:39:03Z
+date: 2026-09-14T21:27:06Z
 type: radar-report
 report_type: fast
-total_opportunities: 20
+total_opportunities: 26
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 20
+**Total opportunities:** 26
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 18 |
-| 🎓 Free Certifications | 2 |
+| ❓ Uncategorized | 25 |
+| 🎓 Free Certifications | 1 |
 
 ## 🎓 Free Certifications
 
@@ -27,12 +27,39 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
-- [Week in review: Linux rootkit deployed on F5 BIG-IP APM devices, Cisco FMC bugs exploited](https://www.helpnetsecurity.com/2026/09/13/week-in-review-linux-rootkit-deployed-on-f5-big-ip-apm-devices-cisco-fmc-bugs-exploited/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _<p>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Zero trust AI agents demand a different kind of security In this interview, Chris Webber, VP, Produ_
-
 ## ❓ Uncategorized
+
+- [Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports](https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html)
+  - Confidence: 🟫 LOW
+  - _A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a&nbsp;writeup&nbsp;published on Septembe_
+
+- [3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials](https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html)
+  - Confidence: 🟫 LOW
+  - _An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCen_
+
+- [Apple Updates Everything, (Mon, Sep 14th)](https://isc.sans.edu/diary/rss/33336)
+  - Confidence: 🟫 LOW
+  - _<p>Today, Apple released its annual update across all its operating systems. With that, Apple not only released new features but also patched 261 different vulnerabilities. This is the most vulnerabil_
+
+- [Hackers hijack HBO Max Reddit account to push malware in ClickFix ads](https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/)
+  - Confidence: 🟫 LOW
+  - _Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]_
+
+- [Twitch extension with 30K installs exposes users’ OAuth tokens](https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/)
+  - Confidence: 🟫 LOW
+  - _A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]_
+
+- [Homebrew 7.0.0 gets built-in GUI, better security controls](https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/)
+  - Confidence: 🟫 LOW
+  - _Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]_
+
+- [Japan's Digital Agency says VPN flaw exposed 246,000 personnel records](https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/)
+  - Confidence: 🟫 LOW
+  - _Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]_
+
+- [Microsoft releases emergency Windows updates to fix RDS failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows _
 
 - [AI Changed the Exposure Problem. Validation Needs to Change With It.](https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html)
   - Confidence: 🟫 LOW
@@ -101,7 +128,3 @@ tags:
 - [Microsoft: September updates cause RDS failures on Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/)
   - Confidence: 🟫 LOW
   - _Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]_
-
-- [Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up](https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/)
-  - Confidence: 🟫 LOW
-  - _<p>Dario Amodei warned that within six to 12 months AI could be capable of leading a swarm of agents that could take over the entire internet.</p> <p>The post <a href="https://www.securityweek.com/ant_
