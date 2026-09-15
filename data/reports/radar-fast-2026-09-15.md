@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-15
-date: 2026-09-15T03:17:17Z
+date: 2026-09-15T11:01:47Z
 type: radar-report
 report_type: fast
-total_opportunities: 52
+total_opportunities: 59
 tags:
   - radar
   - fast
@@ -13,14 +13,32 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 52
+**Total opportunities:** 59
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 50 |
-| 🎓 Free Certifications | 2 |
+| ❓ Uncategorized | 54 |
+| 🎓 Free Certifications | 4 |
+| 🏰 CTF Competitions | 1 |
+
+## 🏰 CTF Competitions
+
+- [LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server](https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an&nbsp;advisory published on September_
 
 ## 🎓 Free Certifications
+
+- [Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution](https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild.  The vulnerability, tracked as CVE-2026-764_
+
+- [Cisco patches Secure Email Gateway zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]_
 
 - [ISC Stormcast For Tuesday, September 15th, 2026 https://isc.sans.edu/podcastdetail/10094, (Tue, Sep 15th)](https://isc.sans.edu/diary/rss/33338)
   - Confidence: 🟢 HIGH
@@ -33,6 +51,22 @@ tags:
   - _The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022._
 
 ## ❓ Uncategorized
+
+- [China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE](https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html)
+  - Confidence: 🟫 LOW
+  - _A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor _
+
+- [Amazon Driver Came Into My Home Without Permission And Delivered A Package Then Left](https://www.reddit.com/r/security/comments/1wfaq0w/amazon_driver_came_into_my_home_without/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>A couple of days ago, an Amazon driver entered my home without permission, delivered a package then left, leaving my front door wide open. Proof of his illegal entry _
+
+- [Microsoft confirms KB5002914 Excel update breaks copy and paste](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]_
+
+- [Suspected Black Axe gang leaders face cybercrime charges in the US](https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/)
+  - Confidence: 🟫 LOW
+  - _Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and mo_
 
 - [ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks](https://www.securityweek.com/connectwise-patches-screenconnect-vulnerability-exploited-in-worm-like-attacks/)
   - Confidence: 🟫 LOW
