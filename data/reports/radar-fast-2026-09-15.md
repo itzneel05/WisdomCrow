@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-15
-date: 2026-09-15T11:01:47Z
+date: 2026-09-15T16:13:21Z
 type: radar-report
 report_type: fast
-total_opportunities: 59
+total_opportunities: 73
 tags:
   - radar
   - fast
@@ -13,15 +13,25 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 59
+**Total opportunities:** 73
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 54 |
+| ❓ Uncategorized | 66 |
 | 🎓 Free Certifications | 4 |
-| 🏰 CTF Competitions | 1 |
+| 🏰 CTF Competitions | 3 |
 
 ## 🏰 CTF Competitions
+
+- [I built an open-source Reverse Shell, Bind Shell & MSFVenom generator - looking for feedback](https://www.reddit.com/r/tryhackme/comments/1wh2f8h/i_built_an_opensource_reverse_shell_bind_shell/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1wh2f8h/i_built_an_opensource_reverse_shell_bind_shell/"> <img alt="I built an open-source Reverse Shell, Bind Shell &amp; MSFVeno_
+
+- [This is not a drill🚨PT2 is live today.](https://www.reddit.com/r/tryhackme/comments/1wgymh5/this_is_not_a_drillpt2_is_live_today/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1wgymh5/this_is_not_a_drillpt2_is_live_today/"> <img alt="This is not a drill🚨PT2 is live today." src="https://external-preview.re_
 
 - [LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server](https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html)
   - Confidence: 🟡 MEDIUM
@@ -51,6 +61,74 @@ tags:
   - _The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022._
 
 ## ❓ Uncategorized
+
+- [Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers](https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data.  The first is an automated effort aimed at internet-exposed Vite _
+
+- [Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point](https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html)
+  - Confidence: 🟫 LOW
+  - _Introduction  Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rul_
+
+- [Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds](https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html)
+  - Confidence: 🟫 LOW
+  - _With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled hum_
+
+- [BambooToken Malware Uses MQTT to Control Windows and Linux Systems](https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux_
+
+- [MacOS 27 - First Boot, (Tue, Sep 15th)](https://isc.sans.edu/diary/rss/33340)
+  - Confidence: 🟫 LOW
+  - _<p>I have not done this type of diary in a while: What traffic will you see from a system on boot, before a user logs in&#x3f; I just took a quick look at macOS 27 "Golden Gate" to see what traffic yo_
+
+- [I just completed Offensive Security Intro room on TryHackMe! Hack your first website (legally in a safe environment) and experience an ethical hacker's job.](https://www.reddit.com/r/tryhackme/comments/1wg8tci/i_just_completed_offensive_security_intro_room_on/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>trying to study cybersecurity</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dev_joh-n"> /u/dev_joh-n </a> <br /> <span><a hre_
+
+- [I just completed Defensive Security Intro room on TryHackMe! Introducing defensive security, where you will protect FakeBank from an ongoing attack.](https://www.reddit.com/r/tryhackme/comments/1wg8zlp/i_just_completed_defensive_security_intro_room_on/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/dev_joh-n"> /u/dev_joh-n </a> <br /> <span><a href="https://tryhackme.com/room/defensivesecurityintroezn39?utm_campaign=social_share&amp;u_
+
+- [Ex-premium user, new to MAX, worth resubscribing ?](https://www.reddit.com/r/tryhackme/comments/1wfujta/expremium_user_new_to_max_worth_resubscribing/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1wfujta/expremium_user_new_to_max_worth_resubscribing/"> <img alt="Ex-premium user, new to MAX, worth resubscribing ?" src="https:_
+
+- [Penetration Tester Level 2 (PT2) certificate ?](https://www.reddit.com/r/tryhackme/comments/1wg8cqq/penetration_tester_level_2_pt2_certificate/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1wg8cqq/penetration_tester_level_2_pt2_certificate/"> <img alt="Penetration Tester Level 2 (PT2) certificate ?" src="https://previ_
+
+- [TryHackMe's Metasploit:Introduction Task 4](https://www.reddit.com/r/tryhackme/comments/1wg6nfq/tryhackmes_metasploitintroduction_task_4/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1wg6nfq/tryhackmes_metasploitintroduction_task_4/"> <img alt="TryHackMe's Metasploit:Introduction Task 4" src="https://preview.red_
+
+- [I failed the SAL1 exam because of a bug](https://www.reddit.com/r/tryhackme/comments/1wgxueu/i_failed_the_sal1_exam_because_of_a_bug/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I reached the third section of the exam and tried to start the machine, but it wouldn't launch the counter remained stuck at 99%. The section allows for two hours and_
+
+- [External resources](https://www.reddit.com/r/tryhackme/comments/1wgxtfi/external_resources/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone, just wanted to ask a quick question</p> <p>I've been following the pre-security pathway prior to heading into CS101 and I was wondering what external res_
+
+- [Active Directory Basics](https://www.reddit.com/r/tryhackme/comments/1wgwxtx/active_directory_basics/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1wgwxtx/active_directory_basics/"> <img alt="Active Directory Basics" src="https://preview.redd.it/qavenndbsnph1.png?width=640&amp_
+
+- [CISA: Critical VMware RCE flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched _
+
+- [What Zero-Day Response Should Be in the Post-Mythos Era](https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/)
+  - Confidence: 🟫 LOW
+  - _AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, s_
+
+- [Hackers target WordPress sites via third-party WooCommerce plugin](https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/)
+  - Confidence: 🟫 LOW
+  - _Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]_
+
+- [BambooToken malware controls Windows and Linux systems via MQTT](https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/)
+  - Confidence: 🟫 LOW
+  - _A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux system_
 
 - [China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE](https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html)
   - Confidence: 🟫 LOW
@@ -247,23 +325,3 @@ tags:
 - [Hackers target exposed Vite dev servers to steal AWS, Azure secrets](https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/)
   - Confidence: 🟫 LOW
   - _A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]_
-
-- [Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users](https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html)
-  - Confidence: 🟫 LOW
-  - _A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service.  The extension, named "Twitc_
-
-- [CISA: Hackers now exploit max severity GitLab flaw in attacks](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks. [...]_
-
-- [Microsoft: September updates break audio on some Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]_
-
-- [Revolut discloses data breach exposing financial info, passports](https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/)
-  - Confidence: 🟫 LOW
-  - _Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]_
-
-- [Microsoft: September updates cause RDS failures on Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]_
