@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-16
-date: 2026-09-16T10:49:45Z
+date: 2026-09-16T16:05:29Z
 type: radar-report
 report_type: fast
-total_opportunities: 68
+total_opportunities: 71
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 68
+**Total opportunities:** 71
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 52 |
-| 🏰 CTF Competitions | 10 |
-| 🎓 Free Certifications | 4 |
+| ❓ Uncategorized | 58 |
+| 🏰 CTF Competitions | 9 |
+| 🎓 Free Certifications | 2 |
 | 💰 Bug Bounties | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 
@@ -70,11 +70,6 @@ tags:
   - Tags: `ctf`
   - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1wgymh5/this_is_not_a_drillpt2_is_live_today/"> <img alt="This is not a drill🚨PT2 is live today." src="https://external-preview.re_
 
-- [LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server](https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an&nbsp;advisory published on September_
-
 ## 💰 Bug Bounties
 
 - [Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens](https://thehackernews.com/2026/09/active-exploitation-attempts-target.html)
@@ -94,16 +89,6 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>Attackers have leveraged a zero-day SQL injection vulnerability (CVE-2026-76461) to compromise Cisco Secure Email Gateway appliances, Cisco confirmed on Monday. The vendor&#8217;s Product Security _
 
-- [Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution](https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild.  The vulnerability, tracked as CVE-2026-764_
-
-- [Cisco patches Secure Email Gateway zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]_
-
 ## 🔥 Hackathons & Conferences
 
 - [Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident](https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk)
@@ -112,6 +97,46 @@ tags:
   - _<p>The 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical Reconstruction and Its Implications for AI</p> <p>At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will_
 
 ## ❓ Uncategorized
+
+- [Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks](https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html)
+  - Confidence: 🟫 LOW
+  - _Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild.  The vulnerability, tracked as CVE-2026-878_
+
+- [Threat Intelligence Alone Won't Close the Exploitation Gap](https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html)
+  - Confidence: 🟫 LOW
+  - _A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged th_
+
+- [Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation](https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html)
+  - Confidence: 🟫 LOW
+  - _Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild.  The vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privi_
+
+- [N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security](https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html)
+  - Confidence: 🟫 LOW
+  - _N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat _
+
+- [Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix](https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html)
+  - Confidence: 🟫 LOW
+  - _Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week.  The attack needs code already r_
+
+- [Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories](https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html)
+  - Confidence: 🟫 LOW
+  - _Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread&nbsp;Shai-Hulud&nbsp;across about 100 internal code repositories._
+
+- [Critical ScreenConnect flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/)
+  - Confidence: 🟫 LOW
+  - _Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]_
+
+- [Webinar: What happens in the first hours of a Google Workspace breach](https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/)
+  - Confidence: 🟫 LOW
+  - _The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact_
+
+- [Microsoft says Copilot buttons still missing in classic Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/)
+  - Confidence: 🟫 LOW
+  - _Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]_
+
+- [The true cost of a ransomware attack, with and without BCDR](https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/)
+  - Confidence: 🟫 LOW
+  - _The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature _
 
 - [What’s the best Information Technology (IT) job you had/ have and why?](https://www.reddit.com/r/oscp/comments/1wh3359/whats_the_best_information_technology_it_job_you/)
   - Confidence: 🟫 LOW
@@ -304,19 +329,3 @@ tags:
 - [BambooToken malware controls Windows and Linux systems via MQTT](https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/)
   - Confidence: 🟫 LOW
   - _A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux system_
-
-- [China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE](https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html)
-  - Confidence: 🟫 LOW
-  - _A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor _
-
-- [Amazon Driver Came Into My Home Without Permission And Delivered A Package Then Left](https://www.reddit.com/r/security/comments/1wfaq0w/amazon_driver_came_into_my_home_without/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>A couple of days ago, an Amazon driver entered my home without permission, delivered a package then left, leaving my front door wide open. Proof of his illegal entry _
-
-- [Microsoft confirms KB5002914 Excel update breaks copy and paste](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]_
-
-- [Suspected Black Axe gang leaders face cybercrime charges in the US](https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/)
-  - Confidence: 🟫 LOW
-  - _Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and mo_
