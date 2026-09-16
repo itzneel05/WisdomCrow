@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-16
-date: 2026-09-16T03:14:03Z
+date: 2026-09-16T10:49:45Z
 type: radar-report
 report_type: fast
-total_opportunities: 64
+total_opportunities: 68
 tags:
   - radar
   - fast
@@ -13,13 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 64
+**Total opportunities:** 68
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 49 |
-| 🏰 CTF Competitions | 9 |
-| 🎓 Free Certifications | 5 |
+| ❓ Uncategorized | 52 |
+| 🏰 CTF Competitions | 10 |
+| 🎓 Free Certifications | 4 |
+| 💰 Bug Bounties | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
@@ -54,6 +55,11 @@ tags:
   - Tags: `ctf`
   - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/IsXuezugiHere"> /u/IsXuezugiHere </a> <br /> <span><a href="/r/netsecstudents/comments/1whbe8k/built_a_hardening_framework_across_a_few/">_
 
+- [Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells](https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs.  "This vulnerability can be leveraged _
+
 - [I built an open-source Reverse Shell, Bind Shell & MSFVenom generator - looking for feedback](https://www.reddit.com/r/tryhackme/comments/1wh2f8h/i_built_an_opensource_reverse_shell_bind_shell/)
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
@@ -68,6 +74,13 @@ tags:
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
   - _A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an&nbsp;advisory published on September_
+
+## 💰 Bug Bounties
+
+- [Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens](https://thehackernews.com/2026/09/active-exploitation-attempts-target.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr.  The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), _
 
 ## 🎓 Free Certifications
 
@@ -91,11 +104,6 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]_
 
-- [ISC Stormcast For Tuesday, September 15th, 2026 https://isc.sans.edu/podcastdetail/10094, (Tue, Sep 15th)](https://isc.sans.edu/diary/rss/33338)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## 🔥 Hackathons & Conferences
 
 - [Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident](https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk)
@@ -104,6 +112,18 @@ tags:
   - _<p>The 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical Reconstruction and Its Implications for AI</p> <p>At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will_
 
 ## ❓ Uncategorized
+
+- [What’s the best Information Technology (IT) job you had/ have and why?](https://www.reddit.com/r/oscp/comments/1wh3359/whats_the_best_information_technology_it_job_you/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Top_Bandicoot"> /u/Top_Bandicoot </a> <br /> <span><a href="/r/ITProfessionals/comments/1wh32t8/whats_the_best_information_technology_it_j_
+
+- [Google fixes actively exploited Android zero-day on Pixel devices](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/)
+  - Confidence: 🟫 LOW
+  - _Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]_
+
+- [Windows Server 2022 reaches end of mainstream support next month](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]_
 
 - [Acronis warns of actively exploited flaw in its cPanel backup plugin](https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/)
   - Confidence: 🟫 LOW
