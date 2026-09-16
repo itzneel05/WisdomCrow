@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-16
-date: 2026-09-16T16:05:29Z
+date: 2026-09-16T20:52:11Z
 type: radar-report
 report_type: fast
-total_opportunities: 71
+total_opportunities: 57
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 71
+**Total opportunities:** 57
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 58 |
-| 🏰 CTF Competitions | 9 |
+| ❓ Uncategorized | 45 |
+| 🏰 CTF Competitions | 8 |
 | 🎓 Free Certifications | 2 |
 | 💰 Bug Bounties | 1 |
 | 🔥 Hackathons & Conferences | 1 |
@@ -55,20 +55,15 @@ tags:
   - Tags: `ctf`
   - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/IsXuezugiHere"> /u/IsXuezugiHere </a> <br /> <span><a href="/r/netsecstudents/comments/1whbe8k/built_a_hardening_framework_across_a_few/">_
 
+- [Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution](https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.  The vulnerability in question is CVE-_
+
 - [Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells](https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
   - _Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs.  "This vulnerability can be leveraged _
-
-- [I built an open-source Reverse Shell, Bind Shell & MSFVenom generator - looking for feedback](https://www.reddit.com/r/tryhackme/comments/1wh2f8h/i_built_an_opensource_reverse_shell_bind_shell/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1wh2f8h/i_built_an_opensource_reverse_shell_bind_shell/"> <img alt="I built an open-source Reverse Shell, Bind Shell &amp; MSFVeno_
-
-- [This is not a drill🚨PT2 is live today.](https://www.reddit.com/r/tryhackme/comments/1wgymh5/this_is_not_a_drillpt2_is_live_today/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1wgymh5/this_is_not_a_drillpt2_is_live_today/"> <img alt="This is not a drill🚨PT2 is live today." src="https://external-preview.re_
 
 ## 💰 Bug Bounties
 
@@ -97,6 +92,38 @@ tags:
   - _<p>The 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical Reconstruction and Its Implications for AI</p> <p>At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will_
 
 ## ❓ Uncategorized
+
+- [One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude](https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html)
+  - Confidence: 🟫 LOW
+  - _Security researchers at&nbsp;Forever Security&nbsp;have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome_
+
+- [Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers](https://thehackernews.com/2026/09/three-threat-groups-target-russian.html)
+  - Confidence: 🟫 LOW
+  - _Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky.  The cybersecurity _
+
+- [Scans Targeting Hospitality Applications, (Wed, Sep 16th)](https://isc.sans.edu/diary/rss/33344)
+  - Confidence: 🟫 LOW
+  - _<p>Earlier today, I noted an odd request showing up in our "First Seen" report:</p>&#xd;_
+
+- [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
+  - Confidence: 🟫 LOW
+  - _The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up wit_
+
+- [Spain's data agency gets first report of AI-powered data breach](https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/)
+  - Confidence: 🟫 LOW
+  - _The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]_
+
+- [Malware bypasses browser checks to force install Chrome, Edge extensions](https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/)
+  - Confidence: 🟫 LOW
+  - _A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [.._
+
+- [Iranian hackers use CHOSEN BRICK Windows malware to spy on targets](https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/)
+  - Confidence: 🟫 LOW
+  - _Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]_
+
+- [Windows 11 KB5124008 update breaks domain trust for some users](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/)
+  - Confidence: 🟫 LOW
+  - _Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain c_
 
 - [Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks](https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html)
   - Confidence: 🟫 LOW
@@ -245,87 +272,3 @@ tags:
 - [Microsoft Issues Emergency Fixes After Massive Patch Tuesday](https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday)
   - Confidence: 🟫 LOW
   - _You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches._
-
-- [Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists](https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, a_
-
-- [KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens](https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.  Elastic Security Labs is tracking the activity under_
-
-- [CenterPoint Energy confirms customer data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/)
-  - Confidence: 🟫 LOW
-  - _CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]_
-
-- [Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites](https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/)
-  - Confidence: 🟫 LOW
-  - _Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that _
-
-- [Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers](https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data.  The first is an automated effort aimed at internet-exposed Vite _
-
-- [Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point](https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html)
-  - Confidence: 🟫 LOW
-  - _Introduction  Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rul_
-
-- [Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds](https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html)
-  - Confidence: 🟫 LOW
-  - _With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled hum_
-
-- [BambooToken Malware Uses MQTT to Control Windows and Linux Systems](https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux_
-
-- [MacOS 27 - First Boot, (Tue, Sep 15th)](https://isc.sans.edu/diary/rss/33340)
-  - Confidence: 🟫 LOW
-  - _<p>I have not done this type of diary in a while: What traffic will you see from a system on boot, before a user logs in&#x3f; I just took a quick look at macOS 27 "Golden Gate" to see what traffic yo_
-
-- [I just completed Offensive Security Intro room on TryHackMe! Hack your first website (legally in a safe environment) and experience an ethical hacker's job.](https://www.reddit.com/r/tryhackme/comments/1wg8tci/i_just_completed_offensive_security_intro_room_on/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>trying to study cybersecurity</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dev_joh-n"> /u/dev_joh-n </a> <br /> <span><a hre_
-
-- [I just completed Defensive Security Intro room on TryHackMe! Introducing defensive security, where you will protect FakeBank from an ongoing attack.](https://www.reddit.com/r/tryhackme/comments/1wg8zlp/i_just_completed_defensive_security_intro_room_on/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/dev_joh-n"> /u/dev_joh-n </a> <br /> <span><a href="https://tryhackme.com/room/defensivesecurityintroezn39?utm_campaign=social_share&amp;u_
-
-- [Ex-premium user, new to MAX, worth resubscribing ?](https://www.reddit.com/r/tryhackme/comments/1wfujta/expremium_user_new_to_max_worth_resubscribing/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1wfujta/expremium_user_new_to_max_worth_resubscribing/"> <img alt="Ex-premium user, new to MAX, worth resubscribing ?" src="https:_
-
-- [Penetration Tester Level 2 (PT2) certificate ?](https://www.reddit.com/r/tryhackme/comments/1wg8cqq/penetration_tester_level_2_pt2_certificate/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1wg8cqq/penetration_tester_level_2_pt2_certificate/"> <img alt="Penetration Tester Level 2 (PT2) certificate ?" src="https://previ_
-
-- [TryHackMe's Metasploit:Introduction Task 4](https://www.reddit.com/r/tryhackme/comments/1wg6nfq/tryhackmes_metasploitintroduction_task_4/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1wg6nfq/tryhackmes_metasploitintroduction_task_4/"> <img alt="TryHackMe's Metasploit:Introduction Task 4" src="https://preview.red_
-
-- [I failed the SAL1 exam because of a bug](https://www.reddit.com/r/tryhackme/comments/1wgxueu/i_failed_the_sal1_exam_because_of_a_bug/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I reached the third section of the exam and tried to start the machine, but it wouldn't launch the counter remained stuck at 99%. The section allows for two hours and_
-
-- [External resources](https://www.reddit.com/r/tryhackme/comments/1wgxtfi/external_resources/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi everyone, just wanted to ask a quick question</p> <p>I've been following the pre-security pathway prior to heading into CS101 and I was wondering what external res_
-
-- [Active Directory Basics](https://www.reddit.com/r/tryhackme/comments/1wgwxtx/active_directory_basics/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1wgwxtx/active_directory_basics/"> <img alt="Active Directory Basics" src="https://preview.redd.it/qavenndbsnph1.png?width=640&amp_
-
-- [CISA: Critical VMware RCE flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched _
-
-- [What Zero-Day Response Should Be in the Post-Mythos Era](https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/)
-  - Confidence: 🟫 LOW
-  - _AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, s_
-
-- [Hackers target WordPress sites via third-party WooCommerce plugin](https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/)
-  - Confidence: 🟫 LOW
-  - _Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]_
-
-- [BambooToken malware controls Windows and Linux systems via MQTT](https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/)
-  - Confidence: 🟫 LOW
-  - _A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux system_
