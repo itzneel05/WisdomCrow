@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-17
-date: 2026-09-17T03:18:54Z
+date: 2026-09-17T10:56:07Z
 type: radar-report
 report_type: fast
-total_opportunities: 51
+total_opportunities: 49
 tags:
   - radar
   - fast
@@ -13,14 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 51
+**Total opportunities:** 49
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 46 |
-| 🏰 CTF Competitions | 2 |
-| 💰 Bug Bounties | 1 |
-| 🎓 Free Certifications | 1 |
+| ❓ Uncategorized | 45 |
+| 🎓 Free Certifications | 2 |
+| 🏰 CTF Competitions | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
@@ -30,19 +29,12 @@ tags:
   - Tags: `ctf`
   - _A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.  The vulnerability in question is CVE-_
 
-- [Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells](https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs.  "This vulnerability can be leveraged _
-
-## 💰 Bug Bounties
-
-- [Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens](https://thehackernews.com/2026/09/active-exploitation-attempts-target.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr.  The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), _
-
 ## 🎓 Free Certifications
+
+- [Cisco warns of max severity ISE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]_
 
 - [ISC Stormcast For Thursday, September 17th, 2026 https://isc.sans.edu/podcastdetail/10098, (Thu, Sep 17th)](https://isc.sans.edu/diary/rss/33346)
   - Confidence: 🟢 HIGH
@@ -57,6 +49,14 @@ tags:
   - _At Black Hat USA, OpenAI engineers reconstruct the Hugging Face incident and explore lessons learned about AI safeguards and cyber resilience._
 
 ## ❓ Uncategorized
+
+- [Microsoft shares workaround for Windows domain login issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/)
+  - Confidence: 🟫 LOW
+  - _Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]_
+
+- [Chinese hackers use SparroWocky malware in govt espionage attacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/)
+  - Confidence: 🟫 LOW
+  - _The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]_
 
 - [Anthropic wants Claude to analyze your bank account and financial data](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/)
   - Confidence: 🟫 LOW
@@ -229,15 +229,3 @@ tags:
 - [The true cost of a ransomware attack, with and without BCDR](https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/)
   - Confidence: 🟫 LOW
   - _The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature _
-
-- [What’s the best Information Technology (IT) job you had/ have and why?](https://www.reddit.com/r/oscp/comments/1wh3359/whats_the_best_information_technology_it_job_you/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Top_Bandicoot"> /u/Top_Bandicoot </a> <br /> <span><a href="/r/ITProfessionals/comments/1wh32t8/whats_the_best_information_technology_it_j_
-
-- [Google fixes actively exploited Android zero-day on Pixel devices](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/)
-  - Confidence: 🟫 LOW
-  - _Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]_
-
-- [Windows Server 2022 reaches end of mainstream support next month](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]_
