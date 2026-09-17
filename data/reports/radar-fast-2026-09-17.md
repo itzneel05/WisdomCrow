@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-17
-date: 2026-09-17T16:13:16Z
+date: 2026-09-17T20:57:05Z
 type: radar-report
 report_type: fast
-total_opportunities: 54
+total_opportunities: 56
 tags:
   - radar
   - fast
@@ -13,22 +13,62 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 54
+**Total opportunities:** 56
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 48 |
+| ❓ Uncategorized | 42 |
+| 🏰 CTF Competitions | 9 |
 | 🎓 Free Certifications | 3 |
 | 💰 Bug Bounties | 1 |
-| 🏰 CTF Competitions | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
 
-- [Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution](https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html)
-  - Confidence: 🟡 MEDIUM
+- [Outback Overflow](https://ctftime.org/event/3425)
+  - Confidence: 🟢 HIGH
   - Tags: `ctf`
-  - _A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.  The vulnerability in question is CVE-_
+  - _Name: Outback Overflow (an <a href="/ctf/1683">Outback Overflow</a> event.)<br /> Date: Nov. 20, 2026, 11 p.m. &mdash; 21 Nov. 2026, 23:00 UTC &nbsp;<a href="/event/3425.ics">[add to calendar]</a><br _
+
+- [International Battle of Hackers 2026](https://ctftime.org/event/3390)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: International Battle of Hackers 2026 (an <a href="/ctf/1613">International Battle of Hackers</a> event.)<br /> Date: Nov. 14, 2026, 12:30 a.m. &mdash; 14 Nov. 2026, 10:00 UTC &nbsp;<a href="/eve_
+
+- [SpookyCTF 2026](https://ctftime.org/event/3339)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: SpookyCTF 2026 (an <a href="/ctf/987">SpookyCTF</a> event.)<br /> Date: Nov. 6, 2026, 5 p.m. &mdash; 07 Nov. 2026, 17:00 UTC &nbsp;<a href="/event/3339.ics">[add to calendar]</a><br /> Format: J_
+
+- [Srdnlen CTF 2026 Finals (Sardinia Cyber Camp)](https://ctftime.org/event/3444)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: Srdnlen CTF 2026 Finals (Sardinia Cyber Camp) (an <a href="/ctf/840">Srdnlen CTF</a> event.)<br /> Date: Oct. 29, 2026, 9 a.m. &mdash; 29 Oct. 2026, 17:00 UTC &nbsp;<a href="/event/3444.ics">[ad_
+
+- [Sudocrypt v16.0](https://ctftime.org/event/3443)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: Sudocrypt v16.0 (an <a href="/ctf/869">Sudocrypt</a> event.)<br /> Date: Oct. 27, 2026, 3:30 a.m. &mdash; 28 Oct. 2026, 15:30 UTC &nbsp;<a href="/event/3443.ics">[add to calendar]</a><br /> Form_
+
+- [RSTCON 2026 CTF](https://ctftime.org/event/3377)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: RSTCON 2026 CTF (an <a href="/ctf/1125">RSTCON CTF</a> event.)<br /> Date: Oct. 23, 2026, 5 p.m. &mdash; 25 Oct. 2026, 17:00 UTC &nbsp;<a href="/event/3377.ics">[add to calendar]</a><br /> Forma_
+
+- [KubSTU CTF](https://ctftime.org/event/3446)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: KubSTU CTF (an <a href="/ctf/1499">KubSTU CTF</a> event.)<br /> Date: Oct. 10, 2026, 7 a.m. &mdash; 11 Oct. 2026, 13:00 UTC &nbsp;<a href="/event/3446.ics">[add to calendar]</a><br /> Format: Je_
+
+- [FortID CTF 2026](https://ctftime.org/event/3440)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: FortID CTF 2026 (an <a href="/ctf/951">TBTL CTF</a> event.)<br /> Date: Oct. 9, 2026, 6 p.m. &mdash; 11 Oct. 2026, 18:00 UTC &nbsp;<a href="/event/3440.ics">[add to calendar]</a><br /> Format: J_
+
+- [CSS CTF 2026: Return of Nexus](https://ctftime.org/event/3434)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: CSS CTF 2026: Return of Nexus (an <a href="/ctf/1669">CSS CTF</a> event.)<br /> Date: Sept. 30, 2026, 6 a.m. &mdash; 01 Oct. 2026, 22:00 UTC &nbsp;<a href="/event/3434.ics">[add to calendar]</a>_
 
 ## 💰 Bug Bounties
 
@@ -62,6 +102,14 @@ tags:
   - _At Black Hat USA, OpenAI engineers reconstruct the Hugging Face incident and explore lessons learned about AI safeguards and cyber resilience._
 
 ## ❓ Uncategorized
+
+- [Brevo supply-chain attack injected ClickFix scripts on customer sites](https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/)
+  - Confidence: 🟫 LOW
+  - _Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [..._
+
+- [OpenAI details more cases of AI agents taking unauthorized actions](https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/)
+  - Confidence: 🟫 LOW
+  - _OpenAI has presented new examples of what they call "AI model misalignment" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and l_
 
 - [Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users](https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html)
   - Confidence: 🟫 LOW
@@ -222,35 +270,3 @@ tags:
 - [Fighting Your Dragons Through Tough Tech Times](https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market)
   - Confidence: 🟫 LOW
   - _Cybersecurity industry veteran Hal Pomeranz gives a pep talk on career anxiety and self-doubt and shares how to build meaningful connections during historical tech industry downturns._
-
-- [One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude](https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html)
-  - Confidence: 🟫 LOW
-  - _Security researchers at&nbsp;Forever Security&nbsp;have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome_
-
-- [Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers](https://thehackernews.com/2026/09/three-threat-groups-target-russian.html)
-  - Confidence: 🟫 LOW
-  - _Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky.  The cybersecurity _
-
-- [Scans Targeting Hospitality Applications, (Wed, Sep 16th)](https://isc.sans.edu/diary/rss/33344)
-  - Confidence: 🟫 LOW
-  - _<p>Earlier today, I noted an odd request showing up in our "First Seen" report:</p>&#xd;_
-
-- [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
-  - Confidence: 🟫 LOW
-  - _The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up wit_
-
-- [Spain's data agency gets first report of AI-powered data breach](https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/)
-  - Confidence: 🟫 LOW
-  - _The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]_
-
-- [Malware bypasses browser checks to force install Chrome, Edge extensions](https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/)
-  - Confidence: 🟫 LOW
-  - _A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [.._
-
-- [Iranian hackers use CHOSEN BRICK Windows malware to spy on targets](https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/)
-  - Confidence: 🟫 LOW
-  - _Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]_
-
-- [Windows 11 KB5124008 update breaks domain trust for some users](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/)
-  - Confidence: 🟫 LOW
-  - _Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain c_
