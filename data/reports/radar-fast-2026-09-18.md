@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-18
-date: 2026-09-18T03:05:10Z
+date: 2026-09-18T10:32:22Z
 type: radar-report
 report_type: fast
-total_opportunities: 75
+total_opportunities: 82
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 75
+**Total opportunities:** 82
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 40 |
-| 🎓 Free Certifications | 23 |
+| ❓ Uncategorized | 47 |
+| 🎓 Free Certifications | 22 |
 | 🏰 CTF Competitions | 9 |
-| 💰 Bug Bounties | 2 |
+| 💰 Bug Bounties | 3 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
@@ -71,6 +71,11 @@ tags:
   - _Name: CSS CTF 2026: Return of Nexus (an <a href="/ctf/1669">CSS CTF</a> event.)<br /> Date: Sept. 30, 2026, 6 a.m. &mdash; 01 Oct. 2026, 22:00 UTC &nbsp;<a href="/event/3434.ics">[add to calendar]</a>_
 
 ## 💰 Bug Bounties
+
+- [Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer](https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`, `india_friendly`
+  - _A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry.  "The develo_
 
 - [shinthink/blitzstrike](https://github.com/shinthink/blitzstrike)
   - Confidence: 🟢 HIGH
@@ -194,11 +199,6 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]_
 
-- [ISC Stormcast For Thursday, September 17th, 2026 https://isc.sans.edu/podcastdetail/10098, (Thu, Sep 17th)](https://isc.sans.edu/diary/rss/33346)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## 🔥 Hackathons & Conferences
 
 - [best scholarship funding platform for first-generation college students with a financial-aid gap](https://www.reddit.com/r/scholarships/comments/1wipdjd/best_scholarship_funding_platform_for/)
@@ -207,6 +207,38 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>it appears that my financial assistance package leaves me with a shortfall of approximately $6,400 for the entire year,, despite receiving grants and federal loans.. _
 
 ## ❓ Uncategorized
+
+- [Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords](https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html)
+  - Confidence: 🟫 LOW
+  - _The Iran-linked "hacktivist" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE.  "HEAVYGRAM _
+
+- [Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files](https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html)
+  - Confidence: 🟫 LOW
+  - _Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a&nbsp;s_
+
+- [ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories](https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html)
+  - Confidence: 🟫 LOW
+  - _Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them.  This week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold_
+
+- [Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root](https://thehackernews.com/2026/09/critical-check-point-management-server.html)
+  - Confidence: 🟫 LOW
+  - _A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network.  The Security Man_
+
+- [RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall](https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to na_
+
+- [HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)](https://isc.sans.edu/diary/rss/33352)
+  - Confidence: 🟫 LOW
+  - _<p>In June 2026 the IETF published RFC 10008&#x5b;<a href="https://www.rfc-editor.org/info/rfc10008/">1</a>&#x5d;, defining a new HTTP method: "QUERY". The HTTP protocol faced already by changes (HTTP_
+
+- [Microsoft fixes broken copy and paste for Excel 2016 users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update. [...]_
+
+- [New Check Point flaw lets hackers execute code with root privileges](https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/)
+  - Confidence: 🟫 LOW
+  - _Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]_
 
 - [New RatHat Android malware uses AI to automate device control](https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/)
   - Confidence: 🟫 LOW
@@ -362,7 +394,3 @@ tags:
 - [Chinese hackers use SparroWocky malware in govt espionage attacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/)
   - Confidence: 🟫 LOW
   - _The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]_
-
-- [Anthropic wants Claude to analyze your bank account and financial data](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/)
-  - Confidence: 🟫 LOW
-  - _Anthropic is testing a new personal finance feature called "Claude Money" that will allow you to connect your bank accounts directly to Claude and "understand your money." [...]_
