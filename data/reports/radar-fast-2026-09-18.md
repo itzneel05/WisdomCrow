@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-18
-date: 2026-09-18T10:32:22Z
+date: 2026-09-18T15:48:17Z
 type: radar-report
 report_type: fast
-total_opportunities: 82
+total_opportunities: 92
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 82
+**Total opportunities:** 92
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 47 |
-| 🎓 Free Certifications | 22 |
+| ❓ Uncategorized | 58 |
+| 🎓 Free Certifications | 21 |
 | 🏰 CTF Competitions | 9 |
 | 💰 Bug Bounties | 3 |
 | 🔥 Hackathons & Conferences | 1 |
@@ -194,11 +194,6 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable &#xe2&#x3b;&#x80&#x3b;&#x93&#x3b; i_
 
-- [Cisco warns of max severity ISE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]_
-
 ## 🔥 Hackathons & Conferences
 
 - [best scholarship funding platform for first-generation college students with a financial-aid gap](https://www.reddit.com/r/scholarships/comments/1wipdjd/best_scholarship_funding_platform_for/)
@@ -207,6 +202,58 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>it appears that my financial assistance package leaves me with a shortfall of approximately $6,400 for the entire year,, despite receiving grants and federal loans.. _
 
 ## ❓ Uncategorized
+
+- [WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage](https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit.  The new malware family, pe_
+
+- [Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents](https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html)
+  - Confidence: 🟫 LOW
+  - _A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a spec_
+
+- [An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.](https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html)
+  - Confidence: 🟫 LOW
+  - _In July 2025, someone registered a domain that used to belong to a content delivery network.&nbsp; The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire_
+
+- [Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation](https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html)
+  - Confidence: 🟫 LOW
+  - _Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.  The vulnerability, track_
+
+- [Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2](https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html)
+  - Confidence: 🟫 LOW
+  - _The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India an_
+
+- [Is there any way to take psuedonymised educational sector data out of strictest data protecting jurisdictions like EU or KSA?](https://www.reddit.com/r/AskNetsec/comments/1wir2x9/is_there_any_way_to_take_psuedonymised/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I have got a problem where benchmarking educational sector data across the world globally would require aggregating them at same place or maybe different if the final_
+
+- [How are you stopping employees from pasting sensitive data into chatgpt without blocking it?](https://www.reddit.com/r/AskNetsec/comments/1wipndp/how_are_you_stopping_employees_from_pasting/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Overseeing our org sprint into &quot;use chatgpt for everything&quot; while every audit slide shouts data loss and i'm kinda stuck in the middle. Right now we have ha_
+
+- [Looking for DOM XSS learning resources focused on real-world investigation](https://www.reddit.com/r/AskNetsec/comments/1wj795f/looking_for_dom_xss_learning_resources_focused_on/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I'm looking for resources to learn <strong>DOM-based XSS</strong>, but I'm specifically interested in material that teaches the <strong>actual inv_
+
+- [Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts](https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]_
+
+- [Webinar: Which Google Workspace security controls actually matter?](https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/)
+  - Confidence: 🟫 LOW
+  - _Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security _
+
+- [Microsoft Teams will let admins block custom file extensions](https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/)
+  - Confidence: 🟫 LOW
+  - _Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]_
+
+- [Secure enterprise sharing with access reviews for Microsoft 365](https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/)
+  - Confidence: 🟫 LOW
+  - _Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold S_
+
+- [Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer](https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/)
+  - Confidence: 🟫 LOW
+  - _An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]_
 
 - [Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords](https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html)
   - Confidence: 🟫 LOW
@@ -386,11 +433,3 @@ tags:
 - [What Recent AI-Powered Attacks Mean for Your Identity Security](https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/)
   - Confidence: 🟫 LOW
   - _AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication_
-
-- [Microsoft shares workaround for Windows domain login issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/)
-  - Confidence: 🟫 LOW
-  - _Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]_
-
-- [Chinese hackers use SparroWocky malware in govt espionage attacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/)
-  - Confidence: 🟫 LOW
-  - _The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]_
