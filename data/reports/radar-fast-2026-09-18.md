@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-18
-date: 2026-09-18T15:48:17Z
+date: 2026-09-18T20:22:50Z
 type: radar-report
 report_type: fast
-total_opportunities: 92
+total_opportunities: 79
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 92
+**Total opportunities:** 79
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 58 |
-| 🎓 Free Certifications | 21 |
-| 🏰 CTF Competitions | 9 |
-| 💰 Bug Bounties | 3 |
+| ❓ Uncategorized | 46 |
+| 🎓 Free Certifications | 20 |
+| 🏰 CTF Competitions | 10 |
+| 💰 Bug Bounties | 2 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
@@ -70,6 +70,11 @@ tags:
   - Tags: `ctf`
   - _Name: CSS CTF 2026: Return of Nexus (an <a href="/ctf/1669">CSS CTF</a> event.)<br /> Date: Sept. 30, 2026, 6 a.m. &mdash; 01 Oct. 2026, 22:00 UTC &nbsp;<a href="/event/3434.ics">[add to calendar]</a>_
 
+- [New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution](https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`, `india_friendly`
+  - _WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the_
+
 ## 💰 Bug Bounties
 
 - [Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer](https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html)
@@ -81,11 +86,6 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `bug_bounty`
   - _⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-_
-
-- [Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks](https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation.  The vulnerability, tracked as CVE-2026-76460 (CVSS score: _
 
 ## 🎓 Free Certifications
 
@@ -189,11 +189,6 @@ tags:
   - Tags: `free_cert`, `free_training`, `scholarship`
   - _<p>Two days after it warned customers about an actively exploited email gateway zero-day, Cisco confirmed one more flaw is being targeted: CVE-2026-76460, an authentication bypass bug in an API of Cis_
 
-- [LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)](https://isc.sans.edu/diary/rss/33348)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _<p>At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable &#xe2&#x3b;&#x80&#x3b;&#x93&#x3b; i_
-
 ## 🔥 Hackathons & Conferences
 
 - [best scholarship funding platform for first-generation college students with a financial-aid gap](https://www.reddit.com/r/scholarships/comments/1wipdjd/best_scholarship_funding_platform_for/)
@@ -202,6 +197,10 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>it appears that my financial assistance package leaves me with a shortfall of approximately $6,400 for the entire year,, despite receiving grants and federal loans.. _
 
 ## ❓ Uncategorized
+
+- [Gyazo server flaw exploited to steal 23.6 million user records](https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/)
+  - Confidence: 🟫 LOW
+  - _The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]_
 
 - [WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage](https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html)
   - Confidence: 🟫 LOW
@@ -381,55 +380,3 @@ tags:
 - [OpenAI details more cases of AI agents taking unauthorized actions](https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/)
   - Confidence: 🟫 LOW
   - _OpenAI has presented new examples of what they call "AI model misalignment" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and l_
-
-- [Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users](https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html)
-  - Confidence: 🟫 LOW
-  - _A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service.  The extension, named "Twitc_
-
-- [U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks](https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStr_
-
-- [Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records](https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html)
-  - Confidence: 🟫 LOW
-  - _A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a&nbsp;notice&nbs_
-
-- [BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS](https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html)
-  - Confidence: 🟫 LOW
-  - _The Internet Systems Consortium (ISC) has released&nbsp;BIND 9.20.29 and 9.21.26&nbsp;to fix fourteen security flaws it&nbsp;disclosed&nbsp;on 16 September in BIND 9, its open-source DNS server softwa_
-
-- [OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads](https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html)
-  - Confidence: 🟫 LOW
-  - _OpenAI on Wednesday disclosed six new instances of "unexpected or concerning model behavior" that took place over the past six months, while sharing a new framework for reporting, tracking, investigat_
-
-- [China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America](https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html)
-  - Confidence: 🟫 LOW
-  - _The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin A_
-
-- [CISO's Expert Guide to Agentic Pentesting for Websites](https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html)
-  - Confidence: 🟫 LOW
-  - _Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how a_
-
-- [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
-  - Confidence: 🟫 LOW
-  - _A new CVE drops. Your scanner finds it. The severity score looks ugly.  But that still does not answer the question that matters: Can it actually be exploited in your environment?  Mythos-class AI is _
-
-- [Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone](https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html)
-  - Confidence: 🟫 LOW
-  - _Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an&nbsp;advisory&nbsp;on Wednesday.  An attacker who control_
-
-- [Google removed today 15 malicious chrome extensions](https://www.reddit.com/r/security/comments/1wi8mky/google_removed_today_15_malicious_chrome/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I track Chrome Web Store removals and today's pass picked up 15 extensions pulled with a malware classification, not the usual policy or spam category. </p> <p><a hre_
-
-- [US takes down NightmareStresser DDoS-for-hire platform](https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/)
-  - Confidence: 🟫 LOW
-  - _The U.S. Federal Bureau of Investigation (FBI) seized the domains used by NightmareStresser, one of the world's longest-running distributed denial-of-service (DDoS) platforms. [...]_
-
-- [Windows 11 24H2 Home and Pro reach end of support in October](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/)
-  - Confidence: 🟫 LOW
-  - _Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]_
-
-- [What Recent AI-Powered Attacks Mean for Your Identity Security](https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/)
-  - Confidence: 🟫 LOW
-  - _AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication_
