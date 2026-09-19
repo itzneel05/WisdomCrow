@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-19
-date: 2026-09-19T03:01:33Z
+date: 2026-09-19T10:17:17Z
 type: radar-report
 report_type: fast
-total_opportunities: 53
+total_opportunities: 55
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 53
+**Total opportunities:** 55
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 49 |
-| 🎓 Free Certifications | 2 |
+| ❓ Uncategorized | 52 |
 | 💰 Bug Bounties | 1 |
 | 🏰 CTF Competitions | 1 |
+| 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -43,12 +43,23 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _The authentication bypass flaw CVE-2026-76460 impacts Cisco's Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score._
 
-- [ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)](https://isc.sans.edu/diary/rss/33350)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild](https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence o_
+
+- [CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories](https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html)
+  - Confidence: 🟫 LOW
+  - _An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec&nbsp;said on September 18.  The French security company ha_
+
+- [Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up](https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html)
+  - Confidence: 🟫 LOW
+  - _Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first repor_
+
+- [Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild](https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html)
+  - Confidence: 🟫 LOW
+  - _A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.  The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score:_
 
 - [Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root](https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html)
   - Confidence: 🟫 LOW
@@ -241,7 +252,3 @@ tags:
 - [New Check Point flaw lets hackers execute code with root privileges](https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/)
   - Confidence: 🟫 LOW
   - _Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]_
-
-- [New RatHat Android malware uses AI to automate device control](https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/)
-  - Confidence: 🟫 LOW
-  - _A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]_
