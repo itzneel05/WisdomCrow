@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-19
-date: 2026-09-19T15:19:57Z
+date: 2026-09-19T20:00:56Z
 type: radar-report
 report_type: fast
-total_opportunities: 53
+total_opportunities: 41
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 53
+**Total opportunities:** 41
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 51 |
+| ❓ Uncategorized | 39 |
 | 🏰 CTF Competitions | 1 |
 | 🎓 Free Certifications | 1 |
 
@@ -36,6 +36,10 @@ tags:
   - _The authentication bypass flaw CVE-2026-76460 impacts Cisco's Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score._
 
 ## ❓ Uncategorized
+
+- [Viral AI actress' hotline face-scans every caller, watches their mood](https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/)
+  - Confidence: 🟫 LOW
+  - _AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her "Talking Tilly" video call service face-scans every caller for an 18+ age check, senses call_
 
 - [SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html)
   - Confidence: 🟫 LOW
@@ -188,55 +192,3 @@ tags:
 - [Gyazo server flaw exploited to steal 23.6 million user records](https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/)
   - Confidence: 🟫 LOW
   - _The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]_
-
-- [WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage](https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit.  The new malware family, pe_
-
-- [Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents](https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html)
-  - Confidence: 🟫 LOW
-  - _A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a spec_
-
-- [An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.](https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html)
-  - Confidence: 🟫 LOW
-  - _In July 2025, someone registered a domain that used to belong to a content delivery network.&nbsp; The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire_
-
-- [Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation](https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html)
-  - Confidence: 🟫 LOW
-  - _Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.  The vulnerability, track_
-
-- [Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2](https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html)
-  - Confidence: 🟫 LOW
-  - _The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India an_
-
-- [Is there any way to take psuedonymised educational sector data out of strictest data protecting jurisdictions like EU or KSA?](https://www.reddit.com/r/AskNetsec/comments/1wir2x9/is_there_any_way_to_take_psuedonymised/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I have got a problem where benchmarking educational sector data across the world globally would require aggregating them at same place or maybe different if the final_
-
-- [How are you stopping employees from pasting sensitive data into chatgpt without blocking it?](https://www.reddit.com/r/AskNetsec/comments/1wipndp/how_are_you_stopping_employees_from_pasting/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Overseeing our org sprint into &quot;use chatgpt for everything&quot; while every audit slide shouts data loss and i'm kinda stuck in the middle. Right now we have ha_
-
-- [Looking for DOM XSS learning resources focused on real-world investigation](https://www.reddit.com/r/AskNetsec/comments/1wj795f/looking_for_dom_xss_learning_resources_focused_on/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I'm looking for resources to learn <strong>DOM-based XSS</strong>, but I'm specifically interested in material that teaches the <strong>actual inv_
-
-- [Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts](https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]_
-
-- [Webinar: Which Google Workspace security controls actually matter?](https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/)
-  - Confidence: 🟫 LOW
-  - _Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security _
-
-- [Microsoft Teams will let admins block custom file extensions](https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/)
-  - Confidence: 🟫 LOW
-  - _Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]_
-
-- [Secure enterprise sharing with access reviews for Microsoft 365](https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/)
-  - Confidence: 🟫 LOW
-  - _Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold S_
-
-- [Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer](https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/)
-  - Confidence: 🟫 LOW
-  - _An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]_
