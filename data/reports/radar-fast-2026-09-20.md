@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-20
-date: 2026-09-20T10:36:52Z
+date: 2026-09-20T15:24:20Z
 type: radar-report
 report_type: fast
-total_opportunities: 42
+total_opportunities: 37
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 42
+**Total opportunities:** 37
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 32 |
+| ❓ Uncategorized | 27 |
 | 💰 Bug Bounties | 10 |
 
 ## 💰 Bug Bounties
@@ -73,6 +73,14 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>I keep seeing people mention they're using AI (Claude, GPT, etc.) to speed up bug bounty hunting, and some claim they're finding bugs much faster now, but I haven't f_
 
 ## ❓ Uncategorized
+
+- [Researchers escape OpenAI Codex sandbox to run commands on host](https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/)
+  - Confidence: 🟫 LOW
+  - _Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]_
+
+- [Malicious npm packages evade install-script defenses at runtime](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/)
+  - Confidence: 🟫 LOW
+  - _An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than i_
 
 - [Unpacking a laZzzy Donut](https://www.reddit.com/r/blueteamsec/comments/1wkgrql/unpacking_a_lazzzy_donut/)
   - Confidence: 🟫 LOW
@@ -173,31 +181,3 @@ tags:
 - [Viral AI actress' hotline face-scans every caller, watches their mood](https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/)
   - Confidence: 🟫 LOW
   - _AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her "Talking Tilly" video call service face-scans every caller for an 18+ age check, senses call_
-
-- [SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html)
-  - Confidence: 🟫 LOW
-  - _SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerab_
-
-- [Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)
-  - Confidence: 🟫 LOW
-  - _Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an inte_
-
-- [Identity Visibility in 2026: The Foundation of Identity Security](https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html)
-  - Confidence: 🟫 LOW
-  - _Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including_
-
-- [Calling viral AI actress Tilly Norwood? Agree to a face scan first](https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/)
-  - Confidence: 🟫 LOW
-  - _AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her "Talking Tilly" video call service face-scans every caller for an 18+ age check, senses call_
-
-- [ShinyHunters hacks Clop leak site, threatens to extort ransomware gang](https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/)
-  - Confidence: 🟫 LOW
-  - _The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service._
-
-- [North Korean WaterPlum hackers infected 30,000 devices worldwide](https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/)
-  - Confidence: 🟫 LOW
-  - _A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 _
-
-- [BragJack attacks hijack AI browser agents through malicious extensions](https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/)
-  - Confidence: 🟫 LOW
-  - _BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. Th_
