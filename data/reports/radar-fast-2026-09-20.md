@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-20
-date: 2026-09-20T15:24:20Z
+date: 2026-09-20T20:18:02Z
 type: radar-report
 report_type: fast
-total_opportunities: 37
+total_opportunities: 36
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 37
+**Total opportunities:** 36
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 27 |
+| ❓ Uncategorized | 26 |
 | 💰 Bug Bounties | 10 |
 
 ## 💰 Bug Bounties
@@ -177,7 +177,3 @@ tags:
 - [TigerByte Cyber Emerges From Stealth With $3 Million in Funding](https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/)
   - Confidence: 🟫 LOW
   - _<p>The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA.</p> <p>The post <a href="https://www.securityweek.com/tigerby_
-
-- [Viral AI actress' hotline face-scans every caller, watches their mood](https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/)
-  - Confidence: 🟫 LOW
-  - _AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her "Talking Tilly" video call service face-scans every caller for an 18+ age check, senses call_
