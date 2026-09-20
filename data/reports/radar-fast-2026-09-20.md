@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-20
-date: 2026-09-20T03:16:59Z
+date: 2026-09-20T10:36:52Z
 type: radar-report
 report_type: fast
-total_opportunities: 21
+total_opportunities: 42
 tags:
   - radar
   - fast
@@ -13,14 +13,24 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 21
+**Total opportunities:** 42
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 13 |
-| 💰 Bug Bounties | 8 |
+| ❓ Uncategorized | 32 |
+| 💰 Bug Bounties | 10 |
 
 ## 💰 Bug Bounties
+
+- [If AI slop is ruining triage times, why aren't triagers using AI to speed up their side?](https://www.reddit.com/r/bugbounty/comments/1wlcb4y/if_ai_slop_is_ruining_triage_times_why_arent/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>I keep seeing posts and comments from triagers and program managers complaining that response times are tanking because of the endless flood of AI-generated slop repo_
+
+- [PhantomRaven: LLM-generated Information Stealer for Bug Bounty Hunting](https://www.reddit.com/r/blueteamsec/comments/1wkhph0/phantomraven_llmgenerated_information_stealer_for/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-_
 
 - [Where are the triagers and what are they doing?](https://www.reddit.com/r/bugbounty/comments/1wjjj29/where_are_the_triagers_and_what_are_they_doing/)
   - Confidence: 🟢 HIGH
@@ -64,6 +74,98 @@ tags:
 
 ## ❓ Uncategorized
 
+- [Unpacking a laZzzy Donut](https://www.reddit.com/r/blueteamsec/comments/1wkgrql/unpacking_a_lazzzy_donut/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://trustedsec.com/blog/unpacking-a-lazzzy-donut">[link]</a></span> &#32; <span><a hre_
+
+- [Evading Machine Learning Based Detections](https://www.reddit.com/r/blueteamsec/comments/1wkgsel/evading_machine_learning_based_detections/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.msecops.de/blog/posts/ml-evasion/">[link]</a></span> &#32; <span><a href="http_
+
+- [Control GitHub Actions cache access with cache-mode](https://www.reddit.com/r/blueteamsec/comments/1wkkwbw/control_github_actions_cache_access_with_cachemode/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mo_
+
+- [SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia](https://www.reddit.com/r/blueteamsec/comments/1wkgu68/silkparasite_infrastructure_spicerat_servers_tied/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://hunt.io/blog/silkparasite-spicerat-central-asia-infrastructure">[link]</a></span> _
+
+- [Starting dynamic analysis on a Windows x64 rootkit](https://www.reddit.com/r/blueteamsec/comments/1wkh2ub/starting_dynamic_analysis_on_a_windows_x64_rootkit/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://medium.com/@0x4ndr3/starting-dynamic-analysis-on-a-windows-x64-rootkit-8c7a74871fd_
+
+- [HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack](https://www.reddit.com/r/blueteamsec/comments/1wkh96d/heavygram_a_telegrambased_surveillance_backdoor/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.group-ib.com/blog/heavygram-handala-hack-telegram-c2/">[link]</a></span> &#32;_
+
+- [Malicious browser extension: inside KREMLIN banking malware](https://www.reddit.com/r/blueteamsec/comments/1wkhcy2/malicious_browser_extension_inside_kremlin/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.elastic.co/security-labs/threat-command/malicious-browser-extension-kremlin-ba_
+
+- [PolinRider Spreads Through Compromised GitHub Accounts and Packagist](https://www.reddit.com/r/blueteamsec/comments/1wkhgha/polinrider_spreads_through_compromised_github/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://socket.dev/blog/polinrider-github-packagist">[link]</a></span> &#32; <span><a href_
+
+- [WeaselBiscuit Strips BeaverTail and OtterCookie Down to Essentials](https://www.reddit.com/r/blueteamsec/comments/1wkhitk/weaselbiscuit_strips_beavertail_and_ottercookie/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://opensourcemalware.com/blog/introducing-weaselbiscuit">[link]</a></span> &#32; <spa_
+
+- [The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents](https://www.reddit.com/r/blueteamsec/comments/1wkhmsv/the_odyssey_and_trojans_again_moviereaper_attacks/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://securelist.com/moviereaper-malware-torrent-odyssey-solana/121344/">[link]</a></spa_
+
+- [Turning WerEnc.dll LOLBIN into an attacker-controlled encryption primitive (BYOK)](https://www.reddit.com/r/blueteamsec/comments/1wkiq05/turning_werencdll_lolbin_into_an/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://0xsp.com/research/turning-werenc-dll-lolbin-into-an-attacker-controlled-encryption_
+
+- [ResetSpy: Enumerate user accounts and registered authentication methods via the Microsoft Self-Service Password Reset (SSPR) portal](https://www.reddit.com/r/blueteamsec/comments/1wkir7l/resetspy_enumerate_user_accounts_and_registered/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://github.com/mlcsec/ResetSpy">[link]</a></span> &#32; <span><a href="https://www.red_
+
+- [FBI Seizes DDoS-for-Hire Domains as Part of Continuing District of Alaska Crackdown on ‘Booter’ and ‘Stresser’ DDoS Services](https://www.reddit.com/r/blueteamsec/comments/1wkho64/fbi_seizes_ddosforhire_domains_as_part_of/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.justice.gov/usao-ak/pr/fbi-seizes-ddos-hire-domains-part-continuing-district-a_
+
+- [adnullenum: One-pass anonymous Active Directory enumeration over SAMR and LSARPC](https://www.reddit.com/r/blueteamsec/comments/1wkhx0z/adnullenum_onepass_anonymous_active_directory/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://github.com/crypt0p3g/adnullenum">[link]</a></span> &#32; <span><a href="https://ww_
+
+- [CVE-2026-91843 (CVSS Score 9.8), affecting Check Point Security Management and Log Servers. This vulnerability may allow an unauthenticated attacker to remotely execute arbitrary code with root](https://www.reddit.com/r/blueteamsec/comments/1wkhncu/cve202691843_cvss_score_98_affecting_check_point/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://community.checkpoint.com/t5/General-Topics/Important-Notification-Action-required-_
+
+- [RECON 2026 - Videos](https://www.reddit.com/r/blueteamsec/comments/1wkoqzm/recon_2026_videos/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.youtube.com/watch?v=iDJDmie8XaQ&amp;list=PLcwesr-0gPLp3t1HdPUdx4Xrq3SPyWLyB">[_
+
+- [claudemessaging: Claude Code sending messages locally to active sessions](https://www.reddit.com/r/blueteamsec/comments/1wkwc0t/claudemessaging_claude_code_sending_messages/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://github.com/S3cur3Th1sSh1t/claudemessaging/">[link]</a></span> &#32; <span><a href=_
+
+- [IRDoc, an alpha tool for documenting security incidents while they happen](https://www.reddit.com/r/blueteamsec/comments/1wkfm10/irdoc_an_alpha_tool_for_documenting_security/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I built this because my team kept hitting the same problem during incidents. Steps get missed when people are stressed and moving fast, and by the time management ask_
+
+- [Sysmon Modular, a new toolkit for building and tuning your configuration](https://www.reddit.com/r/blueteamsec/comments/1wkiotj/sysmon_modular_a_new_toolkit_for_building_and/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://medium.com/@olafhartong/sysmon-modular-a-new-toolkit-for-building-and-tuning-your-_
+
+- [vector: A high-performance observability data pipeline.](https://www.reddit.com/r/blueteamsec/comments/1wkukod/vector_a_highperformance_observability_data/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://github.com/vectordotdev/vector">[link]</a></span> &#32; <span><a href="https://www_
+
+- [GHAPPIER - One loader, sixty-five repositories, twenty-two accounts: an unreported loader family beside DPRK's PolinRider campaign](https://www.reddit.com/r/blueteamsec/comments/1wld73j/ghappier_one_loader_sixtyfive_repositories/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.cloudsek.com/blog/ghappier-malware-loader-npm-supply-chain-attack">[link]</a><_
+
+- [Be alert: targeted attacks on prominent Rustaceans](https://www.reddit.com/r/blueteamsec/comments/1wld8hx/be_alert_targeted_attacks_on_prominent_rustaceans/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://blog.rust-lang.org/2026/09/17/targeted-attacks/">[link]</a></span> &#32; <span><a _
+
+- [CTO at NCSC Summary: week ending September 20th](https://www.reddit.com/r/blueteamsec/comments/1wksdav/cto_at_ncsc_summary_week_ending_september_20th/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://ctoatncsc.substack.com/p/cto-at-ncsc-summary-week-ending-september-06f">[link]</a>_
+
 - [TigerByte Cyber Emerges From Stealth With $3 Million in Funding](https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/)
   - Confidence: 🟫 LOW
   - _<p>The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA.</p> <p>The post <a href="https://www.securityweek.com/tigerby_
@@ -99,19 +201,3 @@ tags:
 - [BragJack attacks hijack AI browser agents through malicious extensions](https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/)
   - Confidence: 🟫 LOW
   - _BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. Th_
-
-- [CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild](https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence o_
-
-- [CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories](https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html)
-  - Confidence: 🟫 LOW
-  - _An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec&nbsp;said on September 18.  The French security company ha_
-
-- [Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up](https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html)
-  - Confidence: 🟫 LOW
-  - _Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first repor_
-
-- [Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild](https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html)
-  - Confidence: 🟫 LOW
-  - _A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.  The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score:_
