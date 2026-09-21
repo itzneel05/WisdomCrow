@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-21
-date: 2026-09-21T17:53:31Z
+date: 2026-09-21T21:42:27Z
 type: radar-report
 report_type: fast
-total_opportunities: 25
+total_opportunities: 30
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 25
+**Total opportunities:** 30
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 9 |
+| ❓ Uncategorized | 15 |
 | 💰 Bug Bounties | 8 |
 | 🏰 CTF Competitions | 5 |
-| 🎓 Free Certifications | 3 |
+| 🎓 Free Certifications | 2 |
 
 ## 🏰 CTF Competitions
 
@@ -44,10 +44,10 @@ tags:
   - Tags: `ctf`
   - _Name: BreachPoint 2026 (an <a href="/ctf/1703">BreachPoint</a> event.)<br /> Date: Sept. 25, 2026, 4 a.m. &mdash; 26 Sept. 2026, 08:30 UTC &nbsp;<a href="/event/3451.ics">[add to calendar]</a><br /> F_
 
-- [ZeroDayEvil/ai-security-tool](https://github.com/ZeroDayEvil/ai-security-tool)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _🛡️ Free open-source AI-powered security terminal & vulnerability scanner (CVE, SBOM). Supports SSH, SFTP, RDP, VNC, Serial, and 12+ autonomous AI agents (DeepSeek, OpenAI) for automated security workf_
+- [Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto](https://thehackernews.com/2026/09/contagious-interview-campaign.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`, `india_friendly`
+  - _The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over _
 
 ## 💰 Bug Bounties
 
@@ -103,12 +103,31 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
-- [Week in review: Cisco patches exploited email gateway 0-day, Revolut breach](https://www.helpnetsecurity.com/2026/09/20/week-in-review-cisco-patches-exploited-email-gateway-0-day-revolut-breach/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _<p>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: What we know about the Revolut data breach so far Someone impersonating a government agency, using _
-
 ## ❓ Uncategorized
+
+- [Google Fined €403 Million Over GDPR Violations Tied to Location Data](https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html)
+  - Confidence: 🟫 LOW
+  - _Google has been&nbsp;fined €403 million&nbsp;for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020.  Irela_
+
+- [Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR](https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html)
+  - Confidence: 🟫 LOW
+  - _A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and_
+
+- [Microsoft to retire Microsoft 365 Companion apps in December](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/)
+  - Confidence: 🟫 LOW
+  - _Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed devices. [...]_
+
+- [WordPress Click2Shell flaw lets hackers execute PHP on the server](https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/)
+  - Confidence: 🟫 LOW
+  - _Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component_
+
+- [CISA alerts of active exploitation of three Linux kernel flaws](https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]_
+
+- [BigCommerce alerts merchants of data breach linked to Ribon apps](https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/)
+  - Confidence: 🟫 LOW
+  - _Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into_
 
 - [TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data](https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html)
   - Confidence: 🟫 LOW
