@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-21
-date: 2026-09-21T11:57:48Z
+date: 2026-09-21T17:53:31Z
 type: radar-report
 report_type: fast
-total_opportunities: 18
+total_opportunities: 25
 tags:
   - radar
   - fast
@@ -13,16 +13,21 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 18
+**Total opportunities:** 25
 
 | Category | Count |
 |----------|-------|
-| 💰 Bug Bounties | 6 |
-| ❓ Uncategorized | 6 |
-| 🏰 CTF Competitions | 4 |
-| 🎓 Free Certifications | 2 |
+| ❓ Uncategorized | 9 |
+| 💰 Bug Bounties | 8 |
+| 🏰 CTF Competitions | 5 |
+| 🎓 Free Certifications | 3 |
 
 ## 🏰 CTF Competitions
+
+- [One plan, complete cyber training: meet the new HTB PRO](https://www.hackthebox.com/blog/htb-pro-plan-announcement)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/htb-pro-plan-announcement" title=""> <img alt="One plan, complete cyber training: meet_
 
 - [NileCTF](https://ctftime.org/event/3449)
   - Confidence: 🟢 HIGH
@@ -45,6 +50,16 @@ tags:
   - _🛡️ Free open-source AI-powered security terminal & vulnerability scanner (CVE, SBOM). Supports SSH, SFTP, RDP, VNC, Serial, and 12+ autonomous AI agents (DeepSeek, OpenAI) for automated security workf_
 
 ## 💰 Bug Bounties
+
+- [Weekly Collaboration / Mentorship Post](https://www.reddit.com/r/bugbounty/comments/1wmf8fc/weekly_collaboration_mentorship_post/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>Looking to team up or find a mentor in bug bounty?</p> <p><strong>Recommendations:</strong></p> <ul> <li>Share a brief intro about yourself (e.g., your skills, experi_
+
+- [From sceptic to supercharged. How AI changed my day as a QA Engineer](https://www.intigriti.com/blog/business-insights/how-ai-changed-my-day-as-a-qa-engineer)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _When the push came to start weaving AI into our everyday work, I had doubts at the start. But I have since come around, and here's why. What I actually do (and why that matters)  I'm on the engineerin_
 
 - [How hackers fake ANY login - JWT attacks explained (beginner friendly) - EP01](https://www.reddit.com/r/bugbounty/comments/1wllw2c/how_hackers_fake_any_login_jwt_attacks_explained/)
   - Confidence: 🟢 HIGH
@@ -78,6 +93,11 @@ tags:
 
 ## 🎓 Free Certifications
 
+- [⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks](https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week.  The trouble keeps showing up inside things people already trust: code that takes a bad turn, old_
+
 - [ISC Stormcast For Monday, September 21st, 2026 https://isc.sans.edu/podcastdetail/10102, (Mon, Sep 21st)](https://isc.sans.edu/diary/rss/33354)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`, `india_friendly`
@@ -89,6 +109,26 @@ tags:
   - _<p>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: What we know about the Revolut data breach so far Someone impersonating a government agency, using _
 
 ## ❓ Uncategorized
+
+- [TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data](https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts.  The backdoor "autom_
+
+- [Microsoft reminds admins to migrate Entra ID users to passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [_
+
+- [FBI's CJIS v6.1: What Security Teams Need to Know.](https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/)
+  - Confidence: 🟫 LOW
+  - _The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what c_
+
+- [Microsoft fixes broken Excel copy and paste for all Office users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]_
+
+- [Google fined €403 million over location data privacy violations](https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/)
+  - Confidence: 🟫 LOW
+  - _Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]_
 
 - [Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors](https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html)
   - Confidence: 🟫 LOW
@@ -105,11 +145,3 @@ tags:
 - [Microsoft: September updates break File History backup feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/)
   - Confidence: 🟫 LOW
   - _Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]_
-
-- [Researchers escape OpenAI Codex sandbox to run commands on host](https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/)
-  - Confidence: 🟫 LOW
-  - _Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]_
-
-- [Malicious npm packages evade install-script defenses at runtime](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/)
-  - Confidence: 🟫 LOW
-  - _An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than i_
