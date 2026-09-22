@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-22
-date: 2026-09-22T03:12:03Z
+date: 2026-09-22T10:57:28Z
 type: radar-report
 report_type: fast
-total_opportunities: 53
+total_opportunities: 64
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 53
+**Total opportunities:** 64
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 39 |
-| 💰 Bug Bounties | 9 |
+| ❓ Uncategorized | 55 |
+| 💰 Bug Bounties | 3 |
+| 🎓 Free Certifications | 3 |
 | 🏰 CTF Competitions | 2 |
-| 🎓 Free Certifications | 2 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
@@ -47,42 +47,17 @@ tags:
   - Tags: `bug_bounty`
   - _When the push came to start weaving AI into our everyday work, I had doubts at the start. But I have since come around, and here's why. What I actually do (and why that matters)  I'm on the engineerin_
 
-- [How hackers fake ANY login - JWT attacks explained (beginner friendly) - EP01](https://www.reddit.com/r/bugbounty/comments/1wllw2c/how_hackers_fake_any_login_jwt_attacks_explained/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>I've been doing pentesting/security consulting for a while, and JWT misconfigurations keep showing up in real engagements like alg confusion, weak/no signature verifi_
-
-- [want to get to reddit team](https://www.reddit.com/r/bugbounty/comments/1wlqvqv/want_to_get_to_reddit_team/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>hey team , </p> <p>i found very important security BUg in reddit it has impact exactly like that rewarded disclosed report (#1551176)</p> <p>i already reported to hac_
-
-- [How to not be overwhelmed by so much content?](https://www.reddit.com/r/bugbounty/comments/1wledx3/how_to_not_be_overwhelmed_by_so_much_content/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>So I have learnt the basics and have started on one site. Genuinely get lost because there are like so many requests even after filtering, so many things to try. and _
-
-- [what to reach to reddit team](https://www.reddit.com/r/bugbounty/comments/1wlpfzg/what_to_reach_to_reddit_team/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Important security bug in <a href="http://ads.reddit.com">ads.reddit.com</a></p> <p>hey team , </p> <p>i found very important security BUg in reddit it has impact exa_
-
-- [Indian bug bounty hunters - how do you report bounty income for tax?](https://www.reddit.com/r/bugbounty/comments/1wlnxdf/indian_bug_bounty_hunters_how_do_you_report/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `cash_prize`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>I'm an Indian resident doing bug bounty independently. I've received around <strong>$13k (~₹13L)</strong> in HackerOne/Bugcrowd bounties during 2026–27, in addition t_
-
-- [Intel Appears To End Its Bug Bounty Program](https://www.reddit.com/r/bugbounty/comments/1wljw7l/intel_appears_to_end_its_bug_bounty_program/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/bugbounty/comments/1wljw7l/intel_appears_to_end_its_bug_bounty_program/"> <img alt="Intel Appears To End Its Bug Bounty Program" src="https://externa_
-
 - [Siemba brings continuous IDOR testing to production APIs](https://www.helpnetsecurity.com/2026/09/21/siemba-idor-automated-testing/)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
   - _<p>Siemba has announced automated testing for insecure direct object reference (IDOR) as part of its API Security Testing capability, which tests REST, GraphQL and SOAP APIs for the vulnerability clas_
 
 ## 🎓 Free Certifications
+
+- [ISC Stormcast For Tuesday, September 22nd, 2026 https://isc.sans.edu/podcastdetail/10104, (Tue, Sep 22nd)](https://isc.sans.edu/diary/rss/33356)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 - [⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks](https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html)
   - Confidence: 🟢 HIGH
@@ -102,6 +77,70 @@ tags:
   - _<p>Ten lessons from Black Hat and DEF CON on AI agents, cheaper attacks, supply chain risk, security fundamentals and cyber skills.</p> <p>The post <a href="https://www.offsec.com/blog/10-lessons-from_
 
 ## ❓ Uncategorized
+
+- [Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access](https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog_
+
+- [WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session](https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html)
+  - Confidence: 🟫 LOW
+  - _A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the si_
+
+- [One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor](https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html)
+  - Confidence: 🟫 LOW
+  - _Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a&nbsp;proof-of-concept_
+
+- [SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing](https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html)
+  - Confidence: 🟫 LOW
+  - _The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities.  "SideCopy campaig_
+
+- [Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal](https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html)
+  - Confidence: 🟫 LOW
+  - _A malicious npm package named "indexed-btree" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shif_
+
+- [Real time AI agent monitoring without turning into a full time robot babysitter](https://www.reddit.com/r/AskNetsec/comments/1wm5irp/real_time_ai_agent_monitoring_without_turning/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>So... who decided that every AI rollout now needs me to be a full time robot therapist on top of being in security?</p> <p>We are spinning up a bunch of AI agents in _
+
+- [Exposure management platform vs. security validation tools: what’s the difference?](https://www.reddit.com/r/AskNetsec/comments/1wm4gkm/exposure_management_platform_vs_security/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Trying to clarify where an exposure management platform ends and security validation tools begin.</p> <p>My current view is that exposure management helps identify an_
+
+- [How much does the "blue team vs red team" distinction actually hold up day-to-day?](https://www.reddit.com/r/AskNetsec/comments/1wm65k0/how_much_does_the_blue_team_vs_red_team/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Just finished a training block that covered blue team (monitoring/response, vulnerability management) and red team (pentesting, red-teaming) as pretty cleanly separat_
+
+- [How are you securing OT/plant systems in food and manufacturing environments?](https://www.reddit.com/r/AskNetsec/comments/1wmdw7u/how_are_you_securing_otplant_systems_in_food_and/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>For those working in or securing industrial environments like food production and manufacturing, how are you handling OT security (PLCs, SCADA, monitoring systems) as_
+
+- [Incident response retainer vs managed detection and response: which is better in 2026?](https://www.reddit.com/r/AskNetsec/comments/1wm5t43/incident_response_retainer_vs_managed_detection/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Management wants to cut security spend and I have to pick one: an incident response retainer for if things go badly, or MDR to try to stop things from going badly in _
+
+- [How do companies actually detect departing employees bulk-downloading or exfiltrating files?](https://www.reddit.com/r/AskNetsec/comments/1wm6717/how_do_companies_actually_detect_departing/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>A sales rep gave notice and spent his final two weeks downloading the entire pipeline and emailing docs to his personal Gmail. Nothing tripped our DLP because none of_
+
+- [How do you actually approach cleaning up years of accumulated IAM permissions?](https://www.reddit.com/r/AskNetsec/comments/1wmds0i/how_do_you_actually_approach_cleaning_up_years_of/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Do you start by removing obviously unused access or is it better to map what each account/service actually needs first? How do you handle this without breaking things_
+
+- [Best ai agent security solutions for continuous attack validation, not just annual pentests?](https://www.reddit.com/r/AskNetsec/comments/1wn0qrq/best_ai_agent_security_solutions_for_continuous/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Point in time pentests are outdated the day the report gets delivered given how fast our environments actually change now. Want something that continuously tests our _
+
+- [Does the textbook 5-phase pentest methodology match what you actually do in real engagements?](https://www.reddit.com/r/AskNetsec/comments/1wn68fw/does_the_textbook_5phase_pentest_methodology/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Trained on the standard planning/recon → scanning → gaining access → maintaining access → analysis/reporting flow, rules of engagement, black/white/grey box distincti_
+
+- [CISA orders feds to patch Zyxel flaw exploited for data theft](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/)
+  - Confidence: 🟫 LOW
+  - _​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]_
+
+- [New Windows Defender zero-day blocks Microsoft antivirus updates](https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/)
+  - Confidence: 🟫 LOW
+  - _Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]_
 
 - [Google Confirms Gemini AI Breached Three Firms](https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/)
   - Confidence: 🟫 LOW
