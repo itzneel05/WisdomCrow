@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-22
-date: 2026-09-22T16:16:10Z
+date: 2026-09-22T20:52:38Z
 type: radar-report
 report_type: fast
-total_opportunities: 68
+total_opportunities: 70
 tags:
   - radar
   - fast
@@ -13,22 +13,17 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 68
+**Total opportunities:** 70
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 58 |
-| 💰 Bug Bounties | 4 |
-| 🎓 Free Certifications | 3 |
-| 🏰 CTF Competitions | 2 |
+| ❓ Uncategorized | 63 |
+| 💰 Bug Bounties | 3 |
+| 🎓 Free Certifications | 2 |
+| 🏰 CTF Competitions | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 
 ## 🏰 CTF Competitions
-
-- [One plan, complete cyber training: meet the new HTB PRO](https://www.hackthebox.com/blog/htb-pro-plan-announcement)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/htb-pro-plan-announcement" title=""> <img alt="One plan, complete cyber training: meet_
 
 - [Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto](https://thehackernews.com/2026/09/contagious-interview-campaign.html)
   - Confidence: 🟡 MEDIUM
@@ -37,15 +32,10 @@ tags:
 
 ## 💰 Bug Bounties
 
-- [Weekly Collaboration / Mentorship Post](https://www.reddit.com/r/bugbounty/comments/1wmf8fc/weekly_collaboration_mentorship_post/)
+- [Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials](https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html)
   - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Looking to team up or find a mentor in bug bounty?</p> <p><strong>Recommendations:</strong></p> <ul> <li>Share a brief intro about yourself (e.g., your skills, experi_
-
-- [From sceptic to supercharged. How AI changed my day as a QA Engineer](https://www.intigriti.com/blog/business-insights/how-ai-changed-my-day-as-a-qa-engineer)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _When the push came to start weaving AI into our everyday work, I had doubts at the start. But I have since come around, and here's why. What I actually do (and why that matters)  I'm on the engineerin_
+  - Tags: `bug_bounty`, `india_friendly`
+  - _Cybersecurity researchers have disclosed details of a malicious npm package named "tw-pkgprobe-7731" that masquerades as a security tool targeting developers integrating Twilio into their applications_
 
 - [SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE](https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html)
   - Confidence: 🟡 MEDIUM
@@ -69,11 +59,6 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
-- [⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks](https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week.  The trouble keeps showing up inside things people already trust: code that takes a bad turn, old_
-
 ## 🔥 Hackathons & Conferences
 
 - [10 Lessons Reshaping Security After Black Hat and DEF CON 2026](https://www.offsec.com/blog/10-lessons-from-black-hat-and-def-con-2026/)
@@ -82,6 +67,46 @@ tags:
   - _<p>Ten lessons from Black Hat and DEF CON on AI agents, cheaper attacks, supply chain risk, security fundamentals and cyber skills.</p> <p>The post <a href="https://www.offsec.com/blog/10-lessons-from_
 
 ## ❓ Uncategorized
+
+- [Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates](https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html)
+  - Confidence: 🟫 LOW
+  - _A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was&nbsp;published on GitHub&nbsp;on September 19.  Th_
+
+- [Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials](https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html)
+  - Confidence: 🟫 LOW
+  - _A critical vulnerability in&nbsp;Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway serv_
+
+- [Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises](https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html)
+  - Confidence: 🟫 LOW
+  - _Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) "at every step of the attack chain."  The action, carried out _
+
+- [WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers](https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html)
+  - Confidence: 🟫 LOW
+  - _WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders.  On some servers, that can go further, allowi_
+
+- [Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks](https://thehackernews.com/2026/09/check-point-warns-of-management-server.html)
+  - Confidence: 🟫 LOW
+  - _Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23,&nbsp;the company said.  The flaw, CVE-2026-93616, allows an attac_
+
+- [Check Point warns of Management Server zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]_
+
+- [Reducing shadow IT visibility gaps with Wazuh](https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/)
+  - Confidence: 🟫 LOW
+  - _Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monit_
+
+- [New ClosedQuorum Windows malware uses AI for attack decisions](https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/)
+  - Confidence: 🟫 LOW
+  - _A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]_
+
+- [ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/)
+  - Confidence: 🟫 LOW
+  - _The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and jo_
+
+- [Chinese hackers exploit WordPress, Zyxel flaws to steal govt data](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/)
+  - Confidence: 🟫 LOW
+  - _A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in_
 
 - [New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory](https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html)
   - Confidence: 🟫 LOW
@@ -294,23 +319,3 @@ tags:
 - [BigCommerce alerts merchants of data breach linked to Ribon apps](https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/)
   - Confidence: 🟫 LOW
   - _Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into_
-
-- [TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data](https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts.  The backdoor "autom_
-
-- [Microsoft reminds admins to migrate Entra ID users to passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [_
-
-- [FBI's CJIS v6.1: What Security Teams Need to Know.](https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/)
-  - Confidence: 🟫 LOW
-  - _The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what c_
-
-- [Microsoft fixes broken Excel copy and paste for all Office users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]_
-
-- [Google fined €403 million over location data privacy violations](https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/)
-  - Confidence: 🟫 LOW
-  - _Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]_
