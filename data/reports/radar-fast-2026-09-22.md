@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-22
-date: 2026-09-22T10:57:28Z
+date: 2026-09-22T16:16:10Z
 type: radar-report
 report_type: fast
-total_opportunities: 64
+total_opportunities: 68
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 64
+**Total opportunities:** 68
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 55 |
-| 💰 Bug Bounties | 3 |
+| ❓ Uncategorized | 58 |
+| 💰 Bug Bounties | 4 |
 | 🎓 Free Certifications | 3 |
 | 🏰 CTF Competitions | 2 |
 | 🔥 Hackathons & Conferences | 1 |
@@ -47,12 +47,22 @@ tags:
   - Tags: `bug_bounty`
   - _When the push came to start weaving AI into our everyday work, I had doubts at the start. But I have since come around, and here's why. What I actually do (and why that matters)  I'm on the engineerin_
 
+- [SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE](https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`, `india_friendly`
+  - _A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to&nbsp;full technical_
+
 - [Siemba brings continuous IDOR testing to production APIs](https://www.helpnetsecurity.com/2026/09/21/siemba-idor-automated-testing/)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
   - _<p>Siemba has announced automated testing for insecure direct object reference (IDOR) as part of its API Security Testing capability, which tests REST, GraphQL and SOAP APIs for the vulnerability clas_
 
 ## 🎓 Free Certifications
+
+- [The Truth about GET and HTTP Standards, (Tue, Sep 22nd)](https://isc.sans.edu/diary/rss/33358)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _<p>On Friday, Xavier talked about the newly introduced <a href="https://isc.sans.edu/diary/HTTP&#x25;20QUERY&#x25;20Method&#x25;3A&#x25;20The&#x25;20Grey&#x25;20Zone&#x25;20Between&#x25;20GET&#x25;20A_
 
 - [ISC Stormcast For Tuesday, September 22nd, 2026 https://isc.sans.edu/podcastdetail/10104, (Tue, Sep 22nd)](https://isc.sans.edu/diary/rss/33356)
   - Confidence: 🟢 HIGH
@@ -64,11 +74,6 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week.  The trouble keeps showing up inside things people already trust: code that takes a bad turn, old_
 
-- [ISC Stormcast For Monday, September 21st, 2026 https://isc.sans.edu/podcastdetail/10102, (Mon, Sep 21st)](https://isc.sans.edu/diary/rss/33354)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## 🔥 Hackathons & Conferences
 
 - [10 Lessons Reshaping Security After Black Hat and DEF CON 2026](https://www.offsec.com/blog/10-lessons-from-black-hat-and-def-con-2026/)
@@ -77,6 +82,34 @@ tags:
   - _<p>Ten lessons from Black Hat and DEF CON on AI agents, cheaper attacks, supply chain risk, security fundamentals and cyber skills.</p> <p>The post <a href="https://www.offsec.com/blog/10-lessons-from_
 
 ## ❓ Uncategorized
+
+- [New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory](https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html)
+  - Confidence: 🟫 LOW
+  - _A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled.  Th_
+
+- [DORA Year Two: Can Your SOC Actually See the Attack?](https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html)
+  - Confidence: 🟫 LOW
+  - _When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establis_
+
+- [New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups](https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html)
+  - Confidence: 🟫 LOW
+  - _Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on September 22.  The flaw, tracked as CVE-_
+
+- [AI Agents Are Rewriting the Rules of Lateral Movement](https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html)
+  - Confidence: 🟫 LOW
+  - _Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths an autonomous system can discover, given the acces_
+
+- [D-Link warns of max severity zero-day bug in DIR-822A routers](https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/)
+  - Confidence: 🟫 LOW
+  - _D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]_
+
+- [Webinar tomorrow: Inside real-world Google Workspace breaches](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/)
+  - Confidence: 🟫 LOW
+  - _Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through the critical first hours of incident response. Lea_
+
+- [EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts](https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/)
+  - Confidence: 🟫 LOW
+  - _The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]_
 
 - [Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access](https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html)
   - Confidence: 🟫 LOW
@@ -281,19 +314,3 @@ tags:
 - [Google fined €403 million over location data privacy violations](https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/)
   - Confidence: 🟫 LOW
   - _Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]_
-
-- [Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors](https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html)
-  - Confidence: 🟫 LOW
-  - _The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based "much smaller organization" in the information technology (IT) services industry, once again h_
-
-- [ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure](https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript.  "ChainScript has appeared under multiple build names, including Co_
-
-- [TerminalFix: PNG Steganography, (Mon, Sep 21st)](https://isc.sans.edu/diary/rss/33318)
-  - Confidence: 🟫 LOW
-  - _<p>Microsoft Security Research published an interesting blog post "<a href="https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intr_
-
-- [Microsoft: September updates break File History backup feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/)
-  - Confidence: 🟫 LOW
-  - _Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]_
