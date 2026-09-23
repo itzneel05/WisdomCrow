@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-23
-date: 2026-09-23T03:12:05Z
+date: 2026-09-23T10:45:34Z
 type: radar-report
 report_type: fast
-total_opportunities: 67
+total_opportunities: 73
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 67
+**Total opportunities:** 73
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 60 |
+| ❓ Uncategorized | 66 |
 | 🎓 Free Certifications | 4 |
 | 💰 Bug Bounties | 2 |
 | 🏰 CTF Competitions | 1 |
@@ -64,6 +64,30 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants](https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html)
+  - Confidence: 🟫 LOW
+  - _The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency.  "W_
+
+- [Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input](https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html)
+  - Confidence: 🟫 LOW
+  - _A new security vulnerability in Next.js could allow attackers to run code on a server via&nbsp;ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said.  The r_
+
+- [Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware](https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html)
+  - Confidence: 🟫 LOW
+  - _A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites.  The attacks, detected on_
+
+- [F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers](https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html)
+  - Confidence: 🟫 LOW
+  - _Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says.  The flaw,&nbsp;CVE-2026-94127, affects only s_
+
+- [F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks](https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]_
+
+- [Ryuk ransomware member sentenced to 24 months in prison](https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/)
+  - Confidence: 🟫 LOW
+  - _An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]_
 
 - [Macfinger ClickFix campaign, (Tue, Sep 22nd)](https://isc.sans.edu/diary/rss/33360)
   - Confidence: 🟫 LOW
