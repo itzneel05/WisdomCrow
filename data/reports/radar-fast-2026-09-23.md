@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-23
-date: 2026-09-23T10:45:34Z
+date: 2026-09-23T16:04:09Z
 type: radar-report
 report_type: fast
-total_opportunities: 73
+total_opportunities: 67
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 73
+**Total opportunities:** 67
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 66 |
+| ❓ Uncategorized | 59 |
 | 🎓 Free Certifications | 4 |
-| 💰 Bug Bounties | 2 |
+| 💰 Bug Bounties | 3 |
 | 🏰 CTF Competitions | 1 |
 
 ## 🏰 CTF Competitions
@@ -30,6 +30,11 @@ tags:
   - _<p><a href="https://www.cryptocellar.org/bgac/the-mvueh-break.html">This</a> is pretty amazing:</p> <blockquote><p>However, the most astonishing thing about this break is that the GPT­6 Astra did it e_
 
 ## 💰 Bug Bounties
+
+- [HTTP/3 in Burp Suite - it’s time to find a bigger wordlist](https://portswigger.net/research/http3-in-burp-suite)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`, `india_friendly`
+  - _How many bugs have you missed because you didn’t send quite enough HTTP requests? Turbo Intruder now supports HTTP/3, can comfortably exceed 100,000 requests per second over Wi-Fi, and auto-tunes for_
 
 - [Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials](https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html)
   - Confidence: 🟢 HIGH
@@ -42,6 +47,11 @@ tags:
   - _A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to&nbsp;full technical_
 
 ## 🎓 Free Certifications
+
+- [This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move](https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22.  The models can choose to_
 
 - [ISC Stormcast For Wednesday, September 23rd, 2026 https://isc.sans.edu/podcastdetail/10106, (Wed, Sep 23rd)](https://isc.sans.edu/diary/rss/33362)
   - Confidence: 🟢 HIGH
@@ -58,12 +68,43 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>On Friday, Xavier talked about the newly introduced <a href="https://isc.sans.edu/diary/HTTP&#x25;20QUERY&#x25;20Method&#x25;3A&#x25;20The&#x25;20Grey&#x25;20Zone&#x25;20Between&#x25;20GET&#x25;20A_
 
-- [ISC Stormcast For Tuesday, September 22nd, 2026 https://isc.sans.edu/podcastdetail/10104, (Tue, Sep 22nd)](https://isc.sans.edu/diary/rss/33356)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape](https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html)
+  - Confidence: 🟫 LOW
+  - _A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst&nbsp;said in research published September 22.  The_
+
+- [Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests](https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html)
+  - Confidence: 🟫 LOW
+  - _Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.  Opus _
+
+- [545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent](https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html)
+  - Confidence: 🟫 LOW
+  - _Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: co_
+
+- [New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control](https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html)
+  - Confidence: 🟫 LOW
+  - _A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take "full control of the server," the company said on September 22.  A&nbsp;seco_
+
+- [Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI](https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html)
+  - Confidence: 🟫 LOW
+  - _Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit_
+
+- [Microsoft: September Windows updates break Always On VPN connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/)
+  - Confidence: 🟫 LOW
+  - _Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]_
+
+- [Arista patches actively exploited VeloCloud Orchestrator zero-day](https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/)
+  - Confidence: 🟫 LOW
+  - _Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]_
+
+- [How One Kubernetes YAML Can Hand Over a GCP Organization](https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/)
+  - Confidence: 🟫 LOW
+  - _A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explai_
+
+- [InfraTrust report warns network management systems under attack](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/)
+  - Confidence: 🟫 LOW
+  - _Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclose_
 
 - [ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants](https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html)
   - Confidence: 🟫 LOW
@@ -264,67 +305,3 @@ tags:
 - [EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts](https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/)
   - Confidence: 🟫 LOW
   - _The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]_
-
-- [Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access](https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog_
-
-- [WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session](https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html)
-  - Confidence: 🟫 LOW
-  - _A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the si_
-
-- [One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor](https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html)
-  - Confidence: 🟫 LOW
-  - _Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a&nbsp;proof-of-concept_
-
-- [SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing](https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html)
-  - Confidence: 🟫 LOW
-  - _The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities.  "SideCopy campaig_
-
-- [Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal](https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html)
-  - Confidence: 🟫 LOW
-  - _A malicious npm package named "indexed-btree" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shif_
-
-- [Real time AI agent monitoring without turning into a full time robot babysitter](https://www.reddit.com/r/AskNetsec/comments/1wm5irp/real_time_ai_agent_monitoring_without_turning/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>So... who decided that every AI rollout now needs me to be a full time robot therapist on top of being in security?</p> <p>We are spinning up a bunch of AI agents in _
-
-- [Exposure management platform vs. security validation tools: what’s the difference?](https://www.reddit.com/r/AskNetsec/comments/1wm4gkm/exposure_management_platform_vs_security/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Trying to clarify where an exposure management platform ends and security validation tools begin.</p> <p>My current view is that exposure management helps identify an_
-
-- [How much does the "blue team vs red team" distinction actually hold up day-to-day?](https://www.reddit.com/r/AskNetsec/comments/1wm65k0/how_much_does_the_blue_team_vs_red_team/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Just finished a training block that covered blue team (monitoring/response, vulnerability management) and red team (pentesting, red-teaming) as pretty cleanly separat_
-
-- [How are you securing OT/plant systems in food and manufacturing environments?](https://www.reddit.com/r/AskNetsec/comments/1wmdw7u/how_are_you_securing_otplant_systems_in_food_and/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>For those working in or securing industrial environments like food production and manufacturing, how are you handling OT security (PLCs, SCADA, monitoring systems) as_
-
-- [Incident response retainer vs managed detection and response: which is better in 2026?](https://www.reddit.com/r/AskNetsec/comments/1wm5t43/incident_response_retainer_vs_managed_detection/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Management wants to cut security spend and I have to pick one: an incident response retainer for if things go badly, or MDR to try to stop things from going badly in _
-
-- [How do companies actually detect departing employees bulk-downloading or exfiltrating files?](https://www.reddit.com/r/AskNetsec/comments/1wm6717/how_do_companies_actually_detect_departing/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>A sales rep gave notice and spent his final two weeks downloading the entire pipeline and emailing docs to his personal Gmail. Nothing tripped our DLP because none of_
-
-- [How do you actually approach cleaning up years of accumulated IAM permissions?](https://www.reddit.com/r/AskNetsec/comments/1wmds0i/how_do_you_actually_approach_cleaning_up_years_of/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Do you start by removing obviously unused access or is it better to map what each account/service actually needs first? How do you handle this without breaking things_
-
-- [Best ai agent security solutions for continuous attack validation, not just annual pentests?](https://www.reddit.com/r/AskNetsec/comments/1wn0qrq/best_ai_agent_security_solutions_for_continuous/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Point in time pentests are outdated the day the report gets delivered given how fast our environments actually change now. Want something that continuously tests our _
-
-- [Does the textbook 5-phase pentest methodology match what you actually do in real engagements?](https://www.reddit.com/r/AskNetsec/comments/1wn68fw/does_the_textbook_5phase_pentest_methodology/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Trained on the standard planning/recon → scanning → gaining access → maintaining access → analysis/reporting flow, rules of engagement, black/white/grey box distincti_
-
-- [CISA orders feds to patch Zyxel flaw exploited for data theft](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/)
-  - Confidence: 🟫 LOW
-  - _​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]_
-
-- [New Windows Defender zero-day blocks Microsoft antivirus updates](https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/)
-  - Confidence: 🟫 LOW
-  - _Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]_
