@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-24
-date: 2026-09-24T11:06:39Z
+date: 2026-09-24T16:29:40Z
 type: radar-report
 report_type: fast
-total_opportunities: 73
+total_opportunities: 78
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 73
+**Total opportunities:** 78
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 60 |
-| 💰 Bug Bounties | 11 |
-| 🎓 Free Certifications | 2 |
+| ❓ Uncategorized | 67 |
+| 💰 Bug Bounties | 10 |
+| 🎓 Free Certifications | 1 |
 
 ## 💰 Bug Bounties
 
@@ -73,11 +73,6 @@ tags:
   - Tags: `bug_bounty`
   - _<!-- SC_OFF --><div class="md"><p>I’m pretty new to bug bounty and I recently found a vulnerability that allows anyone to increase the count of records and attachments they can add to a cloud based da_
 
-- [HTTP/3 in Burp Suite - it’s time to find a bigger wordlist](https://portswigger.net/research/http3-in-burp-suite)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `india_friendly`
-  - _How many bugs have you missed because you didn’t send quite enough HTTP requests? Turbo Intruder now supports HTTP/3, can comfortably exceed 100,000 requests per second over Wi-Fi, and auto-tunes for_
-
 ## 🎓 Free Certifications
 
 - [ISC Stormcast For Thursday, September 24th, 2026 https://isc.sans.edu/podcastdetail/10108, (Thu, Sep 24th)](https://isc.sans.edu/diary/rss/33364)
@@ -85,12 +80,71 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
-- [This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move](https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22.  The models can choose to_
-
 ## ❓ Uncategorized
+
+- [Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore](https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html)
+  - Confidence: 🟫 LOW
+  - _AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, _
+
+- [Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls](https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html)
+  - Confidence: 🟫 LOW
+  - _The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM.  According to Have I Been Squatted, the campaign uses fake Google P_
+
+- [Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer](https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html)
+  - Confidence: 🟫 LOW
+  - _An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocume_
+
+- [ATT&CKing TACACS+ to Pwn Your Network via a Pre-Auth RCE - elttam](https://www.reddit.com/r/netsec/comments/1wnvaik/attcking_tacacs_to_pwn_your_network_via_a_preauth/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/AnimalStrange"> /u/AnimalStrange </a> <br /> <span><a href="https://www.elttam.com/blog/att-cking-tacacs-to-pwn-your-network-via-a-pre-aut_
+
+- [Inside Corp MDM, the Android spyware targeting logistics companies](https://www.reddit.com/r/netsec/comments/1wo6oo5/inside_corp_mdm_the_android_spyware_targeting/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/JDBHub"> /u/JDBHub </a> <br /> <span><a href="https://haveibeensquatted.com/blog/inside-corp-mdm-android-spyware-targeting-logisitics">[li_
+
+- [Leaked GitHub App private keys let researchers impersonate 440 apps including CDC and BuildBuddy](https://www.reddit.com/r/netsec/comments/1wnwy4b/leaked_github_app_private_keys_let_researchers/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/mabote"> /u/mabote </a> <br /> <span><a href="https://blog.gitguardian.com/github-app-private-keys-leaked/">[link]</a></span> &#32; <span>_
+
+- [Breaking the Superuser Guardrails of managed-PostgreSQL Providers](https://www.reddit.com/r/netsec/comments/1wogfid/breaking_the_superuser_guardrails_of/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/wtfse"> /u/wtfse </a> <br /> <span><a href="https://mehmetince.net/part-2-6-breaking-the-superuser-guardrails-attacking-security-hardening_
+
+- [Android 17 enables certificate transparency, and breaks custom CAs](https://www.reddit.com/r/netsec/comments/1wo4kk4/android_17_enables_certificate_transparency_and/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/ScottContini"> /u/ScottContini </a> <br /> <span><a href="https://httptoolkit.com/blog/android-17-certificate-transparency/">[link]</a></s_
+
+- [Is This A Joke? In The Auth Header? (F5 BIG-IP UnAuth Heap-Overflow to RCE CVE-2026-94127) - watchTowr Labs](https://www.reddit.com/r/netsec/comments/1woli59/is_this_a_joke_in_the_auth_header_f5_bigip_unauth/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/dx7r__"> /u/dx7r__ </a> <br /> <span><a href="https://labs.watchtowr.com/is-this-a-joke-in-the-auth-header-f5-big-ip-unauth-heap-overflow-_
+
+- [How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers](https://www.reddit.com/r/netsec/comments/1wp466a/how_cloudflare_addressed_a_crosstenant_data/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/natcoba"> /u/natcoba </a> <br /> <span><a href="https://blog.cloudflare.com/containers-cross-tenant-vulnerability/">[link]</a></span> &#32_
+
+- [One Tap Too Far: Using Shortcuts to Bypass Chrome for iOS Call Prompts](https://www.reddit.com/r/netsec/comments/1wp56y2/one_tap_too_far_using_shortcuts_to_bypass_chrome/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/nibblesec"> /u/nibblesec </a> <br /> <span><a href="https://blog.doyensec.com/2026/09/24/chrome-ios-policy-bypass.html">[link]</a></span> _
+
+- [Getting root on OnePlus 15 from an untrusted app, via an audio debug service and a vendor HAL](https://www.reddit.com/r/netsec/comments/1woylqf/getting_root_on_oneplus_15_from_an_untrusted_app/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/nns_ee"> /u/nns_ee </a> <br /> <span><a href="https://blog.nns.ee/2026/09/24/oneplus-root/">[link]</a></span> &#32; <span><a href="https:/_
+
+- [Uncensored Qwen 3.8 27b helped write a LSASS Dumper which bypassed EDR while I made myself coffee](https://www.reddit.com/r/netsec/comments/1wotpuj/uncensored_qwen_38_27b_helped_write_a_lsass/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/ezzzzz"> /u/ezzzzz </a> <br /> <span><a href="https://projectblack.io/blog/bypassing-edr-with-local-ai/">[link]</a></span> &#32; <span><a _
+
+- [Windows 11 KB5124010 update released with 46 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/)
+  - Confidence: 🟫 LOW
+  - _Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [.._
+
+- [Hackers now exploit critical Roundcube flaw in code injection attacks](https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/)
+  - Confidence: 🟫 LOW
+  - _A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]_
+
+- [FedRAMP VDR & VER: Daily Scans Are Only the Beginning](https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/)
+  - Confidence: 🟫 LOW
+  - _FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why th_
 
 - [Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure](https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html)
   - Confidence: 🟫 LOW
@@ -295,39 +349,3 @@ tags:
 - [Check Point warns of hackers exploiting Security Gateway VPN RCE flaw](https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/)
   - Confidence: 🟫 LOW
   - _Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of i_
-
-- [Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape](https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html)
-  - Confidence: 🟫 LOW
-  - _A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst&nbsp;said in research published September 22.  The_
-
-- [Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests](https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html)
-  - Confidence: 🟫 LOW
-  - _Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.  Opus _
-
-- [545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent](https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html)
-  - Confidence: 🟫 LOW
-  - _Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: co_
-
-- [New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control](https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html)
-  - Confidence: 🟫 LOW
-  - _A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take "full control of the server," the company said on September 22.  A&nbsp;seco_
-
-- [Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI](https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html)
-  - Confidence: 🟫 LOW
-  - _Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit_
-
-- [Microsoft: September Windows updates break Always On VPN connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/)
-  - Confidence: 🟫 LOW
-  - _Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]_
-
-- [Arista patches actively exploited VeloCloud Orchestrator zero-day](https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/)
-  - Confidence: 🟫 LOW
-  - _Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]_
-
-- [How One Kubernetes YAML Can Hand Over a GCP Organization](https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/)
-  - Confidence: 🟫 LOW
-  - _A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explai_
-
-- [InfraTrust report warns network management systems under attack](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/)
-  - Confidence: 🟫 LOW
-  - _Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclose_
