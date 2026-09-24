@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-24
-date: 2026-09-24T03:03:25Z
+date: 2026-09-24T11:06:39Z
 type: radar-report
 report_type: fast
-total_opportunities: 66
+total_opportunities: 73
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 66
+**Total opportunities:** 73
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 53 |
+| ❓ Uncategorized | 60 |
 | 💰 Bug Bounties | 11 |
 | 🎓 Free Certifications | 2 |
 
@@ -80,17 +80,81 @@ tags:
 
 ## 🎓 Free Certifications
 
+- [ISC Stormcast For Thursday, September 24th, 2026 https://isc.sans.edu/podcastdetail/10108, (Thu, Sep 24th)](https://isc.sans.edu/diary/rss/33364)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
+
 - [This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move](https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
   - _A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22.  The models can choose to_
 
-- [ISC Stormcast For Wednesday, September 23rd, 2026 https://isc.sans.edu/podcastdetail/10106, (Wed, Sep 23rd)](https://isc.sans.edu/diary/rss/33362)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure](https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure.  The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could al_
+
+- [TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords](https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants.  According t_
+
+- [OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files](https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html)
+  - Confidence: 🟫 LOW
+  - _An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister&nbsp;Anthony Albanese said.  The portal publishe_
+
+- [17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360](https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html)
+  - Confidence: 🟫 LOW
+  - _ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique f_
+
+- [One URL, Three Different Tricks, (Thu, Sep 24th)](https://isc.sans.edu/diary/rss/33366)
+  - Confidence: 🟫 LOW
+  - _<p>Yesterday, we received a phishing email with an interesting link. At first sight, it looks like garbage, but every piece of it has been carefully crafted to confuse basic security controls. Here is_
+
+- [Managed browser + desktop agent + SSE... what actually belongs in the session layer?](https://www.reddit.com/r/AskNetsec/comments/1wn6ig6/managed_browser_desktop_agent_sse_what_actually/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>So apparently the new hotness in 2026 is securing one human in Chrome like it is a national critical asset. We have a managed browser, a security extension, a desktop_
+
+- [Keep Elastic + swap EDR (CrowdStrike vs SentinelOne), or move SIEM to the EDR vendor?](https://www.reddit.com/r/AskNetsec/comments/1wniyv8/keep_elastic_swap_edr_crowdstrike_vs_sentinelone/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Large EU manufacturing company, multi-site, small security team.</p> <p>Endpoint platform renews in the next budget cycle. Shortlist: CrowdStrike vs SentinelOne (vs r_
+
+- [Anyone running SOC 2 and ISO 27001 together without doubling the audit workload?](https://www.reddit.com/r/AskNetsec/comments/1wnp3xk/anyone_running_soc_2_and_iso_27001_together/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>We've reached the fun stage where US customers keep asking about SOC 2 while international prospects are starting to ask for ISO 27001.</p> <p>I'm fine with doing bot_
+
+- [How are you securing WebView2 apps when your DLP is built around Chrome and Edge?](https://www.reddit.com/r/AskNetsec/comments/1wo4j8v/how_are_you_securing_webview2_apps_when_your_dlp/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Been tightening DLP for Chrome and Edge but our EUC stack has more WebView2 and Electron frontends every quarter and auditors keep asking where those flows land. Woul_
+
+- [Source for known good IPs](https://www.reddit.com/r/AskNetsec/comments/1woihp1/source_for_known_good_ips/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Long time lurker here. We have plenty of feeds for malicious IPs that we use but no good sources for known good. I realize even good servers can get compromised but w_
+
+- [Elsevier: What really happened here?](https://www.reddit.com/r/AskNetsec/comments/1wopklh/elsevier_what_really_happened_here/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>For 78 minutes your web traffic was redirected to a group associated with ransomware's site. I know you are investigating. What can you share? They clearly had the ab_
+
+- [For defending AI systems, is Lakera still different from Check Point](https://www.reddit.com/r/AskNetsec/comments/1womitr/for_defending_ai_systems_is_lakera_still/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I’m looking at a few different options for securing my company’s AI agents, and I’m seeing that Check Point bought Lakera last year. Does that mean that the products _
+
+- [How are you doing AI DLP for ChatGPT Desktop and Claude Desktop?](https://www.reddit.com/r/AskNetsec/comments/1wovr14/how_are_you_doing_ai_dlp_for_chatgpt_desktop_and/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Trying to roll out sane AI governance. Browser-side, we have AI DLP + usage controls working ok, can monitor data going into public LLMs and block some risky prompts _
+
+- [Microsoft fixes bug that broke Windows File History backup feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]_
+
+- [OpenAI hacked Australian Medicare govt site, probed data providers](https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/)
+  - Confidence: 🟫 LOW
+  - _OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-_
+
+- [CISA: Ransomware gangs now exploiting critical TeamCity flaw](https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/)
+  - Confidence: 🟫 LOW
+  - _​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched_
 
 - [New RemControl Android banking malware targets users in Europe and Canada](https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/)
   - Confidence: 🟫 LOW
@@ -267,39 +331,3 @@ tags:
 - [InfraTrust report warns network management systems under attack](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/)
   - Confidence: 🟫 LOW
   - _Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclose_
-
-- [ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants](https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html)
-  - Confidence: 🟫 LOW
-  - _The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency.  "W_
-
-- [Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input](https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html)
-  - Confidence: 🟫 LOW
-  - _A new security vulnerability in Next.js could allow attackers to run code on a server via&nbsp;ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said.  The r_
-
-- [Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware](https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html)
-  - Confidence: 🟫 LOW
-  - _A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites.  The attacks, detected on_
-
-- [F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers](https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html)
-  - Confidence: 🟫 LOW
-  - _Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says.  The flaw,&nbsp;CVE-2026-94127, affects only s_
-
-- [F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks](https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]_
-
-- [Ryuk ransomware member sentenced to 24 months in prison](https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/)
-  - Confidence: 🟫 LOW
-  - _An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]_
-
-- [Macfinger ClickFix campaign, (Tue, Sep 22nd)](https://isc.sans.edu/diary/rss/33360)
-  - Confidence: 🟫 LOW
-  - _<p><em><strong>Introduction</strong></em></p>&#xd;_
-
-- [Sweden fines Miljödata $183,000 over breach affecting 2.2 million](https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/)
-  - Confidence: 🟫 LOW
-  - _Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures leading to a breach in August 2025 affecting 2.2 m_
-
-- [Rogue external MFA providers can steal passwords during logins](https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/)
-  - Confidence: 🟫 LOW
-  - _Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]_
