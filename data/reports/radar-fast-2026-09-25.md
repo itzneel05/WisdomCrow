@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-25
-date: 2026-09-25T16:29:10Z
+date: 2026-09-25T21:05:10Z
 type: radar-report
 report_type: fast
-total_opportunities: 56
+total_opportunities: 57
 tags:
   - radar
   - fast
@@ -13,15 +13,20 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 56
+**Total opportunities:** 57
 
 | Category | Count |
 |----------|-------|
 | ❓ Uncategorized | 54 |
-| 💰 Bug Bounties | 1 |
+| 💰 Bug Bounties | 2 |
 | 🎓 Free Certifications | 1 |
 
 ## 💰 Bug Bounties
+
+- [Intigriti Bug Bytes #240 - September 2026 🚀](https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-240-september-2026)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`, `cash_prize`
+  - _Hi hackers, Welcome to the latest edition of Bug Bytes! In this month's issue, we'll be featuring: Compromising OpenAI, Slack, Meta, and more via a vulnerable image library  Hacking OpenAI employee ac_
 
 - [WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV](https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html)
   - Confidence: 🟡 MEDIUM
@@ -36,6 +41,18 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise_
+
+- [Elementor WordPress flaw lets attackers create admin accounts](https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/)
+  - Confidence: 🟫 LOW
+  - _A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]_
+
+- [ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw](https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/)
+  - Confidence: 🟫 LOW
+  - _The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has_
 
 - [The SOC Doesn't Need to Start Over with Every Alert](https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html)
   - Confidence: 🟫 LOW
@@ -240,15 +257,3 @@ tags:
 - [MacSync malware uses public iCloud calendars to deliver new payloads](https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/)
   - Confidence: 🟫 LOW
   - _A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]_
-
-- [Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore](https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html)
-  - Confidence: 🟫 LOW
-  - _AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, _
-
-- [Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls](https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html)
-  - Confidence: 🟫 LOW
-  - _The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM.  According to Have I Been Squatted, the campaign uses fake Google P_
-
-- [Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer](https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html)
-  - Confidence: 🟫 LOW
-  - _An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocume_
