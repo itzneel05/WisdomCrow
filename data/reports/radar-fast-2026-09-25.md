@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-25
-date: 2026-09-25T11:05:53Z
+date: 2026-09-25T16:29:10Z
 type: radar-report
 report_type: fast
-total_opportunities: 67
+total_opportunities: 56
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 67
+**Total opportunities:** 56
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 64 |
-| 🎓 Free Certifications | 2 |
+| ❓ Uncategorized | 54 |
 | 💰 Bug Bounties | 1 |
+| 🎓 Free Certifications | 1 |
 
 ## 💰 Bug Bounties
 
@@ -35,12 +35,39 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
-- [ISC Stormcast For Thursday, September 24th, 2026 https://isc.sans.edu/podcastdetail/10108, (Thu, Sep 24th)](https://isc.sans.edu/diary/rss/33364)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [The SOC Doesn't Need to Start Over with Every Alert](https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html)
+  - Confidence: 🟫 LOW
+  - _Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry.  The routine _
+
+- [PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence](https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have flagged a new version of PamStealer that ensures that the main payload can only be recovered using a server-side decryption chain.  The latest artifacts, per Jamf Threat_
+
+- [Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware](https://thehackernews.com/2026/09/compromised-github-actions-came-back.html)
+  - Confidence: 🟫 LOW
+  - _Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised during the May 2026 Mini Shai-Hulud campaign_
+
+- [Rydox marketplace admin pleads guilty, faces 22 years in prison](https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/)
+  - Confidence: 🟫 LOW
+  - _A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]_
+
+- [Microsoft plans to deprecate Windows Deployment Services](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/)
+  - Confidence: 🟫 LOW
+  - _Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]_
+
+- [With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance](https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/)
+  - Confidence: 🟫 LOW
+  - _AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the s_
+
+- [OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/)
+  - Confidence: 🟫 LOW
+  - _OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]_
+
+- [Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/)
+  - Confidence: 🟫 LOW
+  - _Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage credits, so more users can give it a try. [...]_
 
 - [Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data](https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html)
   - Confidence: 🟫 LOW
@@ -225,75 +252,3 @@ tags:
 - [Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer](https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html)
   - Confidence: 🟫 LOW
   - _An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocume_
-
-- [ATT&CKing TACACS+ to Pwn Your Network via a Pre-Auth RCE - elttam](https://www.reddit.com/r/netsec/comments/1wnvaik/attcking_tacacs_to_pwn_your_network_via_a_preauth/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/AnimalStrange"> /u/AnimalStrange </a> <br /> <span><a href="https://www.elttam.com/blog/att-cking-tacacs-to-pwn-your-network-via-a-pre-aut_
-
-- [Inside Corp MDM, the Android spyware targeting logistics companies](https://www.reddit.com/r/netsec/comments/1wo6oo5/inside_corp_mdm_the_android_spyware_targeting/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/JDBHub"> /u/JDBHub </a> <br /> <span><a href="https://haveibeensquatted.com/blog/inside-corp-mdm-android-spyware-targeting-logisitics">[li_
-
-- [Leaked GitHub App private keys let researchers impersonate 440 apps including CDC and BuildBuddy](https://www.reddit.com/r/netsec/comments/1wnwy4b/leaked_github_app_private_keys_let_researchers/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/mabote"> /u/mabote </a> <br /> <span><a href="https://blog.gitguardian.com/github-app-private-keys-leaked/">[link]</a></span> &#32; <span>_
-
-- [Breaking the Superuser Guardrails of managed-PostgreSQL Providers](https://www.reddit.com/r/netsec/comments/1wogfid/breaking_the_superuser_guardrails_of/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/wtfse"> /u/wtfse </a> <br /> <span><a href="https://mehmetince.net/part-2-6-breaking-the-superuser-guardrails-attacking-security-hardening_
-
-- [Android 17 enables certificate transparency, and breaks custom CAs](https://www.reddit.com/r/netsec/comments/1wo4kk4/android_17_enables_certificate_transparency_and/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/ScottContini"> /u/ScottContini </a> <br /> <span><a href="https://httptoolkit.com/blog/android-17-certificate-transparency/">[link]</a></s_
-
-- [Is This A Joke? In The Auth Header? (F5 BIG-IP UnAuth Heap-Overflow to RCE CVE-2026-94127) - watchTowr Labs](https://www.reddit.com/r/netsec/comments/1woli59/is_this_a_joke_in_the_auth_header_f5_bigip_unauth/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/dx7r__"> /u/dx7r__ </a> <br /> <span><a href="https://labs.watchtowr.com/is-this-a-joke-in-the-auth-header-f5-big-ip-unauth-heap-overflow-_
-
-- [How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers](https://www.reddit.com/r/netsec/comments/1wp466a/how_cloudflare_addressed_a_crosstenant_data/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/natcoba"> /u/natcoba </a> <br /> <span><a href="https://blog.cloudflare.com/containers-cross-tenant-vulnerability/">[link]</a></span> &#32_
-
-- [One Tap Too Far: Using Shortcuts to Bypass Chrome for iOS Call Prompts](https://www.reddit.com/r/netsec/comments/1wp56y2/one_tap_too_far_using_shortcuts_to_bypass_chrome/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/nibblesec"> /u/nibblesec </a> <br /> <span><a href="https://blog.doyensec.com/2026/09/24/chrome-ios-policy-bypass.html">[link]</a></span> _
-
-- [Getting root on OnePlus 15 from an untrusted app, via an audio debug service and a vendor HAL](https://www.reddit.com/r/netsec/comments/1woylqf/getting_root_on_oneplus_15_from_an_untrusted_app/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/nns_ee"> /u/nns_ee </a> <br /> <span><a href="https://blog.nns.ee/2026/09/24/oneplus-root/">[link]</a></span> &#32; <span><a href="https:/_
-
-- [Uncensored Qwen 3.8 27b helped write a LSASS Dumper which bypassed EDR while I made myself coffee](https://www.reddit.com/r/netsec/comments/1wotpuj/uncensored_qwen_38_27b_helped_write_a_lsass/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/ezzzzz"> /u/ezzzzz </a> <br /> <span><a href="https://projectblack.io/blog/bypassing-edr-with-local-ai/">[link]</a></span> &#32; <span><a _
-
-- [Windows 11 KB5124010 update released with 46 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/)
-  - Confidence: 🟫 LOW
-  - _Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [.._
-
-- [Hackers now exploit critical Roundcube flaw in code injection attacks](https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/)
-  - Confidence: 🟫 LOW
-  - _A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]_
-
-- [FedRAMP VDR & VER: Daily Scans Are Only the Beginning](https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/)
-  - Confidence: 🟫 LOW
-  - _FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why th_
-
-- [Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure](https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure.  The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could al_
-
-- [TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords](https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants.  According t_
-
-- [OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files](https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html)
-  - Confidence: 🟫 LOW
-  - _An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister&nbsp;Anthony Albanese said.  The portal publishe_
-
-- [17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360](https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html)
-  - Confidence: 🟫 LOW
-  - _ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique f_
-
-- [One URL, Three Different Tricks, (Thu, Sep 24th)](https://isc.sans.edu/diary/rss/33366)
-  - Confidence: 🟫 LOW
-  - _<p>Yesterday, we received a phishing email with an interesting link. At first sight, it looks like garbage, but every piece of it has been carefully crafted to confuse basic security controls. Here is_
