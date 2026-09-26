@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-26
-date: 2026-09-26T10:47:24Z
+date: 2026-09-26T15:43:59Z
 type: radar-report
 report_type: fast
-total_opportunities: 53
+total_opportunities: 46
 tags:
   - radar
   - fast
@@ -13,14 +13,22 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 53
+**Total opportunities:** 46
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 47 |
-| 💰 Bug Bounties | 3 |
-| 🎓 Free Certifications | 2 |
+| ❓ Uncategorized | 41 |
+| 💰 Bug Bounties | 2 |
+| 🏰 CTF Competitions | 1 |
+| 🎓 Free Certifications | 1 |
 | 📦 Open Source Tools | 1 |
+
+## 🏰 CTF Competitions
+
+- [Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells](https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally.  The ShinyHunters-linked activity invol_
 
 ## 💰 Bug Bounties
 
@@ -34,22 +42,12 @@ tags:
   - Tags: `bug_bounty`
   - _<p>An attacker has been offering &#8220;desktop apps&#8221; for three large US payroll and HR platforms that have never released one, Allure Security have found. Anyone who runs the installer gets a c_
 
-- [WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV](https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`, `india_friendly`
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (K_
-
 ## 🎓 Free Certifications
 
 - [Half of threat hunters say bad data is their biggest problem](https://www.helpnetsecurity.com/2026/09/25/sans-threat-hunting-data-quality/)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
   - _<p>Half of security professionals name data quality or quantity as their biggest barrier to effective threat hunting, according to the SANS 2026 Threat Hunting Survey. Teams with working playbooks des_
-
-- [ISC Stormcast For Friday, September 25th, 2026 https://isc.sans.edu/podcastdetail/10110, (Fri, Sep 25th)](https://isc.sans.edu/diary/rss/33370)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## 📦 Open Source Tools
 
@@ -58,6 +56,18 @@ tags:
   - Tags: `open_source`
 
 ## ❓ Uncategorized
+
+- [Zero Trust for AI Agents Starts With Fixing Zero Visibility](https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html)
+  - Confidence: 🟫 LOW
+  - _The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents a_
+
+- [OpenAI's AI agents accidentally uploaded user-provided images to third-party sites](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/)
+  - Confidence: 🟫 LOW
+  - _OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]_
+
+- [GitHub Actions re-enabled with Mini Shai-Hulud payload still active](https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/)
+  - Confidence: 🟫 LOW
+  - _Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious_
 
 - [Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack](https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html)
   - Confidence: 🟫 LOW
@@ -210,39 +220,3 @@ tags:
 - [Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/)
   - Confidence: 🟫 LOW
   - _Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage credits, so more users can give it a try. [...]_
-
-- [Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data](https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html)
-  - Confidence: 🟫 LOW
-  - _A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday.  The _
-
-- [Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild](https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html)
-  - Confidence: 🟫 LOW
-  - _The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild.  The vulnerability in question is CVE-2026-48842 (CVSS sco_
-
-- [Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise](https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html)
-  - Confidence: 🟫 LOW
-  - _Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets.&nbsp;  "At 18:31 UTC on September 24, 2026, Bitget's security systems_
-
-- [A Closer Look at Malware From the Macfinger ClickFix Campaign, (Fri, Sep 25th)](https://isc.sans.edu/diary/rss/33368)
-  - Confidence: 🟫 LOW
-  - _<p><em><strong>Introduction</strong></em></p>&#xd;_
-
-- [How would you define your methodology for solving machines?](https://www.reddit.com/r/oscp/comments/1wpbz60/how_would_you_define_your_methodology_for_solving/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone! How are you doing?</p> <p>I’m currently preparing for the OSCP, which I’m planning to take in about a month, and I’ve been wondering:</p> <p>What kind o_
-
-- [SQLi](https://www.reddit.com/r/oscp/comments/1wpkima/sqli/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>What are good PG boxes to practice manual SQLi for the OSCP as sqlmap is not allowed? I would like to practice every methodology possible that could come up on the ex_
-
-- [Mandatory Post on Passing OSCP](https://www.reddit.com/r/oscp/comments/1wpop69/mandatory_post_on_passing_oscp/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey Everyone!</p> <p>I have passed my OSCP on first attempt. Havent received the confirmation email yet, but it has reflected on my portal showing my credentials that_
-
-- [Hackers steal $351.6 million in Bitget crypto exchange hack](https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/)
-  - Confidence: 🟫 LOW
-  - _​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]_
-
-- [Microsoft: Recent Windows updates cause desktop loading issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]_
