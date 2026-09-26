@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-26
-date: 2026-09-26T03:24:09Z
+date: 2026-09-26T10:47:24Z
 type: radar-report
 report_type: fast
-total_opportunities: 50
+total_opportunities: 53
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 50
+**Total opportunities:** 53
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 44 |
+| ❓ Uncategorized | 47 |
 | 💰 Bug Bounties | 3 |
 | 🎓 Free Certifications | 2 |
 | 📦 Open Source Tools | 1 |
@@ -58,6 +58,18 @@ tags:
   - Tags: `open_source`
 
 ## ❓ Uncategorized
+
+- [Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack](https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html)
+  - Confidence: 🟫 LOW
+  - _Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber a_
+
+- [SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild](https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) ca_
+
+- [Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link](https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html)
+  - Confidence: 🟫 LOW
+  - _Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts_
 
 - [U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/)
   - Confidence: 🟫 LOW
