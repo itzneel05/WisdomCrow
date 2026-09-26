@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-26
-date: 2026-09-26T15:43:59Z
+date: 2026-09-26T20:38:20Z
 type: radar-report
 report_type: fast
-total_opportunities: 46
+total_opportunities: 42
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 46
+**Total opportunities:** 42
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 41 |
+| ❓ Uncategorized | 37 |
 | 💰 Bug Bounties | 2 |
 | 🏰 CTF Competitions | 1 |
 | 🎓 Free Certifications | 1 |
@@ -56,6 +56,22 @@ tags:
   - Tags: `open_source`
 
 ## ❓ Uncategorized
+
+- [Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials](https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html)
+  - Confidence: 🟫 LOW
+  - _The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex._
+
+- [Microsoft pauses KB5002907 update after Office license deactivations](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations._
+
+- [Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/)
+  - Confidence: 🟫 LOW
+  - _Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]_
+
+- [ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/)
+  - Confidence: 🟫 LOW
+  - _The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume wid_
 
 - [Zero Trust for AI Agents Starts With Fixing Zero Visibility](https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html)
   - Confidence: 🟫 LOW
@@ -188,35 +204,3 @@ tags:
 - [ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw](https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/)
   - Confidence: 🟫 LOW
   - _The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has_
-
-- [The SOC Doesn't Need to Start Over with Every Alert](https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html)
-  - Confidence: 🟫 LOW
-  - _Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry.  The routine _
-
-- [PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence](https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have flagged a new version of PamStealer that ensures that the main payload can only be recovered using a server-side decryption chain.  The latest artifacts, per Jamf Threat_
-
-- [Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware](https://thehackernews.com/2026/09/compromised-github-actions-came-back.html)
-  - Confidence: 🟫 LOW
-  - _Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised during the May 2026 Mini Shai-Hulud campaign_
-
-- [Rydox marketplace admin pleads guilty, faces 22 years in prison](https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/)
-  - Confidence: 🟫 LOW
-  - _A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]_
-
-- [Microsoft plans to deprecate Windows Deployment Services](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/)
-  - Confidence: 🟫 LOW
-  - _Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]_
-
-- [With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance](https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/)
-  - Confidence: 🟫 LOW
-  - _AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the s_
-
-- [OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/)
-  - Confidence: 🟫 LOW
-  - _OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]_
-
-- [Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/)
-  - Confidence: 🟫 LOW
-  - _Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage credits, so more users can give it a try. [...]_
