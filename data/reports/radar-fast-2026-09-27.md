@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-27
-date: 2026-09-27T16:22:20Z
+date: 2026-09-27T20:50:41Z
 type: radar-report
 report_type: fast
-total_opportunities: 21
+total_opportunities: 18
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 21
+**Total opportunities:** 18
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 11 |
 | 💰 Bug Bounties | 10 |
+| ❓ Uncategorized | 8 |
 
 ## 💰 Bug Bounties
 
@@ -74,6 +74,10 @@ tags:
 
 ## ❓ Uncategorized
 
+- [Citrix confirms two NetScaler RCE zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/)
+  - Confidence: 🟫 LOW
+  - _Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security u_
+
 - [Wireshark 4.6.9 Released, (Sun, Sep 27th)](https://isc.sans.edu/diary/rss/33372)
   - Confidence: 🟫 LOW
   - _<p>Wireshark release <a href="https://www.wireshark.org/docs/relnotes/wireshark-4.6.9.html">4.6.9</a> fixes 19 vulnerabilities and 16 bugs.</p>&#xd;_
@@ -101,19 +105,3 @@ tags:
 - [China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks](https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/)
   - Confidence: 🟫 LOW
   - _<p>The US and China agreed to set up a communication mechanism for artificial intelligence-related incidents.</p> <p>The post <a href="https://www.securityweek.com/china-and-us-agree-to-establish-ai-s_
-
-- [Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials](https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html)
-  - Confidence: 🟫 LOW
-  - _The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex._
-
-- [Microsoft pauses KB5002907 update after Office license deactivations](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations._
-
-- [Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/)
-  - Confidence: 🟫 LOW
-  - _Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]_
-
-- [ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/)
-  - Confidence: 🟫 LOW
-  - _The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume wid_
