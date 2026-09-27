@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-27
-date: 2026-09-27T03:33:09Z
+date: 2026-09-27T11:21:51Z
 type: radar-report
 report_type: fast
-total_opportunities: 23
+total_opportunities: 21
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 23
+**Total opportunities:** 21
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 13 |
+| ❓ Uncategorized | 11 |
 | 💰 Bug Bounties | 9 |
 | 🏰 CTF Competitions | 1 |
 
@@ -77,6 +77,10 @@ tags:
 
 ## ❓ Uncategorized
 
+- [Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation](https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html)
+  - Confidence: 🟫 LOW
+  - _Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr s_
+
 - [OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure](https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/)
   - Confidence: 🟫 LOW
   - _<p>OpenAI’s CEO said there is an “extensive and ongoing review related to our agents’ use of internet access during training and evaluation.”</p> <p>The post <a href="https://www.securityweek.com/open_
@@ -116,15 +120,3 @@ tags:
 - [GitHub Actions re-enabled with Mini Shai-Hulud payload still active](https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/)
   - Confidence: 🟫 LOW
   - _Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious_
-
-- [Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack](https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html)
-  - Confidence: 🟫 LOW
-  - _Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber a_
-
-- [SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild](https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) ca_
-
-- [Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link](https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html)
-  - Confidence: 🟫 LOW
-  - _Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts_
