@@ -1,6 +1,6 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-27
-date: 2026-09-27T11:21:51Z
+date: 2026-09-27T16:22:20Z
 type: radar-report
 report_type: fast
 total_opportunities: 21
@@ -18,15 +18,7 @@ tags:
 | Category | Count |
 |----------|-------|
 | ❓ Uncategorized | 11 |
-| 💰 Bug Bounties | 9 |
-| 🏰 CTF Competitions | 1 |
-
-## 🏰 CTF Competitions
-
-- [Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells](https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally.  The ShinyHunters-linked activity invol_
+| 💰 Bug Bounties | 10 |
 
 ## 💰 Bug Bounties
 
@@ -75,7 +67,24 @@ tags:
   - Tags: `bug_bounty`
   - _<!-- SC_OFF --><div class="md"><p>So, pretty much anyone who's doing research on BBs today (as opposed to promoting their tools or monetised youtube channel ;) is aware that it is a shit show, where n_
 
+- [Citrix admins warned to shut down NetScalers over 2 exploited zero-days](https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _Two unpatched Citrix NetScaler zero-day vulnerabilities are reportedly being exploited in attacks, with cybersecurity agencies, security researchers, and IT providers privately warning organizations a_
+
 ## ❓ Uncategorized
+
+- [Wireshark 4.6.9 Released, (Sun, Sep 27th)](https://isc.sans.edu/diary/rss/33372)
+  - Confidence: 🟫 LOW
+  - _<p>Wireshark release <a href="https://www.wireshark.org/docs/relnotes/wireshark-4.6.9.html">4.6.9</a> fixes 19 vulnerabilities and 16 bugs.</p>&#xd;_
+
+- [Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/)
+  - Confidence: 🟫 LOW
+  - _Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]_
+
+- [Cloudflare fixes Containers cross-tenant flaw exposing customer data](https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/)
+  - Confidence: 🟫 LOW
+  - _Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host._
 
 - [Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation](https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html)
   - Confidence: 🟫 LOW
@@ -108,15 +117,3 @@ tags:
 - [ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/)
   - Confidence: 🟫 LOW
   - _The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume wid_
-
-- [Zero Trust for AI Agents Starts With Fixing Zero Visibility](https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html)
-  - Confidence: 🟫 LOW
-  - _The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents a_
-
-- [OpenAI's AI agents accidentally uploaded user-provided images to third-party sites](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/)
-  - Confidence: 🟫 LOW
-  - _OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]_
-
-- [GitHub Actions re-enabled with Mini Shai-Hulud payload still active](https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/)
-  - Confidence: 🟫 LOW
-  - _Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious_
