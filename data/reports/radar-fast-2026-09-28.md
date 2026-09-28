@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-28
-date: 2026-09-28T03:31:30Z
+date: 2026-09-28T12:51:09Z
 type: radar-report
 report_type: fast
-total_opportunities: 34
+total_opportunities: 31
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 34
+**Total opportunities:** 31
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 19 |
-| 💰 Bug Bounties | 10 |
+| ❓ Uncategorized | 25 |
 | 🏰 CTF Competitions | 4 |
+| 💰 Bug Bounties | 1 |
 | 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
@@ -46,51 +46,6 @@ tags:
 
 ## 💰 Bug Bounties
 
-- [Exposed g map api key](https://www.reddit.com/r/bugbounty/comments/1wpswb7/exposed_g_map_api_key/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Does exposed g map api key in client side js count as vulnerability?</p> <p>Yes ,I can render map and api calls using that key</p> <p>Does organisation use same key f_
-
-- [Quick question / favor regarding a US phone number for verification](https://www.reddit.com/r/bugbounty/comments/1wpx3aq/quick_question_favor_regarding_a_us_phone_number/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><blockquote> <p>​Hello everyone! I am trying to sign up for a platform (Cantina) that requires a US phone number for SMS verification, but I don't have one as I am locat_
-
-- [Why you're not finding bugs even though you know the vulns](https://www.reddit.com/r/bugbounty/comments/1wqcb9s/why_youre_not_finding_bugs_even_though_you_know/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/bugbounty/comments/1wqcb9s/why_youre_not_finding_bugs_even_though_you_know/"> <img alt="Why you're not finding bugs even though you know the vulns" s_
-
-- [Need advice: all security contact emails are bouncing what would you do?](https://www.reddit.com/r/bugbounty/comments/1wq0380/need_advice_all_security_contact_emails_are/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone, I could use some advice from other security researchers.<br /> I found a security issue on a smaller platform that appears to have a legitimate vulnerab_
-
-- [Bugcrowd collaboration: split set up but points only go to the submitter?](https://www.reddit.com/r/bugbounty/comments/1wq981u/bugcrowd_collaboration_split_set_up_but_points/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Hey all, quick question about Bugcrowd collaborative submissions.</p> <p>The docs say collaborators split both monetary rewards and points. But this is the 2nd/3rd ti_
-
-- [how can I avoid dups ?](https://www.reddit.com/r/bugbounty/comments/1wq3j5q/how_can_i_avoid_dups/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>How can I avoid dups? In the last month I submitted around 4 findings, all of em were closed as a dup !? I usually check the hackactivity of the program before testin_
-
-- [Caido returns 400 "Protocol error"](https://www.reddit.com/r/bugbounty/comments/1wqj9fq/caido_returns_400_protocol_error/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/bugbounty/comments/1wqj9fq/caido_returns_400_protocol_error/"> <img alt="Caido returns 400 &quot;Protocol error&quot;" src="https://preview.redd.it/i_
-
-- [Is hunting on VDPs worth?](https://www.reddit.com/r/bugbounty/comments/1wqxgra/is_hunting_on_vdps_worth/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Do H1 and Bugcrowd provide rep/point for submitting a valid vulnerability? Do we really get private invites by hunting on VDPs?</p> </div><!-- SC_ON --> &#32; submitt_
-
-- ["Take what you can, give nothing back"](https://www.reddit.com/r/bugbounty/comments/1wqmisi/take_what_you_can_give_nothing_back/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>So, pretty much anyone who's doing research on BBs today (as opposed to promoting their tools or monetised youtube channel ;) is aware that it is a shit show, where n_
-
 - [Citrix admins warned to shut down NetScalers over 2 exploited zero-days](https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
@@ -104,6 +59,34 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally](https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Sunday added two critical Citrix NetScaler ADC and Gateway flaws to its Known Exploited Vulnerabilities (KEV) catalog, following rep_
+
+- [JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources](https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html)
+  - Confidence: 🟫 LOW
+  - _The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals.  Microsoft, which is tracking the ac_
+
+- [Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent](https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework _
+
+- [Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI](https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html)
+  - Confidence: 🟫 LOW
+  - _AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems—often without the same con_
+
+- [CISA orders feds to patch exploited Citrix flaws by Wednesday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/)
+  - Confidence: 🟫 LOW
+  - _The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulne_
+
+- [US soldier gets 70 months in prison for extorting 10 tech, telecom firms](https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/)
+  - Confidence: 🟫 LOW
+  - _A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]_
+
+- [Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist](https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/)
+  - Confidence: 🟫 LOW
+  - _Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]_
 
 - [Beginner looking for guidance to tackle the CEH theory exam](https://www.reddit.com/r/hackthebox/comments/1wqro0a/beginner_looking_for_guidance_to_tackle_the_ceh/)
   - Confidence: 🟫 LOW
@@ -176,7 +159,3 @@ tags:
 - [Cloudflare fixes Containers cross-tenant flaw exposing customer data](https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/)
   - Confidence: 🟫 LOW
   - _Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host._
-
-- [Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation](https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html)
-  - Confidence: 🟫 LOW
-  - _Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr s_
