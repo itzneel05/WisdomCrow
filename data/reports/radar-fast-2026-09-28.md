@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-28
-date: 2026-09-28T12:51:09Z
+date: 2026-09-28T22:56:29Z
 type: radar-report
 report_type: fast
-total_opportunities: 31
+total_opportunities: 37
 tags:
   - radar
   - fast
@@ -13,13 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 31
+**Total opportunities:** 37
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 25 |
-| 🏰 CTF Competitions | 4 |
-| 💰 Bug Bounties | 1 |
+| ❓ Uncategorized | 31 |
+| 🏰 CTF Competitions | 5 |
 | 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
@@ -34,6 +33,11 @@ tags:
   - Tags: `ctf`
   - _<!-- SC_OFF --><div class="md"><p><strong>F0LD CTF Team is opening its second wave of recruitment.</strong><br /> A few weeks ago, we started building something that grew much faster than we expected._
 
+- [⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats](https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`, `india_friendly`
+  - _A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assump_
+
 - [Need help solving MakeSense machine.](https://www.reddit.com/r/hackthebox/comments/1wqtumj/need_help_solving_makesense_machine/)
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
@@ -44,13 +48,6 @@ tags:
   - Tags: `ctf`
   - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1wrem5w/pwnd_layover/"> <img alt="Pwn'd Layover" src="https://preview.redd.it/epufc3d7u0sh1.png?width=640&amp;crop=smart&amp;auto_
 
-## 💰 Bug Bounties
-
-- [Citrix admins warned to shut down NetScalers over 2 exploited zero-days](https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _Two unpatched Citrix NetScaler zero-day vulnerabilities are reportedly being exploited in attacks, with cybersecurity agencies, security researchers, and IT providers privately warning organizations a_
-
 ## 🎓 Free Certifications
 
 - [ISC Stormcast For Monday, September 28th, 2026 https://isc.sans.edu/podcastdetail/10112, (Mon, Sep 28th)](https://isc.sans.edu/diary/rss/33374)
@@ -59,6 +56,58 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims](https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html)
+  - Confidence: 🟫 LOW
+  - _RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has&nbsp;traced nearly 100 deployments&nbsp_
+
+- [Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M](https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html)
+  - Confidence: 🟫 LOW
+  - _The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday.  The_
+
+- [IAM for AI agents: A Practical Enterprise Framework](https://thehackernews.com/2026/09/iam-for-ai-agent.html)
+  - Confidence: 🟫 LOW
+  - _What is IAM for AI agents?  AI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those _
+
+- [Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks](https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html)
+  - Confidence: 🟫 LOW
+  - _Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in&nbsp;a technical analysis.  The malware has been seen in a s_
+
+- [Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks](https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html)
+  - Confidence: 🟫 LOW
+  - _Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks.  The vulnerability, tracked as CVE-_
+
+- [Apple Emergency Patch for iOS 26, macOS26, macOS15 (CVE-2026-86950), (Mon, Sep 28th)](https://isc.sans.edu/diary/rss/33376)
+  - Confidence: 🟫 LOW
+  - _<p>Apple today released patches for all of its operating systems. However, only patches for older branches include a security fix. The vulnerability being addressed in iOS 26, macOS 26 and macOS 15 is_
+
+- [Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation](https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/)
+  - Confidence: 🟫 LOW
+  - _Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediate_
+
+- [80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking](https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/)
+  - Confidence: 🟫 LOW
+  - _Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing m_
+
+- [JadePuffer agentic AI attacks target Azure, destroy cloud resources](https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/)
+  - Confidence: 🟫 LOW
+  - _The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...]_
+
+- [Over 16,000 Supabase databases expose PII, passwords, auth tokens](https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/)
+  - Confidence: 🟫 LOW
+  - _Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]_
+
+- [Dutch police confirm arrest in ShinyHunters hacking investigation](https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/)
+  - Confidence: 🟫 LOW
+  - _Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...]_
+
+- [Times Car confirms data breach affecting 6.6 million user accounts](https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/)
+  - Confidence: 🟫 LOW
+  - _Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...]_
+
+- [Japan's Keio confirms ransomware attack disrupted business systems](https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/)
+  - Confidence: 🟫 LOW
+  - _Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting  some of its business systems. [...]_
 
 - [CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally](https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html)
   - Confidence: 🟫 LOW
@@ -131,31 +180,3 @@ tags:
 - [OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/)
   - Confidence: 🟫 LOW
   - _OpenAI is testing a new always-on assistant called "o", and references to the unannounced feature briefly showed up on the company's website. [...]_
-
-- [Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks](https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _<p>CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28.</p> <p>The post <a href="https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-6_
-
-- [Week in review: Gyazo breach exposes 23.6M user data, TASK#STOMP steals documents](https://www.helpnetsecurity.com/2026/09/27/week-in-review-gyazo-breach-exposes-23-6m-user-data-taskstomp-steals-documents/)
-  - Confidence: 🟫 LOW
-  - _<p>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Know what was tested before your SAP ECC migration goes live In this Help Net Security interview, G_
-
-- [How the CISO CFO Relationship is a Key to Cybersecurity Success](https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success)
-  - Confidence: 🟫 LOW
-  - _Building a financial bridge: Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk and enable business growth are better prepared to face today's threat lan_
-
-- [Citrix confirms two NetScaler RCE zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/)
-  - Confidence: 🟫 LOW
-  - _Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security u_
-
-- [Wireshark 4.6.9 Released, (Sun, Sep 27th)](https://isc.sans.edu/diary/rss/33372)
-  - Confidence: 🟫 LOW
-  - _<p>Wireshark release <a href="https://www.wireshark.org/docs/relnotes/wireshark-4.6.9.html">4.6.9</a> fixes 19 vulnerabilities and 16 bugs.</p>&#xd;_
-
-- [Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/)
-  - Confidence: 🟫 LOW
-  - _Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]_
-
-- [Cloudflare fixes Containers cross-tenant flaw exposing customer data](https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/)
-  - Confidence: 🟫 LOW
-  - _Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host._
