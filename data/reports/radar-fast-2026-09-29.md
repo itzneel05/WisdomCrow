@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-29
-date: 2026-09-29T04:06:01Z
+date: 2026-09-29T12:06:05Z
 type: radar-report
 report_type: fast
-total_opportunities: 49
+total_opportunities: 57
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 49
+**Total opportunities:** 57
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 45 |
-| 💰 Bug Bounties | 2 |
+| ❓ Uncategorized | 52 |
+| 💰 Bug Bounties | 3 |
 | 🏰 CTF Competitions | 1 |
 | 🎓 Free Certifications | 1 |
 
@@ -30,6 +30,11 @@ tags:
   - _A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assump_
 
 ## 💰 Bug Bounties
+
+- [10 years of Intigriti](https://www.intigriti.com/blog/news/10-years-of-intigriti)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _In the summer of 2026, Intigriti celebrated a major milestone: its 10th anniversary! To mark the occasion, the team came together from around the globe. This article shares what they had to say about _
 
 - [CVE-2026-85706: GitLab Unauthenticated Arbitrary File Read via the Repository Commits API](https://www.offsec.com/blog/cve-2026-85706/)
   - Confidence: 🟡 MEDIUM
@@ -49,6 +54,34 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot](https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html)
+  - Confidence: 🟫 LOW
+  - _OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loo_
+
+- [OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions](https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html)
+  - Confidence: 🟫 LOW
+  - _OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audi_
+
+- [Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials](https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html)
+  - Confidence: 🟫 LOW
+  - _A malicious MCP server could trick an application built on the official&nbsp;MCP Python SDK&nbsp;into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said_
+
+- [Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation](https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html)
+  - Confidence: 🟫 LOW
+  - _Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group.  "It is true that this month a 24-year-old man from Amsterdam was arrest_
+
+- [Apple patches CoreGraphics zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _Apple released security updates to fix a zero-day vulnerability exploited in "extremely sophisticated" targeted attacks on iOS devices. [...]_
+
+- [Kiteworks patches critical flaw, brings customer systems online](https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/)
+  - Confidence: 🟫 LOW
+  - _American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]_
+
+- [Vietnamese man charged in $16 million 'pig butchering' crypto scam](https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/)
+  - Confidence: 🟫 LOW
+  - _A Vietnamese national was charged with money laundering for his role in a massive "pig butchering" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]_
 
 - [Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug](https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/)
   - Confidence: 🟫 LOW
