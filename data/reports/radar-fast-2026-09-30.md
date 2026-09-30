@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-30
-date: 2026-09-30T11:54:14Z
+date: 2026-09-30T17:35:10Z
 type: radar-report
 report_type: fast
-total_opportunities: 93
+total_opportunities: 94
 tags:
   - radar
   - fast
@@ -13,16 +13,21 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 93
+**Total opportunities:** 94
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 77 |
-| 🏰 CTF Competitions | 13 |
-| 💰 Bug Bounties | 2 |
-| 🎓 Free Certifications | 1 |
+| ❓ Uncategorized | 76 |
+| 🏰 CTF Competitions | 14 |
+| 🎓 Free Certifications | 3 |
+| 💰 Bug Bounties | 1 |
 
 ## 🏰 CTF Competitions
+
+- [5 Insights from a CTF Winner on High-Performing Teams](https://www.hackthebox.com/blog/5-insights-from-a-ctf-winner)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/5-insights-from-a-ctf-winner" title=""> <img alt="5 Insights from a CTF Winner on High_
 
 - [ctf](https://www.reddit.com/r/securityCTF/comments/1ws68zf/ctf/)
   - Confidence: 🟢 HIGH
@@ -91,11 +96,6 @@ tags:
 
 ## 💰 Bug Bounties
 
-- [10 years of Intigriti](https://www.intigriti.com/blog/news/10-years-of-intigriti)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _In the summer of 2026, Intigriti celebrated a major milestone: its 10th anniversary! To mark the occasion, the team came together from around the globe. This article shares what they had to say about _
-
 - [Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution](https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
@@ -103,12 +103,46 @@ tags:
 
 ## 🎓 Free Certifications
 
+- [Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager](https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on September_
+
+- [Cisco warns of new SD-WAN zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]_
+
 - [ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)](https://isc.sans.edu/diary/rss/33384)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Know Your Enemy: Browser-Based Attack Techniques in 2026](https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html)
+  - Confidence: 🟫 LOW
+  - _Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, wi_
+
+- [Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures](https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.  Huntre_
+
+- [TeamViewer urges users to patch severe flaws “as soon as possible”](https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/)
+  - Confidence: 🟫 LOW
+  - _Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]_
+
+- [Microsoft to block Entra ID script injection attacks starting October](https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]_
+
+- [AI's Third Wave: Coworkers Break the Security Model That Worked for Agents](https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/)
+  - Confidence: 🟫 LOW
+  - _Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need _
+
+- [CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service c_
 
 - [OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted](https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html)
   - Confidence: 🟫 LOW
@@ -389,31 +423,3 @@ tags:
 - [Signal adds encypted local backup support to iOS, desktop apps](https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/)
   - Confidence: 🟫 LOW
   - _Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]_
-
-- [OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot](https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html)
-  - Confidence: 🟫 LOW
-  - _OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loo_
-
-- [OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions](https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html)
-  - Confidence: 🟫 LOW
-  - _OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audi_
-
-- [Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials](https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html)
-  - Confidence: 🟫 LOW
-  - _A malicious MCP server could trick an application built on the official&nbsp;MCP Python SDK&nbsp;into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said_
-
-- [Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation](https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html)
-  - Confidence: 🟫 LOW
-  - _Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group.  "It is true that this month a 24-year-old man from Amsterdam was arrest_
-
-- [Apple patches CoreGraphics zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _Apple released security updates to fix a zero-day vulnerability exploited in "extremely sophisticated" targeted attacks on iOS devices. [...]_
-
-- [Kiteworks patches critical flaw, brings customer systems online](https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/)
-  - Confidence: 🟫 LOW
-  - _American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]_
-
-- [Vietnamese man charged in $16 million 'pig butchering' crypto scam](https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/)
-  - Confidence: 🟫 LOW
-  - _A Vietnamese national was charged with money laundering for his role in a massive "pig butchering" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]_
