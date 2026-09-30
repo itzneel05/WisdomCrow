@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-30
-date: 2026-09-30T17:35:10Z
+date: 2026-09-30T21:52:19Z
 type: radar-report
 report_type: fast
-total_opportunities: 94
+total_opportunities: 99
 tags:
   - radar
   - fast
@@ -13,16 +13,22 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 94
+**Total opportunities:** 99
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 76 |
-| 🏰 CTF Competitions | 14 |
+| ❓ Uncategorized | 77 |
+| 🏰 CTF Competitions | 17 |
 | 🎓 Free Certifications | 3 |
+| 🎮 Arcade & Gamified Events | 1 |
 | 💰 Bug Bounties | 1 |
 
 ## 🏰 CTF Competitions
+
+- [I'm hosting a Halloween LIVE CTF event in New York](https://www.reddit.com/r/hackthebox/comments/1wt4e0v/im_hosting_a_halloween_live_ctf_event_in_new_york/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>Im hosting a cool hacker CTF event! Its going to be the first-ever Security Haunted House...Enter if you dare. (I'll be there!) </p> <p>• Immersive visual haunted hou_
 
 - [5 Insights from a CTF Winner on High-Performing Teams](https://www.hackthebox.com/blog/5-insights-from-a-ctf-winner)
   - Confidence: 🟢 HIGH
@@ -84,15 +90,25 @@ tags:
   - Tags: `ctf`, `india_friendly`
   - _<!-- SC_OFF --><div class="md"><p>Hey folks, wanted to make sure everyone knew about an upcoming CTF Huntress offers each year. It's a great opportunity for practice for folks looking to develop their_
 
-- [ByteMe CTF 26](https://ctftime.org/event/3438)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`, `india_friendly`
-  - _Name: ByteMe CTF 26 (an <a href="/ctf/1678">ByteMe CTF</a> event.)<br /> Date: Oct. 9, 2026, 4:30 a.m. &mdash; 09 Oct. 2026, 12:30 UTC &nbsp;<a href="/event/3438.ics">[add to calendar]</a><br /> Forma_
-
-- [Hackers exploit Citrix NetScaler zero-day to deploy web shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/)
+- [Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets](https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
-  - _Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into interna_
+  - _Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research t_
+
+- [I cant figure out how to get the flag in the nmap course ( 6/12, Service enumeration)](https://www.reddit.com/r/hackthebox/comments/1wteh0j/i_cant_figure_out_how_to_get_the_flag_in_the_nmap/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>Ive been stuck on this for a while. When I scan the ip, i returns the &quot;0 hosts up&quot;, but when i use the -Pn flag, it doesnt show me any open ports anyway. Iv_
+
+- [Pwn3d Faraday Fortress!!](https://www.reddit.com/r/hackthebox/comments/1wu0f3q/pwn3d_faraday_fortress/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1wu0f3q/pwn3d_faraday_fortress/"> <img alt="Pwn3d Faraday Fortress!!" src="https://preview.redd.it/t15asf4hmmsh1.png?width=640&am_
+
+- [Passed CPTS 14/14 on my first attempt. Wrote up the full nine month journey, including the flag that cost me two days.](https://www.reddit.com/r/hackthebox/comments/1wtuz40/passed_cpts_1414_on_my_first_attempt_wrote_up_the/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`, `india_friendly`
+  - _<!-- SC_OFF --><div class="md"><p>Passed in June, 14 of 14, first attempt. I had been meaning to write it up for months and finally did.</p> <p>Rather than repeat the whole thing here, the four things_
 
 ## 💰 Bug Bounties
 
@@ -118,7 +134,74 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
+## 🎮 Arcade & Gamified Events
+
+- [when will i get my rewards for the last season](https://www.reddit.com/r/hackthebox/comments/1wu23ez/when_will_i_get_my_rewards_for_the_last_season/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `arcade`
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Stapat1245"> /u/Stapat1245 </a> <br /> <span><a href="/r/hackthebox/comments/1wcqakr/when_will_i_get_my_rewards_for_the_last_season/">[lin_
+
 ## ❓ Uncategorized
+
+- [Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks](https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html)
+  - Confidence: 🟫 LOW
+  - _Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software u_
+
+- [Xfreerdp laggy](https://www.reddit.com/r/hackthebox/comments/1wss3t9/xfreerdp_laggy/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hello everyone<br /> every time when im doing a Machine or CTF on HTB and it has RDP on its extremely laggy when im trying to do something on it like moving a frame o_
+
+- [Looking for a cybersecurity study partner / Marrakech](https://www.reddit.com/r/hackthebox/comments/1wss590/looking_for_a_cybersecurity_study_partner/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I'm preparing for the CPTS and I'm looking for local friends living in Marrakech (Morocco) to learn and practice with</p> <p>If you are interested and have already fi_
+
+- [SysReptor COAE Template vs. Traditional HTB Pentest Template](https://www.reddit.com/r/hackthebox/comments/1wt92yv/sysreptor_coae_template_vs_traditional_htb/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>I am about to attempt the COAE exam and noticed discrepancies in the COAE report using the official SysReptor template VS the HTB sample reports (in th_
+
+- [why is the CPTS "Getting Started" module so difficult?](https://www.reddit.com/r/hackthebox/comments/1wsu5me/why_is_the_cpts_getting_started_module_so/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I am mainly doing this for fun, I don't really care about being certified or getting a job as a pentester. I enrolled in the Penetration Tester course assuming it wou_
+
+- [Layover HTB MACHINE](https://www.reddit.com/r/hackthebox/comments/1wtexxw/layover_htb_machine/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey there guys im reaching out because I feel like after hours and hours of banging my head into a wall im missing something very small I have accessed pretty much ev_
+
+- [VPN vs PwnBox](https://www.reddit.com/r/hackthebox/comments/1wt9xep/vpn_vs_pwnbox/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I gave competed CPTS module. Now, I would go for the CTPS Path Boxes before i go for the actual test. But, throughout the course, i felt that the choice using VPN ins_
+
+- [DarkZeroReturns has been Pwned](https://www.reddit.com/r/hackthebox/comments/1wtbwcl/darkzeroreturns_has_been_pwned/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1wtbwcl/darkzeroreturns_has_been_pwned/"> <img alt="DarkZeroReturns has been Pwned" src="https://external-preview.redd.it/7LV10A4_
+
+- [HackTheBox SmartHire Writeup](https://www.reddit.com/r/hackthebox/comments/1wtkwii/hackthebox_smarthire_writeup/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Another week means another writeup :) </p> <p>So this post I briefly show my methodology solving HackTheBox Smarthire which is Medium-difficulty Ubuntu 22.04 Linux bo_
+
+- [COAE #Physical certificate finally arrived!](https://www.reddit.com/r/hackthebox/comments/1wsyii7/coae_physical_certificate_finally_arrived/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1wsyii7/coae_physical_certificate_finally_arrived/"> <img alt="COAE #Physical certificate finally arrived!" src="https://preview._
+
+- [CDSA Exam Prep](https://www.reddit.com/r/hackthebox/comments/1wu4ba7/cdsa_exam_prep/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I am going for the CDSA exam, but my only weak area is malware analysis as I don't enjoy it and I feel is it hard. How much might this part bring me down?</p> <p>I am_
+
+- [how bad could my gpu be to reach this point?](https://www.reddit.com/r/hackthebox/comments/1wufluw/how_bad_could_my_gpu_be_to_reach_this_point/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1wufluw/how_bad_could_my_gpu_be_to_reach_this_point/"> <img alt="how bad could my gpu be to reach this point?" src="https://previ_
+
+- [Over 543,000 valid credentials exposed in public GitHub repositories](https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/)
+  - Confidence: 🟫 LOW
+  - _More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]_
+
+- [DIVD says Zammad zero-days enabled AI-driven network breach](https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/)
+  - Confidence: 🟫 LOW
+  - _The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing syste_
+
+- [Russian state hackers use new RedFlick technique to push malware](https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/)
+  - Confidence: 🟫 LOW
+  - _The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed "RedFlick" to deploy its signature CosmicPulse backdoor. [...]_
 
 - [Know Your Enemy: Browser-Based Attack Techniques in 2026](https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html)
   - Confidence: 🟫 LOW
@@ -367,59 +450,3 @@ tags:
 - [Apple Zero-Day Vulnerability Weaponized in Targeted Attacks](https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks)
   - Confidence: 🟫 LOW
   - _Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple._
-
-- [101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent](https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub.  "The malicious packages abuse the_
-
-- [Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown](https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html)
-  - Confidence: 🟫 LOW
-  - _Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown. _
-
-- [Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor](https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html)
-  - Confidence: 🟫 LOW
-  - _Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers,&nbsp;according to Microsoft.  The campaigns, _
-
-- [New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses](https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html)
-  - Confidence: 🟫 LOW
-  - _A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, langua_
-
-- [French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks](https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html)
-  - Confidence: 🟫 LOW
-  - _An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July.  Neither the tax administration nor Fr_
-
-- [Scans for Wordfence Protected Websites, (Tue, Sep 29th)](https://isc.sans.edu/diary/rss/33382)
-  - Confidence: 🟫 LOW
-  - _<p>Starting yesterday, our sensors picked up a small number of scans for "wordfence-waf.php". This particular script is used by Wordfence, a solution to protect WordPress sites. During the Wordfence i_
-
-- [Catch threats before they escalate with real-time Identity Telemetry](https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/)
-  - Confidence: 🟫 LOW
-  - _Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security_
-
-- [Automated AI agent used to breach cybersecurity nonprofit DIVD](https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/)
-  - Confidence: 🟫 LOW
-  - _The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as "loud and very, very messy." [...]_
-
-- [New Spectre v2 attack variant leaks Linux root password hash in minutes](https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/)
-  - Confidence: 🟫 LOW
-  - _A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]_
-
-- [Windows 11 2026 Update released, here's everything you need to know](https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]_
-
-- [Former US Air Force members sent to prison over BEC attacks](https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/)
-  - Confidence: 🟫 LOW
-  - _Two former members of the United States Air Force were sentenced to a combined 189 months in federal prison for their roles in a multi-year series of business email compromise (BEC) scams and phishing_
-
-- [FBI tells ShinyHunters members to turn themselves in after recent arrest](https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/)
-  - Confidence: 🟫 LOW
-  - _The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]_
-
-- [Custom ChatGPTs push ClickFix attacks to deploy RAT malware](https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/)
-  - Confidence: 🟫 LOW
-  - _Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]_
-
-- [Signal adds encypted local backup support to iOS, desktop apps](https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/)
-  - Confidence: 🟫 LOW
-  - _Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]_
