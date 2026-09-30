@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-09-30
-date: 2026-09-30T03:54:03Z
+date: 2026-09-30T11:54:14Z
 type: radar-report
 report_type: fast
-total_opportunities: 88
+total_opportunities: 93
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 88
+**Total opportunities:** 93
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 72 |
+| ❓ Uncategorized | 77 |
 | 🏰 CTF Competitions | 13 |
-| 🎓 Free Certifications | 2 |
-| 💰 Bug Bounties | 1 |
+| 💰 Bug Bounties | 2 |
+| 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -96,6 +96,11 @@ tags:
   - Tags: `bug_bounty`
   - _In the summer of 2026, Intigriti celebrated a major milestone: its 10th anniversary! To mark the occasion, the team came together from around the globe. This article shares what they had to say about _
 
+- [Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution](https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild.  The vu_
+
 ## 🎓 Free Certifications
 
 - [ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)](https://isc.sans.edu/diary/rss/33384)
@@ -103,12 +108,27 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
-- [ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114, (Tue, Sep 29th)](https://isc.sans.edu/diary/rss/33378)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted](https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html)
+  - Confidence: 🟫 LOW
+  - _A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program,&nbsp;OpenSSL said&nbsp;on September 29 as it released fixes.  DTLS, the TLS variant used _
+
+- [Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT](https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html)
+  - Confidence: 🟫 LOW
+  - _Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe.  The act_
+
+- [US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access](https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html)
+  - Confidence: 🟫 LOW
+  - _ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulti_
+
+- [AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub](https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html)
+  - Confidence: 🟫 LOW
+  - _AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said.  Its researchers found more than 13,0_
+
+- [Bitget hacked via zero-day in third-party security products](https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/)
+  - Confidence: 🟫 LOW
+  - _Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]_
 
 - [DNS poisoning detection for Windows`](https://www.reddit.com/r/cybersecurity/comments/1wtkysr/dns_poisoning_detection_for_windows/)
   - Confidence: 🟫 LOW
