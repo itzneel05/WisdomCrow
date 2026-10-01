@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-01
-date: 2026-10-01T12:24:50Z
+date: 2026-10-01T22:20:36Z
 type: radar-report
 report_type: fast
-total_opportunities: 68
+total_opportunities: 46
 tags:
   - radar
   - fast
@@ -13,46 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 68
+**Total opportunities:** 46
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 57 |
-| 🏰 CTF Competitions | 6 |
-| 🎓 Free Certifications | 4 |
-| 🎮 Arcade & Gamified Events | 1 |
-
-## 🏰 CTF Competitions
-
-- [I'm hosting a Halloween LIVE CTF event in New York](https://www.reddit.com/r/hackthebox/comments/1wt4e0v/im_hosting_a_halloween_live_ctf_event_in_new_york/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>Im hosting a cool hacker CTF event! Its going to be the first-ever Security Haunted House...Enter if you dare. (I'll be there!) </p> <p>• Immersive visual haunted hou_
-
-- [5 Insights from a CTF Winner on High-Performing Teams](https://www.hackthebox.com/blog/5-insights-from-a-ctf-winner)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/5-insights-from-a-ctf-winner" title=""> <img alt="5 Insights from a CTF Winner on High_
-
-- [Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets](https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research t_
-
-- [I cant figure out how to get the flag in the nmap course ( 6/12, Service enumeration)](https://www.reddit.com/r/hackthebox/comments/1wteh0j/i_cant_figure_out_how_to_get_the_flag_in_the_nmap/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>Ive been stuck on this for a while. When I scan the ip, i returns the &quot;0 hosts up&quot;, but when i use the -Pn flag, it doesnt show me any open ports anyway. Iv_
-
-- [Pwn3d Faraday Fortress!!](https://www.reddit.com/r/hackthebox/comments/1wu0f3q/pwn3d_faraday_fortress/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1wu0f3q/pwn3d_faraday_fortress/"> <img alt="Pwn3d Faraday Fortress!!" src="https://preview.redd.it/t15asf4hmmsh1.png?width=640&am_
-
-- [Passed CPTS 14/14 on my first attempt. Wrote up the full nine month journey, including the flag that cost me two days.](https://www.reddit.com/r/hackthebox/comments/1wtuz40/passed_cpts_1414_on_my_first_attempt_wrote_up_the/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>Passed in June, 14 of 14, first attempt. I had been meaning to write it up for months and finally did.</p> <p>Rather than repeat the whole thing here, the four things_
+| ❓ Uncategorized | 44 |
+| 🎓 Free Certifications | 2 |
 
 ## 🎓 Free Certifications
 
@@ -66,24 +32,39 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
-- [Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager](https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on September_
-
-- [Cisco warns of new SD-WAN zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]_
-
-## 🎮 Arcade & Gamified Events
-
-- [when will i get my rewards for the last season](https://www.reddit.com/r/hackthebox/comments/1wu23ez/when_will_i_get_my_rewards_for_the_last_season/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `arcade`
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Stapat1245"> /u/Stapat1245 </a> <br /> <span><a href="/r/hackthebox/comments/1wcqakr/when_will_i_get_my_rewards_for_the_last_season/">[lin_
-
 ## ❓ Uncategorized
+
+- [WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory](https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to in_
+
+- [ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories](https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html)
+  - Confidence: 🟫 LOW
+  - _This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model ch_
+
+- [Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers](https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html)
+  - Confidence: 🟫 LOW
+  - _Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on _
+
+- [Kiteworks patches max severity code injection vulnerability](https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/)
+  - Confidence: 🟫 LOW
+  - _Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solutio_
+
+- [The Day-One Hole in Zero Trust Architecture](https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/)
+  - Confidence: 🟫 LOW
+  - _Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity veri_
+
+- [Police dismantle KillSec ransomware gang allegedly led by 16-year-old](https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/)
+  - Confidence: 🟫 LOW
+  - _An international law enforcement operation dubbed "Operation KillSwitch" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the grou_
+
+- [Microsoft says threat actors are ahead in the early AI race](https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/)
+  - Confidence: 🟫 LOW
+  - _Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-com_
+
+- [Autonomous AI agents tried to hack US, Canadian government websites](https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/)
+  - Confidence: 🟫 LOW
+  - _Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]_
 
 - [Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs](https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html)
   - Confidence: 🟫 LOW
@@ -228,87 +209,3 @@ tags:
 - [Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure](https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure)
   - Confidence: 🟫 LOW
   - _In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users._
-
-- [Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks](https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html)
-  - Confidence: 🟫 LOW
-  - _Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software u_
-
-- [Xfreerdp laggy](https://www.reddit.com/r/hackthebox/comments/1wss3t9/xfreerdp_laggy/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello everyone<br /> every time when im doing a Machine or CTF on HTB and it has RDP on its extremely laggy when im trying to do something on it like moving a frame o_
-
-- [Looking for a cybersecurity study partner / Marrakech](https://www.reddit.com/r/hackthebox/comments/1wss590/looking_for_a_cybersecurity_study_partner/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I'm preparing for the CPTS and I'm looking for local friends living in Marrakech (Morocco) to learn and practice with</p> <p>If you are interested and have already fi_
-
-- [SysReptor COAE Template vs. Traditional HTB Pentest Template](https://www.reddit.com/r/hackthebox/comments/1wt92yv/sysreptor_coae_template_vs_traditional_htb/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>I am about to attempt the COAE exam and noticed discrepancies in the COAE report using the official SysReptor template VS the HTB sample reports (in th_
-
-- [why is the CPTS "Getting Started" module so difficult?](https://www.reddit.com/r/hackthebox/comments/1wsu5me/why_is_the_cpts_getting_started_module_so/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I am mainly doing this for fun, I don't really care about being certified or getting a job as a pentester. I enrolled in the Penetration Tester course assuming it wou_
-
-- [Layover HTB MACHINE](https://www.reddit.com/r/hackthebox/comments/1wtexxw/layover_htb_machine/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey there guys im reaching out because I feel like after hours and hours of banging my head into a wall im missing something very small I have accessed pretty much ev_
-
-- [VPN vs PwnBox](https://www.reddit.com/r/hackthebox/comments/1wt9xep/vpn_vs_pwnbox/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I gave competed CPTS module. Now, I would go for the CTPS Path Boxes before i go for the actual test. But, throughout the course, i felt that the choice using VPN ins_
-
-- [DarkZeroReturns has been Pwned](https://www.reddit.com/r/hackthebox/comments/1wtbwcl/darkzeroreturns_has_been_pwned/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1wtbwcl/darkzeroreturns_has_been_pwned/"> <img alt="DarkZeroReturns has been Pwned" src="https://external-preview.redd.it/7LV10A4_
-
-- [HackTheBox SmartHire Writeup](https://www.reddit.com/r/hackthebox/comments/1wtkwii/hackthebox_smarthire_writeup/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Another week means another writeup :) </p> <p>So this post I briefly show my methodology solving HackTheBox Smarthire which is Medium-difficulty Ubuntu 22.04 Linux bo_
-
-- [COAE #Physical certificate finally arrived!](https://www.reddit.com/r/hackthebox/comments/1wsyii7/coae_physical_certificate_finally_arrived/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1wsyii7/coae_physical_certificate_finally_arrived/"> <img alt="COAE #Physical certificate finally arrived!" src="https://preview._
-
-- [CDSA Exam Prep](https://www.reddit.com/r/hackthebox/comments/1wu4ba7/cdsa_exam_prep/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I am going for the CDSA exam, but my only weak area is malware analysis as I don't enjoy it and I feel is it hard. How much might this part bring me down?</p> <p>I am_
-
-- [how bad could my gpu be to reach this point?](https://www.reddit.com/r/hackthebox/comments/1wufluw/how_bad_could_my_gpu_be_to_reach_this_point/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1wufluw/how_bad_could_my_gpu_be_to_reach_this_point/"> <img alt="how bad could my gpu be to reach this point?" src="https://previ_
-
-- [Over 543,000 valid credentials exposed in public GitHub repositories](https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/)
-  - Confidence: 🟫 LOW
-  - _More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]_
-
-- [DIVD says Zammad zero-days enabled AI-driven network breach](https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/)
-  - Confidence: 🟫 LOW
-  - _The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing syste_
-
-- [Russian state hackers use new RedFlick technique to push malware](https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/)
-  - Confidence: 🟫 LOW
-  - _The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed "RedFlick" to deploy its signature CosmicPulse backdoor. [...]_
-
-- [Know Your Enemy: Browser-Based Attack Techniques in 2026](https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html)
-  - Confidence: 🟫 LOW
-  - _Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, wi_
-
-- [Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures](https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.  Huntre_
-
-- [TeamViewer urges users to patch severe flaws “as soon as possible”](https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/)
-  - Confidence: 🟫 LOW
-  - _Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]_
-
-- [Microsoft to block Entra ID script injection attacks starting October](https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]_
-
-- [AI's Third Wave: Coworkers Break the Security Model That Worked for Agents](https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/)
-  - Confidence: 🟫 LOW
-  - _Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need _
-
-- [CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service c_
