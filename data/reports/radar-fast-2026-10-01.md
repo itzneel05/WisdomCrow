@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-01
-date: 2026-10-01T04:01:14Z
+date: 2026-10-01T12:24:50Z
 type: radar-report
 report_type: fast
-total_opportunities: 62
+total_opportunities: 68
 tags:
   - radar
   - fast
@@ -13,15 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 62
+**Total opportunities:** 68
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 51 |
+| ❓ Uncategorized | 57 |
 | 🏰 CTF Competitions | 6 |
-| 🎓 Free Certifications | 3 |
+| 🎓 Free Certifications | 4 |
 | 🎮 Arcade & Gamified Events | 1 |
-| 💰 Bug Bounties | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -55,14 +54,12 @@ tags:
   - Tags: `ctf`, `india_friendly`
   - _<!-- SC_OFF --><div class="md"><p>Passed in June, 14 of 14, first attempt. I had been meaning to write it up for months and finally did.</p> <p>Rather than repeat the whole thing here, the four things_
 
-## 💰 Bug Bounties
-
-- [Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution](https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild.  The vu_
-
 ## 🎓 Free Certifications
+
+- [CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV](https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities_
 
 - [ISC Stormcast For Thursday, October 1st, 2026 https://isc.sans.edu/podcastdetail/10118, (Thu, Oct 1st)](https://isc.sans.edu/diary/rss/33386)
   - Confidence: 🟢 HIGH
@@ -87,6 +84,50 @@ tags:
   - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Stapat1245"> /u/Stapat1245 </a> <br /> <span><a href="/r/hackthebox/comments/1wcqakr/when_will_i_get_my_rewards_for_the_last_season/">[lin_
 
 ## ❓ Uncategorized
+
+- [Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs](https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configur_
+
+- [MetaMask Security Incident Prompts Exit of Affected Ethereum Validators](https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html)
+  - Confidence: 🟫 LOW
+  - _MetaMask on Thursday said it's responding to what it described as an "ongoing security incident" impacting part of its infrastructure.  "We are actively addressing and remediating the issue internally_
+
+- [Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft](https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html)
+  - Confidence: 🟫 LOW
+  - _Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation finding_
+
+- [Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path](https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html)
+  - Confidence: 🟫 LOW
+  - _Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals.  Th_
+
+- [Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version](https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html)
+  - Confidence: 🟫 LOW
+  - _Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program._
+
+- [OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates](https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html)
+  - Confidence: 🟫 LOW
+  - _OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models.  A "co_
+
+- [How Financial Services Companies Can Modernize Their Software Supply Chain](https://thehackernews.com/2026/10/how-financial-services-companies-can.html)
+  - Confidence: 🟫 LOW
+  - _Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to up_
+
+- [ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)](https://isc.sans.edu/diary/rss/33388)
+  - Confidence: 🟫 LOW
+  - _<p>Threat Actors do not always use top-notch techniques or very complex malware to perform their attacks. Sometimes, they just abuse of existing applications...</p>&#xd;_
+
+- [Metamask discloses security incident affecting its infrastructure](https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/)
+  - Confidence: 🟫 LOW
+  - _On Thursday, cryptocurrency wallet provider MetaMask has disclosed an ongoing infrastructure security incident affecting some of its infrastructure. [...]_
+
+- [Hackers stole Pentagon personnel records of over 3 million people](https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/)
+  - Confidence: 🟫 LOW
+  - _The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in O_
+
+- [Microsoft enables Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/)
+  - Confidence: 🟫 LOW
+  - _Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [._
 
 - [Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development](https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/)
   - Confidence: 🟫 LOW
@@ -271,23 +312,3 @@ tags:
 - [CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/)
   - Confidence: 🟫 LOW
   - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service c_
-
-- [OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted](https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html)
-  - Confidence: 🟫 LOW
-  - _A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program,&nbsp;OpenSSL said&nbsp;on September 29 as it released fixes.  DTLS, the TLS variant used _
-
-- [Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT](https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html)
-  - Confidence: 🟫 LOW
-  - _Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe.  The act_
-
-- [US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access](https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html)
-  - Confidence: 🟫 LOW
-  - _ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulti_
-
-- [AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub](https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html)
-  - Confidence: 🟫 LOW
-  - _AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said.  Its researchers found more than 13,0_
-
-- [Bitget hacked via zero-day in third-party security products](https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/)
-  - Confidence: 🟫 LOW
-  - _Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]_
