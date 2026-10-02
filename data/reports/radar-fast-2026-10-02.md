@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-02
-date: 2026-10-02T17:25:29Z
+date: 2026-10-02T21:48:31Z
 type: radar-report
 report_type: fast
-total_opportunities: 43
+total_opportunities: 48
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 43
+**Total opportunities:** 48
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 39 |
-| 🎓 Free Certifications | 3 |
+| ❓ Uncategorized | 43 |
+| 🎓 Free Certifications | 4 |
 | 💰 Bug Bounties | 1 |
 
 ## 💰 Bug Bounties
@@ -29,6 +29,11 @@ tags:
   - _<p>An agentic AI-powered attack that hit the Dutch Institute for Vulnerability Disclosure (DIVD) on September 21 exploited two zero-day vulnerabilities in Zammad, an open-source helpdesk and customer _
 
 ## 🎓 Free Certifications
+
+- [Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.  The activity, which has targeted government and policy organizatio_
 
 - [ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)](https://isc.sans.edu/diary/rss/33390)
   - Confidence: 🟢 HIGH
@@ -46,6 +51,22 @@ tags:
   - _<p>For the fifth time this year, Cisco revealed attackers have exploited a vulnerability (CVE-2026-76504) in its SD-WAN solution in zero-day attacks. The vendor&#8217;s incident responders became awar_
 
 ## ❓ Uncategorized
+
+- [Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes](https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html)
+  - Confidence: 🟫 LOW
+  - _Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems.  The vuln_
+
+- [GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)
+  - Confidence: 🟫 LOW
+  - _A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory.  The gateway is _
+
+- [Warlock ransomware breach SharePoint in water, telecom operator attacks](https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/)
+  - Confidence: 🟫 LOW
+  - _The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [._
+
+- [Frontline Education breach exposes school district employee data](https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/)
+  - Confidence: 🟫 LOW
+  - _Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee infor_
 
 - [OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html)
   - Confidence: 🟫 LOW
