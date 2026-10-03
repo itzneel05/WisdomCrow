@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-03
-date: 2026-10-03T15:42:09Z
+date: 2026-10-03T20:35:22Z
 type: radar-report
 report_type: fast
-total_opportunities: 75
+total_opportunities: 71
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 75
+**Total opportunities:** 71
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 56 |
+| ❓ Uncategorized | 52 |
 | 🏰 CTF Competitions | 16 |
 | 🎓 Free Certifications | 2 |
 | 💰 Bug Bounties | 1 |
@@ -124,6 +124,10 @@ tags:
   - _Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.  The activity, which has targeted government and policy organizatio_
 
 ## ❓ Uncategorized
+
+- [ShinyHunters hacker reportedly detained in Jordan, aiding FBI](https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/)
+  - Confidence: 🟫 LOW
+  - _A suspected ShinyHunters hacking group member known online as "Rey" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]_
 
 - [Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware](https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html)
   - Confidence: 🟫 LOW
@@ -328,23 +332,3 @@ tags:
 - [Frontline Education breach exposes school district employee data](https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/)
   - Confidence: 🟫 LOW
   - _Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee infor_
-
-- [OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html)
-  - Confidence: 🟫 LOW
-  - _OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported.  "We have parted ways with three _
-
-- [Dell asks admins to patch max severity CSM flaws as soon as possible](https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/)
-  - Confidence: 🟫 LOW
-  - _Dell has patched two maximum severity vulnerabilities in the Container Storage Modules (CSM) that connect Dell enterprise storage arrays to Kubernetes environments. [...]_
-
-- [The EDR blind spot: 3 ways browser attacks evade endpoint telemetry](https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/)
-  - Confidence: 🟫 LOW
-  - _Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpo_
-
-- [US sanctions Tren de Aragua gang members in ATM hacks crackdown](https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/)
-  - Confidence: 🟫 LOW
-  - _The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dollars in ATM jackpotting attacks across the United St_
-
-- [GitLab warns of critical RCE vulnerability in AI Gateway service](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/)
-  - Confidence: 🟫 LOW
-  - _GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]_
