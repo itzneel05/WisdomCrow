@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-03
-date: 2026-10-03T11:05:08Z
+date: 2026-10-03T15:42:09Z
 type: radar-report
 report_type: fast
-total_opportunities: 68
+total_opportunities: 75
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 68
+**Total opportunities:** 75
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 49 |
+| ❓ Uncategorized | 56 |
 | 🏰 CTF Competitions | 16 |
 | 🎓 Free Certifications | 2 |
 | 💰 Bug Bounties | 1 |
@@ -124,6 +124,50 @@ tags:
   - _Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.  The activity, which has targeted government and policy organizatio_
 
 ## ❓ Uncategorized
+
+- [Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware](https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html)
+  - Confidence: 🟫 LOW
+  - _The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portugues_
+
+- [MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)
+  - Confidence: 🟫 LOW
+  - _The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service.  _
+
+- [YARA-X 1.21.0 Release, (Sat, Oct 3rd)](https://isc.sans.edu/diary/rss/33392)
+  - Confidence: 🟫 LOW
+  - _<p><a href="https://github.com/VirusTotal/yara-x/releases/tag/v1.21.0">YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.21.0</a> release brings 5 improvements and 4 bugfixes.</p>&#xd;_
+
+- [Server Mismatch: WordPress plugin vulnerabilities when relying on .htaccess files](https://www.reddit.com/r/netsec/comments/1wv3l51/server_mismatch_wordpress_plugin_vulnerabilities/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/ultrastrik3"> /u/ultrastrik3 </a> <br /> <span><a href="https://ultrastrike.io/2026/10/server-specific-vulnerabilities-in-wordpress-plugin_
+
+- [security.txt on the Czech web: Scanning 1k popular .cz domains](https://www.reddit.com/r/netsec/comments/1wvyvmu/securitytxt_on_the_czech_web_scanning_1k_popular/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/_vavkamil_"> /u/_vavkamil_ </a> <br /> <span><a href="https://vavkamil.cz/blog/2026-10-02-security-txt-on-czech-web/">[link]</a></span> &#_
+
+- [8 out of 10 Banks HATE This One Weird 3SKey RCE](https://www.reddit.com/r/netsec/comments/1wvxp1p/8_out_of_10_banks_hate_this_one_weird_3skey_rce/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p><strong>TL;DR.</strong> <a href="https://chromewebstore.google.com/detail/sconnect/mjhbkkaddmmnkghdnnmkjcgpphnopnfk">SConnect</a> - 1M+ users, an extension middleware_
+
+- [Azure's Weakest Link - Five Full Cross-Tenant Compromises](https://www.reddit.com/r/netsec/comments/1wvs9ea/azures_weakest_link_five_full_crosstenant/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>API Connections allow anyone to fully compromise any other connection worldwide, giving full access to the connected backend. </p> </div><!-- SC_ON --> &#32; submitte_
+
+- [A peek into Reddit's anti-spam internals](https://www.reddit.com/r/netsec/comments/1wwdm2f/a_peek_into_reddits_antispam_internals/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/fagnerbrack"> /u/fagnerbrack </a> <br /> <span><a href="https://lyra.horse/blog/2026/06/reddit-spam-internals/">[link]</a></span> &#32; <s_
+
+- [45% of credential-phishing pages weren't on Google Safe Browsing when first seen; 29% still weren't after a week](https://www.reddit.com/r/netsec/comments/1wvucap/45_of_credentialphishing_pages_werent_on_google/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/ricveloso"> /u/ricveloso </a> <br /> <span><a href="https://www.grizzlysec.com/blog/zero-hour-gap">[link]</a></span> &#32; <span><a href="_
+
+- [RCE and bad crypto in Internxt's 'post-quantum' cloud storage](https://www.reddit.com/r/netsec/comments/1wwgdom/rce_and_bad_crypto_in_internxts_postquantum_cloud/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Internxt is a post-quantum secure encrypted cloud storage provider which is open-source and has passed multiple independent audits.</p> <p>I reviewed their code and f_
+
+- [Danish university DTU breach exposes data of up to 200,000 people](https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/)
+  - Confidence: 🟫 LOW
+  - _The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a larg_
 
 - [The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)
   - Confidence: 🟫 LOW
@@ -304,19 +348,3 @@ tags:
 - [GitLab warns of critical RCE vulnerability in AI Gateway service](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/)
   - Confidence: 🟫 LOW
   - _GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]_
-
-- [Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes](https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, followi_
-
-- [Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools](https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html)
-  - Confidence: 🟫 LOW
-  - _Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.  With_
-
-- [Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report](https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html)
-  - Confidence: 🟫 LOW
-  - _The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone _
-
-- [Microsoft’s X account hacked in crypto pump-and-dump scheme](https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/)
-  - Confidence: 🟫 LOW
-  - _On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]_
