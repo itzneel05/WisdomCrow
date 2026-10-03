@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-03
-date: 2026-10-03T03:42:59Z
+date: 2026-10-03T11:05:08Z
 type: radar-report
 report_type: fast
-total_opportunities: 57
+total_opportunities: 68
 tags:
   - radar
   - fast
@@ -13,13 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 57
+**Total opportunities:** 68
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 39 |
+| ❓ Uncategorized | 49 |
 | 🏰 CTF Competitions | 16 |
 | 🎓 Free Certifications | 2 |
+| 💰 Bug Bounties | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -103,19 +104,70 @@ tags:
   - Tags: `ctf`, `india_friendly`
   - _Name: Lun4R CTF Final (an <a href="/ctf/1685">Lun4R CTF</a> event.)<br /> Date: Oct. 3, 2026, 5:30 a.m. &mdash; 04 Oct. 2026, 05:30 UTC &nbsp;<a href="/event/3465.ics">[add to calendar]</a><br /> Form_
 
+## 💰 Bug Bounties
+
+- [Available for Web, API, Mobile & Cloud Security Testing](https://www.reddit.com/r/Pentesting/comments/1wwg6id/available_for_web_api_mobile_cloud_security/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I’m a penetration tester and vulnerability researcher currently available for new security testing engagements and subcontracting work.</p> <p>I c_
+
 ## 🎓 Free Certifications
+
+- [AgentVetter – open source sandboxed security scanner for MCP servers and AI skills](https://www.reddit.com/r/Pentesting/comments/1ww4380/agentvetter_open_source_sandboxed_security/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _<!-- SC_OFF --><div class="md"><p>MCP servers and AI skills execute code directly in your local environment. Most people install them from GitHub without any vetting. I have been guilty of doing the s_
 
 - [Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.  The activity, which has targeted government and policy organizatio_
 
-- [ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)](https://isc.sans.edu/diary/rss/33390)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)
+  - Confidence: 🟫 LOW
+  - _Featuring:  Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, d_
+
+- [What do y'all find annoying during a pentest](https://www.reddit.com/r/Pentesting/comments/1wvc3eg/what_do_yall_find_annoying_during_a_pentest/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>&#x200b;</p> <p>What's smthn you guys find irritating doing, mine's probably justifying it to management lol</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href_
+
+- [I created Laelaps, an attack-path analysis console for AD.](https://www.reddit.com/r/Pentesting/comments/1wuxvwh/i_created_laelaps_an_attackpath_analysis_console/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Created this project after doing CPTS as I thought established tools lacked modern technology.</p> <p>It ingests SharpHound and bloodhound-python collections and disp_
+
+- [generally speaking, do you see communication in a pentesting team as a problem?](https://www.reddit.com/r/Pentesting/comments/1wveoig/generally_speaking_do_you_see_communication_in_a/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>as in, do you feel that miscommunication (or usually lack of enough communication) in a pentesting team amongst the teammates happens often?</p> </div><!-- SC_ON --> _
+
+- [How to make pentest](https://www.reddit.com/r/Pentesting/comments/1ww5fbh/how_to_make_pentest/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>For my work, I need to provide our customers with penetration testing reports.</p> <p>I tried using Fable, but it automatically switched to Opus 4.8. To my surprise, _
+
+- [Super Trouper v0.4.0 — more Frida tools for iOS app reverse engineering](https://www.reddit.com/r/Pentesting/comments/1ww2570/super_trouper_v040_more_frida_tools_for_ios_app/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1ww2570/super_trouper_v040_more_frida_tools_for_ios_app/"> <img alt="Super Trouper v0.4.0 — more Frida tools for iOS app reverse _
+
+- [PWN Newsletter: AI Malware That Controls Itself, Phish Slop, Pentagon Breach and More...](https://www.reddit.com/r/Pentesting/comments/1ww7npr/pwn_newsletter_ai_malware_that_controls_itself/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1ww7npr/pwn_newsletter_ai_malware_that_controls_itself/"> <img alt="PWN Newsletter: AI Malware That Controls Itself, Phish Slop, _
+
+- [Perennial Client Not Fixing Issues](https://www.reddit.com/r/Pentesting/comments/1ww2be1/perennial_client_not_fixing_issues/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>How do you handle this? You have a repeat client over multiple years. In the first few years, you're finding the same issues and the client is not fixing them. It tur_
+
+- [Physical Pentesting Credentials](https://www.reddit.com/r/Pentesting/comments/1ww9bgh/physical_pentesting_credentials/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Over the years, I have been asked to conduct physical pentests for large companies. They almost always ask for credentials. Usually I use my or my employee's backgrou_
+
+- [ESP-IDF V6 reverse engineered to enable 802_11 raw frame injection](https://www.reddit.com/r/Pentesting/comments/1wwjyjx/espidf_v6_reverse_engineered_to_enable_802_11_raw/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1wwjyjx/espidf_v6_reverse_engineered_to_enable_802_11_raw/"> <img alt="ESP-IDF V6 reverse engineered to enable 802_11 raw frame i_
+
+- [Best way to simulate "normal user" SMS MFA for a Red Team engagement?](https://www.reddit.com/r/Pentesting/comments/1wwhyyl/best_way_to_simulate_normal_user_sms_mfa_for_a/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone. I’m currently on a Red Team engagement where we need to test a client’s MFA implementation (specifically their rate-limiting and fraud detection on the _
 
 - [Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action](https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/)
   - Confidence: 🟫 LOW
@@ -268,7 +320,3 @@ tags:
 - [Microsoft’s X account hacked in crypto pump-and-dump scheme](https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/)
   - Confidence: 🟫 LOW
   - _On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]_
-
-- [Fortinet warns of critical FortiMail flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/)
-  - Confidence: 🟫 LOW
-  - _Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulner_
