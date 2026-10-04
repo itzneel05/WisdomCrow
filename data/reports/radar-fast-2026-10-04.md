@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-04
-date: 2026-10-04T11:46:13Z
+date: 2026-10-04T16:25:01Z
 type: radar-report
 report_type: fast
-total_opportunities: 27
+total_opportunities: 18
 tags:
   - radar
   - fast
@@ -13,14 +13,24 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 27
+**Total opportunities:** 18
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 19 |
-| 🏰 CTF Competitions | 8 |
+| 🏰 CTF Competitions | 10 |
+| ❓ Uncategorized | 8 |
 
 ## 🏰 CTF Competitions
+
+- [Cryovault 2026 Finals](https://ctftime.org/event/3442)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`, `india_friendly`
+  - _Name: Cryovault 2026 Finals (an <a href="/ctf/942">ISFCR PESU CTF</a> event.)<br /> Date: Oct. 24, 2026, 3:30 a.m. &mdash; 25 Oct. 2026, 06:30 UTC &nbsp;<a href="/event/3442.ics">[add to calendar]</a>_
+
+- [Cryovault 2026 Quals](https://ctftime.org/event/3441)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: Cryovault 2026 Quals (an <a href="/ctf/942">ISFCR PESU CTF</a> event.)<br /> Date: Oct. 10, 2026, 4:30 a.m. &mdash; 11 Oct. 2026, 04:30 UTC &nbsp;<a href="/event/3441.ics">[add to calendar]</a><_
 
 - [JerseyCTF VII](https://ctftime.org/event/3458)
   - Confidence: 🟢 HIGH
@@ -95,47 +105,3 @@ tags:
 - [ShinyHunters hacker reportedly detained in Jordan, aiding FBI](https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/)
   - Confidence: 🟫 LOW
   - _A suspected ShinyHunters hacking group member known online as "Rey" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]_
-
-- [Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware](https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html)
-  - Confidence: 🟫 LOW
-  - _The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portugues_
-
-- [MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)
-  - Confidence: 🟫 LOW
-  - _The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service.  _
-
-- [YARA-X 1.21.0 Release, (Sat, Oct 3rd)](https://isc.sans.edu/diary/rss/33392)
-  - Confidence: 🟫 LOW
-  - _<p><a href="https://github.com/VirusTotal/yara-x/releases/tag/v1.21.0">YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.21.0</a> release brings 5 improvements and 4 bugfixes.</p>&#xd;_
-
-- [Server Mismatch: WordPress plugin vulnerabilities when relying on .htaccess files](https://www.reddit.com/r/netsec/comments/1wv3l51/server_mismatch_wordpress_plugin_vulnerabilities/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/ultrastrik3"> /u/ultrastrik3 </a> <br /> <span><a href="https://ultrastrike.io/2026/10/server-specific-vulnerabilities-in-wordpress-plugin_
-
-- [security.txt on the Czech web: Scanning 1k popular .cz domains](https://www.reddit.com/r/netsec/comments/1wvyvmu/securitytxt_on_the_czech_web_scanning_1k_popular/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/_vavkamil_"> /u/_vavkamil_ </a> <br /> <span><a href="https://vavkamil.cz/blog/2026-10-02-security-txt-on-czech-web/">[link]</a></span> &#_
-
-- [8 out of 10 Banks HATE This One Weird 3SKey RCE](https://www.reddit.com/r/netsec/comments/1wvxp1p/8_out_of_10_banks_hate_this_one_weird_3skey_rce/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p><strong>TL;DR.</strong> <a href="https://chromewebstore.google.com/detail/sconnect/mjhbkkaddmmnkghdnnmkjcgpphnopnfk">SConnect</a> - 1M+ users, an extension middleware_
-
-- [Azure's Weakest Link - Five Full Cross-Tenant Compromises](https://www.reddit.com/r/netsec/comments/1wvs9ea/azures_weakest_link_five_full_crosstenant/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>API Connections allow anyone to fully compromise any other connection worldwide, giving full access to the connected backend. </p> </div><!-- SC_ON --> &#32; submitte_
-
-- [A peek into Reddit's anti-spam internals](https://www.reddit.com/r/netsec/comments/1wwdm2f/a_peek_into_reddits_antispam_internals/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/fagnerbrack"> /u/fagnerbrack </a> <br /> <span><a href="https://lyra.horse/blog/2026/06/reddit-spam-internals/">[link]</a></span> &#32; <s_
-
-- [45% of credential-phishing pages weren't on Google Safe Browsing when first seen; 29% still weren't after a week](https://www.reddit.com/r/netsec/comments/1wvucap/45_of_credentialphishing_pages_werent_on_google/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/ricveloso"> /u/ricveloso </a> <br /> <span><a href="https://www.grizzlysec.com/blog/zero-hour-gap">[link]</a></span> &#32; <span><a href="_
-
-- [RCE and bad crypto in Internxt's 'post-quantum' cloud storage](https://www.reddit.com/r/netsec/comments/1wwgdom/rce_and_bad_crypto_in_internxts_postquantum_cloud/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Internxt is a post-quantum secure encrypted cloud storage provider which is open-source and has passed multiple independent audits.</p> <p>I reviewed their code and f_
-
-- [Danish university DTU breach exposes data of up to 200,000 people](https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/)
-  - Confidence: 🟫 LOW
-  - _The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a larg_
