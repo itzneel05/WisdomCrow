@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-04
-date: 2026-10-04T16:25:01Z
+date: 2026-10-04T20:51:32Z
 type: radar-report
 report_type: fast
-total_opportunities: 18
+total_opportunities: 20
 tags:
   - radar
   - fast
@@ -13,14 +13,19 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 18
+**Total opportunities:** 20
 
 | Category | Count |
 |----------|-------|
-| 🏰 CTF Competitions | 10 |
-| ❓ Uncategorized | 8 |
+| 🏰 CTF Competitions | 11 |
+| ❓ Uncategorized | 9 |
 
 ## 🏰 CTF Competitions
+
+- [SOLAR CTF 2026](https://ctftime.org/event/3471)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: SOLAR CTF 2026 (an <a href="/ctf/1723">SOLAR CTF</a> event.)<br /> Date: Oct. 17, 2026, 9 a.m. &mdash; 18 Oct. 2026, 09:00 UTC &nbsp;<a href="/event/3471.ics">[add to calendar]</a><br /> Format:_
 
 - [Cryovault 2026 Finals](https://ctftime.org/event/3442)
   - Confidence: 🟢 HIGH
@@ -74,6 +79,14 @@ tags:
 
 ## ❓ Uncategorized
 
+- [I need help in graduation project](https://www.reddit.com/r/netsecstudents/comments/1wx6bo8/i_need_help_in_graduation_project/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi, i am in an internship that teaches cybersecurity,Now i am in penetration testing track i need to make a project to me to graduate i know network exploitation and _
+
+- [Update: Teaching network intrusion in a fun way](https://www.reddit.com/r/netsecstudents/comments/1wwu8rf/update_teaching_network_intrusion_in_a_fun_way/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>I had posted about this before (a few weeks back) and the response was generally positive. So I wanted to reach out again and share an update on the curren_
+
 - [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
   - Confidence: 🟫 LOW
   - _A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, univer_
@@ -101,7 +114,3 @@ tags:
 - [doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/)
   - Confidence: 🟫 LOW
   - _<p>doxx.net’s new ADN platform prevents agentic misadventure while the agent is operating under the user’s authority.</p> <p>The post <a href="https://www.securityweek.com/doxx-net-raises-38-million-t_
-
-- [ShinyHunters hacker reportedly detained in Jordan, aiding FBI](https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/)
-  - Confidence: 🟫 LOW
-  - _A suspected ShinyHunters hacking group member known online as "Rey" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]_
