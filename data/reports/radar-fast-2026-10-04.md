@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-04
-date: 2026-10-04T04:12:35Z
+date: 2026-10-04T11:46:13Z
 type: radar-report
 report_type: fast
-total_opportunities: 36
+total_opportunities: 27
 tags:
   - radar
   - fast
@@ -13,14 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 36
+**Total opportunities:** 27
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 26 |
+| ❓ Uncategorized | 19 |
 | 🏰 CTF Competitions | 8 |
-| 💰 Bug Bounties | 1 |
-| 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -64,21 +62,23 @@ tags:
   - Tags: `ctf`
   - _Name: Africa battleCTF 2026 Qualifier (an <a href="/ctf/968">Africa battleCTF</a> event.)<br /> Date: Oct. 4, 2026, 11 p.m. &mdash; 04 Nov. 2026, 23:00 UTC &nbsp;<a href="/event/3462.ics">[add to cale_
 
-## 💰 Bug Bounties
-
-- [Available for Web, API, Mobile & Cloud Security Testing](https://www.reddit.com/r/Pentesting/comments/1wwg6id/available_for_web_api_mobile_cloud_security/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I’m a penetration tester and vulnerability researcher currently available for new security testing engagements and subcontracting work.</p> <p>I c_
-
-## 🎓 Free Certifications
-
-- [AgentVetter – open source sandboxed security scanner for MCP servers and AI skills](https://www.reddit.com/r/Pentesting/comments/1ww4380/agentvetter_open_source_sandboxed_security/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _<!-- SC_OFF --><div class="md"><p>MCP servers and AI skills execute code directly in your local environment. Most people install them from GitHub without any vetting. I have been guilty of doing the s_
-
 ## ❓ Uncategorized
+
+- [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
+  - Confidence: 🟫 LOW
+  - _A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, univer_
+
+- [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
+  - Confidence: 🟫 LOW
+  - _A suspected member of the ShinyHunters digital extortion group, who goes by the online alias "Rey," has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar_
+
+- [User Agent Strings Curiosities, (Sun, Oct 4th)](https://isc.sans.edu/diary/rss/33394)
+  - Confidence: 🟫 LOW
+  - _<p>Sometimes I have to smile, or my interest is triggered, when I review new User Agent Strings in the honeypot logs.</p>&#xd;_
+
+- [Anthropic asks Claude users to share voice data for AI model training](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/)
+  - Confidence: 🟫 LOW
+  - _Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]_
 
 - [Google Gemini could soon get full access to your Mac’s files, apps and the web](https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/)
   - Confidence: 🟫 LOW
@@ -139,47 +139,3 @@ tags:
 - [Danish university DTU breach exposes data of up to 200,000 people](https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/)
   - Confidence: 🟫 LOW
   - _The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a larg_
-
-- [The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)
-  - Confidence: 🟫 LOW
-  - _Featuring:  Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, d_
-
-- [What do y'all find annoying during a pentest](https://www.reddit.com/r/Pentesting/comments/1wvc3eg/what_do_yall_find_annoying_during_a_pentest/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>&#x200b;</p> <p>What's smthn you guys find irritating doing, mine's probably justifying it to management lol</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href_
-
-- [I created Laelaps, an attack-path analysis console for AD.](https://www.reddit.com/r/Pentesting/comments/1wuxvwh/i_created_laelaps_an_attackpath_analysis_console/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Created this project after doing CPTS as I thought established tools lacked modern technology.</p> <p>It ingests SharpHound and bloodhound-python collections and disp_
-
-- [generally speaking, do you see communication in a pentesting team as a problem?](https://www.reddit.com/r/Pentesting/comments/1wveoig/generally_speaking_do_you_see_communication_in_a/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>as in, do you feel that miscommunication (or usually lack of enough communication) in a pentesting team amongst the teammates happens often?</p> </div><!-- SC_ON --> _
-
-- [How to make pentest](https://www.reddit.com/r/Pentesting/comments/1ww5fbh/how_to_make_pentest/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>For my work, I need to provide our customers with penetration testing reports.</p> <p>I tried using Fable, but it automatically switched to Opus 4.8. To my surprise, _
-
-- [Super Trouper v0.4.0 — more Frida tools for iOS app reverse engineering](https://www.reddit.com/r/Pentesting/comments/1ww2570/super_trouper_v040_more_frida_tools_for_ios_app/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1ww2570/super_trouper_v040_more_frida_tools_for_ios_app/"> <img alt="Super Trouper v0.4.0 — more Frida tools for iOS app reverse _
-
-- [PWN Newsletter: AI Malware That Controls Itself, Phish Slop, Pentagon Breach and More...](https://www.reddit.com/r/Pentesting/comments/1ww7npr/pwn_newsletter_ai_malware_that_controls_itself/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1ww7npr/pwn_newsletter_ai_malware_that_controls_itself/"> <img alt="PWN Newsletter: AI Malware That Controls Itself, Phish Slop, _
-
-- [Perennial Client Not Fixing Issues](https://www.reddit.com/r/Pentesting/comments/1ww2be1/perennial_client_not_fixing_issues/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>How do you handle this? You have a repeat client over multiple years. In the first few years, you're finding the same issues and the client is not fixing them. It tur_
-
-- [Physical Pentesting Credentials](https://www.reddit.com/r/Pentesting/comments/1ww9bgh/physical_pentesting_credentials/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Over the years, I have been asked to conduct physical pentests for large companies. They almost always ask for credentials. Usually I use my or my employee's backgrou_
-
-- [ESP-IDF V6 reverse engineered to enable 802_11 raw frame injection](https://www.reddit.com/r/Pentesting/comments/1wwjyjx/espidf_v6_reverse_engineered_to_enable_802_11_raw/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1wwjyjx/espidf_v6_reverse_engineered_to_enable_802_11_raw/"> <img alt="ESP-IDF V6 reverse engineered to enable 802_11 raw frame i_
-
-- [Best way to simulate "normal user" SMS MFA for a Red Team engagement?](https://www.reddit.com/r/Pentesting/comments/1wwhyyl/best_way_to_simulate_normal_user_sms_mfa_for_a/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone. I’m currently on a Red Team engagement where we need to test a client’s MFA implementation (specifically their rate-limiting and fraud detection on the _
