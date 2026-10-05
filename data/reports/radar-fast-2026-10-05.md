@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-05
-date: 2026-10-05T13:32:58Z
+date: 2026-10-05T23:43:25Z
 type: radar-report
 report_type: fast
-total_opportunities: 26
+total_opportunities: 29
 tags:
   - radar
   - fast
@@ -13,31 +13,16 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 26
+**Total opportunities:** 29
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 20 |
-| 🏰 CTF Competitions | 4 |
-| 💰 Bug Bounties | 1 |
+| ❓ Uncategorized | 25 |
+| 💰 Bug Bounties | 2 |
+| 🏰 CTF Competitions | 1 |
 | 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
-
-- [SOLAR CTF 2026](https://ctftime.org/event/3471)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: SOLAR CTF 2026 (an <a href="/ctf/1723">SOLAR CTF</a> event.)<br /> Date: Oct. 17, 2026, 9 a.m. &mdash; 18 Oct. 2026, 09:00 UTC &nbsp;<a href="/event/3471.ics">[add to calendar]</a><br /> Format:_
-
-- [Cryovault 2026 Finals](https://ctftime.org/event/3442)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`, `india_friendly`
-  - _Name: Cryovault 2026 Finals (an <a href="/ctf/942">ISFCR PESU CTF</a> event.)<br /> Date: Oct. 24, 2026, 3:30 a.m. &mdash; 25 Oct. 2026, 06:30 UTC &nbsp;<a href="/event/3442.ics">[add to calendar]</a>_
-
-- [Cryovault 2026 Quals](https://ctftime.org/event/3441)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: Cryovault 2026 Quals (an <a href="/ctf/942">ISFCR PESU CTF</a> event.)<br /> Date: Oct. 10, 2026, 4:30 a.m. &mdash; 11 Oct. 2026, 04:30 UTC &nbsp;<a href="/event/3441.ics">[add to calendar]</a><_
 
 - [I translated ARTEX, a Chinese multi-agent AI pentest platform, into English and Korean](https://www.reddit.com/r/Pentesting/comments/1wxxpqm/i_translated_artex_a_chinese_multiagent_ai/)
   - Confidence: 🟡 MEDIUM
@@ -45,6 +30,11 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>ARTEX is an open-source autonomous pentest system by Autumn-27 (Go backend, Next.js UI, about 1.5k stars, won Baidu's &quot;agent+&quot; attack/defense challenge). yo_
 
 ## 💰 Bug Bounties
+
+- [Smashing the token limit with overlapping fragments](https://portswigger.net/research/smashing-the-token-limit)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _I'm delighted to introduce Alex, my fellow swigger who I've collaborated with in the past with tools like DOM Invader. He showed me that it's possible to exfiltrate larger tokens than demonstrated in_
 
 - [Google halts open-source bug bounty program amid AI spam surge](https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/)
   - Confidence: 🟢 HIGH
@@ -59,6 +49,42 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests](https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html)
+  - Confidence: 🟫 LOW
+  - _A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were _
+
+- [Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes](https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html)
+  - Confidence: 🟫 LOW
+  - _Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions.  The vuln_
+
+- [tenfold CE: Our free Identity Governance tool just got 2 new features](https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/)
+  - Confidence: 🟫 LOW
+  - _tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing _
+
+- [South Korea probes bank breaches amid suspected AI-powered attacks](https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/)
+  - Confidence: 🟫 LOW
+  - _South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]_
+
+- [New Dell System Update flaw lets hackers gain root privileges](https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/)
+  - Confidence: 🟫 LOW
+  - _Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]_
+
+- [Denmark population registry data breach affects 8.8 million people](https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/)
+  - Confidence: 🟫 LOW
+  - _Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]_
+
+- [IQVIA fined $7.8 million for failing to properly anonymize health data](https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/)
+  - Confidence: 🟫 LOW
+  - _Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposur_
+
+- [Rejetto HFS servers now actively scanned for critical RCE flaw](https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/)
+  - Confidence: 🟫 LOW
+  - _Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]_
+
+- [OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/)
+  - Confidence: 🟫 LOW
+  - _OpenAI is preparing to add invisible watermarks to text generated by ChatGPT and Codex in the European Union. [...]_
 
 - [New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline](https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html)
   - Confidence: 🟫 LOW
@@ -123,19 +149,3 @@ tags:
 - [Citrix patches NetScaler SAML zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/)
   - Confidence: 🟫 LOW
   - _Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether _
-
-- [Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force](https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/)
-  - Confidence: 🟫 LOW
-  - _<p>The announcement comes after Trump hosted top executives of AI companies at the White House last week.</p> <p>The post <a href="https://www.securityweek.com/trump-names-national-intelligence-direct_
-
-- [Week in review: Researcher breaks into Microsoft analytics service, NetScaler RCE 0-day exploited](https://www.helpnetsecurity.com/2026/10/04/week-in-review-researcher-breaks-into-microsoft-analytics-service-netscaler-rce-0-day-exploited/)
-  - Confidence: 🟫 LOW
-  - _<p>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: 16-year-old researcher breaks into Microsoft analytics service with access to 17 trillion rows of d_
-
-- [I need help in graduation project](https://www.reddit.com/r/netsecstudents/comments/1wx6bo8/i_need_help_in_graduation_project/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi, i am in an internship that teaches cybersecurity,Now i am in penetration testing track i need to make a project to me to graduate i know network exploitation and _
-
-- [Update: Teaching network intrusion in a fun way](https://www.reddit.com/r/netsecstudents/comments/1wwu8rf/update_teaching_network_intrusion_in_a_fun_way/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>I had posted about this before (a few weeks back) and the response was generally positive. So I wanted to reach out again and share an update on the curren_
