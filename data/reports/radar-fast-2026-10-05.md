@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-05
-date: 2026-10-05T03:57:03Z
+date: 2026-10-05T13:32:58Z
 type: radar-report
 report_type: fast
-total_opportunities: 30
+total_opportunities: 26
 tags:
   - radar
   - fast
@@ -13,12 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 30
+**Total opportunities:** 26
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 17 |
-| 🏰 CTF Competitions | 12 |
+| ❓ Uncategorized | 20 |
+| 🏰 CTF Competitions | 4 |
+| 💰 Bug Bounties | 1 |
 | 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
@@ -38,50 +39,17 @@ tags:
   - Tags: `ctf`
   - _Name: Cryovault 2026 Quals (an <a href="/ctf/942">ISFCR PESU CTF</a> event.)<br /> Date: Oct. 10, 2026, 4:30 a.m. &mdash; 11 Oct. 2026, 04:30 UTC &nbsp;<a href="/event/3441.ics">[add to calendar]</a><_
 
-- [JerseyCTF VII](https://ctftime.org/event/3458)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: JerseyCTF VII (an <a href="/ctf/724">JerseyCTF</a> event.)<br /> Date: March 13, 2027, 5 p.m. &mdash; 14 March 2027, 16:00 UTC &nbsp;<a href="/event/3458.ics">[add to calendar]</a><br /> Format:_
-
-- [InIt CTF](https://ctftime.org/event/3467)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`, `india_friendly`
-  - _Name: InIt CTF (an <a href="/ctf/1716">InIt CTF</a> event.)<br /> Date: Nov. 14, 2026, 3:30 p.m. &mdash; 14 Nov. 2026, 23:30 UTC &nbsp;<a href="/event/3467.ics">[add to calendar]</a><br /> Format: Jeo_
-
-- [Mimic](https://ctftime.org/event/3455)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: Mimic (an <a href="/ctf/1707">Mimic</a> event.)<br /> Date: Nov. 7, 2026, noon &mdash; 08 Nov. 2026, 12:00 UTC &nbsp;<a href="/event/3455.ics">[add to calendar]</a><br /> Format: Jeopardy<br /> _
-
-- [Russian CTF Cup X Qualifier](https://ctftime.org/event/3469)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: Russian CTF Cup X Qualifier (an <a href="/ctf/864">Russian CTF Cup</a> event.)<br /> Date: Oct. 31, 2026, 9 a.m. &mdash; 01 Nov. 2026, 09:00 UTC &nbsp;<a href="/event/3469.ics">[add to calendar]_
-
-- [2026 Qiangwang Challenge on Cyber Mimic Defense Qualification](https://ctftime.org/event/3459)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`, `india_friendly`
-  - _Name: 2026 Qiangwang Challenge on Cyber Mimic Defense Qualification (an <a href="/ctf/1212">Qiangwang Challenge on Cyber Mimic Defense</a> event.)<br /> Date: Oct. 31, 2026, 2 a.m. &mdash; 01 Nov. 202_
-
-- [VOID CTF Qualifiers](https://ctftime.org/event/3468)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`, `india_friendly`
-  - _Name: VOID CTF Qualifiers (an <a href="/ctf/1720">VOID CTF</a> event.)<br /> Date: Oct. 24, 2026, 6:30 p.m. &mdash; 25 Oct. 2026, 18:30 UTC &nbsp;<a href="/event/3468.ics">[add to calendar]</a><br /> _
-
-- [cruXipher 2026 - ATMoS '26, BITS Hyderabad](https://ctftime.org/event/3369)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`, `india_friendly`
-  - _Name: cruXipher 2026 - ATMoS '26, BITS Hyderabad (an <a href="/ctf/1004">cruXipher</a> event.)<br /> Date: Oct. 23, 2026, 12:30 a.m. &mdash; 25 Oct. 2026, 00:30 UTC &nbsp;<a href="/event/3369.ics">[ad_
-
-- [Africa battleCTF 2026 Qualifier](https://ctftime.org/event/3462)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: Africa battleCTF 2026 Qualifier (an <a href="/ctf/968">Africa battleCTF</a> event.)<br /> Date: Oct. 4, 2026, 11 p.m. &mdash; 04 Nov. 2026, 23:00 UTC &nbsp;<a href="/event/3462.ics">[add to cale_
-
 - [I translated ARTEX, a Chinese multi-agent AI pentest platform, into English and Korean](https://www.reddit.com/r/Pentesting/comments/1wxxpqm/i_translated_artex_a_chinese_multiagent_ai/)
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
   - _<!-- SC_OFF --><div class="md"><p>ARTEX is an open-source autonomous pentest system by Autumn-27 (Go backend, Next.js UI, about 1.5k stars, won Baidu's &quot;agent+&quot; attack/defense challenge). yo_
+
+## 💰 Bug Bounties
+
+- [Google halts open-source bug bounty program amid AI spam surge](https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...]_
 
 ## 🎓 Free Certifications
 
@@ -91,6 +59,38 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline](https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html)
+  - Confidence: 🟫 LOW
+  - _Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks.  The vulnerability, t_
+
+- [Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE](https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html)
+  - Confidence: 🟫 LOW
+  - _A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck.  The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3)_
+
+- [Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access](https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html)
+  - Confidence: 🟫 LOW
+  - _Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents.  "Some developer_
+
+- [Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2](https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling.  "Cling_
+
+- [The Credential Layer Is Expanding Faster Than Security Teams Can See It](https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html)
+  - Confidence: 🟫 LOW
+  - _Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through _
+
+- [Microsoft: Windows KB5124010 update crashes some games and apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/)
+  - Confidence: 🟫 LOW
+  - _Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [..._
+
+- [OpenAI will show visual ads in ChatGPT while you generate images](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/)
+  - Confidence: 🟫 LOW
+  - _OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images. [...]_
+
+- [Alleged dev of Ploutus ATM malware appears in US court after arrest](https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]_
 
 - [TTY Logs and the Data it Captures, (Sun, Oct 4th)](https://isc.sans.edu/diary/rss/33396)
   - Confidence: 🟫 LOW
@@ -139,23 +139,3 @@ tags:
 - [Update: Teaching network intrusion in a fun way](https://www.reddit.com/r/netsecstudents/comments/1wwu8rf/update_teaching_network_intrusion_in_a_fun_way/)
   - Confidence: 🟫 LOW
   - _<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>I had posted about this before (a few weeks back) and the response was generally positive. So I wanted to reach out again and share an update on the curren_
-
-- [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
-  - Confidence: 🟫 LOW
-  - _A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, univer_
-
-- [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
-  - Confidence: 🟫 LOW
-  - _A suspected member of the ShinyHunters digital extortion group, who goes by the online alias "Rey," has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar_
-
-- [User Agent Strings Curiosities, (Sun, Oct 4th)](https://isc.sans.edu/diary/rss/33394)
-  - Confidence: 🟫 LOW
-  - _<p>Sometimes I have to smile, or my interest is triggered, when I review new User Agent Strings in the honeypot logs.</p>&#xd;_
-
-- [Anthropic asks Claude users to share voice data for AI model training](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/)
-  - Confidence: 🟫 LOW
-  - _Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]_
-
-- [Google Gemini could soon get full access to your Mac’s files, apps and the web](https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/)
-  - Confidence: 🟫 LOW
-  - _Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]_
