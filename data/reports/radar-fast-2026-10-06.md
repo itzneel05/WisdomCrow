@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-06
-date: 2026-10-06T04:44:52Z
+date: 2026-10-06T12:44:35Z
 type: radar-report
 report_type: fast
-total_opportunities: 41
+total_opportunities: 68
 tags:
   - radar
   - fast
@@ -13,14 +13,33 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 41
+**Total opportunities:** 68
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 37 |
-| 💰 Bug Bounties | 4 |
+| ❓ Uncategorized | 59 |
+| 💰 Bug Bounties | 5 |
+| 🏰 CTF Competitions | 2 |
+| 🎓 Free Certifications | 2 |
+
+## 🏰 CTF Competitions
+
+- [The Unappraised Half of the Cyber Workforce: Building Readiness for Human and Agentic Teams](https://www.hackthebox.com/blog/human-ai-cyber-workforce-readiness)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/human-ai-cyber-workforce-readiness" title=""> <img alt="The Unappraised Half of the Cy_
+
+- [Hack The Box Launches AI Range Enterprise Edition to Set a New Standard for AI Agent Competence in Cybersecurity](https://www.hackthebox.com/blog/hack-the-box-launches-ai-range-enterprise-edition)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/hack-the-box-launches-ai-range-enterprise-edition" title=""> <img alt="Hack The Box La_
 
 ## 💰 Bug Bounties
+
+- [Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports](https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software.  The change, in effect since October 1, means researchers can no longer submit s_
 
 - [Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports](https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/)
   - Confidence: 🟢 HIGH
@@ -42,7 +61,107 @@ tags:
   - Tags: `bug_bounty`
   - _Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...]_
 
+## 🎓 Free Certifications
+
+- [More RMM Tools In the Wild, (Tue, Oct 6th)](https://isc.sans.edu/diary/rss/33400)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _<p>It seems that a trend started&#x26;#xe2;&#x26;#x80;&#x26;#xa6; I continue my journey discovering more RMM ("Remote Management &#x26; Monitoring") tools abused by threat actors&#x21; A few days ago,_
+
+- [ISC Stormcast For Tuesday, October 6th, 2026 https://isc.sans.edu/podcastdetail/10124, (Tue, Oct 6th)](https://isc.sans.edu/diary/rss/33402)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
+
 ## ❓ Uncategorized
+
+- [ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits](https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html)
+  - Confidence: 🟫 LOW
+  - _A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache.  "Instead of downloading and executing remote payloads li_
+
+- [Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account](https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html)
+  - Confidence: 🟫 LOW
+  - _Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the countr_
+
+- [FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach](https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau empl_
+
+- [Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products](https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html)
+  - Confidence: 🟫 LOW
+  - _A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory.  _
+
+- [Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers](https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html)
+  - Confidence: 🟫 LOW
+  - _In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built s_
+
+- [Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies](https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html)
+  - Confidence: 🟫 LOW
+  - _The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public _
+
+- [LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings](https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html)
+  - Confidence: 🟫 LOW
+  - _A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either _
+
+- [What do you log when retrieved text steers a tool call?](https://www.reddit.com/r/AskNetsec/comments/1wxh6l0/what_do_you_log_when_retrieved_text_steers_a_tool/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>A red team test run caught 3 of 500 cases where retrieved context included HTML with a diagnostic instruction that pushed the model toward a fetch_url call to an exte_
+
+- [How are you enforcing GenAI guardrails in real time?](https://www.reddit.com/r/AskNetsec/comments/1wy4n43/how_are_you_enforcing_genai_guardrails_in_real/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I've spent most of this year running monitor only on our GenAI traffic. That gave us a clean dashboard of who pasted what but did nothing when a support rep dropped a_
+
+- [How do you verify whether an AI-described security flaw is a real, documented thing versus a confident fabrication?](https://www.reddit.com/r/AskNetsec/comments/1wxycqs/how_do_you_verify_whether_an_aidescribed_security/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I do a lot of reading where an AI assistant explains a security concept, and the explanations sound authoritative — but I've learned not to trust that on its face. So_
+
+- [How are you discovering which AI tools employees use?](https://www.reddit.com/r/AskNetsec/comments/1wy0xv4/how_are_you_discovering_which_ai_tools_employees/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>We ran a discovery pass on our outbound traffic a few weeks back expecting to see ChatGPT and maybe Grammarly and it came back with 27 different AI tools. One was a r_
+
+- [Sentry spiked after a deploy and I couldn't tell who changed the config](https://www.reddit.com/r/AskNetsec/comments/1wyjxc7/sentry_spiked_after_a_deploy_and_i_couldnt_tell/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Had a really annoying afternoon last week. Sentry started lighting up after a deploy and it traced back to a changed value in one of our config files. Easy enough, I _
+
+- [SOC escalation outpacing IR response... how are you tabletoping for real alert tempo?](https://www.reddit.com/r/AskNetsec/comments/1wyui16/soc_escalation_outpacing_ir_response_how_are_you/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>We escalated five alerts in three minutes last week and IR was still deciding what the first one meant. Love that for us. The alert queue moves like it had coffee, th_
+
+- [How are you guys reducing security risks with AI agents?](https://www.reddit.com/r/AskNetsec/comments/1wyypiy/how_are_you_guys_reducing_security_risks_with_ai/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I saw a few posts discussing how more people are giving AI agents access to real tools and business systems, and it got me thinking about how people are actually hand_
+
+- [Keeping security questionnaires short for vendors isn't really about deleting questions](https://www.reddit.com/r/AskNetsec/comments/1wytn0q/keeping_security_questionnaires_short_for_vendors/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Used to think shortening vendor questionnaires meant taking the 180-question monster and cutting it down until people stopped hating us.</p> <p>starting to think that_
+
+- [Best way to give AI agents their own identity instead of sharing service accounts in 2026?](https://www.reddit.com/r/AskNetsec/comments/1wywn05/best_way_to_give_ai_agents_their_own_identity/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>We hve hit the point where sharing is falling apart. 11 agents in production. Mostly support and finance stuff plus one that writes release notes and has opinions. Al_
+
+- [Question about enterprise DSPM rollout?](https://www.reddit.com/r/AskNetsec/comments/1wz0bmj/question_about_enterprise_dspm_rollout/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi y'all, my team is comparing DSPM vendors while simultaneously planning our budget for next year and I need a realistic expectation on time to value, resources and _
+
+- [What does a useful ransomware tabletop exercise actually test beyond the technical playbook?](https://www.reddit.com/r/AskNetsec/comments/1wywsz8/what_does_a_useful_ransomware_tabletop_exercise/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I get less value from a tabletop that asks &quot;Do we have a ransomware playbook?&quot; than one that forces decisions with imperfect information. </p> <p>For exampl_
+
+- [How should my team prioritize DSPM findings when there are thousands of them?](https://www.reddit.com/r/AskNetsec/comments/1wyxsfa/how_should_my_team_prioritize_dspm_findings_when/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Feeling overwhelmed and looking for some help with how my team should prioritize DSPM findings when it seems like our company's data security is being held together b_
+
+- [Engineer sentenced for locking over 3,000 devices on employer network](https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/)
+  - Confidence: 🟫 LOW
+  - _A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomwa_
+
+- [Nikkei discloses breaches of employees’ Microsoft, Google email accounts](https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/)
+  - Confidence: 🟫 LOW
+  - _Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]_
+
+- [Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits](https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/)
+  - Confidence: 🟫 LOW
+  - _The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]_
 
 - [Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier](https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/)
   - Confidence: 🟫 LOW
