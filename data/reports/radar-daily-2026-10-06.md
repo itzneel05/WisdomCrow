@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Daily Report - 2026-10-06
-date: 2026-10-06T00:15:57Z
+date: 2026-10-06T22:46:14Z
 type: radar-report
 report_type: daily
-total_opportunities: 51
+total_opportunities: 91
 tags:
   - radar
   - daily
@@ -13,23 +13,43 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 51
+**Total opportunities:** 91
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 45 |
-| 💰 Bug Bounties | 4 |
-| 🏰 CTF Competitions | 1 |
-| 🎓 Free Certifications | 1 |
+| ❓ Uncategorized | 81 |
+| 💰 Bug Bounties | 5 |
+| 🏰 CTF Competitions | 3 |
+| 🎓 Free Certifications | 2 |
 
 ## 🏰 CTF Competitions
 
-- [I translated ARTEX, a Chinese multi-agent AI pentest platform, into English and Korean](https://www.reddit.com/r/Pentesting/comments/1wxxpqm/i_translated_artex_a_chinese_multiagent_ai/)
-  - Confidence: 🟡 MEDIUM
+- [The Unappraised Half of the Cyber Workforce: Building Readiness for Human and Agentic Teams](https://www.hackthebox.com/blog/human-ai-cyber-workforce-readiness)
+  - Confidence: 🟢 HIGH
   - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>ARTEX is an open-source autonomous pentest system by Autumn-27 (Go backend, Next.js UI, about 1.5k stars, won Baidu's &quot;agent+&quot; attack/defense challenge). yo_
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/human-ai-cyber-workforce-readiness" title=""> <img alt="The Unappraised Half of the Cy_
+
+- [Hack The Box Launches AI Range Enterprise Edition to Set a New Standard for AI Agent Competence in Cybersecurity](https://www.hackthebox.com/blog/hack-the-box-launches-ai-range-enterprise-edition)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/hack-the-box-launches-ai-range-enterprise-edition" title=""> <img alt="Hack The Box La_
+
+- [Ontinue extends ION MXDR with managed dark web monitoring](https://www.helpnetsecurity.com/2026/10/06/ontinue-ion-dark-web-monitoring/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`, `india_friendly`
+  - _<p>Ontinue has announced the launch of ION for Dark Web Monitoring (DWM), a new managed add-on service that extends ION MXDR to continuously identify exposed credentials, detect brand impersonation at_
 
 ## 💰 Bug Bounties
+
+- [The model isn't cooperating](https://portswigger.net/research/the-model-isnt-cooperating)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _Have you ever felt like a model isn't actually trying to do what you asked? Did you just ask it wrong, or is there something else at play here? In this post, I'll briefly explore this phenomenon, the_
+
+- [Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports](https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software.  The change, in effect since October 1, means researchers can no longer submit s_
 
 - [Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports](https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/)
   - Confidence: 🟢 HIGH
@@ -46,19 +66,227 @@ tags:
   - Tags: `bug_bounty`
   - _I'm delighted to introduce Alex, my fellow swigger who I've collaborated with in the past with tools like DOM Invader. He showed me that it's possible to exfiltrate larger tokens than demonstrated in_
 
-- [Google halts open-source bug bounty program amid AI spam surge](https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...]_
-
 ## 🎓 Free Certifications
 
-- [ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, (Mon, Oct 5th)](https://isc.sans.edu/diary/rss/33398)
+- [More RMM Tools In the Wild, (Tue, Oct 6th)](https://isc.sans.edu/diary/rss/33400)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _<p>It seems that a trend started&#x26;#xe2;&#x26;#x80;&#x26;#xa6; I continue my journey discovering more RMM ("Remote Management &#x26; Monitoring") tools abused by threat actors&#x21; A few days ago,_
+
+- [ISC Stormcast For Tuesday, October 6th, 2026 https://isc.sans.edu/podcastdetail/10124, (Tue, Oct 6th)](https://isc.sans.edu/diary/rss/33402)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Social Engineering Detection Moves Into the Live Conversation](https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/)
+  - Confidence: 🟫 LOW
+  - _<p>Companies are pouring time and dollars into security awareness training, but little evidence shows it actually works against social engineering.</p> <p>The post <a href="https://www.securityweek.co_
+
+- [8.8 Million Impacted by Data Breach at Denmark’s Central Person Register](https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/)
+  - Confidence: 🟫 LOW
+  - _<p>Hackers abused a company’s lawful access to the CPR system to steal the personal information of registered citizens.</p> <p>The post <a href="https://www.securityweek.com/8-8-million-impacted-by-da_
+
+- [Long-Running NPM Malware Campaign Accumulates 40,000 Downloads](https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/)
+  - Confidence: 🟫 LOW
+  - _<p>Since August 2023, attackers have published eight malicious packages as part of the MALFEX supply chain campaign.</p> <p>The post <a href="https://www.securityweek.com/long-running-npm-malware-camp_
+
+- [Cybersecurity M&A Roundup: 39 Deals Announced in September 2026](https://www.securityweek.com/cybersecurity-ma-roundup-39-deals-announced-in-september-2026/)
+  - Confidence: 🟫 LOW
+  - _<p>Significant cybersecurity M&#038;A deals announced by Dragos, IBM, Palo Alto Networks, Kiteworks, and Upwind.</p> <p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-39-deals_
+
+- [Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks](https://www.securityweek.com/apple-to-tighten-full-disk-access-controls-in-macos-amid-ai-risks/)
+  - Confidence: 🟫 LOW
+  - _<p>Citing growing risks posed by more capable and autonomous AI agents, Apple will introduce additional controls.</p> <p>The post <a href="https://www.securityweek.com/apple-to-tighten-full-disk-acces_
+
+- [FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware](https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/)
+  - Confidence: 🟫 LOW
+  - _<p>An alleged leader of Tren de Aragua’s ATM jackpotting activities, Canelon Aguirre was on the FBI’s top 10 most wanted list since March 2026.</p> <p>The post <a href="https://www.securityweek.com/fb_
+
+- [FBI Blames Contractor’s Missed Patch for ShinyHunters Breach](https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/)
+  - Confidence: 🟫 LOW
+  - _<p>The FBI has removed an Accenture contractor over a data breach that exposed personal information of thousands of bureau employees.</p> <p>The post <a href="https://www.securityweek.com/fbi-blames-c_
+
+- [Possible Vulnerability in Apple’s Automatic Reboot](https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html)
+  - Confidence: 🟫 LOW
+  - _<p>404Media is <a href="https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/">reporting</a> (alternate <a href="https://archive.ph/4qncQ">link</a>) that a cyber-weapons _
+
+- [Dell System Update flaw allows attackers to gain root privileges (CVE-2026-86360)](https://www.helpnetsecurity.com/2026/10/06/dell-system-update-vulnerability-cve-2026-86360/)
+  - Confidence: 🟫 LOW
+  - _<p>Dell is urging customers to patch a vulnerability (CVE-2026-86360) in Dell System Update (DSU) that could allow an unauthenticated remote attacker to execute arbitrary code with root privileges. DS_
+
+- [Atlassian urges immediate patching of critical Data Center file access vulnerability (CVE-2026-21589)](https://www.helpnetsecurity.com/2026/10/06/atlassian-data-center-cve-2026-21589/)
+  - Confidence: 🟫 LOW
+  - _<p>Attackers who know where to look can read files from Atlassian Data Center installations without logging in, the company has warned. About CVE-2026-21589 CVE-2026-21589, a critical arbitrary file a_
+
+- [AXON Datum enforces data access policies before AI systems act](https://www.helpnetsecurity.com/2026/10/06/axon-datum-enforces-data-access-policies-before-ai-systems-act/)
+  - Confidence: 🟫 LOW
+  - _<p>AXON Networks has announced AXON Datum, a data management and secure sovereign governance layer that helps service providers, enterprises, and institutions such as governments control how informati_
+
+- [Intellias Agentic ServiceOps applies governed AI across IT operations](https://www.helpnetsecurity.com/2026/10/06/intellias-agentic-serviceops/)
+  - Confidence: 🟫 LOW
+  - _<p>Intellias has launched Agentic ServiceOps a managed IT service that applies governed agentic AI across IT service management (ITSM) and IT operations management (ITOM), from the service desk to the_
+
+- [SailPoint adds AI agent discovery, temporary access and compliance automation](https://www.helpnetsecurity.com/2026/10/06/sailpoint-agentic-fabric-innovation/)
+  - Confidence: 🟫 LOW
+  - _<p>SailPoint has announced significant new capabilities across SailPoint Agentic Fabric (SAF) and SailPoint Human Fabric (SHF), the two purpose-built products of its Identity Security solution, built _
+
+- [New Relic adds terminal-based investigation and recovery checks with Ground Truth CLI](https://www.helpnetsecurity.com/2026/10/06/new-relic-ground-truth-cli/)
+  - Confidence: 🟫 LOW
+  - _<p>New Relic has announced New Relic Ground Truth CLI augmented with New Relic Autopilot API, bringing headless observability straight to developers and AI agents in their natural workflows. The new c_
+
+- [AppViewX targets shadow AI risks with agent discovery and runtime enforcement](https://www.helpnetsecurity.com/2026/10/06/appviewx-shadow-ai-visibility/)
+  - Confidence: 🟫 LOW
+  - _<p>AppViewX has expanded capabilities for Agent Identity Security, a solution enabling enterprises to discover every agent, whether sanctioned or shadow; govern their posture and maintain audit-ready _
+
+- [Rogue OpenAI agents made unauthorized Wikipedia edits and millions of requests to Wikimedia](https://www.helpnetsecurity.com/2026/10/06/openai-rogue-agents-wikimedia-wikipedia/)
+  - Confidence: 🟫 LOW
+  - _<p>Rogue OpenAI agents made unauthorized edits on Wikimedia wikis and sent millions of automated requests to Wikimedia&#8217;s public APIs, traffic that may have contributed to a partial outage of the_
+
+- [Anaconda combines agent swarms with autonomous security testing](https://www.helpnetsecurity.com/2026/10/06/anaconda-platform/)
+  - Confidence: 🟫 LOW
+  - _<p>Anaconda has announced new capabilities across the Anaconda Platform that pair agentic development with autonomous security testing. The expansion brings agent swarms and autonomous red-team agents_
+
+- ['BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates](https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates)
+  - Confidence: 🟫 LOW
+  - _Not quite an EDR-killer, but the proof-of-concept cyber technique creates a silent virus detection gap while service runs normally, no exploit required._
+
+- [IANS' Kakolowski: How AI Is Reshaping CISO Budgets &amp; Security Teams](https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams)
+  - Confidence: 🟫 LOW
+  - _In this video interview, Nick Kakolowski, senior director for CISO research at IANS, talks AI: budgets, ROI, and changes inside security teams._
+
+- [Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps](https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps)
+  - Confidence: 🟫 LOW
+  - _The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment._
+
+- [Critical Healthcare Systems Aren't Quantum-Ready](https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready)
+  - Confidence: 🟫 LOW
+  - _A study of 2.5 million devices across 50 healthcare organization suggests the sector has a long way to go in getting ready for the post-quantum cryptography era._
+
+- [ClickFix Attacks Evolve to Better Hide Malicious Payloads](https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads)
+  - Confidence: 🟫 LOW
+  - _Threat actors are now hiding payloads by using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages._
+
+- [Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan](https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html)
+  - Confidence: 🟫 LOW
+  - _Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detecti_
+
+- [Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes](https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a "human-operated phishing platform" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic _
+
+- [How to secure RMM software: 8 controls MSPs should test](https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/)
+  - Confidence: 🟫 LOW
+  - _RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM s_
+
+- [Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes](https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/)
+  - Confidence: 🟫 LOW
+  - _A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser_
+
+- [ASOS confirms data breach after “HACKED” in-app notifications](https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/)
+  - Confidence: 🟫 LOW
+  - _UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowfl_
+
+- [Atlassian warns of critical file-access flaw in Jira, Confluence](https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/)
+  - Confidence: 🟫 LOW
+  - _Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluenc_
+
+- [Hackers exploit 32 zero-days on first day of Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/)
+  - Confidence: 🟫 LOW
+  - _On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]_
+
+- [Ninja Forms plugin flaw exploited to hack WordPress sites](https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/)
+  - Confidence: 🟫 LOW
+  - _Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue _
+
+- [ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits](https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html)
+  - Confidence: 🟫 LOW
+  - _A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache.  "Instead of downloading and executing remote payloads li_
+
+- [Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account](https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html)
+  - Confidence: 🟫 LOW
+  - _Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the countr_
+
+- [FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach](https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau empl_
+
+- [Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products](https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html)
+  - Confidence: 🟫 LOW
+  - _A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory.  _
+
+- [Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers](https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html)
+  - Confidence: 🟫 LOW
+  - _In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built s_
+
+- [Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies](https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html)
+  - Confidence: 🟫 LOW
+  - _The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public _
+
+- [LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings](https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html)
+  - Confidence: 🟫 LOW
+  - _A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either _
+
+- [What do you log when retrieved text steers a tool call?](https://www.reddit.com/r/AskNetsec/comments/1wxh6l0/what_do_you_log_when_retrieved_text_steers_a_tool/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>A red team test run caught 3 of 500 cases where retrieved context included HTML with a diagnostic instruction that pushed the model toward a fetch_url call to an exte_
+
+- [How are you enforcing GenAI guardrails in real time?](https://www.reddit.com/r/AskNetsec/comments/1wy4n43/how_are_you_enforcing_genai_guardrails_in_real/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I've spent most of this year running monitor only on our GenAI traffic. That gave us a clean dashboard of who pasted what but did nothing when a support rep dropped a_
+
+- [How do you verify whether an AI-described security flaw is a real, documented thing versus a confident fabrication?](https://www.reddit.com/r/AskNetsec/comments/1wxycqs/how_do_you_verify_whether_an_aidescribed_security/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I do a lot of reading where an AI assistant explains a security concept, and the explanations sound authoritative — but I've learned not to trust that on its face. So_
+
+- [How are you discovering which AI tools employees use?](https://www.reddit.com/r/AskNetsec/comments/1wy0xv4/how_are_you_discovering_which_ai_tools_employees/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>We ran a discovery pass on our outbound traffic a few weeks back expecting to see ChatGPT and maybe Grammarly and it came back with 27 different AI tools. One was a r_
+
+- [Sentry spiked after a deploy and I couldn't tell who changed the config](https://www.reddit.com/r/AskNetsec/comments/1wyjxc7/sentry_spiked_after_a_deploy_and_i_couldnt_tell/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Had a really annoying afternoon last week. Sentry started lighting up after a deploy and it traced back to a changed value in one of our config files. Easy enough, I _
+
+- [SOC escalation outpacing IR response... how are you tabletoping for real alert tempo?](https://www.reddit.com/r/AskNetsec/comments/1wyui16/soc_escalation_outpacing_ir_response_how_are_you/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>We escalated five alerts in three minutes last week and IR was still deciding what the first one meant. Love that for us. The alert queue moves like it had coffee, th_
+
+- [How are you guys reducing security risks with AI agents?](https://www.reddit.com/r/AskNetsec/comments/1wyypiy/how_are_you_guys_reducing_security_risks_with_ai/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I saw a few posts discussing how more people are giving AI agents access to real tools and business systems, and it got me thinking about how people are actually hand_
+
+- [Keeping security questionnaires short for vendors isn't really about deleting questions](https://www.reddit.com/r/AskNetsec/comments/1wytn0q/keeping_security_questionnaires_short_for_vendors/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Used to think shortening vendor questionnaires meant taking the 180-question monster and cutting it down until people stopped hating us.</p> <p>starting to think that_
+
+- [Best way to give AI agents their own identity instead of sharing service accounts in 2026?](https://www.reddit.com/r/AskNetsec/comments/1wywn05/best_way_to_give_ai_agents_their_own_identity/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>We hve hit the point where sharing is falling apart. 11 agents in production. Mostly support and finance stuff plus one that writes release notes and has opinions. Al_
+
+- [Question about enterprise DSPM rollout?](https://www.reddit.com/r/AskNetsec/comments/1wz0bmj/question_about_enterprise_dspm_rollout/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi y'all, my team is comparing DSPM vendors while simultaneously planning our budget for next year and I need a realistic expectation on time to value, resources and _
+
+- [What does a useful ransomware tabletop exercise actually test beyond the technical playbook?](https://www.reddit.com/r/AskNetsec/comments/1wywsz8/what_does_a_useful_ransomware_tabletop_exercise/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I get less value from a tabletop that asks &quot;Do we have a ransomware playbook?&quot; than one that forces decisions with imperfect information. </p> <p>For exampl_
+
+- [How should my team prioritize DSPM findings when there are thousands of them?](https://www.reddit.com/r/AskNetsec/comments/1wyxsfa/how_should_my_team_prioritize_dspm_findings_when/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Feeling overwhelmed and looking for some help with how my team should prioritize DSPM findings when it seems like our company's data security is being held together b_
+
+- [Engineer sentenced for locking over 3,000 devices on employer network](https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/)
+  - Confidence: 🟫 LOW
+  - _A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomwa_
+
+- [Nikkei discloses breaches of employees’ Microsoft, Google email accounts](https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/)
+  - Confidence: 🟫 LOW
+  - _Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]_
+
+- [Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits](https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/)
+  - Confidence: 🟫 LOW
+  - _The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]_
 
 - [Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier](https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/)
   - Confidence: 🟫 LOW
@@ -175,67 +403,3 @@ tags:
 - [OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/)
   - Confidence: 🟫 LOW
   - _OpenAI is preparing to add invisible watermarks to text generated by ChatGPT and Codex in the European Union. [...]_
-
-- [New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline](https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html)
-  - Confidence: 🟫 LOW
-  - _Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks.  The vulnerability, t_
-
-- [Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE](https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html)
-  - Confidence: 🟫 LOW
-  - _A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck.  The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3)_
-
-- [Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access](https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html)
-  - Confidence: 🟫 LOW
-  - _Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents.  "Some developer_
-
-- [Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2](https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling.  "Cling_
-
-- [The Credential Layer Is Expanding Faster Than Security Teams Can See It](https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html)
-  - Confidence: 🟫 LOW
-  - _Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through _
-
-- [Microsoft: Windows KB5124010 update crashes some games and apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/)
-  - Confidence: 🟫 LOW
-  - _Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [..._
-
-- [OpenAI will show visual ads in ChatGPT while you generate images](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/)
-  - Confidence: 🟫 LOW
-  - _OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images. [...]_
-
-- [Alleged dev of Ploutus ATM malware appears in US court after arrest](https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/)
-  - Confidence: 🟫 LOW
-  - _The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]_
-
-- [TTY Logs and the Data it Captures, (Sun, Oct 4th)](https://isc.sans.edu/diary/rss/33396)
-  - Confidence: 🟫 LOW
-  - _<p>For an experiment, I created a script &#x5b;<a href="https://github.com/bruneaug/DShield-Sensor/blob/main/sensor&#x5f;scripts/daily&#x5f;tty.sh">1</a>&#x5d; that parses and send the TTY logs collec_
-
-- [AI Pentesting platforms](https://www.reddit.com/r/Pentesting/comments/1wwkv69/ai_pentesting_platforms/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Do you guys use any AI automated pentesting platforms at your work? Do firms actually buy or use these over regular security audits???</p> </div><!-- SC_ON --> &#32; _
-
-- [This is the project I've been working on!! #PenTesting #SwissArmyKnife and Yes it does Everything that's showing up in the screenshot 😊😊😊😊 #NewPenTester](https://www.reddit.com/r/Pentesting/comments/1wws7qi/this_is_the_project_ive_been_working_on/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1wws7qi/this_is_the_project_ive_been_working_on/"> <img alt="This is the project I've been working on!! #PenTesting #SwissArmyKni_
-
-- [How far can I get with "only" 30 minutes a day of learning and practice?](https://www.reddit.com/r/Pentesting/comments/1wwqsbg/how_far_can_i_get_with_only_30_minutes_a_day_of/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>My schedule is tight, so I can realistically spend about 30 minutes a day learning cybersecurity. I know that is not much, but I am curious how far consistent effort _
-
-- [My CPENT exam day.](https://www.reddit.com/r/Pentesting/comments/1wx4lt8/my_cpent_exam_day/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/i-shekhar"> /u/i-shekhar </a> <br /> <span><a href="https://www.reddit.com/r/Pentesting/comments/1wx4lt8/my_cpent_exam_day/">[link]</a></s_
-
-- [I want to become a pentester in the future. but as AI is growing I'm worried about the job opportunities in the future. I still have time to choose the right degree. should I choose an AI course or Bsc computer science + cybersecurity certificates.](https://www.reddit.com/r/Pentesting/comments/1wxkr2i/i_want_to_become_a_pentester_in_the_future_but_as/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/f_einn"> /u/f_einn </a> <br /> <span><a href="https://www.reddit.com/r/Pentesting/comments/1wxkr2i/i_want_to_become_a_pentester_in_the_fut_
-
-- [Tooldump v2: a free platform for discovering open-source pentesting and cybersecurity tools](https://www.reddit.com/r/Pentesting/comments/1wxlmzy/tooldump_v2_a_free_platform_for_discovering/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I’m the creator of Tooldump, a free platform for discovering open-source cybersecurity tools. I’ve just released the v2 and wanted to share it he_
-
-- [Citrix patches NetScaler SAML zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether _
