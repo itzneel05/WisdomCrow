@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-07
-date: 2026-10-07T04:10:56Z
+date: 2026-10-07T12:37:44Z
 type: radar-report
 report_type: fast
-total_opportunities: 60
+total_opportunities: 70
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 60
+**Total opportunities:** 70
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 52 |
+| ❓ Uncategorized | 61 |
+| 💰 Bug Bounties | 3 |
 | 🏰 CTF Competitions | 3 |
 | 🎓 Free Certifications | 3 |
-| 💰 Bug Bounties | 2 |
 
 ## 🏰 CTF Competitions
 
@@ -40,6 +40,11 @@ tags:
   - _<p>Ontinue has announced the launch of ION for Dark Web Monitoring (DWM), a new managed add-on service that extends ION MXDR to continuously identify exposed credentials, detect brand impersonation at_
 
 ## 💰 Bug Bounties
+
+- [Beyond asset discovery. Real-life CrowdRecon use case explored](https://www.intigriti.com/blog/business-insights/beyond-asset-discovery-real-life-crowdrecon-use-case-explored)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`, `india_friendly`
+  - _Security teams have more ways than ever to map assets, scan infrastructure, and track vulnerabilities. Yet one question often remains difficult to answer: what does a skilled researcher consider worth_
 
 - [The model isn't cooperating](https://portswigger.net/research/the-model-isnt-cooperating)
   - Confidence: 🟢 HIGH
@@ -69,6 +74,42 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer](https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html)
+  - Confidence: 🟫 LOW
+  - _The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware c_
+
+- [Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws](https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html)
+  - Confidence: 🟫 LOW
+  - _Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifi_
+
+- [What Is Agentic Pentesting? What It Proves, and Where It Stops.](https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html)
+  - Confidence: 🟫 LOW
+  - _If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonom_
+
+- [Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details](https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions.  The arbitrar_
+
+- [FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials](https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet_
+
+- [The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow](https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html)
+  - Confidence: 🟫 LOW
+  - _The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems w_
+
+- [Advantest confirms personal information stolen in ransomware attack](https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/)
+  - Confidence: 🟫 LOW
+  - _Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]_
+
+- [Musician sent to prison for $10 million streaming fraud using AI bots](https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/)
+  - Confidence: 🟫 LOW
+  - _A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royal_
+
+- [SonicWall warns of max severity SSRF flaw in SMA1000 gateways](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/)
+  - Confidence: 🟫 LOW
+  - _SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]_
 
 - [Social Engineering Detection Moves Into the Live Conversation](https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/)
   - Confidence: 🟫 LOW
