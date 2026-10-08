@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-08
-date: 2026-10-08T12:47:34Z
+date: 2026-10-08T22:52:27Z
 type: radar-report
 report_type: fast
-total_opportunities: 50
+total_opportunities: 60
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 50
+**Total opportunities:** 60
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 46 |
-| 🎓 Free Certifications | 2 |
-| 💰 Bug Bounties | 1 |
+| ❓ Uncategorized | 54 |
+| 🎓 Free Certifications | 3 |
+| 💰 Bug Bounties | 2 |
 | 🏰 CTF Competitions | 1 |
 
 ## 🏰 CTF Competitions
@@ -31,12 +31,22 @@ tags:
 
 ## 💰 Bug Bounties
 
+- [Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks](https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said.  The Tok_
+
 - [Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
   - _​​​On the second day of Pwn2Own Ireland 2026, security researchers collected $232,500 in cash awards after exploiting 45 unique zero-day vulnerabilities. [...]_
 
 ## 🎓 Free Certifications
+
+- [Cisco warns of critical flaws allowing Nexus switch takeover](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switc_
 
 - [ISC Stormcast For Thursday, October 8th, 2026 https://isc.sans.edu/podcastdetail/10128, (Thu, Oct 8th)](https://isc.sans.edu/diary/rss/33408)
   - Confidence: 🟢 HIGH
@@ -49,6 +59,90 @@ tags:
   - _<p>Cisco has built a Quantum Network Controller, a research prototype that lets an application ask a quantum network for entanglement and leaves the network to work out the delivery. Entanglement, a l_
 
 ## ❓ Uncategorized
+
+- [ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms](https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry ou_
+
+- [UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML](https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html)
+  - Confidence: 🟫 LOW
+  - _The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN.  According to TrendAI, the malware_
+
+- [ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories](https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html)
+  - Confidence: 🟫 LOW
+  - _The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrus_
+
+- [FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails](https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html)
+  - Confidence: 🟫 LOW
+  - _Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agenc_
+
+- [Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)](https://isc.sans.edu/diary/rss/33410)
+  - Confidence: 🟫 LOW
+  - _<p>We just did a major update to FOR577 and added a lot of new material on day 5 about investigating AI usage in incident response. In the new material we dicsuss 8&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&_
+
+- [Will sandboxed AI attackers become part of normal security testing?](https://www.reddit.com/r/AskNetsec/comments/1wzmo8w/will_sandboxed_ai_attackers_become_part_of_normal/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Security testing today usually means scanners in CI, periodic human pentests, or carefully limited tests against staging or production. I’m curious whether another mo_
+
+- [How are you handling the appliance nobody has a parser for?](https://www.reddit.com/r/AskNetsec/comments/1wzqjey/how_are_you_handling_the_appliance_nobody_has_a/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Every environment I've worked in has a load balancer or door controller or UPS that sends its own idea of syslog and nobody ships a parser for it. Right now it's our _
+
+- [How are you getting visibility into GenAI sessions?](https://www.reddit.com/r/AskNetsec/comments/1wzv2z5/how_are_you_getting_visibility_into_genai_sessions/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>A signed customer contract showed up pasted into some free AI summariser last month. We only caught it because the tool domain showed up in a firewall log. </p> <p>We_
+
+- [Anyone actually trust their ai endpoint security to catch what traditional EDR misses?](https://www.reddit.com/r/AskNetsec/comments/1x0hpzq/anyone_actually_trust_their_ai_endpoint_security/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>For ppl running ai endpoint security tools alongside a normal endpoint detection and response EDR stack, how do you handle the overlap in practice? I am especially in_
+
+- [How should a historical vulnerability warning be evaluated when there is no confirmation it was received?](https://www.reddit.com/r/AskNetsec/comments/1x0eic7/how_should_a_historical_vulnerability_warning_be/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>About a year before a major public-sector cyber incident, my colleagues and I accidentally discovered a security issue that could potentially expose personal informat_
+
+- [Prediction: zero trust browsing is where zero trust rollouts get judged by 2028. Too early?](https://www.reddit.com/r/AskNetsec/comments/1x0n36u/prediction_zero_trust_browsing_is_where_zero/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Finished replacing VPN with ZTNA last year, at a utility in Calgary, the program did what it promised. My bet is that by the end of 2028, mid size orgs judge zero tru_
+
+- [CISOs: how are you securing AI agents?](https://www.reddit.com/r/AskNetsec/comments/1wzzy7d/cisos_how_are_you_securing_ai_agents/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>For agents that can call tools, access internal data, send messages or change things in other systems, how are you putting guardrails around them?</p> <p>I’m trying t_
+
+- [Container image hardening keeps stalling because nobody will own what breaks](https://www.reddit.com/r/AskNetsec/comments/1x0g579/container_image_hardening_keeps_stalling_because/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Weve had a hardening project open for three quarters now. The scanning half was easy and the cutting half keeps getting handed back, because no service owner wants to_
+
+- [[ Removed by Reddit ]](https://www.reddit.com/r/AskNetsec/comments/1x151zx/removed_by_reddit/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>[ Removed by Reddit on account of violating the <a href="/help/contentpolicy">content policy</a>. ]</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https:/_
+
+- [Compliance Assessment vs Pentest](https://www.reddit.com/r/AskNetsec/comments/1x100wb/compliance_assessment_vs_pentest/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Im just curious to get people's thoughts. In regulated environments... why do people think so highly of pentests and so little of compliance assessments, when they bo_
+
+- [Uranium crypto exchange hacker convicted for stealing $53 million](https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/)
+  - Confidence: 🟫 LOW
+  - _A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]_
+
+- [OAuth grants pile up faster than you can review them. Here's how to keep up.](https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/)
+  - Confidence: 🟫 LOW
+  - _OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers ar_
+
+- [FakeGit malware campaign returns with 17,610 malicious GitHub repos](https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/)
+  - Confidence: 🟫 LOW
+  - _More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]_
+
+- [Low-cost Android phones ship with residential proxy malware](https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/)
+  - Confidence: 🟫 LOW
+  - _A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install app_
+
+- [Ransomware attack disrupts Japan's IDCF Cloud used by govt clients](https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/)
+  - Confidence: 🟫 LOW
+  - _IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster servin_
+
+- [FBI disrupts Chinese hacking tools used to breach critical infrastructure](https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/)
+  - Confidence: 🟫 LOW
+  - _The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructur_
 
 - [Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm](https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html)
   - Confidence: 🟫 LOW
@@ -181,55 +275,3 @@ tags:
 - [Australian Gov't Weighs Mandatory AI Incident Reporting](https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting)
   - Confidence: 🟫 LOW
   - _In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for frontier AI companies._
-
-- [PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet](https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim _
-
-- [Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely](https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html)
-  - Confidence: 🟫 LOW
-  - _A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed_
-
-- [SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances](https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html)
-  - Confidence: 🟫 LOW
-  - _SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker_
-
-- [Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer](https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts.  The campaig_
-
-- [Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains](https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html)
-  - Confidence: 🟫 LOW
-  - _Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&nbsp;said on October 6.  Google's own systems were n_
-
-- [Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)](https://isc.sans.edu/diary/rss/33406)
-  - Confidence: 🟫 LOW
-  - _<p>On October 5th, Atlassian published patches&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;for multiple products to fix an "Arbitrary File Access" vulnerability &&_
-
-- [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
-  - Confidence: 🟫 LOW
-  - _A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of th_
-
-- [Hackers exploit critical Atlassian flaw after public PoC release](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/)
-  - Confidence: 🟫 LOW
-  - _A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [._
-
-- [Ransomware has a new target. Is your backup ready?](https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/)
-  - Confidence: 🟫 LOW
-  - _Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, an_
-
-- [PoeLLM malware infects exposed AI servers in cryptomining attacks](https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/)
-  - Confidence: 🟫 LOW
-  - _A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. [...]_
-
-- [Microsoft Outlook to block MSIX attachments starting November](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]_
-
-- [Hackers hijack Google domains after breaching ccTLD registries](https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/)
-  - Confidence: 🟫 LOW
-  - _Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compro_
-
-- [FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins](https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/)
-  - Confidence: 🟫 LOW
-  - _The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]_
