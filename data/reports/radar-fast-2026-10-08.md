@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-08
-date: 2026-10-08T04:23:45Z
+date: 2026-10-08T12:47:34Z
 type: radar-report
 report_type: fast
-total_opportunities: 51
+total_opportunities: 50
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 51
+**Total opportunities:** 50
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 47 |
+| ❓ Uncategorized | 46 |
 | 🎓 Free Certifications | 2 |
 | 💰 Bug Bounties | 1 |
 | 🏰 CTF Competitions | 1 |
@@ -31,10 +31,10 @@ tags:
 
 ## 💰 Bug Bounties
 
-- [Beyond asset discovery. Real-life CrowdRecon use case explored](https://www.intigriti.com/blog/business-insights/beyond-asset-discovery-real-life-crowdrecon-use-case-explored)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `india_friendly`
-  - _Security teams have more ways than ever to map assets, scan infrastructure, and track vulnerabilities. Yet one question often remains difficult to answer: what does a skilled researcher consider worth_
+- [Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _​​​On the second day of Pwn2Own Ireland 2026, security researchers collected $232,500 in cash awards after exploiting 45 unique zero-day vulnerabilities. [...]_
 
 ## 🎓 Free Certifications
 
@@ -49,6 +49,38 @@ tags:
   - _<p>Cisco has built a Quantum Network Controller, a research prototype that lets an application ask a quantum network for entanglement and leaves the network to work out the delivery. Entanglement, a l_
 
 ## ❓ Uncategorized
+
+- [Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm](https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html)
+  - Confidence: 🟫 LOW
+  - _The npm package known as "tensorlake," a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud suppl_
+
+- [MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data](https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obta_
+
+- [U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks](https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 20_
+
+- [16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases](https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys.  "The extensions ma_
+
+- [Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia](https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html)
+  - Confidence: 🟫 LOW
+  - _Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic contr_
+
+- [Owner of Empire cybercrime market gets 40 years in prison](https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/)
+  - Confidence: 🟫 LOW
+  - _The co-creator of Empire Market, one of the largest dark web marketplaces before its shutdown, has been sentenced to 40 years in prison for facilitating $430 million in illegal transactions from 2018 _
+
+- [ASOS links data breach to social engineering attack, credential theft](https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/)
+  - Confidence: 🟫 LOW
+  - _ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]_
+
+- [Microsoft Teams to get support for third-party deepfake detection tools](https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/)
+  - Confidence: 🟫 LOW
+  - _Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]_
 
 - [New FREE OSCP Active Directory Lab: Full attack chain, 3 VMs (FREE For 24 Hours!)](https://www.reddit.com/r/oscp/comments/1wz626q/new_free_oscp_active_directory_lab_full_attack/)
   - Confidence: 🟫 LOW
@@ -201,39 +233,3 @@ tags:
 - [FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins](https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/)
   - Confidence: 🟫 LOW
   - _The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]_
-
-- [100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer](https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html)
-  - Confidence: 🟫 LOW
-  - _The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware c_
-
-- [Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws](https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html)
-  - Confidence: 🟫 LOW
-  - _Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifi_
-
-- [What Is Agentic Pentesting? What It Proves, and Where It Stops.](https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html)
-  - Confidence: 🟫 LOW
-  - _If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonom_
-
-- [Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details](https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions.  The arbitrar_
-
-- [FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials](https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet_
-
-- [The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow](https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html)
-  - Confidence: 🟫 LOW
-  - _The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems w_
-
-- [Advantest confirms personal information stolen in ransomware attack](https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/)
-  - Confidence: 🟫 LOW
-  - _Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]_
-
-- [Musician sent to prison for $10 million streaming fraud using AI bots](https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/)
-  - Confidence: 🟫 LOW
-  - _A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royal_
-
-- [SonicWall warns of max severity SSRF flaw in SMA1000 gateways](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/)
-  - Confidence: 🟫 LOW
-  - _SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]_
