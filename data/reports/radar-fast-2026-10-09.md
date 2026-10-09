@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-09
-date: 2026-10-09T12:33:22Z
+date: 2026-10-09T22:15:13Z
 type: radar-report
 report_type: fast
-total_opportunities: 67
+total_opportunities: 78
 tags:
   - radar
   - fast
@@ -13,13 +13,26 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 67
+**Total opportunities:** 78
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 62 |
+| ❓ Uncategorized | 72 |
 | 🎓 Free Certifications | 3 |
-| 💰 Bug Bounties | 2 |
+| 🏰 CTF Competitions | 2 |
+| 💰 Bug Bounties | 1 |
+
+## 🏰 CTF Competitions
+
+- [Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge](https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`, `india_friendly`
+  - _Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners.  Det_
+
+- [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword.  "Compared with the variants we usually observe, P7 reduces its on_
 
 ## 💰 Bug Bounties
 
@@ -27,11 +40,6 @@ tags:
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
   - _Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said.  The Tok_
-
-- [Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _​​​On the second day of Pwn2Own Ireland 2026, security researchers collected $232,500 in cash awards after exploiting 45 unique zero-day vulnerabilities. [...]_
 
 ## 🎓 Free Certifications
 
@@ -51,6 +59,78 @@ tags:
   - _Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switc_
 
 ## ❓ Uncategorized
+
+- [Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies](https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked thr_
+
+- [Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects](https://thehackernews.com/2026/10/anthropic-launches-free-ai.html)
+  - Confidence: 🟫 LOW
+  - _Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI).  "It's an opt-in service informed by our expe_
+
+- [Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access](https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html)
+  - Confidence: 🟫 LOW
+  - _Security researchers have&nbsp;published a full working exploit&nbsp;for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the co_
+
+- [TP-Link Sued by Four More U.S. States Over Router Security and China Ties](https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html)
+  - Confidence: 🟫 LOW
+  - _Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with &nbsp;Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California _
+
+- [FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack](https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html)
+  - Confidence: 🟫 LOW
+  - _The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a&nbsp;post on X.  ShinyHunters is the extortion group that said in September it had_
+
+- [Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories](https://thehackernews.com/2026/10/credential-stealing-github-actions.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 34_
+
+- [I found yet another way to invoke JavaScript functions without parentheses](https://www.reddit.com/r/netsec/comments/1x0iuul/i_found_yet_another_way_to_invoke_javascript/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>It turns out you can overwrite the Error.prepareStackTrace method with the function constructor. Then, using prototype pollution, you can inject valid JavaScript code_
+
+- [A JPEG, a Race, and a Ghost: Breaking Discourse's Image Pipeline](https://www.reddit.com/r/netsec/comments/1x165mn/a_jpeg_a_race_and_a_ghost_breaking_discourses/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Mempodipper"> /u/Mempodipper </a> <br /> <span><a href="https://www.slcyber.io/research/a-jpeg-a-race-and-a-ghost-breaking-discourses-imag_
+
+- [Loupe: An Android Console in the Browser](https://www.reddit.com/r/netsec/comments/1x13cde/loupe_an_android_console_in_the_browser/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/CaptMeelo"> /u/CaptMeelo </a> <br /> <span><a href="https://captmeelo.com/mobile/2026/09/21/loupe.html">[link]</a></span> &#32; <span><a h_
+
+- [A Single POST Freezes Any Next.js Server](https://www.reddit.com/r/netsec/comments/1x0v7sw/a_single_post_freezes_any_nextjs_server/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/TradeGold6317"> /u/TradeGold6317 </a> <br /> <span><a href="https://simonkoeck.com/writeups/react-rsc-formdata-event-loop-dos">[link]</a><_
+
+- [How We Found Thousands of Exposed NVIDIA GPUs and a Way to Disrupt Them (CVE-2026-47483)](https://www.reddit.com/r/netsec/comments/1x13vqz/how_we_found_thousands_of_exposed_nvidia_gpus_and/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p><strong>TL;DR:</strong> NVIDIA DCGM Exporter is a widely used monitoring tool that collects GPU metrics like utilization, memory, temperature, and power consumption f_
+
+- [Death By A Thousand PaperCuts (PaperCut Pre-Auth RCE Chain and Patch Bypasses WT-2026-0141-0144/CVE-2026-82077/CVE-2026-82078/CVE-2026-81578) - watchTowr Labs](https://www.reddit.com/r/netsec/comments/1x1squu/death_by_a_thousand_papercuts_papercut_preauth/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/dx7r__"> /u/dx7r__ </a> <br /> <span><a href="https://labs.watchtowr.com/death-by-a-thousand-papercuts-papercut-pre-auth-rce-chain-and-pat_
+
+- [Max severity SonicWall SMA1000 flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]_
+
+- [How to keep AI agents within their permissions](https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/)
+  - Confidence: 🟫 LOW
+  - _AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can_
+
+- [Germany arrests alleged core Qilin ransomware member after extradition](https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/)
+  - Confidence: 🟫 LOW
+  - _Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]_
+
+- [FBI arrests another suspected ShinyHunters hacker after agency breach](https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/)
+  - Confidence: 🟫 LOW
+  - _The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]_
+
+- [Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto](https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/)
+  - Confidence: 🟫 LOW
+  - _Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]_
+
+- [Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
+  - Confidence: 🟫 LOW
+  - _Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]_
 
 - [FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions](https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html)
   - Confidence: 🟫 LOW
@@ -267,35 +347,3 @@ tags:
 - [FBI disrupts Chinese hacking tools used to breach critical infrastructure](https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/)
   - Confidence: 🟫 LOW
   - _The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructur_
-
-- [Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm](https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html)
-  - Confidence: 🟫 LOW
-  - _The npm package known as "tensorlake," a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud suppl_
-
-- [MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data](https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obta_
-
-- [U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks](https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 20_
-
-- [16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases](https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys.  "The extensions ma_
-
-- [Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia](https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html)
-  - Confidence: 🟫 LOW
-  - _Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic contr_
-
-- [Owner of Empire cybercrime market gets 40 years in prison](https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/)
-  - Confidence: 🟫 LOW
-  - _The co-creator of Empire Market, one of the largest dark web marketplaces before its shutdown, has been sentenced to 40 years in prison for facilitating $430 million in illegal transactions from 2018 _
-
-- [ASOS links data breach to social engineering attack, credential theft](https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/)
-  - Confidence: 🟫 LOW
-  - _ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]_
-
-- [Microsoft Teams to get support for third-party deepfake detection tools](https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/)
-  - Confidence: 🟫 LOW
-  - _Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]_
