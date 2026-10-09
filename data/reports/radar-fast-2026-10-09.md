@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-09
-date: 2026-10-09T04:27:44Z
+date: 2026-10-09T12:33:22Z
 type: radar-report
 report_type: fast
-total_opportunities: 57
+total_opportunities: 67
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 57
+**Total opportunities:** 67
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 53 |
+| ❓ Uncategorized | 62 |
+| 🎓 Free Certifications | 3 |
 | 💰 Bug Bounties | 2 |
-| 🎓 Free Certifications | 2 |
 
 ## 💰 Bug Bounties
 
@@ -35,6 +35,11 @@ tags:
 
 ## 🎓 Free Certifications
 
+- [ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)](https://isc.sans.edu/diary/rss/33412)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
+
 - [Cisco Patches a Dozen Critical Vulnerabilities](https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
@@ -46,6 +51,42 @@ tags:
   - _Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switc_
 
 ## ❓ Uncategorized
+
+- [FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions](https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax Ty_
+
+- [Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments](https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html)
+  - Confidence: 🟫 LOW
+  - _Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain con_
+
+- [Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own](https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html)
+  - Confidence: 🟫 LOW
+  - _Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show _
+
+- [GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys](https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html)
+  - Confidence: 🟫 LOW
+  - _A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then t_
+
+- [The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition](https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html)
+  - Confidence: 🟫 LOW
+  - _As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The "Horizons of Identity Securit_
+
+- [Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/)
+  - Confidence: 🟫 LOW
+  - _The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]_
+
+- [Citrix warns admins to patch new NetScaler RCE flaw immediately](https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/)
+  - Confidence: 🟫 LOW
+  - _Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions_
+
+- [Microsoft: Outdated Windows devices will stop receiving security updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/)
+  - Confidence: 🟫 LOW
+  - _Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]_
+
+- [Man admits to running network of 15,000 money mules for cybercriminals](https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/)
+  - Confidence: 🟫 LOW
+  - _​A Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide. [...]_
 
 - [FortiBleed Attackers Locking Victims Out of Fortinet Devices](https://www.securityweek.com/fortibleed-attackers-locking-victims-out-of-fortinet-devices/)
   - Confidence: 🟫 LOW
