@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-10
-date: 2026-10-10T04:15:24Z
+date: 2026-10-10T11:52:57Z
 type: radar-report
 report_type: fast
-total_opportunities: 96
+total_opportunities: 99
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 96
+**Total opportunities:** 99
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 87 |
+| ❓ Uncategorized | 90 |
 | 🏰 CTF Competitions | 8 |
 | 🎓 Free Certifications | 1 |
 
@@ -71,6 +71,18 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)
+  - Confidence: 🟫 LOW
+  - _Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misa_
+
+- [The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)
+  - Confidence: 🟫 LOW
+  - _In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to i_
+
+- [Why TLP should not replace your internal information classification, (Sat, Oct 10th)](https://isc.sans.edu/diary/rss/33414)
+  - Confidence: 🟫 LOW
+  - _<p>The Traffic Light Protocol (TLP)&#x5b;<a href="https://www.first.org/tlp/">1</a>&#x5d;, which is now in its second incarnation, is a wonderful standard that enables one to easily communicate whethe_
 
 - [I found yet another way to invoke JavaScript functions without parentheses](https://www.reddit.com/r/hacking/comments/1x0i88a/i_found_yet_another_way_to_invoke_javascript/)
   - Confidence: 🟫 LOW
