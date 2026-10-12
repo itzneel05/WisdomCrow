@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-12
-date: 2026-10-12T04:12:56Z
+date: 2026-10-12T14:22:51Z
 type: radar-report
 report_type: fast
-total_opportunities: 36
+total_opportunities: 46
 tags:
   - radar
   - fast
@@ -13,14 +13,32 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 36
+**Total opportunities:** 46
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 27 |
+| ❓ Uncategorized | 34 |
 | 💰 Bug Bounties | 7 |
+| 🏰 CTF Competitions | 3 |
 | 🎓 Free Certifications | 1 |
 | 🔥 Hackathons & Conferences | 1 |
+
+## 🏰 CTF Competitions
+
+- [Building a Cybersecurity Community — Looking for Partners.](https://www.reddit.com/r/securityCTF/comments/1x2gyj5/building_a_cybersecurity_community_looking_for/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`, `india_friendly`
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone, I'm Abhi.</p> <p>I'm building a cybersecurity community. Right now, it's limited to a Discord server, but we're slowly growing. To keep things running s_
+
+- [Doomsday CTF by hackosquad: 24 hours, solo, ₹50,000+ prize pool](https://www.reddit.com/r/securityCTF/comments/1x35dl2/doomsday_ctf_by_hackosquad_24_hours_solo_50000/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Observer7x"> /u/Observer7x </a> <br /> <span><a href="https://www.hackosquad.com/doomsdayctf">[link]</a></span> &#32; <span><a href="https_
+
+- [The AI silent killers your dashboard will never show you | Hack The Box Blog](https://www.hackthebox.com/blog/the-ai-silent-killer)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/the-ai-silent-killer" title=""> <img alt="The AI silent killers your dashboard will ne_
 
 ## 💰 Bug Bounties
 
@@ -74,6 +92,42 @@ tags:
   - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://corelight.com/blog/black-hat-usa-2026-noc-cleartext-apps-ai-mistakes">[link]</a></_
 
 ## ❓ Uncategorized
+
+- [CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records](https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastru_
+
+- [Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html)
+  - Confidence: 🟫 LOW
+  - _A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack.  The critical vulnerability in question is CVE-_
+
+- [Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch](https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure.  The vulnerability, tr_
+
+- [Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports](https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html)
+  - Confidence: 🟫 LOW
+  - _Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller.  On Friday, the company said_
+
+- [Bring Your Own Agent: Your Employees' Assistants Are Already Logged In](https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html)
+  - Confidence: 🟫 LOW
+  - _The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns_
+
+- [Microsoft: Windows 11 23H2 reaches end of support in 30 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security updates next month. [...]_
+
+- [GitLab warns of max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/)
+  - Confidence: 🟫 LOW
+  - _GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]_
+
+- [Retail giant Ahold Delhaize takes systems offline after cyberattack](https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/)
+  - Confidence: 🟫 LOW
+  - _Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a "cybersecurity incident" affecting its network. [._
+
+- [Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption](https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/)
+  - Confidence: 🟫 LOW
+  - _A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses_
 
 - [Week in review: FortiBleed is still active, Patch Tuesday forecast](https://www.helpnetsecurity.com/2026/10/11/week-in-review-fortibleed-is-still-active-patch-tuesday-forecast/)
   - Confidence: 🟫 LOW
@@ -174,11 +228,3 @@ tags:
 - [Nippon Columbia malware incident exposes 8.6 million karaoke fan records](https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/)
   - Confidence: 🟫 LOW
   - _Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]_
-
-- [Are Challenge Labs (OSCP A/B/C, Medtech, Secura) + Derron C's video enough for the AD section?](https://www.reddit.com/r/oscp/comments/1x1lgag/are_challenge_labs_oscp_abc_medtech_secura_derron/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I'm taking my first attempt on Oct 19. I’ve completed most of the PG practice boxes from Lain’s list (except for very hard boxes), finished the Challenge Labs (OSCP A_
-
-- [Need help/advice](https://www.reddit.com/r/oscp/comments/1x30kkk/need_helpadvice/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I just did my first exam attempt this week and was quite close to passing with 50 points but I'm quite anxious and would appreciate any advice for the second attempt _
