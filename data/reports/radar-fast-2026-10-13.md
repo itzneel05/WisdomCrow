@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-13
-date: 2026-10-13T13:31:33Z
+date: 2026-10-13T22:17:15Z
 type: radar-report
 report_type: fast
-total_opportunities: 55
+total_opportunities: 62
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 55
+**Total opportunities:** 62
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 49 |
-| 🏰 CTF Competitions | 5 |
+| ❓ Uncategorized | 59 |
+| 🏰 CTF Competitions | 2 |
 | 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
@@ -33,21 +33,6 @@ tags:
   - Tags: `ctf`
   - _Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols._
 
-- [Building a Cybersecurity Community — Looking for Partners.](https://www.reddit.com/r/securityCTF/comments/1x2gyj5/building_a_cybersecurity_community_looking_for/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone, I'm Abhi.</p> <p>I'm building a cybersecurity community. Right now, it's limited to a Discord server, but we're slowly growing. To keep things running s_
-
-- [Doomsday CTF by hackosquad: 24 hours, solo, ₹50,000+ prize pool](https://www.reddit.com/r/securityCTF/comments/1x35dl2/doomsday_ctf_by_hackosquad_24_hours_solo_50000/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Observer7x"> /u/Observer7x </a> <br /> <span><a href="https://www.hackosquad.com/doomsdayctf">[link]</a></span> &#32; <span><a href="https_
-
-- [The AI silent killers your dashboard will never show you | Hack The Box Blog](https://www.hackthebox.com/blog/the-ai-silent-killer)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/the-ai-silent-killer" title=""> <img alt="The AI silent killers your dashboard will ne_
-
 ## 🎓 Free Certifications
 
 - [ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)](https://isc.sans.edu/diary/rss/33418)
@@ -56,6 +41,82 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation](https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html)
+  - Confidence: 🟫 LOW
+  - _The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grindr users' sensitive data to advertisers._
+
+- [GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking](https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html)
+  - Confidence: 🟫 LOW
+  - _GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a d_
+
+- [SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft](https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html)
+  - Confidence: 🟫 LOW
+  - _A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw a_
+
+- [Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far](https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html)
+  - Confidence: 🟫 LOW
+  - _An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released_
+
+- [Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another](https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html)
+  - Confidence: 🟫 LOW
+  - _A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it fou_
+
+- [Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets](https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html)
+  - Confidence: 🟫 LOW
+  - _Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from _
+
+- [October 2026 Microsoft Patch Tuesday, (Tue, Oct 13th)](https://isc.sans.edu/diary/rss/33422)
+  - Confidence: 🟫 LOW
+  - _<p>Microsoft today released patches for 1,417 vulnerabilities. 76 of these vulnerabilities are rated critical, with 7 critical vulnerabiilties requiring no customer actions. One vulnerability was disc_
+
+- [SAP warns of maximum severity OAuth2 SSRF security flaw](https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/)
+  - Confidence: 🟫 LOW
+  - _SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]_
+
+- [The MFA Gaps Attackers are Still Exploiting](https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/)
+  - Confidence: 🟫 LOW
+  - _Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applicat_
+
+- [Docker Hub flaw let attackers impersonate users, tamper with images](https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/)
+  - Confidence: 🟫 LOW
+  - _Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]_
+
+- [Ivanti warns of Connect Secure zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]_
+
+- [TFG London cyberattack disrupts systems at Hobbs and Whistles retailers](https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/)
+  - Confidence: 🟫 LOW
+  - _TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]_
+
+- [Windows 11 KB5127648 & KB5126653 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [..._
+
+- [UK Housing Ombudsman Service investigates 'security incident'](https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/)
+  - Confidence: 🟫 LOW
+  - _The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]_
+
+- [Microsoft: Windows 11 24H2 Home and Pro reached end of support](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/)
+  - Confidence: 🟫 LOW
+  - _Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]_
+
+- [Microsoft releases Windows 10 KB5126657 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/)
+  - Confidence: 🟫 LOW
+  - _Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]_
+
+- [Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/)
+  - Confidence: 🟫 LOW
+  - _Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [_
+
+- [Anthropic warns self-replicating AI could spread to your smart devices](https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/)
+  - Confidence: 🟫 LOW
+  - _Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI wor_
+
+- [Ghostscript flaw lets hackers hijack servers via PDF uploads](https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/)
+  - Confidence: 🟫 LOW
+  - _A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]_
 
 - [Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies](https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html)
   - Confidence: 🟫 LOW
@@ -216,39 +277,3 @@ tags:
 - [Norway fines Microsoft ad firm $9.6 million over Grindr data sharing](https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/)
   - Confidence: 🟫 LOW
   - _Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr us_
-
-- [CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records](https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastru_
-
-- [Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html)
-  - Confidence: 🟫 LOW
-  - _A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack.  The critical vulnerability in question is CVE-_
-
-- [Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch](https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure.  The vulnerability, tr_
-
-- [Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports](https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html)
-  - Confidence: 🟫 LOW
-  - _Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller.  On Friday, the company said_
-
-- [Bring Your Own Agent: Your Employees' Assistants Are Already Logged In](https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html)
-  - Confidence: 🟫 LOW
-  - _The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns_
-
-- [Microsoft: Windows 11 23H2 reaches end of support in 30 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security updates next month. [...]_
-
-- [GitLab warns of max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/)
-  - Confidence: 🟫 LOW
-  - _GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]_
-
-- [Retail giant Ahold Delhaize takes systems offline after cyberattack](https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/)
-  - Confidence: 🟫 LOW
-  - _Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a "cybersecurity incident" affecting its network. [._
-
-- [Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption](https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/)
-  - Confidence: 🟫 LOW
-  - _A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses_
