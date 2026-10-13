@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-13
-date: 2026-10-13T00:07:42Z
+date: 2026-10-13T13:31:33Z
 type: radar-report
 report_type: fast
-total_opportunities: 23
+total_opportunities: 55
 tags:
   - radar
   - fast
@@ -13,15 +13,25 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 23
+**Total opportunities:** 55
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 19 |
-| 🏰 CTF Competitions | 3 |
+| ❓ Uncategorized | 49 |
+| 🏰 CTF Competitions | 5 |
 | 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
+
+- [Become an elite defender and master advanced threat detection with HTB CDEP](https://www.hackthebox.com/blog/become-an-elite-defender-and-master-advanced-threat-detection-with-htb-cdep)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/become-an-elite-defender-and-master-advanced-threat-detection-with-htb-cdep" title="">_
+
+- [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols._
 
 - [Building a Cybersecurity Community — Looking for Partners.](https://www.reddit.com/r/securityCTF/comments/1x2gyj5/building_a_cybersecurity_community_looking_for/)
   - Confidence: 🟢 HIGH
@@ -40,12 +50,132 @@ tags:
 
 ## 🎓 Free Certifications
 
-- [ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)](https://isc.sans.edu/diary/rss/33416)
+- [ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)](https://isc.sans.edu/diary/rss/33418)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies](https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html)
+  - Confidence: 🟫 LOW
+  - _Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential_
+
+- [GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code](https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html)
+  - Confidence: 🟫 LOW
+  - _GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution.  "GitLab has r_
+
+- [Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control](https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html)
+  - Confidence: 🟫 LOW
+  - _Two of 31 newly disclosed flaws in Progress Software's&nbsp;MarkLogic Server&nbsp;database could let an account given only some management privileges take administrator control of the server, the comp_
+
+- [Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers](https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html)
+  - Confidence: 🟫 LOW
+  - _Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said.  The_
+
+- [Product Walkthrough: Bitdefender AI Visibility and Control](https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html)
+  - Confidence: 🟫 LOW
+  - _A user opens a browser tab, pastes data into a chat assistant, and nothing is installed.  A developer adds a coding&nbsp;assistant as an editor extension, and nothing shows up in the installed program_
+
+- [LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network](https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html)
+  - Confidence: 🟫 LOW
+  - _Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner.  LG has issued a fix,_
+
+- [[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls](https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html)
+  - Confidence: 🟫 LOW
+  - _The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next.  With AI accelerating reconnaissance, exploitation of vulnerabilities, and p_
+
+- [Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch](https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/)
+  - Confidence: 🟫 LOW
+  - _<p>Beginning February 2027, all newly issued certificates will have a 64-day validity period by default.</p> <p>The post <a href="https://www.securityweek.com/lets-encrypt-cuts-default-certificate-val_
+
+- [Critical SonicWall Vulnerability Exploited Days After Disclosure](https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/)
+  - Confidence: 🟫 LOW
+  - _<p>CVE-2026-102255 is a pre-authenticated SSRF flaw that could allow attackers to perform unauthorized operations.</p> <p>The post <a href="https://www.securityweek.com/critical-sonicwall-vulnerabilit_
+
+- [Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe](https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/)
+  - Confidence: 🟫 LOW
+  - _<p>The suspect is believed to be Edward Dubrovsky, a Canadian cybersecurity executive who was visiting the United States for a conference.</p> <p>The post <a href="https://www.securityweek.com/ransomw_
+
+- [iRhythm Data Breach Impacts at Least 360,000 People](https://www.securityweek.com/irhythm-data-breach-impacts-over-360000-people/)
+  - Confidence: 🟫 LOW
+  - _<p>Hackers stole patients’ personal information, including names, addresses, email addresses, dates of birth, and phone numbers.</p> <p>The post <a href="https://www.securityweek.com/irhythm-data-brea_
+
+- [Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US](https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/)
+  - Confidence: 🟫 LOW
+  - _<p>Oleg Korniev was a leader of YMCO, a sophisticated network of money mules that helped hackers move funds outside the US.</p> <p>The post <a href="https://www.securityweek.com/mastermind-of-15000-mu_
+
+- [Canonical Websites Disrupted in Second DDoS Attack This Year](https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/)
+  - Confidence: 🟫 LOW
+  - _<p>The outage hit the main Ubuntu and Canonical websites, including the Ubuntu blog and developer portal.</p> <p>The post <a href="https://www.securityweek.com/canonical-websites-disrupted-in-second-d_
+
+- [Bricksforge WordPress Plugin Vulnerability Exploited in the Wild](https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/)
+  - Confidence: 🟫 LOW
+  - _<p>The vulnerability tracked as CVE-2026-85097 can allow threat actors to take control of the targeted WordPress websites.</p> <p>The post <a href="https://www.securityweek.com/bricksforge-wordpress-p_
+
+- [IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion](https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/)
+  - Confidence: 🟫 LOW
+  - _<p>The all-stock deal brings Elisity’s least-privilege access technology into IonQ’s security portfolio.</p> <p>The post <a href="https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-f_
+
+- [FBI Arrests Suspect in FBI-Hacking Case](https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html)
+  - Confidence: 🟫 LOW
+  - _<p>In September, hackers from a group called ShinyHunters <a href="https://www.reuters.com/world/hacked-fbi-data-has-sensitive-information-about-employees-intelligence-roles-2026-09-23/">announced</a>_
+
+- [What makes some open source updates so difficult?](https://www.helpnetsecurity.com/2026/10/12/google-open-source-maintenance-costs-report/)
+  - Confidence: 🟫 LOW
+  - _<p>Many organizations adopt open source software because they see it as a cheaper alternative to proprietary development. Maintaining it, however, still requires engineering effort, according to Googl_
+
+- [AI vulnerability patching has a grading problem](https://www.helpnetsecurity.com/2026/10/12/ai-vulnerability-patching-grading-problem/)
+  - Confidence: 🟫 LOW
+  - _<p>Researchers at Northwestern University tested AI coding agents on 112 real security bugs. They found that a patch which stops a crash often fails the checks the project&#8217;s maintainers wrote fo_
+
+- [Strands Box: Open-source sandbox for AI agents](https://www.helpnetsecurity.com/2026/10/12/aws-strands-box-open-source-ai-agent-sandbox/)
+  - Confidence: 🟫 LOW
+  - _<p>AWS released Strands Box, an open source sandbox for AI agents that pairs operating-system isolation with rules that can weigh what an agent has already done before letting it act again. Box is in _
+
+- [Geopolitics and the cyber resilience gap belong in your threat model](https://www.helpnetsecurity.com/2026/10/12/akshay-joshi-wef-cyber-resilience-gap/)
+  - Confidence: 🟫 LOW
+  - _<p>In this Help Net Security interview, Akshay Joshi, Head of the Centre for Cybersecurity at the World Economic Forum, talks about how AI, geopolitics and industrialized fraud are changing cyber risk_
+
+- [Let’s Encrypt TLS certificate lifetimes to drop from 90 to 64 days starting February 2027](https://www.helpnetsecurity.com/2026/10/12/lets-encrypt-64-day-certificate-lifetime/)
+  - Confidence: 🟫 LOW
+  - _<p>Websites that rely on Let’s Encrypt will soon have to renew their TLS certificates more often. Starting February 10, 2027, the certificate authority will issue certificates valid for 64 days by def_
+
+- [Windows PCs missing key updates could lose security fixes in 2027](https://www.helpnetsecurity.com/2026/10/12/microsoft-windows-update-certificate-rotation/)
+  - Confidence: 🟫 LOW
+  - _<p>Microsoft is advising users and businesses to update Windows devices before digital certificates used to verify Windows Update servers expire in May and June 2027. The certificates expire on May 17_
+
+- [Hidden implant in Ledger hardware wallets linked to $93M theft](https://www.helpnetsecurity.com/2026/10/12/ledger-wallets-compromised-via-hardware-implant/)
+  - Confidence: 🟫 LOW
+  - _<p>Three days after customers in Southeast Asia began reporting drained wallets, Ledger says the damage is limited. In its 72-hour update on X on October 11, the Paris-based hardware wallet maker said_
+
+- [Low-cost Android phones are arriving with malware that owners can’t uninstall](https://www.helpnetsecurity.com/2026/10/12/midnight-mimosa-malware-cheap-android-phones/)
+  - Confidence: 🟫 LOW
+  - _<p>People who buy low-cost Android phones from online marketplaces may be carrying malware that was placed on the device before it reached them, Bitdefender has found. The campaign, dubbed Midnight Mi_
+
+- [Microsoft’s new model helps AI agents judge their next move](https://www.helpnetsecurity.com/2026/10/12/microsoft-decision-1-model/)
+  - Confidence: 🟫 LOW
+  - _<p>Microsoft-Decision-1 is a small decision-scoring model. Given a situation, a question and a fixed set of answer options, it returns a calibrated probability for each option. “This model is designed_
+
+- [Cyberattacks hit European grocers: French supermarket freezers hijacked, Dutch and Belgian stores disrupted](https://www.helpnetsecurity.com/2026/10/12/france-cyberattack-supermarket-freezers/)
+  - Confidence: 🟫 LOW
+  - _<p>European food retailers have been affected by two separate disruptive cyberattacks: In France, several supermarket chains have had their freezers tampered with and chilled/frozen products destroyed_
+
+- [Passing the Baton: Dark Reading Names New Editor-in-Chief](https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief)
+  - Confidence: 🟫 LOW
+  - _Fahmida Y Rashid will keep the momentum going as she leads Dark Reading._
+
+- [No Identity, No Recovery: Cyber Resilience Starts With IAM](https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam)
+  - Confidence: 🟫 LOW
+  - _The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink._
+
+- [Prominent Ransomware Negotiator Faces Extortion Charges](https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges)
+  - Confidence: 🟫 LOW
+  - _Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money._
+
+- [Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack](https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack)
+  - Confidence: 🟫 LOW
+  - _Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position._
 
 - [⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More](https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html)
   - Confidence: 🟫 LOW
