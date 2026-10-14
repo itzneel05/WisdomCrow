@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-14
-date: 2026-10-14T03:27:10Z
+date: 2026-10-14T11:09:34Z
 type: radar-report
 report_type: fast
-total_opportunities: 60
+total_opportunities: 75
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 60
+**Total opportunities:** 75
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 55 |
-| 🎓 Free Certifications | 3 |
-| 💰 Bug Bounties | 1 |
+| ❓ Uncategorized | 59 |
+| 💰 Bug Bounties | 10 |
+| 🎓 Free Certifications | 5 |
 | 🏰 CTF Competitions | 1 |
 
 ## 🏰 CTF Competitions
@@ -31,12 +31,67 @@ tags:
 
 ## 💰 Bug Bounties
 
+- [Intigriti program keeps getting suspended and unsuspended.](https://www.reddit.com/r/bugbounty/comments/1x42soj/intigriti_program_keeps_getting_suspended_and/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`, `india_friendly`
+  - _<!-- SC_OFF --><div class="md"><p>I want to hunt on an Intigriti program that has been suspended and unsuspended several times recently. Does this pattern usually point to problems like slow triage or_
+
+- [Is leaking the model info and system instructions using prompt injection a bug or not ?](https://www.reddit.com/r/bugbounty/comments/1x4ye3p/is_leaking_the_model_info_and_system_instructions/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>Testing an LLM and that is what I got so far, I have been trying to leak internal files or do calls using it , but what I got so far are the model info and the system_
+
+- [hackerone should improve their concern on researchers over sales alone](https://www.reddit.com/r/bugbounty/comments/1x4v6fr/hackerone_should_improve_their_concern_on/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>i saw this disclosed report on hackerone <a href="https://hackerone.com/reports/3189580">https://hackerone.com/reports/3189580</a> , felt bad for researcher . he lite_
+
+- [What caused this email?](https://www.reddit.com/r/bugbounty/comments/1x5f3rv/what_caused_this_email/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/bugbounty/comments/1x5f3rv/what_caused_this_email/"> <img alt="What caused this email?" src="https://preview.redd.it/4pq6y2a6acvh1.png?width=640&amp;_
+
+- [Got some bugs in 3 months, now dry for a month. Is focusing only on private scope a mistake?](https://www.reddit.com/r/bugbounty/comments/1x5b90v/got_some_bugs_in_3_months_now_dry_for_a_month_is/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`, `india_friendly`
+  - _<!-- SC_OFF --><div class="md"><p>&#x200b;</p> <p>I started hunting again about 6 months ago after a long break. The first 3 months I got lucky and got bugs in 6 programs total - 3 bugcrowd and 3 on H_
+
+- [Synack Red Team experience and security clearance?](https://www.reddit.com/r/bugbounty/comments/1x5l1xt/synack_red_team_experience_and_security_clearance/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>Hello,</p> <p>I applied to synack red team, does having a high EU/NATO security clearance help in getting through process sooner?</p> <p>What are your current experie_
+
+- [Vulnerability fixed by company, asks for retest and then marks report as Not Reproducible.](https://www.reddit.com/r/bugbounty/comments/1x5bszw/vulnerability_fixed_by_company_asks_for_retest/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>Earlier this week I made <a href="https://www.reddit.com/r/bugbounty/comments/1x0v4fs/account_deletion_via_uid_marked_as_p2_need/">this</a> post describing the vulner_
+
+- [Request Interception](https://www.reddit.com/r/bugbounty/comments/1x5m50p/request_interception/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`, `india_friendly`
+  - _<!-- SC_OFF --><div class="md"><p>Some endpoints does not appear in burp history or can not be intercept idk why is there any solution i saw it in devtools but i wanna send it from burp , like there i_
+
+- [Weekly Collaboration / Mentorship Post](https://www.reddit.com/r/bugbounty/comments/1x445mi/weekly_collaboration_mentorship_post/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>Looking to team up or find a mentor in bug bounty?</p> <p><strong>Recommendations:</strong></p> <ul> <li>Share a brief intro about yourself (e.g., your skills, experi_
+
 - [Google Partially Reverses Chrome Bug Bounty Cuts](https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/)
   - Confidence: 🟢 HIGH
   - Tags: `bug_bounty`
   - _<p>Google is restructuring bug bounty rewards with a focus on complex memory safety vulnerabilities. </p> <p>The post <a href="https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-_
 
 ## 🎓 Free Certifications
+
+- [OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room](https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sen_
+
+- [Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)](https://isc.sans.edu/diary/rss/33420)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _<p>Years ago I wrote <a href="https://isc.sans.edu/diary/Malicious&#x2b;DWG&#x2b;Files/25612">diary</a> <a href="https://isc.sans.edu/diary/Extracting&#x2b;VBA&#x2b;Macros&#x2b;From&#x2b;DWG&#x2b;File_
 
 - [ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)](https://isc.sans.edu/diary/rss/33424)
   - Confidence: 🟢 HIGH
@@ -54,6 +109,22 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug](https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html)
+  - Confidence: 🟫 LOW
+  - _Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation.  These include 1,10_
+
+- [Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave](https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html)
+  - Confidence: 🟫 LOW
+  - _Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.  The protected area is a VBS enclave, an i_
+
+- [AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host](https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html)
+  - Confidence: 🟫 LOW
+  - _A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted vi_
+
+- [Microsoft: Recent Windows updates may trigger Remote Desktop failures](https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the "Administrator protection" security feature is enable_
 
 - [What methods work best for discovering unmanaged TLS certificates across an enterprise network?](https://www.reddit.com/r/AskNetsec/comments/1x3ukhm/what_methods_work_best_for_discovering_unmanaged/)
   - Confidence: 🟫 LOW
