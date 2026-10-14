@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-14
-date: 2026-10-14T11:09:34Z
+date: 2026-10-14T16:30:01Z
 type: radar-report
 report_type: fast
-total_opportunities: 75
+total_opportunities: 82
 tags:
   - radar
   - fast
@@ -13,21 +13,26 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 75
+**Total opportunities:** 82
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 59 |
+| ❓ Uncategorized | 66 |
 | 💰 Bug Bounties | 10 |
-| 🎓 Free Certifications | 5 |
-| 🏰 CTF Competitions | 1 |
+| 🎓 Free Certifications | 4 |
+| 🏰 CTF Competitions | 2 |
 
 ## 🏰 CTF Competitions
 
-- [Become an elite defender and master advanced threat detection with HTB CDEP](https://www.hackthebox.com/blog/become-an-elite-defender-and-master-advanced-threat-detection-with-htb-cdep)
+- [The Quiet Pivot - Weaponizing Client Configuration Files for Lateral Movement | HTB Blog](https://www.hackthebox.com/blog/the-quiet-pivot-weaponizing-client-configuration-files-for-lateral-movement-htb-blog)
   - Confidence: 🟢 HIGH
   - Tags: `ctf`
-  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/become-an-elite-defender-and-master-advanced-threat-detection-with-htb-cdep" title="">_
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/the-quiet-pivot-weaponizing-client-configuration-files-for-lateral-movement-htb-blog" _
+
+- [Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days](https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said.  Its researc_
 
 ## 💰 Bug Bounties
 
@@ -103,12 +108,63 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversat_
 
-- [ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)](https://isc.sans.edu/diary/rss/33418)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.](https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html)
+  - Confidence: 🟫 LOW
+  - _The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part.  TL;DR     During an authorized assessment, an AI pentesting agent found a cr_
+
+- [Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks](https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass se_
+
+- [How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team](https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html)
+  - Confidence: 🟫 LOW
+  - _Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothi_
+
+- [curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution](https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html)
+  - Confidence: 🟫 LOW
+  - _A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading m_
+
+- [CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts](https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the _
+
+- [Is MFA an essential security measure?](https://www.reddit.com/r/security/comments/1x4vy6v/is_mfa_an_essential_security_measure/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>October marks Cybersecurity Month, an initiative aimed at promoting greater security for digital users. One of the simplest ways to strengthen the security of our acc_
+
+- [The real test of threat detection and response is not the alert. It is the investigation handoff.](https://www.reddit.com/r/security/comments/1x4ogx9/the_real_test_of_threat_detection_and_response_is/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Unpopular opinion: speed to alert is overrated if the escalation does not preserve the investigation. </p> <p>If the next team has to reopen the same logs, rediscover_
+
+- [Need some help on mobile phone security](https://www.reddit.com/r/security/comments/1x5aomp/need_some_help_on_mobile_phone_security/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I will try to be a short as possible. My daughter, 25, lives with her husband about 7 1/2 hours from us. All of our Apple devices are basically connected through the _
+
+- [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
+  - Confidence: 🟫 LOW
+  - _The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, dark_
+
+- [Hirudo Android malware replaces banking apps to evade security checks](https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/)
+  - Confidence: 🟫 LOW
+  - _A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]_
+
+- [CISA warns admins to immediately fix Ivanti flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st._
+
+- [Global takedown hits network behind 1 billion phishing messages](https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/)
+  - Confidence: 🟫 LOW
+  - _A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partne_
+
+- [The Blind Spots of Agentic Pentesting and How to Close Them](https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/)
+  - Confidence: 🟫 LOW
+  - _AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining a_
+
+- [Microsoft fixes VPN issues caused by September Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]_
 
 - [Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug](https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html)
   - Confidence: 🟫 LOW
@@ -317,31 +373,3 @@ tags:
 - [Ghostscript flaw lets hackers hijack servers via PDF uploads](https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/)
   - Confidence: 🟫 LOW
   - _A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]_
-
-- [Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies](https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html)
-  - Confidence: 🟫 LOW
-  - _Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential_
-
-- [GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code](https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html)
-  - Confidence: 🟫 LOW
-  - _GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution.  "GitLab has r_
-
-- [Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control](https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html)
-  - Confidence: 🟫 LOW
-  - _Two of 31 newly disclosed flaws in Progress Software's&nbsp;MarkLogic Server&nbsp;database could let an account given only some management privileges take administrator control of the server, the comp_
-
-- [Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers](https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html)
-  - Confidence: 🟫 LOW
-  - _Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said.  The_
-
-- [Product Walkthrough: Bitdefender AI Visibility and Control](https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html)
-  - Confidence: 🟫 LOW
-  - _A user opens a browser tab, pastes data into a chat assistant, and nothing is installed.  A developer adds a coding&nbsp;assistant as an editor extension, and nothing shows up in the installed program_
-
-- [LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network](https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html)
-  - Confidence: 🟫 LOW
-  - _Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner.  LG has issued a fix,_
-
-- [[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls](https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html)
-  - Confidence: 🟫 LOW
-  - _The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next.  With AI accelerating reconnaissance, exploitation of vulnerabilities, and p_
