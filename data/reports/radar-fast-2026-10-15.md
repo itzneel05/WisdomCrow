@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-15
-date: 2026-10-15T03:05:23Z
+date: 2026-10-15T10:50:18Z
 type: radar-report
 report_type: fast
-total_opportunities: 78
+total_opportunities: 76
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 78
+**Total opportunities:** 76
 
 | Category | Count |
 |----------|-------|
 | ❓ Uncategorized | 58 |
 | 💰 Bug Bounties | 9 |
-| 🎓 Free Certifications | 9 |
+| 🎓 Free Certifications | 7 |
 | 🏰 CTF Competitions | 2 |
 
 ## 🏰 CTF Competitions
@@ -118,17 +118,35 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>Years ago I wrote <a href="https://isc.sans.edu/diary/Malicious&#x2b;DWG&#x2b;Files/25612">diary</a> <a href="https://isc.sans.edu/diary/Extracting&#x2b;VBA&#x2b;Macros&#x2b;From&#x2b;DWG&#x2b;File_
 
-- [ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)](https://isc.sans.edu/diary/rss/33424)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
-- [OpenAI engineer arrested for allegedly planting spy device in office](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversat_
-
 ## ❓ Uncategorized
+
+- [Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation](https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html)
+  - Confidence: 🟫 LOW
+  - _Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation.  The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8_
+
+- [AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches](https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html)
+  - Confidence: 🟫 LOW
+  - _Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners.  The vul_
+
+- [Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts](https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian.  Langflow is an open-source platform that allows developers to build artificial intelligence (A_
+
+- [GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories](https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html)
+  - Confidence: 🟫 LOW
+  - _The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations.  The spike, according to GitGuardian, was observed on Oc_
+
+- [India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1](https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html)
+  - Confidence: 🟫 LOW
+  - _The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 202_
+
+- [UK Legal Aid Agency: Hackers stole records dating back to 1978](https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/)
+  - Confidence: 🟫 LOW
+  - _The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole recor_
+
+- [Microsoft fixes bug causing Windows black screens, Explorer crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]_
 
 - [Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/)
   - Confidence: 🟫 LOW
@@ -333,31 +351,3 @@ tags:
 - [Microsoft: Recent Windows updates may trigger Remote Desktop failures](https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/)
   - Confidence: 🟫 LOW
   - _Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the "Administrator protection" security feature is enable_
-
-- [What methods work best for discovering unmanaged TLS certificates across an enterprise network?](https://www.reddit.com/r/AskNetsec/comments/1x3ukhm/what_methods_work_best_for_discovering_unmanaged/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>For teams managing PKI across a mix of on-premises servers, cloud workloads, and internal applications, how do you identify certificates that aren't already tracked b_
-
-- [Bay security reviews for AI coding agent security? Is it viable..](https://www.reddit.com/r/AskNetsec/comments/1x4u5k7/bay_security_reviews_for_ai_coding_agent_security/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Looking into securing AI coding agents on developer machines, mainly around access to local credentials, internal APIs and cloud tools. Bay is one of the options I’m _
-
-- [How are LLMs actually being used in static analysis?](https://www.reddit.com/r/AskNetsec/comments/1x51yy5/how_are_llms_actually_being_used_in_static/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey guys, I’ve recently been reading papers that use LLMs to understand code logic and infer security-related semantics from source code and comments.</p> <p>I’m curi_
-
-- [Two scanners rated the same CVE on the same host 9.8 and 5.3 so i spent a week tracing it, turns out one cant log in on that subnet and both are measuring different things](https://www.reddit.com/r/AskNetsec/comments/1x4sw0q/two_scanners_rated_the_same_cve_on_the_same_host/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Every Monday i build the fix-these-first list and the two scanners barely agree on what belongs at the top of it, which for a long time i put down to one of them bein_
-
-- [How do you filter false positives out of SAST DAST and SCA findings?](https://www.reddit.com/r/AskNetsec/comments/1x57kfk/how_do_you_filter_false_positives_out_of_sast/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>My team stopped trusting the scanners and last month we hand-triaged every open finding on our three main services. I need to know if these numbers are normal.</p> <t_
-
-- [[ Removed by Reddit ]](https://www.reddit.com/r/AskNetsec/comments/1x54jqz/removed_by_reddit/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>[ Removed by Reddit on account of violating the <a href="/help/contentpolicy">content policy</a>. ]</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https:/_
-
-- [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)
-  - Confidence: 🟫 LOW
-  - _Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 f_
