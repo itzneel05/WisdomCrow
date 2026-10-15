@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-15
-date: 2026-10-15T10:50:18Z
+date: 2026-10-15T16:17:30Z
 type: radar-report
 report_type: fast
-total_opportunities: 76
+total_opportunities: 78
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 76
+**Total opportunities:** 78
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 58 |
-| 💰 Bug Bounties | 9 |
-| 🎓 Free Certifications | 7 |
-| 🏰 CTF Competitions | 2 |
+| ❓ Uncategorized | 69 |
+| 🎓 Free Certifications | 5 |
+| 🏰 CTF Competitions | 3 |
+| 💰 Bug Bounties | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -29,6 +29,11 @@ tags:
   - Tags: `ctf`
   - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/the-quiet-pivot-weaponizing-client-configuration-files-for-lateral-movement-htb-blog" _
 
+- [Web AppSec in the AI Era](https://www.reddit.com/r/AskNetsec/comments/1x5rkuz/web_appsec_in_the_ai_era/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`, `india_friendly`
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>Our application security workflow is increasingly AI-assisted from threat modeling and SAST/SCA to code reviews and vulnerability analysis. We use_
+
 - [Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days](https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
@@ -36,50 +41,10 @@ tags:
 
 ## 💰 Bug Bounties
 
-- [Intigriti program keeps getting suspended and unsuspended.](https://www.reddit.com/r/bugbounty/comments/1x42soj/intigriti_program_keeps_getting_suspended_and/)
+- [What ID verification changes mean for public bug bounty programs at Intigriti](https://www.intigriti.com/blog/business-insights/what-id-verification-changes-mean-for-public-bug-bounty-programs-at-intigriti)
   - Confidence: 🟢 HIGH
   - Tags: `bug_bounty`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>I want to hunt on an Intigriti program that has been suspended and unsuspended several times recently. Does this pattern usually point to problems like slow triage or_
-
-- [Is leaking the model info and system instructions using prompt injection a bug or not ?](https://www.reddit.com/r/bugbounty/comments/1x4ye3p/is_leaking_the_model_info_and_system_instructions/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Testing an LLM and that is what I got so far, I have been trying to leak internal files or do calls using it , but what I got so far are the model info and the system_
-
-- [hackerone should improve their concern on researchers over sales alone](https://www.reddit.com/r/bugbounty/comments/1x4v6fr/hackerone_should_improve_their_concern_on/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>i saw this disclosed report on hackerone <a href="https://hackerone.com/reports/3189580">https://hackerone.com/reports/3189580</a> , felt bad for researcher . he lite_
-
-- [What caused this email?](https://www.reddit.com/r/bugbounty/comments/1x5f3rv/what_caused_this_email/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/bugbounty/comments/1x5f3rv/what_caused_this_email/"> <img alt="What caused this email?" src="https://preview.redd.it/4pq6y2a6acvh1.png?width=640&amp;_
-
-- [Got some bugs in 3 months, now dry for a month. Is focusing only on private scope a mistake?](https://www.reddit.com/r/bugbounty/comments/1x5b90v/got_some_bugs_in_3_months_now_dry_for_a_month_is/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>&#x200b;</p> <p>I started hunting again about 6 months ago after a long break. The first 3 months I got lucky and got bugs in 6 programs total - 3 bugcrowd and 3 on H_
-
-- [Synack Red Team experience and security clearance?](https://www.reddit.com/r/bugbounty/comments/1x5l1xt/synack_red_team_experience_and_security_clearance/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Hello,</p> <p>I applied to synack red team, does having a high EU/NATO security clearance help in getting through process sooner?</p> <p>What are your current experie_
-
-- [Vulnerability fixed by company, asks for retest and then marks report as Not Reproducible.](https://www.reddit.com/r/bugbounty/comments/1x5bszw/vulnerability_fixed_by_company_asks_for_retest/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Earlier this week I made <a href="https://www.reddit.com/r/bugbounty/comments/1x0v4fs/account_deletion_via_uid_marked_as_p2_need/">this</a> post describing the vulner_
-
-- [Request Interception](https://www.reddit.com/r/bugbounty/comments/1x5m50p/request_interception/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>Some endpoints does not appear in burp history or can not be intercept idk why is there any solution i saw it in devtools but i wanna send it from burp , like there i_
-
-- [Weekly Collaboration / Mentorship Post](https://www.reddit.com/r/bugbounty/comments/1x445mi/weekly_collaboration_mentorship_post/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Looking to team up or find a mentor in bug bounty?</p> <p><strong>Recommendations:</strong></p> <ul> <li>Share a brief intro about yourself (e.g., your skills, experi_
+  - _Across the bug bounty ecosystem, providers are moving ID verification on platforms earlier in the researcher journey. This is an industry-wide change. ID verification was historically a payout require_
 
 ## 🎓 Free Certifications
 
@@ -108,17 +73,67 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]_
 
-- [OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room](https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sen_
-
-- [Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)](https://isc.sans.edu/diary/rss/33420)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _<p>Years ago I wrote <a href="https://isc.sans.edu/diary/Malicious&#x2b;DWG&#x2b;Files/25612">diary</a> <a href="https://isc.sans.edu/diary/Extracting&#x2b;VBA&#x2b;Macros&#x2b;From&#x2b;DWG&#x2b;File_
-
 ## ❓ Uncategorized
+
+- [Why AI Confidence Is Not Validation](https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html)
+  - Confidence: 🟫 LOW
+  - _AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster _
+
+- [Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early](https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html)
+  - Confidence: 🟫 LOW
+  - _Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns betwe_
+
+- [Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules](https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html)
+  - Confidence: 🟫 LOW
+  - _Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19.  An attac_
+
+- [Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing](https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html)
+  - Confidence: 🟫 LOW
+  - _Next.js released an&nbsp;out-of-band security update&nbsp;on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw._
+
+- [NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks](https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html)
+  - Confidence: 🟫 LOW
+  - _NGINX released&nbsp;versions 1.30.6 and 1.31.7&nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005.  There are three memory bugs that F5, the company be_
+
+- [Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams](https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html)
+  - Confidence: 🟫 LOW
+  - _A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI7_
+
+- [Replacing VPN with zero trust access for internal apps... rollout advice?](https://www.reddit.com/r/AskNetsec/comments/1x5pp8s/replacing_vpn_with_zero_trust_access_for_internal/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>We're looking at replacing our old VPN with zero trust access for remote staff, mostly for internal web apps and a few admin tools. The VPN works, but it gives people_
+
+- [Does runtime context prioritization fall apart with agentic workloads?](https://www.reddit.com/r/AskNetsec/comments/1x64dbs/does_runtime_context_prioritization_fall_apart/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Last year we brought on a tool to get runtime context on our workloads and help prioritize vulns, mostly to cut noise based on what’s actually loaded in memory. At th_
+
+- [How do DLP and DSPM work together and do we need both?](https://www.reddit.com/r/AskNetsec/comments/1x5zsuq/how_do_dlp_and_dspm_work_together_and_do_we_need/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>We're talking to vendors who keep pitching both, but I'm not sure if my company needs that because we're still a pretty small org. Can someone explain to me why we wo_
+
+- [IT audit: what do you check first in an infra and network review](https://www.reddit.com/r/AskNetsec/comments/1x6dses/it_audit_what_do_you_check_first_in_an_infra_and/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi all, I'm trying to learn how infrastructure and network audits work in practice and would love some input from people doing this daily.<br /> What are the control _
+
+- [[ Removed by Reddit ]](https://www.reddit.com/r/AskNetsec/comments/1x6gj1o/removed_by_reddit/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>[ Removed by Reddit on account of violating the <a href="/help/contentpolicy">content policy</a>. ]</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https:/_
+
+- [How do you authenticate payment-provider webhooks when the provider doesn’t sign the payload (e.g. M-PESA Daraja callbacks)?](https://www.reddit.com/r/AskNetsec/comments/1x6ja9q/how_do_you_authenticate_paymentprovider_webhooks/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I build systems that receive payment confirmations from Safaricom’s M-PESA Daraja API (STK Push and C2B callbacks). As far as I can tell, Daraja doesn’t send an HMAC _
+
+- [Police arrests 95 suspects in international CSAM crackdown action](https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/)
+  - Confidence: 🟫 LOW
+  - _Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM_
+
+- [Microsoft: Windows Server 2022 reached end of mainstream support](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/)
+  - Confidence: 🟫 LOW
+  - _Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]_
+
+- [Is AI pentesting as good as a human pentester?](https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/)
+  - Confidence: 🟫 LOW
+  - _AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and _
 
 - [Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation](https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html)
   - Confidence: 🟫 LOW
@@ -335,19 +350,3 @@ tags:
 - [Microsoft fixes VPN issues caused by September Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/)
   - Confidence: 🟫 LOW
   - _Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]_
-
-- [Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug](https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html)
-  - Confidence: 🟫 LOW
-  - _Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation.  These include 1,10_
-
-- [Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave](https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html)
-  - Confidence: 🟫 LOW
-  - _Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.  The protected area is a VBS enclave, an i_
-
-- [AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host](https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html)
-  - Confidence: 🟫 LOW
-  - _A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted vi_
-
-- [Microsoft: Recent Windows updates may trigger Remote Desktop failures](https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the "Administrator protection" security feature is enable_
