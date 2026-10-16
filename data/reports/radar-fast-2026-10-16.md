@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-16
-date: 2026-10-16T16:02:49Z
+date: 2026-10-16T20:29:39Z
 type: radar-report
 report_type: fast
-total_opportunities: 69
+total_opportunities: 57
 tags:
   - radar
   - fast
@@ -13,28 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 69
+**Total opportunities:** 57
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 64 |
+| ❓ Uncategorized | 54 |
 | 🎓 Free Certifications | 3 |
-| 💰 Bug Bounties | 1 |
-| 🏰 CTF Competitions | 1 |
-
-## 🏰 CTF Competitions
-
-- [Web AppSec in the AI Era](https://www.reddit.com/r/AskNetsec/comments/1x5rkuz/web_appsec_in_the_ai_era/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>Our application security workflow is increasingly AI-assisted from threat modeling and SAST/SCA to code reviews and vulnerability analysis. We use_
-
-## 💰 Bug Bounties
-
-- [What ID verification changes mean for public bug bounty programs at Intigriti](https://www.intigriti.com/blog/business-insights/what-id-verification-changes-mean-for-public-bug-bounty-programs-at-intigriti)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `india_friendly`
-  - _Across the bug bounty ecosystem, providers are moving ID verification on platforms earlier in the researcher journey. This is an industry-wide change. ID verification was historically a payout require_
 
 ## 🎓 Free Certifications
 
@@ -54,6 +38,26 @@ tags:
   - _<p>The US Cybersecurity and Infrastructure Security Agency (CISA) has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog: CVE-2026-0322, a high-severity remote code ex_
 
 ## ❓ Uncategorized
+
+- [UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing](https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct vi_
+
+- [Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor](https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html)
+  - Confidence: 🟫 LOW
+  - _Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the_
+
+- [Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug](https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html)
+  - Confidence: 🟫 LOW
+  - _A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address r_
+
+- [Targeted ads installed Candiru spyware in zero-click attacks](https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/)
+  - Confidence: 🟫 LOW
+  - _Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [._
+
+- [Critical BlockStrap flaw lets hackers run code on Magento servers](https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/)
+  - Confidence: 🟫 LOW
+  - _Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on sto_
 
 - [AI Decision Models and Their Impact on AI SOC Platforms](https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html)
   - Confidence: 🟫 LOW
@@ -250,63 +254,3 @@ tags:
 - [Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers](https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/)
   - Confidence: 🟫 LOW
   - _Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]_
-
-- [Why AI Confidence Is Not Validation](https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html)
-  - Confidence: 🟫 LOW
-  - _AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster _
-
-- [Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early](https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html)
-  - Confidence: 🟫 LOW
-  - _Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns betwe_
-
-- [Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules](https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html)
-  - Confidence: 🟫 LOW
-  - _Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19.  An attac_
-
-- [Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing](https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html)
-  - Confidence: 🟫 LOW
-  - _Next.js released an&nbsp;out-of-band security update&nbsp;on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw._
-
-- [NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks](https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html)
-  - Confidence: 🟫 LOW
-  - _NGINX released&nbsp;versions 1.30.6 and 1.31.7&nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005.  There are three memory bugs that F5, the company be_
-
-- [Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams](https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html)
-  - Confidence: 🟫 LOW
-  - _A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI7_
-
-- [Replacing VPN with zero trust access for internal apps... rollout advice?](https://www.reddit.com/r/AskNetsec/comments/1x5pp8s/replacing_vpn_with_zero_trust_access_for_internal/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>We're looking at replacing our old VPN with zero trust access for remote staff, mostly for internal web apps and a few admin tools. The VPN works, but it gives people_
-
-- [Does runtime context prioritization fall apart with agentic workloads?](https://www.reddit.com/r/AskNetsec/comments/1x64dbs/does_runtime_context_prioritization_fall_apart/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Last year we brought on a tool to get runtime context on our workloads and help prioritize vulns, mostly to cut noise based on what’s actually loaded in memory. At th_
-
-- [How do DLP and DSPM work together and do we need both?](https://www.reddit.com/r/AskNetsec/comments/1x5zsuq/how_do_dlp_and_dspm_work_together_and_do_we_need/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>We're talking to vendors who keep pitching both, but I'm not sure if my company needs that because we're still a pretty small org. Can someone explain to me why we wo_
-
-- [IT audit: what do you check first in an infra and network review](https://www.reddit.com/r/AskNetsec/comments/1x6dses/it_audit_what_do_you_check_first_in_an_infra_and/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi all, I'm trying to learn how infrastructure and network audits work in practice and would love some input from people doing this daily.<br /> What are the control _
-
-- [[ Removed by Reddit ]](https://www.reddit.com/r/AskNetsec/comments/1x6gj1o/removed_by_reddit/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>[ Removed by Reddit on account of violating the <a href="/help/contentpolicy">content policy</a>. ]</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https:/_
-
-- [How do you authenticate payment-provider webhooks when the provider doesn’t sign the payload (e.g. M-PESA Daraja callbacks)?](https://www.reddit.com/r/AskNetsec/comments/1x6ja9q/how_do_you_authenticate_paymentprovider_webhooks/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I build systems that receive payment confirmations from Safaricom’s M-PESA Daraja API (STK Push and C2B callbacks). As far as I can tell, Daraja doesn’t send an HMAC _
-
-- [Police arrests 95 suspects in international CSAM crackdown action](https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/)
-  - Confidence: 🟫 LOW
-  - _Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM_
-
-- [Microsoft: Windows Server 2022 reached end of mainstream support](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/)
-  - Confidence: 🟫 LOW
-  - _Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]_
-
-- [Is AI pentesting as good as a human pentester?](https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/)
-  - Confidence: 🟫 LOW
-  - _AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and _
