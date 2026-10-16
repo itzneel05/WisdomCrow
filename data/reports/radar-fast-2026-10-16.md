@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-16
-date: 2026-10-16T03:01:47Z
+date: 2026-10-16T10:40:12Z
 type: radar-report
 report_type: fast
-total_opportunities: 60
+total_opportunities: 72
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 60
+**Total opportunities:** 72
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 54 |
-| 🎓 Free Certifications | 4 |
+| ❓ Uncategorized | 67 |
+| 🎓 Free Certifications | 3 |
 | 💰 Bug Bounties | 1 |
 | 🏰 CTF Competitions | 1 |
 
@@ -38,6 +38,11 @@ tags:
 
 ## 🎓 Free Certifications
 
+- [ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)](https://isc.sans.edu/diary/rss/33432)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
+
 - [Cisco Warns of Exploited Secure Email Gateway Vulnerability](https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
@@ -48,17 +53,63 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>The US Cybersecurity and Infrastructure Security Agency (CISA) has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog: CVE-2026-0322, a high-severity remote code ex_
 
-- [Panchan's Mining Island &#x5b;Guest Diary&#x5d;, (Wed, Oct 14th)](https://isc.sans.edu/diary/rss/33426)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _<p>&#x5b;This is a Guest Diary by Zachary Norwood, an ISC intern as part of the SANS.edu <a href="https://www.sans.edu/cyber-security-programs/bachelors-degree/">BACS</a> program&#x5d;</p>&#xd;_
-
-- [ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, (Thu, Oct 15th)](https://isc.sans.edu/diary/rss/33428)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions](https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html)
+  - Confidence: 🟫 LOW
+  - _A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH.  The attack inv_
+
+- [CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing](https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html)
+  - Confidence: 🟫 LOW
+  - _AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In&nbsp;said in an advisory&nbsp;on Oc_
+
+- [China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers](https://thehackernews.com/2026/10/china-linked-hackers-exploited.html)
+  - Confidence: 🟫 LOW
+  - _The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-da_
+
+- [Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)](https://isc.sans.edu/diary/rss/33430)
+  - Confidence: 🟫 LOW
+  - _<p>I believe the cybersecurity industry may be approaching AI security the wrong way.</p>&#xd;_
+
+- [Built a deterministic IGA-style review packet for MCP/A2A/ARD agent capabilities](https://www.reddit.com/r/netsecstudents/comments/1x5rz5i/built_a_deterministic_igastyle_review_packet_for/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I built a free agent protocol inspector tool that can provide IGA style review packets for security teams looking to review Agent access. It looks into MCP, A2A, ARD _
+
+- [[Encuesta] ¿Me ayudan con mi proyecto de Ingeniería en Informática? (5 minutos)](https://www.reddit.com/r/netsecstudents/comments/1x68dik/encuesta_me_ayudan_con_mi_proyecto_de_ingeniería/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>¡Hola a todos!Estoy terminando Ingeniería en Informática y estoy desarrollando un proyecto académico llamado SecureCode.Es una herramienta que busca automatizar la ev_
+
+- [My Cyber Security Journey](https://www.reddit.com/r/netsecstudents/comments/1x6ctdu/my_cyber_security_journey/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hii This is Raksha, I'm starting my journey into cybersecurity.</p> <p>As a BCA graduate, my goal is clear - I want to build a career as a SOC Analyst.</p> <p>It's be_
+
+- [[Lab Release] I built an open-source "Blockchain in a Box" lab where you run a containerized crypto node (Free)](https://www.reddit.com/r/netsecstudents/comments/1x6r0v3/lab_release_i_built_an_opensource_blockchain_in_a/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>When studying for certs like Security+ or just trying to wrap your head around cryptocurrency, reading about decentralized ledgers and Proof-of-W_
+
+- [Built 5 hands-on SOC projects for my resume (mini-SOC on AWS, CloudTrail analyzer, phishing lab, binary triage) — open source](https://www.reddit.com/r/netsecstudents/comments/1x6tuft/built_5_handson_soc_projects_for_my_resume/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi all — I'm pivoting into cybersecurity and kept hearing &quot;you need experience, not just certs.&quot; So I built a home lab of 5 working projects and open-source_
+
+- [PortSwigger BSCP Exam: Lab Crashes, The False "Proctoring" Illusion, and Why You Should Be Careful](https://www.reddit.com/r/netsecstudents/comments/1x6n2l3/portswigger_bscp_exam_lab_crashes_the_false/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I want to share my recent experience with the PortSwigger BSCP (Burp Suite Certified Practitioner) exam, specifically regarding severe platform instability, their mis_
+
+- [Is malware analysis still worth learning despite the introduction of tools like REA?](https://www.reddit.com/r/netsecstudents/comments/1x6utep/is_malware_analysis_still_worth_learning_despite/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Malware analysis is such an interesting field to get into (casually for now, don't want to focus on it too much since I want to be flexible as I am still a student).<_
+
+- [BeyondTrust patches zero-day exploited in attacks since August](https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/)
+  - Confidence: 🟫 LOW
+  - _BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]_
+
+- [BAE Systems cyberattack disrupts US federal court operations](https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/)
+  - Confidence: 🟫 LOW
+  - _The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]_
+
+- [Microsoft: October Windows update may break Smart App Control](https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/)
+  - Confidence: 🟫 LOW
+  - _Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]_
 
 - [Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution](https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/)
   - Confidence: 🟫 LOW
@@ -271,7 +322,3 @@ tags:
 - [Microsoft fixes bug causing Windows black screens, Explorer crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/)
   - Confidence: 🟫 LOW
   - _Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]_
-
-- [Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]_
