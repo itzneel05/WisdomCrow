@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-16
-date: 2026-10-16T10:40:12Z
+date: 2026-10-16T16:02:49Z
 type: radar-report
 report_type: fast
-total_opportunities: 72
+total_opportunities: 69
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 72
+**Total opportunities:** 69
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 67 |
+| ❓ Uncategorized | 64 |
 | 🎓 Free Certifications | 3 |
 | 💰 Bug Bounties | 1 |
 | 🏰 CTF Competitions | 1 |
@@ -54,6 +54,22 @@ tags:
   - _<p>The US Cybersecurity and Infrastructure Security Agency (CISA) has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog: CVE-2026-0322, a high-severity remote code ex_
 
 ## ❓ Uncategorized
+
+- [AI Decision Models and Their Impact on AI SOC Platforms](https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html)
+  - Confidence: 🟫 LOW
+  - _In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive _
+
+- [OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract](https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html)
+  - Confidence: 🟫 LOW
+  - _OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ether_
+
+- [Burger King Japan data breach exposes 11 million customer records](https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/)
+  - Confidence: 🟫 LOW
+  - _Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]_
+
+- [Employees using personal ChatGPT at work? Here's what IT admins need to do](https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/)
+  - Confidence: 🟫 LOW
+  - _Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investi_
 
 - [PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions](https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html)
   - Confidence: 🟫 LOW
@@ -294,31 +310,3 @@ tags:
 - [Is AI pentesting as good as a human pentester?](https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/)
   - Confidence: 🟫 LOW
   - _AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and _
-
-- [Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation](https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html)
-  - Confidence: 🟫 LOW
-  - _Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation.  The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8_
-
-- [AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches](https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html)
-  - Confidence: 🟫 LOW
-  - _Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners.  The vul_
-
-- [Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts](https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian.  Langflow is an open-source platform that allows developers to build artificial intelligence (A_
-
-- [GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories](https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html)
-  - Confidence: 🟫 LOW
-  - _The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations.  The spike, according to GitGuardian, was observed on Oc_
-
-- [India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1](https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html)
-  - Confidence: 🟫 LOW
-  - _The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 202_
-
-- [UK Legal Aid Agency: Hackers stole records dating back to 1978](https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/)
-  - Confidence: 🟫 LOW
-  - _The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole recor_
-
-- [Microsoft fixes bug causing Windows black screens, Explorer crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]_
