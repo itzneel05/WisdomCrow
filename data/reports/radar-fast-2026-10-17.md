@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-17
-date: 2026-10-17T02:54:01Z
+date: 2026-10-17T10:07:50Z
 type: radar-report
 report_type: fast
-total_opportunities: 53
+total_opportunities: 60
 tags:
   - radar
   - fast
@@ -13,12 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 53
+**Total opportunities:** 60
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 50 |
+| ❓ Uncategorized | 56 |
 | 🎓 Free Certifications | 2 |
+| 💰 Bug Bounties | 1 |
 | 🏰 CTF Competitions | 1 |
 
 ## 🏰 CTF Competitions
@@ -27,6 +28,13 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `ctf`
   - _Name: CREST CTF 2.0 (an <a href="/ctf/1469">CREST CTF</a> event.)<br /> Date: Oct. 23, 2026, 5:30 a.m. &mdash; 23 Oct. 2026, 11:30 UTC &nbsp;<a href="/event/3477.ics">[add to calendar]</a><br /> Forma_
+
+## 💰 Bug Bounties
+
+- [I PASSED OSCP](https://www.reddit.com/r/oscp/comments/1x6pbma/i_passed_oscp/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`, `india_friendly`
+  - _<!-- SC_OFF --><div class="md"><p>I've been working in Information Security for about a year now as an Assistant Manager, mainly handling penetration testing and vulnerability management.</p> <p>Befor_
 
 ## 🎓 Free Certifications
 
@@ -41,6 +49,30 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud B_
+
+- [is the OSCP worth it?](https://www.reddit.com/r/oscp/comments/1x6qr7k/is_the_oscp_worth_it/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>i do not think i am qualified for one yet, but within a couple months i expect myself to be.</p> <p>while having chats in a recent conference, a unique opinion i hear_
+
+- [PWK Learning modalities](https://www.reddit.com/r/oscp/comments/1x7b8rw/pwk_learning_modalities/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I have a some questions about the &quot;Learning Modalities&quot; on the platform. The introduction module lists different types of labs and modalities:</p> <p>PWK co_
+
+- [4th attempt, found all flags](https://www.reddit.com/r/oscp/comments/1x7mvc9/4th_attempt_found_all_flags/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>How long does it usually take to get results? I just hope i didn’t dail the report, though my report writing is pretty good usually. The template they give sucks shou_
+
+- [OSCP-LK2: Practice Exam for the OSCP made by LainKusanagi](https://www.reddit.com/r/oscp/comments/1x7nzj4/oscplk2_practice_exam_for_the_oscp_made_by/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hello everyone. </p> <p>I made another set of OSCP like machines! </p> <p>OSCP-LK2 is a set of machines in the style of the pen 200 labs and exam to help you sharpen _
+
+- [What’s something you wish you knew on your journey of preparing and taking the OSCP exam?](https://www.reddit.com/r/oscp/comments/1x827ho/whats_something_you_wish_you_knew_on_your_journey/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>More additional context, I intend to take up the OSCP course that will be running over the weekends from 21st November to 5th December in my country. I also recently _
 
 - [Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis](https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/)
   - Confidence: 🟫 LOW
