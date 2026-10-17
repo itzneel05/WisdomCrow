@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-17
-date: 2026-10-17T10:07:50Z
+date: 2026-10-17T14:55:45Z
 type: radar-report
 report_type: fast
-total_opportunities: 60
+total_opportunities: 52
 tags:
   - radar
   - fast
@@ -13,16 +13,21 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 60
+**Total opportunities:** 52
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 56 |
-| 🎓 Free Certifications | 2 |
+| ❓ Uncategorized | 48 |
+| 🏰 CTF Competitions | 2 |
 | 💰 Bug Bounties | 1 |
-| 🏰 CTF Competitions | 1 |
+| 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
+
+- [Sudocrypt v16.0 is back! Our international CTF is happening this October](https://www.reddit.com/r/netsecstudents/comments/1x7hh9s/sudocrypt_v160_is_back_our_international_ctf_is/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`, `india_friendly`
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone!</p> <p>We're Exun Clan, the student-run tech club at DPS R.K. Puram, New Delhi, and we're back with the 16th edition of Sudocrypt, our flagship internat_
 
 - [CREST CTF 2.0](https://ctftime.org/event/3477)
   - Confidence: 🟢 HIGH
@@ -43,12 +48,31 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group._
 
-- [ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)](https://isc.sans.edu/diary/rss/33432)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon](https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.  The package, named "imgdecode," was uploaded_
+
+- [Local Ai](https://www.reddit.com/r/netsecstudents/comments/1x7fd7s/local_ai/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>I am just a beginner in cybersecurity and ethical hacking and I need an AI study buddy to guide me through basic concepts, CTFs, tool usage (Nmap, Wire_
+
+- [Making an offline client side music listener that optionally makes API calls to soundcloud for smart shuffle / music searching - before I buy the API key, would anyone even use this?](https://www.reddit.com/r/netsecstudents/comments/1x7rtcc/making_an_offline_client_side_music_listener_that/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Title. I'm not gonna post pictures bc I dont want people thinking im marketing-- im not I just dont knoe if this is worth finishing. its just a basic CRUD skeleton I _
+
+- [An FBI Agents Insights on Cyber Threats](https://www.reddit.com/r/netsecstudents/comments/1x7nso5/an_fbi_agents_insights_on_cyber_threats/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Next week, we're bringing an FBI agent to our office in Utah for a candid conversation about cybersecurity, the threats we're facing, and what organizations need to k_
+
+- [Knossos: new pentest training lab](https://www.reddit.com/r/netsecstudents/comments/1x7sqm4/knossos_new_pentest_training_lab/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I want to announce a new pentest learning platform: <strong>Knossos</strong></p> <p>I’ve been working on this lab for a bit - I’ve always wanted a better server platf_
+
+- [Drupal patches critical RCE flaws, warns exploits may emerge soon](https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/)
+  - Confidence: 🟫 LOW
+  - _Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]_
 
 - [Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)
   - Confidence: 🟫 LOW
@@ -217,59 +241,3 @@ tags:
 - [Employees using personal ChatGPT at work? Here's what IT admins need to do](https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/)
   - Confidence: 🟫 LOW
   - _Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investi_
-
-- [PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions](https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html)
-  - Confidence: 🟫 LOW
-  - _A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH.  The attack inv_
-
-- [CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing](https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html)
-  - Confidence: 🟫 LOW
-  - _AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In&nbsp;said in an advisory&nbsp;on Oc_
-
-- [China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers](https://thehackernews.com/2026/10/china-linked-hackers-exploited.html)
-  - Confidence: 🟫 LOW
-  - _The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-da_
-
-- [Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)](https://isc.sans.edu/diary/rss/33430)
-  - Confidence: 🟫 LOW
-  - _<p>I believe the cybersecurity industry may be approaching AI security the wrong way.</p>&#xd;_
-
-- [Built a deterministic IGA-style review packet for MCP/A2A/ARD agent capabilities](https://www.reddit.com/r/netsecstudents/comments/1x5rz5i/built_a_deterministic_igastyle_review_packet_for/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I built a free agent protocol inspector tool that can provide IGA style review packets for security teams looking to review Agent access. It looks into MCP, A2A, ARD _
-
-- [[Encuesta] ¿Me ayudan con mi proyecto de Ingeniería en Informática? (5 minutos)](https://www.reddit.com/r/netsecstudents/comments/1x68dik/encuesta_me_ayudan_con_mi_proyecto_de_ingeniería/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>¡Hola a todos!Estoy terminando Ingeniería en Informática y estoy desarrollando un proyecto académico llamado SecureCode.Es una herramienta que busca automatizar la ev_
-
-- [My Cyber Security Journey](https://www.reddit.com/r/netsecstudents/comments/1x6ctdu/my_cyber_security_journey/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hii This is Raksha, I'm starting my journey into cybersecurity.</p> <p>As a BCA graduate, my goal is clear - I want to build a career as a SOC Analyst.</p> <p>It's be_
-
-- [[Lab Release] I built an open-source "Blockchain in a Box" lab where you run a containerized crypto node (Free)](https://www.reddit.com/r/netsecstudents/comments/1x6r0v3/lab_release_i_built_an_opensource_blockchain_in_a/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>When studying for certs like Security+ or just trying to wrap your head around cryptocurrency, reading about decentralized ledgers and Proof-of-W_
-
-- [Built 5 hands-on SOC projects for my resume (mini-SOC on AWS, CloudTrail analyzer, phishing lab, binary triage) — open source](https://www.reddit.com/r/netsecstudents/comments/1x6tuft/built_5_handson_soc_projects_for_my_resume/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi all — I'm pivoting into cybersecurity and kept hearing &quot;you need experience, not just certs.&quot; So I built a home lab of 5 working projects and open-source_
-
-- [PortSwigger BSCP Exam: Lab Crashes, The False "Proctoring" Illusion, and Why You Should Be Careful](https://www.reddit.com/r/netsecstudents/comments/1x6n2l3/portswigger_bscp_exam_lab_crashes_the_false/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I want to share my recent experience with the PortSwigger BSCP (Burp Suite Certified Practitioner) exam, specifically regarding severe platform instability, their mis_
-
-- [Is malware analysis still worth learning despite the introduction of tools like REA?](https://www.reddit.com/r/netsecstudents/comments/1x6utep/is_malware_analysis_still_worth_learning_despite/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Malware analysis is such an interesting field to get into (casually for now, don't want to focus on it too much since I want to be flexible as I am still a student).<_
-
-- [BeyondTrust patches zero-day exploited in attacks since August](https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/)
-  - Confidence: 🟫 LOW
-  - _BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]_
-
-- [BAE Systems cyberattack disrupts US federal court operations](https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/)
-  - Confidence: 🟫 LOW
-  - _The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]_
-
-- [Microsoft: October Windows update may break Smart App Control](https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/)
-  - Confidence: 🟫 LOW
-  - _Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]_
