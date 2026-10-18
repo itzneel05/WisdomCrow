@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-18
-date: 2026-10-18T15:21:22Z
+date: 2026-10-18T20:04:11Z
 type: radar-report
 report_type: fast
-total_opportunities: 17
+total_opportunities: 10
 tags:
   - radar
   - fast
@@ -13,35 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 17
+**Total opportunities:** 10
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 12 |
-| 🏰 CTF Competitions | 4 |
+| ❓ Uncategorized | 9 |
 | 💰 Bug Bounties | 1 |
-
-## 🏰 CTF Competitions
-
-- [Undutmaning 2027](https://ctftime.org/event/3481)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: Undutmaning 2027 (an <a href="/ctf/885">Undutmaning</a> event.)<br /> Date: March 20, 2027, 11 a.m. &mdash; 20 March 2027, 19:00 UTC &nbsp;<a href="/event/3481.ics">[add to calendar]</a><br /> F_
-
-- [bi0sCTF 2026](https://ctftime.org/event/3480)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: bi0sCTF 2026 (an <a href="/ctf/31">bi0sCTF</a> event.)<br /> Date: Dec. 5, 2026, 5 a.m. &mdash; 06 Dec. 2026, 17:00 UTC &nbsp;<a href="/event/3480.ics">[add to calendar]</a><br /> Format: Jeopar_
-
-- [StealthCup 2026](https://ctftime.org/event/3482)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: StealthCup 2026 (an <a href="/ctf/1248">Stealth-Cup</a> event.)<br /> Date: Oct. 31, 2026, 1 p.m. &mdash; 31 Oct. 2026, 21:00 UTC &nbsp;<a href="/event/3482.ics">[add to calendar]</a><br /> Form_
-
-- [CTF@AC26 - Finals](https://ctftime.org/event/3463)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: CTF@AC26 - Finals (an <a href="/ctf/1337">CTF@AC</a> event.)<br /> Date: Oct. 30, 2026, 10 a.m. &mdash; 01 Nov. 2026, 10:00 UTC &nbsp;<a href="/event/3463.ics">[add to calendar]</a><br /> Format_
 
 ## 💰 Bug Bounties
 
@@ -51,6 +28,10 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>Somewhat surprised with this merger (really an acquisition). I always thought Synack had the better business model to deal with the emerging push to automate and AI e_
 
 ## ❓ Uncategorized
+
+- [Hackers exploit SiteGuard WAF flaw to run commands as admins](https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/)
+  - Confidence: 🟫 LOW
+  - _Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]_
 
 - [Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)](https://isc.sans.edu/diary/rss/33434)
   - Confidence: 🟫 LOW
@@ -83,19 +64,3 @@ tags:
 - [Tracertheleak-security](https://www.reddit.com/r/Pentesting/comments/1x85ayf/tracertheleaksecurity/)
   - Confidence: 🟫 LOW
   - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1x85ayf/tracertheleaksecurity/"> <img alt="Tracertheleak-security" src="https://external-preview.redd.it/MmhzOHg2aGtxenZoMX4mtI9S_
-
-- [What Should We Upgrade?](https://www.reddit.com/r/Pentesting/comments/1x8bhl7/what_should_we_upgrade/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>We Recently Made A Port Scanner And Published It To Github Check It Out At <a href="https://github.com/5evenTeam/NetBreak">https://github.com/5evenTeam/NetBreak</a>!<_
-
-- [New OSSTMM 4 pre release video](https://www.reddit.com/r/Pentesting/comments/1x7tnqo/new_osstmm_4_pre_release_video/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>This was streamed live this morning from the ICIST conference in Lithuania. Its happening. <a href="https://www.youtube.com/watch?v=b8VhICUcB6k">https://www.youtube.c_
-
-- [Super Trouper v0.5.0: package and Pattern tools for authorized Frida workflows](https://www.reddit.com/r/Pentesting/comments/1x83eph/super_trouper_v050_package_and_pattern_tools_for/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1x83eph/super_trouper_v050_package_and_pattern_tools_for/"> <img alt="Super Trouper v0.5.0: package and Pattern tools for authori_
-
-- [Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack](https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/)
-  - Confidence: 🟫 LOW
-  - _ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]_
