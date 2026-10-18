@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-18
-date: 2026-10-18T10:21:41Z
+date: 2026-10-18T15:21:22Z
 type: radar-report
 report_type: fast
-total_opportunities: 22
+total_opportunities: 17
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 22
+**Total opportunities:** 17
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 16 |
-| 🏰 CTF Competitions | 5 |
+| ❓ Uncategorized | 12 |
+| 🏰 CTF Competitions | 4 |
 | 💰 Bug Bounties | 1 |
 
 ## 🏰 CTF Competitions
@@ -43,11 +43,6 @@ tags:
   - Tags: `ctf`
   - _Name: CTF@AC26 - Finals (an <a href="/ctf/1337">CTF@AC</a> event.)<br /> Date: Oct. 30, 2026, 10 a.m. &mdash; 01 Nov. 2026, 10:00 UTC &nbsp;<a href="/event/3463.ics">[add to calendar]</a><br /> Format_
 
-- [Sudocrypt v16.0 is back! Our international CTF is happening this October](https://www.reddit.com/r/netsecstudents/comments/1x7hh9s/sudocrypt_v160_is_back_our_international_ctf_is/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone!</p> <p>We're Exun Clan, the student-run tech club at DPS R.K. Puram, New Delhi, and we're back with the 16th edition of Sudocrypt, our flagship internat_
-
 ## 💰 Bug Bounties
 
 - [Synack / Netspi](https://www.reddit.com/r/Pentesting/comments/1x7jjfa/synack_netspi/)
@@ -56,6 +51,14 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>Somewhat surprised with this merger (really an acquisition). I always thought Synack had the better business model to deal with the emerging push to automate and AI e_
 
 ## ❓ Uncategorized
+
+- [Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)](https://isc.sans.edu/diary/rss/33434)
+  - Confidence: 🟫 LOW
+  - _<p>Here is the YARA rule I used to detect "<a href="https://dshield.org/diary/Orphaned&#x25;20VBA&#x25;20Projects&#x25;20Inside&#x25;20DWG&#x25;20Files/33420">Orphaned VBA Projects Inside DWG Files</a_
+
+- [Hackers exploit SiteGuard WAF flaw to run commands as SYSTEM, root](https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/)
+  - Confidence: 🟫 LOW
+  - _Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]_
 
 - [ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants](https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html)
   - Confidence: 🟫 LOW
@@ -96,27 +99,3 @@ tags:
 - [Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack](https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/)
   - Confidence: 🟫 LOW
   - _ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]_
-
-- [MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon](https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.  The package, named "imgdecode," was uploaded_
-
-- [Local Ai](https://www.reddit.com/r/netsecstudents/comments/1x7fd7s/local_ai/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>I am just a beginner in cybersecurity and ethical hacking and I need an AI study buddy to guide me through basic concepts, CTFs, tool usage (Nmap, Wire_
-
-- [Making an offline client side music listener that optionally makes API calls to soundcloud for smart shuffle / music searching - before I buy the API key, would anyone even use this?](https://www.reddit.com/r/netsecstudents/comments/1x7rtcc/making_an_offline_client_side_music_listener_that/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Title. I'm not gonna post pictures bc I dont want people thinking im marketing-- im not I just dont knoe if this is worth finishing. its just a basic CRUD skeleton I _
-
-- [An FBI Agents Insights on Cyber Threats](https://www.reddit.com/r/netsecstudents/comments/1x7nso5/an_fbi_agents_insights_on_cyber_threats/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Next week, we're bringing an FBI agent to our office in Utah for a candid conversation about cybersecurity, the threats we're facing, and what organizations need to k_
-
-- [Knossos: new pentest training lab](https://www.reddit.com/r/netsecstudents/comments/1x7sqm4/knossos_new_pentest_training_lab/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I want to announce a new pentest learning platform: <strong>Knossos</strong></p> <p>I’ve been working on this lab for a bit - I’ve always wanted a better server platf_
-
-- [Drupal patches critical RCE flaws, warns exploits may emerge soon](https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/)
-  - Confidence: 🟫 LOW
-  - _Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]_
