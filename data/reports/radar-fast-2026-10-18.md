@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-18
-date: 2026-10-18T02:56:02Z
+date: 2026-10-18T10:21:41Z
 type: radar-report
 report_type: fast
-total_opportunities: 28
+total_opportunities: 22
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 28
+**Total opportunities:** 22
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 21 |
+| ❓ Uncategorized | 16 |
 | 🏰 CTF Competitions | 5 |
-| 💰 Bug Bounties | 2 |
+| 💰 Bug Bounties | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -55,12 +55,11 @@ tags:
   - Tags: `bug_bounty`
   - _<!-- SC_OFF --><div class="md"><p>Somewhat surprised with this merger (really an acquisition). I always thought Synack had the better business model to deal with the emerging push to automate and AI e_
 
-- [I PASSED OSCP](https://www.reddit.com/r/oscp/comments/1x6pbma/i_passed_oscp/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>I've been working in Information Security for about a year now as an Assistant Manager, mainly handling penetration testing and vulnerability management.</p> <p>Befor_
-
 ## ❓ Uncategorized
+
+- [ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants](https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html)
+  - Confidence: 🟫 LOW
+  - _ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to _
 
 - [Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel](https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/)
   - Confidence: 🟫 LOW
@@ -121,27 +120,3 @@ tags:
 - [Drupal patches critical RCE flaws, warns exploits may emerge soon](https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/)
   - Confidence: 🟫 LOW
   - _Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]_
-
-- [Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud B_
-
-- [is the OSCP worth it?](https://www.reddit.com/r/oscp/comments/1x6qr7k/is_the_oscp_worth_it/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>i do not think i am qualified for one yet, but within a couple months i expect myself to be.</p> <p>while having chats in a recent conference, a unique opinion i hear_
-
-- [PWK Learning modalities](https://www.reddit.com/r/oscp/comments/1x7b8rw/pwk_learning_modalities/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I have a some questions about the &quot;Learning Modalities&quot; on the platform. The introduction module lists different types of labs and modalities:</p> <p>PWK co_
-
-- [4th attempt, found all flags](https://www.reddit.com/r/oscp/comments/1x7mvc9/4th_attempt_found_all_flags/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>How long does it usually take to get results? I just hope i didn’t dail the report, though my report writing is pretty good usually. The template they give sucks shou_
-
-- [OSCP-LK2: Practice Exam for the OSCP made by LainKusanagi](https://www.reddit.com/r/oscp/comments/1x7nzj4/oscplk2_practice_exam_for_the_oscp_made_by/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello everyone. </p> <p>I made another set of OSCP like machines! </p> <p>OSCP-LK2 is a set of machines in the style of the pen 200 labs and exam to help you sharpen _
-
-- [What’s something you wish you knew on your journey of preparing and taking the OSCP exam?](https://www.reddit.com/r/oscp/comments/1x827ho/whats_something_you_wish_you_knew_on_your_journey/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>More additional context, I intend to take up the OSCP course that will be running over the weekends from 21st November to 5th December in my country. I also recently _
