@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-20
-date: 2026-10-20T10:55:00Z
+date: 2026-10-20T16:20:27Z
 type: radar-report
 report_type: fast
-total_opportunities: 59
+total_opportunities: 70
 tags:
   - radar
   - fast
@@ -13,13 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 59
+**Total opportunities:** 70
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 54 |
+| ❓ Uncategorized | 64 |
 | 🏰 CTF Competitions | 3 |
 | 🎓 Free Certifications | 2 |
+| 💰 Bug Bounties | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -38,6 +39,13 @@ tags:
   - Tags: `ctf`
   - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1x8wj85/pwnd_autopilot/"> <img alt="Pwn'd Autopilot!" src="https://preview.redd.it/an9ue68ka6wh1.png?width=640&amp;crop=smart&amp_
 
+## 💰 Bug Bounties
+
+- [Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution](https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution.  The _
+
 ## 🎓 Free Certifications
 
 - [Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge](https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html)
@@ -51,6 +59,62 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident](https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html)
+  - Confidence: 🟫 LOW
+  - _ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to_
+
+- [Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader](https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html)
+  - Confidence: 🟫 LOW
+  - _The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty_
+
+- [Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns](https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html)
+  - Confidence: 🟫 LOW
+  - _Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of&nbsp;eight intermediate certificate authority keys.  Programs b_
+
+- [What Security Teams Can Do To Tame Wild Code](https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html)
+  - Confidence: 🟫 LOW
+  - _A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces man_
+
+- [WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators](https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html)
+  - Confidence: 🟫 LOW
+  - _WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, eve_
+
+- [Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election](https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html)
+  - Confidence: 🟫 LOW
+  - _The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the&nbsp;Citizen_
+
+- [Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites](https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html)
+  - Confidence: 🟫 LOW
+  - _A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their con_
+
+- [Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA](https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html)
+  - Confidence: 🟫 LOW
+  - _Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting&nbsp; PAN-OS and Prisma Access by ransomware actors.  The activity relates to CVE_
+
+- [Ahold Delhaize: Cyberattack affects services across US and Europe](https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/)
+  - Confidence: 🟫 LOW
+  - _Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]_
+
+- [OVHcloud CLI releases backdoored on GitHub to steal developer secrets](https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/)
+  - Confidence: 🟫 LOW
+  - _French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]_
+
+- [Windows Server 2025 gets support for quick machine recovery](https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/)
+  - Confidence: 🟫 LOW
+  - _Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]_
+
+- [Hacker gets 8 years for stealing $3.3 million from taxpayers](https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/)
+  - Confidence: 🟫 LOW
+  - _A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]_
+
+- [CJIS v6.1 Compliance: 5 Practical Priorities for Agencies](https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/)
+  - Confidence: 🟫 LOW
+  - _CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, acc_
+
+- [DHS bans DeepSeek products across US federal civilian agencies](https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]_
 
 - [Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware](https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html)
   - Confidence: 🟫 LOW
@@ -251,19 +315,3 @@ tags:
 - [Nikkei discloses third data breach in a month, 1.8M records exposed](https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/)
   - Confidence: 🟫 LOW
   - _Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]_
-
-- [OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys](https://thehackernews.com/2026/10/opencode-console-breach-may-have.html)
-  - Confidence: 🟫 LOW
-  - _An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said.  Console is_
-
-- [Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers](https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html)
-  - Confidence: 🟫 LOW
-  - _A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin _
-
-- [Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic](https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html)
-  - Confidence: 🟫 LOW
-  - _A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligenc_
-
-- [Microsoft: October Windows Server updates break Exchange sign-in, mail flow](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]_
