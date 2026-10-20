@@ -1,0 +1,435 @@
+---
+title: WisdomCrow Daily Report - 2026-10-20
+date: 2026-10-20T21:49:42Z
+type: radar-report
+report_type: daily
+total_opportunities: 99
+tags:
+  - radar
+  - daily
+---
+
+# WisdomCrow Daily Report
+
+## Summary
+
+**Total opportunities:** 99
+
+| Category | Count |
+|----------|-------|
+| ❓ Uncategorized | 91 |
+| 🏰 CTF Competitions | 4 |
+| 🎓 Free Certifications | 3 |
+| 💰 Bug Bounties | 1 |
+
+## 🏰 CTF Competitions
+
+- [L3m0n CTF 2026 (Quals)](https://ctftime.org/event/3485)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: L3m0n CTF 2026 (Quals) (an <a href="/ctf/1468">L3m0n CTF</a> event.)<br /> Date: Nov. 28, 2026, 4:30 a.m. &mdash; 28 Nov. 2026, 16:30 UTC &nbsp;<a href="/event/3485.ics">[add to calendar]</a><br_
+
+- [Training AIs to Solve CAPTCHAs](https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _<p>Interesting <a href="https://arxiv.org/abs/2609.02393">research</a>:</p> <blockquote><p><b>Abstract</b>: Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but _
+
+- [Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor](https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public.  Accor_
+
+- [Pwn'd Autopilot!](https://www.reddit.com/r/hackthebox/comments/1x8wj85/pwnd_autopilot/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1x8wj85/pwnd_autopilot/"> <img alt="Pwn'd Autopilot!" src="https://preview.redd.it/an9ue68ka6wh1.png?width=640&amp;crop=smart&amp_
+
+## 💰 Bug Bounties
+
+- [Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution](https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution.  The _
+
+## 🎓 Free Certifications
+
+- [OSCP Exam Guide: What to Expect and How to Prepare](https://www.offsec.com/blog/oscp-exam-guide/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _<p>Learn what to expect from OSCP, including format, requirements, scoring, practical study tips, and answers to common preparation questions.</p> <p>The post <a href="https://www.offsec.com/blog/oscp_
+
+- [Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge](https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `scholarship`
+  - _A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco of_
+
+- [ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)](https://isc.sans.edu/diary/rss/33436)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
+
+## ❓ Uncategorized
+
+- [970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach](https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/)
+  - Confidence: 🟫 LOW
+  - _<p>Paradigm Healthcare Services detected an intrusion in October 2025, but it took nearly a year to start notifying affected individuals.</p> <p>The post <a href="https://www.securityweek.com/970000-m_
+
+- [Hackers Steal 1.8 Million Records From Nikkei](https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/)
+  - Confidence: 🟫 LOW
+  - _<p>The compromised information includes names, addresses, email addresses, phone numbers, and dates of birth.</p> <p>The post <a href="https://www.securityweek.com/hackers-steal-1-8-million-records-fr_
+
+- [Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring](https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/)
+  - Confidence: 🟫 LOW
+  - _<p>Microsoft says companies should treat AI agents as insiders, and is adding controls that grant access per task and tighten it as an agent’s risk rises.</p> <p>The post <a href="https://www.security_
+
+- [Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say](https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/)
+  - Confidence: 🟫 LOW
+  - _<p>Abdulrahman Alfozan’s wife and young son also left the country the day after the 35-year-old Saudi national’s arrest.</p> <p>The post <a href="https://www.securityweek.com/ex-openai-worker-accused-_
+
+- [AI Platform Cairn Abused to Hack Over 100 Organizations](https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/)
+  - Confidence: 🟫 LOW
+  - _<p>At least three threat actors have been abusing Cairn for persistent access and financial theft.</p> <p>The post <a href="https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organ_
+
+- [Ahold Delhaize Restoring Services Disrupted by Cyberattack](https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/)
+  - Confidence: 🟫 LOW
+  - _<p>The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days.</p> <p>The post <a href="https://www.securityweek.com/ahold-delhaize-restor_
+
+- [The Key to AI Software Security Isn’t Speed, It’s Maturity](https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/)
+  - Confidence: 🟫 LOW
+  - _<p>Where your developers sit on the AI adoption scale has a real impact on how you are addressing security risk.</p> <p>The post <a href="https://www.securityweek.com/the-key-to-ai-software-security-i_
+
+- [AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign](https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/)
+  - Confidence: 🟫 LOW
+  - _<p>Across multiple short compromise windows, users were served a downloader for the ShinyRoad modular backdoor framework.</p> <p>The post <a href="https://www.securityweek.com/aomei-backupper-compromi_
+
+- [US Agencies Detail Incident Response Practices for Rogue AI Agents](https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/)
+  - Confidence: 🟫 LOW
+  - _<p>NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents.</p> <p>The post <a href="https://www.securityw_
+
+- [Possible new Cellebrite iPhone Radio Zero-Day](https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html)
+  - Confidence: 🟫 LOW
+  - _<p>Justin.sh is <a href="https://justin.sh/blog/2026/10/cellebrite-advanced-unlocks/">reporting</a> on a confidential Cellebrite document that has been leaked to him:</p> <blockquote><p>Cellebrite cal_
+
+- [Teradata expands AI data security with post-quantum protection and immutable backups](https://www.helpnetsecurity.com/2026/10/20/teradata-ai-data-security/)
+  - Confidence: 🟫 LOW
+  - _<p>Teradata has announced new privacy, security, and resiliency capabilities designed to address one of the defining challenges of enterprise AI: how sensitive data is protected, who and what can acce_
+
+- [Quarantined, but still on your calendar: The explosion of invite-based attacks](https://www.helpnetsecurity.com/2026/10/20/malicious-calendar-invites/)
+  - Confidence: 🟫 LOW
+  - _<p>There has been a sharp escalation in attacks that use malicious calendar invites to reach targets, email security providers Check Point and Sublime Security have warned. Sublime recorded a 1,216% m_
+
+- [Attackers exploit Siemens Software Center flaw in active ClickFix malware campaign](https://www.helpnetsecurity.com/2026/10/20/exploitation-siemens-software-center-vulnerability-cve-2026-110936/)
+  - Confidence: 🟫 LOW
+  - _<p>Siemens has confirmed the active exploitation of CVE-2026-110936, a DLL side-loading vulnerability in Siemens Software Center, the company’s tool for downloading, installing and managing its softwa_
+
+- [AppGate gives OT supervisors live monitoring and session termination controls](https://www.helpnetsecurity.com/2026/10/20/appgate-session-governance/)
+  - Confidence: 🟫 LOW
+  - _<p>AppGate has expanded its zero trust offering for operational technology (OT) with Session Governance capabilities that help critical infrastructure operators reduce third-party access risk, simplif_
+
+- [IDENTOS PolicyArc gives AI agents task-specific, time-limited access](https://www.helpnetsecurity.com/2026/10/20/identos-policyarc/)
+  - Confidence: 🟫 LOW
+  - _<p>IDENTOS has announced that PolicyArc is now generally available. The new solution gives security, platform, and compliance teams a single place to define, enforce, and audit access policy across th_
+
+- [ThreatModeler NexusAI tracks architectural changes and proposes security updates](https://www.helpnetsecurity.com/2026/10/20/threatmodeler-nexusai/)
+  - Confidence: 🟫 LOW
+  - _<p>ThreatModeler has announced the launch of NexusAI, its new AI-powered threat modeling partner within the ThreatModeler Nexus platform. NexusAI helps enterprises automate more of the work involved i_
+
+- [Abstract links automated response actions directly to SIEM detection rules](https://www.helpnetsecurity.com/2026/10/20/abstract-links-automated-response-actions-directly-to-siem-detection-rules/)
+  - Confidence: 🟫 LOW
+  - _<p>Abstract has announced new AI SOC capabilities in its agentic SIEM: investigation, hunt, and triage powered by a combination of Abstract&#8217;s own trained and tuned models and frontier foundation_
+
+- [Incomplete security patches show hackers where to look next](https://www.helpnetsecurity.com/2026/10/20/ncomplete-security-patches-broken-fixes-rise/)
+  - Confidence: 🟫 LOW
+  - _<p>Security patches are turning into roadmaps for attackers, with a growing share of fixes later found incomplete or open to bypass. Oren Yomtov, a security researcher at Terra Security, began trackin_
+
+- [AOMEI Backupper servers hijacked for minutes at a time to push backdoor](https://www.helpnetsecurity.com/2026/10/20/aomei-backupper-compromised-supply-chain/)
+  - Confidence: 🟫 LOW
+  - _<p>An unknown number of AOMEI Backupper users had their computers infected with a backdoor through an unusually stealthy supply chain attack, security researchers discovered. Between April and July 20_
+
+- [Chrome flags malicious commands that scammers pass off as fixes](https://www.helpnetsecurity.com/2026/10/20/google-chrome-enhanced-protection-updates/)
+  - Confidence: 🟫 LOW
+  - _<p>Google is updating Chrome’s Enhanced Protection mode to detect scam websites and warn users when a page tricks them into copying a malicious command. The company introduced Enhanced Protection for _
+
+- [Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree](https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn)
+  - Confidence: 🟫 LOW
+  - _A Chinese-speaking attacker has compromised hundreds of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine manufacturer Cummins._
+
+- [Close Identity Gaps in Software Development Before Unleashing AI](https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai)
+  - Confidence: 🟫 LOW
+  - _Artificial Intelligence is complicating security in the software development lifecycle, but a Dark Reading roundtable found collaboration, better identity visibility, and reduced testing costs offer C_
+
+- [Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ](https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties)
+  - Confidence: 🟫 LOW
+  - _The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector._
+
+- [Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software](https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html)
+  - Confidence: 🟫 LOW
+  - _The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20.  An interme_
+
+- [OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/)
+  - Confidence: 🟫 LOW
+  - _OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]_
+
+- [Zeabur shutting down after second security breach in two months](https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/)
+  - Confidence: 🟫 LOW
+  - _Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over _
+
+- [PHP warns admins of two critical flaws, emergency patches coming tomorrow](https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/)
+  - Confidence: 🟫 LOW
+  - _The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead o_
+
+- [ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident](https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html)
+  - Confidence: 🟫 LOW
+  - _ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to_
+
+- [Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader](https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html)
+  - Confidence: 🟫 LOW
+  - _The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty_
+
+- [Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns](https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html)
+  - Confidence: 🟫 LOW
+  - _Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of&nbsp;eight intermediate certificate authority keys.  Programs b_
+
+- [What Security Teams Can Do To Tame Wild Code](https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html)
+  - Confidence: 🟫 LOW
+  - _A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces man_
+
+- [WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators](https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html)
+  - Confidence: 🟫 LOW
+  - _WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, eve_
+
+- [Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election](https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html)
+  - Confidence: 🟫 LOW
+  - _The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the&nbsp;Citizen_
+
+- [Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites](https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html)
+  - Confidence: 🟫 LOW
+  - _A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their con_
+
+- [Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA](https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html)
+  - Confidence: 🟫 LOW
+  - _Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting&nbsp; PAN-OS and Prisma Access by ransomware actors.  The activity relates to CVE_
+
+- [Ahold Delhaize: Cyberattack affects services across US and Europe](https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/)
+  - Confidence: 🟫 LOW
+  - _Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]_
+
+- [OVHcloud CLI releases backdoored on GitHub to steal developer secrets](https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/)
+  - Confidence: 🟫 LOW
+  - _French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]_
+
+- [Windows Server 2025 gets support for quick machine recovery](https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/)
+  - Confidence: 🟫 LOW
+  - _Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]_
+
+- [Hacker gets 8 years for stealing $3.3 million from taxpayers](https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/)
+  - Confidence: 🟫 LOW
+  - _A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]_
+
+- [CJIS v6.1 Compliance: 5 Practical Priorities for Agencies](https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/)
+  - Confidence: 🟫 LOW
+  - _CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, acc_
+
+- [DHS bans DeepSeek products across US federal civilian agencies](https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]_
+
+- [Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware](https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader.  According to Forescout Research - Vedere_
+
+- [ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan](https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html)
+  - Confidence: 🟫 LOW
+  - _Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks.  The high-severity vulnerability, tracked as CVE-2026-11093_
+
+- [Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware](https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html)
+  - Confidence: 🟫 LOW
+  - _An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the_
+
+- [Revolut outage disrupts online banking operations worldwide](https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/)
+  - Confidence: 🟫 LOW
+  - _Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]_
+
+- [Anthropic Acquires Confidential AI Startup Opaque Systems](https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/)
+  - Confidence: 🟫 LOW
+  - _<p>Opaque Systems has developed technology that lets AI systems use sensitive data while keeping it protected by the underlying hardware.</p> <p>The post <a href="https://www.securityweek.com/anthropi_
+
+- [MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks](https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/)
+  - Confidence: 🟫 LOW
+  - _<p>Defenders get 15 new detection strategies, six for Enterprise and nine for ICS, backed by 38 analytics.</p> <p>The post <a href="https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-b_
+
+- [Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack](https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/)
+  - Confidence: 🟫 LOW
+  - _<p>The persistent, stealthy FortiGate implant was deployed against a telecommunications organization.</p> <p>The post <a href="https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fo_
+
+- [One Compromised Login Exposed Millions of California Students’ Records](https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/)
+  - Confidence: 🟫 LOW
+  - _<p>Intruders used compromised credentials to access an ETS SFTP server, copying records of California students back to 2006.</p> <p>The post <a href="https://www.securityweek.com/one-compromised-login_
+
+- [Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure](https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/)
+  - Confidence: 🟫 LOW
+  - _<p>Threat actors have been observed delivering cryptocurrency miners and proxy software.</p> <p>The post <a href="https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-_
+
+- [ConnectWise Suspends Cloud Services in Response to Cyberattack](https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/)
+  - Confidence: 🟫 LOW
+  - _<p>The services remain unavailable as the company continues remediation and security validation.</p> <p>The post <a href="https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-t_
+
+- [Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack](https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/)
+  - Confidence: 🟫 LOW
+  - _<p>Hackers injected malware into Rank Math PRO version 3.0.123 packages distributed between October 15 and October 16.</p> <p>The post <a href="https://www.securityweek.com/rank-math-pro-wordpress-plu_
+
+- [Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw](https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/)
+  - Confidence: 🟫 LOW
+  - _<p>Critical flaws impact the Entity List and Field UI modules, and exploit paths exist with contributed modules.</p> <p>The post <a href="https://www.securityweek.com/drupal-warns-of-fast-exploitation_
+
+- [Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks](https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/)
+  - Confidence: 🟫 LOW
+  - _<p>Attackers paired a genuine, signed copy of Siemens Software Center with malicious DLLs to infect Windows PCs via ClickFix lures.</p> <p>The post <a href="https://www.securityweek.com/siemens-softwa_
+
+- [Ransomware pressure now reaches employees’ homes and families](https://www.helpnetsecurity.com/2026/10/19/semperis-ransomware-employee-safety-report/)
+  - Confidence: 🟫 LOW
+  - _<p>Ransomware attackers threatened employees’ family members or friends at 37% of organizations surveyed for Semperis’ 2026 Ransomware Risk Report. The survey covered 1,200 IT and security professiona_
+
+- [Half the AI bot traffic hammering your website comes from Meta](https://www.helpnetsecurity.com/2026/10/19/datadome-ai-agent-traffic-report/)
+  - Confidence: 🟫 LOW
+  - _<p>AI agent traffic across DataDome’s network grew 41.5% quarter over quarter to nearly 25 billion requests in Q3 2026, according to the company’s AI Traffic Report Q3 2026. Meta’s Muse generated 29.1_
+
+- [RPO and RTO explained with a real disaster recovery example](https://www.helpnetsecurity.com/2026/10/19/rpo-rto-video/)
+  - Confidence: 🟫 LOW
+  - _<p>In this Help Net Security video, Matthew Burden, CEO of BlackBox Hosting, explains RPO and RTO and how they differ in practice. RPO, the recovery point objective, is the most data you can lose, mea_
+
+- [Bearer CLI: Free, source-available code security scanning tool (SAST)](https://www.helpnetsecurity.com/2026/10/19/bearer-cli-free-code-security-scanning-tool-sast/)
+  - Confidence: 🟫 LOW
+  - _<p>Bearer CLI is a free static application security testing (SAST) tool that scans source code for vulnerabilities and prioritizes them by the sensitive data they touch. SAST means the tool reads code_
+
+- [Cybercriminals favor Microsoft over Apple and Google in brand phishing attacks](https://www.helpnetsecurity.com/2026/10/19/check-point-brand-impersonation-scams-q3-2026-report/)
+  - Confidence: 🟫 LOW
+  - _<p>Microsoft accounted for 33% of brand impersonation attempts tracked by Check Point Research in the third quarter of 2026, up from 23% in the previous quarter and roughly four times the share of any_
+
+- [With open-weight AI, more of the security burden falls on enterprises](https://www.helpnetsecurity.com/2026/10/19/open-weight-ai-model-risks-microsoft-nvidia/)
+  - Confidence: 🟫 LOW
+  - _<p>Organizations that run open-weight AI models on their own infrastructure may have to supply safety and security controls that an AI provider would otherwise handle for them, Microsoft and NVIDIA wa_
+
+- [Sweet Security adds one-click protection for vulnerable cloud workloads](https://www.helpnetsecurity.com/2026/10/19/sweet-security-virtual-patching/)
+  - Confidence: 🟫 LOW
+  - _<p>Sweet Security has announced the release of Virtual Patching, a new capability that protects running cloud and AI applications from specific vulnerabilities the moment they are identified. Security_
+
+- [ConnectWise suspends Cloud Backup service after attackers abuse its Microsoft 365 access](https://www.helpnetsecurity.com/2026/10/19/connectwise-cloud-backup-suspended-security-incident/)
+  - Confidence: 🟫 LOW
+  - _<p>American software company ConnectWise is contending with a security incident that has allowed unknown attackers to use its application identities to break into organizations’ Microsoft 365 accounts_
+
+- [Axonius AI Workforce pairs asset intelligence with automated action](https://www.helpnetsecurity.com/2026/10/19/axonius-ai-workforce/)
+  - Confidence: 🟫 LOW
+  - _<p>Axonius has announced Axonius AI Workforce, the latest expansion of Axonius AI. It enables organizations to deploy teams of Virtual Workers that monitor their environments, identify high-risk expos_
+
+- [The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience)
+  - Confidence: 🟫 LOW
+  - _An industry-wide laser focus on vulnerabilities has left cybersecurity teams without enough room to strategize for resilience._
+
+- [OnlyFans Copyright Takedowns Expose Compromised Websites](https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites)
+  - Confidence: 🟫 LOW
+  - _Copyright takedown requests tied to OnlyFans and other adult content creators are revealing how attackers exploit vulnerable university and government websites to manipulate search results. UpGuard's _
+
+- [ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs](https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps)
+  - Confidence: 🟫 LOW
+  - _Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains unconfirmed._
+
+- ['AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery](https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery)
+  - Confidence: 🟫 LOW
+  - _Spyware vendors are exploiting targeted ad bidding in the digital ecosystem to identify and track individuals and organizations of interest._
+
+- [Researchers Infiltrate Microsoft Tech Support Scam Operation](https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation)
+  - Confidence: 🟫 LOW
+  - _A large-scale scam operation impersonating Microsoft uses a malicious traffic distribution system (TDS) run by a Russian organization and abuses thousands of Cloudflare links._
+
+- [From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software](https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html)
+  - Confidence: 🟫 LOW
+  - _In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Emai_
+
+- [GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories](https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html)
+  - Confidence: 🟫 LOW
+  - _The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a ste_
+
+- [⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More](https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html)
+  - Confidence: 🟫 LOW
+  - _The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks _
+
+- [Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor](https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html)
+  - Confidence: 🟫 LOW
+  - _Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on Oct_
+
+- [Enjoying the malware analyst pathway](https://www.reddit.com/r/hackthebox/comments/1x9bzob/enjoying_the_malware_analyst_pathway/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Using HTB as a supplement to my capstone as I am trying to create a simple malware analysis tool in C++. Thank you for the work in these modules! Can I connect with “_
+
+- [Question about Dante prolab](https://www.reddit.com/r/hackthebox/comments/1x98lo8/question_about_dante_prolab/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Ive been wanting to complete the dante pro lab, but I find the lab environment to be really unstable. If I use feroxbuster on any of the internal machines, they seem _
+
+- [how to deal with this?](https://www.reddit.com/r/hackthebox/comments/1x9c9ag/how_to_deal_with_this/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I began studying cybersecurity a year ago, and things were going well—I even participated in CTF competitions and achieved very good results. Lately, however, I’ve en_
+
+- [I built a zsh tool during my CPTS prep that sets up every box in one command. Looking for testers and feedback](https://www.reddit.com/r/hackthebox/comments/1x9egn9/i_built_a_zsh_tool_during_my_cpts_prep_that_sets/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>While preparing for CPTS, every new box started the same way for me: make the folders, copy a note template, edit /etc/hosts, export the IP, and later paste flags, cr_
+
+- [There are speed runners here!](https://www.reddit.com/r/hackthebox/comments/1x9q9br/there_are_speed_runners_here/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1x9q9br/there_are_speed_runners_here/"> <img alt="There are speed runners here!" src="https://preview.redd.it/w11fqnszidwh1.png?w_
+
+- [Have you submitted a machine ?](https://www.reddit.com/r/hackthebox/comments/1x9s2f1/have_you_submitted_a_machine/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi</p> <p>Ive been playing htb machines and would love to submit a machine.</p> <p>How did you guys make it unique. Its like every theme, chain of vulnerabilities are_
+
+- [I made cybersecurity Tier List sorted by the most in demand jobs](https://www.reddit.com/r/hackthebox/comments/1x9tgd0/i_made_cybersecurity_tier_list_sorted_by_the_most/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1x9tgd0/i_made_cybersecurity_tier_list_sorted_by_the_most/"> <img alt="I made cybersecurity Tier List sorted by the most in deman_
+
+- [CPTS Study groups](https://www.reddit.com/r/hackthebox/comments/1xa4oaj/cpts_study_groups/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey guys, currently going through the CPTS path, currently at roughly ~40%. Is there other people studying who would be interested in studying together?</p> </div><!-_
+
+- [Should I take Sec+ first and then move to HTB?](https://www.reddit.com/r/hackthebox/comments/1x9zhc6/should_i_take_sec_first_and_then_move_to_htb/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I’m kinda new to IT, i’m planning to get some certificates and see if I can get an entry level job within a year. I have some Linux experience since it’s my daily dri_
+
+- [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
+  - Confidence: 🟫 LOW
+  - _U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who m_
+
+- [Microsoft fixes classic Outlook bug that hid Copilot buttons](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]_
+
+- [F5 releases out-of-band patches for critical NGINX vulnerabilities](https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/)
+  - Confidence: 🟫 LOW
+  - _F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [._
+
+- [Inside the Underground Market for Know Your Client Services](https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/)
+  - Confidence: 🟫 LOW
+  - _Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services_
+
+- [Microsoft fixes game, app crashes caused by recent Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010). [...]_
+
+- [OpenCode hack exposes API keys amid AI distillation attacks](https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/)
+  - Confidence: 🟫 LOW
+  - _The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]_
+
+- [Bullhorn takes staffing platform offline to contain cyberattack](https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/)
+  - Confidence: 🟫 LOW
+  - _Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]_
+
+- [Hackers hijack AOMEI update servers to secretly spread malware](https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/)
+  - Confidence: 🟫 LOW
+  - _Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to _
+
+- [WordPress SEO plugin Rank Math compromised to backdoor websites](https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/)
+  - Confidence: 🟫 LOW
+  - _Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]_
+
+- [Nikkei discloses third data breach in a month, 1.8M records exposed](https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/)
+  - Confidence: 🟫 LOW
+  - _Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]_
