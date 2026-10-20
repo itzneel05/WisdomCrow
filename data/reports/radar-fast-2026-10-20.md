@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-20
-date: 2026-10-20T03:17:51Z
+date: 2026-10-20T10:55:00Z
 type: radar-report
 report_type: fast
-total_opportunities: 54
+total_opportunities: 59
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 54
+**Total opportunities:** 59
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 50 |
+| ❓ Uncategorized | 54 |
 | 🏰 CTF Competitions | 3 |
-| 🎓 Free Certifications | 1 |
+| 🎓 Free Certifications | 2 |
 
 ## 🏰 CTF Competitions
 
@@ -40,12 +40,33 @@ tags:
 
 ## 🎓 Free Certifications
 
+- [Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge](https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `scholarship`
+  - _A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco of_
+
 - [ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)](https://isc.sans.edu/diary/rss/33436)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware](https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader.  According to Forescout Research - Vedere_
+
+- [ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan](https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html)
+  - Confidence: 🟫 LOW
+  - _Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks.  The high-severity vulnerability, tracked as CVE-2026-11093_
+
+- [Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware](https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html)
+  - Confidence: 🟫 LOW
+  - _An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the_
+
+- [Revolut outage disrupts online banking operations worldwide](https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/)
+  - Confidence: 🟫 LOW
+  - _Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]_
 
 - [Anthropic Acquires Confidential AI Startup Opaque Systems](https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/)
   - Confidence: 🟫 LOW
