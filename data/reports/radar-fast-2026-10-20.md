@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-20
-date: 2026-10-20T16:20:27Z
+date: 2026-10-20T21:14:21Z
 type: radar-report
 report_type: fast
-total_opportunities: 70
+total_opportunities: 75
 tags:
   - radar
   - fast
@@ -13,16 +13,21 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 70
+**Total opportunities:** 75
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 64 |
-| 🏰 CTF Competitions | 3 |
+| ❓ Uncategorized | 68 |
+| 🏰 CTF Competitions | 4 |
 | 🎓 Free Certifications | 2 |
 | 💰 Bug Bounties | 1 |
 
 ## 🏰 CTF Competitions
+
+- [L3m0n CTF 2026 (Quals)](https://ctftime.org/event/3485)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _Name: L3m0n CTF 2026 (Quals) (an <a href="/ctf/1468">L3m0n CTF</a> event.)<br /> Date: Nov. 28, 2026, 4:30 a.m. &mdash; 28 Nov. 2026, 16:30 UTC &nbsp;<a href="/event/3485.ics">[add to calendar]</a><br_
 
 - [Training AIs to Solve CAPTCHAs](https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html)
   - Confidence: 🟡 MEDIUM
@@ -59,6 +64,22 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software](https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html)
+  - Confidence: 🟫 LOW
+  - _The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20.  An interme_
+
+- [OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/)
+  - Confidence: 🟫 LOW
+  - _OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]_
+
+- [Zeabur shutting down after second security breach in two months](https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/)
+  - Confidence: 🟫 LOW
+  - _Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over _
+
+- [PHP warns admins of two critical flaws, emergency patches coming tomorrow](https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/)
+  - Confidence: 🟫 LOW
+  - _The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead o_
 
 - [ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident](https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html)
   - Confidence: 🟫 LOW
