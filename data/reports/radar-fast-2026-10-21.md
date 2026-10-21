@@ -1,6 +1,6 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-21
-date: 2026-10-21T16:35:06Z
+date: 2026-10-21T21:14:20Z
 type: radar-report
 report_type: fast
 total_opportunities: 54
@@ -17,17 +17,12 @@ tags:
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 48 |
+| ❓ Uncategorized | 49 |
 | 🎓 Free Certifications | 3 |
-| 🏰 CTF Competitions | 2 |
 | 💰 Bug Bounties | 1 |
+| 🏰 CTF Competitions | 1 |
 
 ## 🏰 CTF Competitions
-
-- [L3m0n CTF 2026 (Quals)](https://ctftime.org/event/3485)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: L3m0n CTF 2026 (Quals) (an <a href="/ctf/1468">L3m0n CTF</a> event.)<br /> Date: Nov. 28, 2026, 4:30 a.m. &mdash; 28 Nov. 2026, 16:30 UTC &nbsp;<a href="/event/3485.ics">[add to calendar]</a><br_
 
 - [PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge](https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html)
   - Confidence: 🟡 MEDIUM
@@ -59,6 +54,26 @@ tags:
   - _<p>Learn what to expect from OSCP, including format, requirements, scoring, practical study tips, and answers to common preparation questions.</p> <p>The post <a href="https://www.offsec.com/blog/oscp_
 
 ## ❓ Uncategorized
+
+- [OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So](https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html)
+  - Confidence: 🟫 LOW
+  - _OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal_
+
+- [LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor](https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html)
+  - Confidence: 🟫 LOW
+  - _The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSec_
+
+- [Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases](https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html)
+  - Confidence: 🟫 LOW
+  - _GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2_
+
+- [CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]_
+
+- [Lazarus hackers use post-quantum cryptography for malware delivery](https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/)
+  - Confidence: 🟫 LOW
+  - _North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]_
 
 - [Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections](https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html)
   - Confidence: 🟫 LOW
@@ -235,19 +250,3 @@ tags:
 - [Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ](https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties)
   - Confidence: 🟫 LOW
   - _The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector._
-
-- [Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software](https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html)
-  - Confidence: 🟫 LOW
-  - _The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20.  An interme_
-
-- [OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/)
-  - Confidence: 🟫 LOW
-  - _OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]_
-
-- [Zeabur shutting down after second security breach in two months](https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/)
-  - Confidence: 🟫 LOW
-  - _Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over _
-
-- [PHP warns admins of two critical flaws, emergency patches coming tomorrow](https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/)
-  - Confidence: 🟫 LOW
-  - _The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead o_
