@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-21
-date: 2026-10-21T03:13:24Z
+date: 2026-10-21T11:07:58Z
 type: radar-report
 report_type: fast
-total_opportunities: 53
+total_opportunities: 56
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 53
+**Total opportunities:** 56
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 47 |
-| 🎓 Free Certifications | 4 |
-| 💰 Bug Bounties | 1 |
+| ❓ Uncategorized | 50 |
+| 🎓 Free Certifications | 3 |
+| 💰 Bug Bounties | 2 |
 | 🏰 CTF Competitions | 1 |
 
 ## 🏰 CTF Competitions
@@ -31,12 +31,22 @@ tags:
 
 ## 💰 Bug Bounties
 
+- [AI raised the floor. The hacker crowd keeps raising the ceiling.](https://www.intigriti.com/blog/business-insights/ai-raised-the-floor-the-hacker-crowd-keeps-raising-the-ceiling)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _Why the latest Intigriti platform data challenges the notion that AI could replace bug bounty. How researchers are moving from single prompts to multi-agent, always-on workflows. Why AI raises the bas_
+
 - [Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution](https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
   - _Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution.  The _
 
 ## 🎓 Free Certifications
+
+- [Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion](https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization.  According to a report published by Russian cybersecurity firm Solar, the activity ha_
 
 - [ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, (Wed, Oct 21st)](https://isc.sans.edu/diary/rss/33438)
   - Confidence: 🟢 HIGH
@@ -48,17 +58,35 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>Learn what to expect from OSCP, including format, requirements, scoring, practical study tips, and answers to common preparation questions.</p> <p>The post <a href="https://www.offsec.com/blog/oscp_
 
-- [Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge](https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `scholarship`
-  - _A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco of_
-
-- [ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)](https://isc.sans.edu/diary/rss/33436)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws](https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Pl_
+
+- [State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web](https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html)
+  - Confidence: 🟫 LOW
+  - _State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from_
+
+- [U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases](https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html)
+  - Confidence: 🟫 LOW
+  - _U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services "developed using DeepSeek implementations," unde_
+
+- [Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites](https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html)
+  - Confidence: 🟫 LOW
+  - _Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor_
+
+- [PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert](https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html)
+  - Confidence: 🟫 LOW
+  - _This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. _
+
+- [CISA: SafePay ransomware hit over 600 critical infrastructure orgs](https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/)
+  - Confidence: 🟫 LOW
+  - _The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]_
+
+- [Microsoft says October updates didn’t actually fix VPN issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/)
+  - Confidence: 🟫 LOW
+  - _Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]_
 
 - [Mozilla, Google, Apple block compromised eMudhra CA certificates](https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/)
   - Confidence: 🟫 LOW
@@ -231,19 +259,3 @@ tags:
 - [DHS bans DeepSeek products across US federal civilian agencies](https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/)
   - Confidence: 🟫 LOW
   - _The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]_
-
-- [Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware](https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader.  According to Forescout Research - Vedere_
-
-- [ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan](https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html)
-  - Confidence: 🟫 LOW
-  - _Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks.  The high-severity vulnerability, tracked as CVE-2026-11093_
-
-- [Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware](https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html)
-  - Confidence: 🟫 LOW
-  - _An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the_
-
-- [Revolut outage disrupts online banking operations worldwide](https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/)
-  - Confidence: 🟫 LOW
-  - _Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]_
