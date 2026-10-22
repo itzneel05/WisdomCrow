@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-22
-date: 2026-10-22T16:37:08Z
+date: 2026-10-22T21:12:14Z
 type: radar-report
 report_type: fast
-total_opportunities: 90
+total_opportunities: 109
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 90
+**Total opportunities:** 109
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 81 |
+| ❓ Uncategorized | 100 |
 | 🏰 CTF Competitions | 6 |
 | 🎓 Free Certifications | 3 |
 
@@ -71,6 +71,82 @@ tags:
   - _<p>OffSec's new framework hub shows security leaders what their teams can do and how to prove it.</p> <p>The post <a href="https://www.offsec.com/blog/offsec-aligns-its-cyber-workforce-development-pro_
 
 ## ❓ Uncategorized
+
+- [Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes](https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html)
+  - Confidence: 🟫 LOW
+  - _Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by&nbsp;Trend Micro's Zero Day Initiative, with no fix yet in _
+
+- [ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More](https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html)
+  - Confidence: 🟫 LOW
+  - _This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and _
+
+- [eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable](https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html)
+  - Confidence: 🟫 LOW
+  - _eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business,&nbsp;its board decided on Thursday. The decision came five days after a researcher&nbsp;repor_
+
+- [Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks](https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html)
+  - Confidence: 🟫 LOW
+  - _Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advi_
+
+- [[Open Source] PenX – 12 Security Scanners, Local AI Analysis & Automated Pentest Reports in One WindIows CL](https://www.reddit.com/r/Pentesting/comments/1xb6wvh/open_source_penx_12_security_scanners_local_ai/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/Pentesting/comments/1xb6wvh/open_source_penx_12_security_scanners_local_ai/"> <img alt="[Open Source] PenX – 12 Security Scanners, Local AI Analysis _
+
+- [Can I install ligolo-ng on Mint?](https://www.reddit.com/r/Pentesting/comments/1xb6o8k/can_i_install_ligolong_on_mint/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I’m trying to install ligolo-ng but it says it can’t find the package<br /> I’m curl it to my mint pc.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="http_
+
+- [Built a deterministic IGA-style review packet for MCP/A2A/ARD agent capabilities](https://www.reddit.com/r/Pentesting/comments/1xb9mtn/built_a_deterministic_igastyle_review_packet_for/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I built a free agent protocol inspector tool that can provide IGA style review packets for security teams looking to review Agent access. It looks into MCP, A2A, ARD _
+
+- [AWS Assessment and Config Review Methodology](https://www.reddit.com/r/Pentesting/comments/1xb4u5t/aws_assessment_and_config_review_methodology/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>I recently conducted some AWS pentests which included configuration reviews and external assessments. The engagement went well, found some nice issues,_
+
+- [Solo dev here. Built an open-source pentest orchestrator, but I'm terrified of breaking subreddit rules. How do you actually get feedback from real pentesters?](https://www.reddit.com/r/Pentesting/comments/1xc1uva/solo_dev_here_built_an_opensource_pentest/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I’m a solo developer and I’ve been building an open-source pentest orchestrator called WHAXON. (I won't post the link because I know there are rules against that. I d_
+
+- [What model best suit for AI Pentesting?](https://www.reddit.com/r/Pentesting/comments/1xcbfac/what_model_best_suit_for_ai_pentesting/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>So, I have 24GB Ram linux virtual machine, what could be the best model I can use for Source Code analysis and VAPT task, i have tried llama model and qwen model it n_
+
+- [Payload regarding new php vunlebarity](https://www.reddit.com/r/Pentesting/comments/1xchwwc/payload_regarding_new_php_vunlebarity/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hlo every one toady there is new vunlebaitty released in market dose anyone has idea but it's exploitation work.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a _
+
+- [First Cybersecurity Interview at Orange France — Web Pentesting & NIS2. What Should I Expect?](https://www.reddit.com/r/Pentesting/comments/1xc2cv7/first_cybersecurity_interview_at_orange_france/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone!</p> <p>I have an upcoming interview <strong>at Orange France</strong> for a cybersecurity internship focused on <strong>web penetration testing and NIS2_
+
+- [[HELP] Opensource ClaudeCode CVE MCP](https://www.reddit.com/r/Pentesting/comments/1xca8s6/help_opensource_claudecode_cve_mcp/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I'm building a tool that lets users access vulnerability databases (CVEs and related information), create a local index, and use skills to interact with that index th_
+
+- [Dealing with burnout](https://www.reddit.com/r/Pentesting/comments/1xc2i7c/dealing_with_burnout/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi all. Need advice from the older pentesters. I’m in my 20s and have worked in the field for around 5 years now. I am so burnt out and drained. I love my job, my wor_
+
+- [How do I progress from a beginner to advanced?](https://www.reddit.com/r/Pentesting/comments/1xccqw7/how_do_i_progress_from_a_beginner_to_advanced/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I am learning cybersecurity basics from 5 6 months, I have good grasp of networking, linux, how things work in background, TCP/IP, types of networks, packets and all _
+
+- [Career Advise?](https://www.reddit.com/r/Pentesting/comments/1xcn1d1/career_advise/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I'm currently a 1-2 year network engineer at a small telecom company. I'm deciding whether I'd like to continue pursuing networking and go for my CCNP or diversify in_
+
+- [Arista patches new VeloCloud Orchestrator zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]_
+
+- [LiteLLM release pipeline hacked to distribute info-stealer malware](https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/)
+  - Confidence: 🟫 LOW
+  - _Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]_
+
+- [Capcom confirms data breach affecting 11.7 million accounts](https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/)
+  - Confidence: 🟫 LOW
+  - _Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]_
 
 - [OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL](https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html)
   - Confidence: 🟫 LOW
