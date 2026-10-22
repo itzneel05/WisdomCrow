@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-22
-date: 2026-10-22T03:12:17Z
+date: 2026-10-22T11:08:10Z
 type: radar-report
 report_type: fast
-total_opportunities: 80
+total_opportunities: 82
 tags:
   - radar
   - fast
@@ -13,28 +13,25 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 80
+**Total opportunities:** 82
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 73 |
-| 🎓 Free Certifications | 5 |
-| 💰 Bug Bounties | 1 |
-| 🏰 CTF Competitions | 1 |
+| ❓ Uncategorized | 77 |
+| 🎓 Free Certifications | 3 |
+| 🏰 CTF Competitions | 2 |
 
 ## 🏰 CTF Competitions
+
+- [War Room: PHP Core “PHP2Shell” RCE (CVE-2026-109618 / CVE-2026-109619)](https://www.hackthebox.com/blog/php2shell-php-rce-vulnerabilities)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/php2shell-php-rce-vulnerabilities" title=""> <img alt="war-room-cover" class="hs-featu_
 
 - [PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge](https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
   - _PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and _
-
-## 💰 Bug Bounties
-
-- [AI raised the floor. The hacker crowd keeps raising the ceiling.](https://www.intigriti.com/blog/business-insights/ai-raised-the-floor-the-hacker-crowd-keeps-raising-the-ceiling)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _Why the latest Intigriti platform data challenges the notion that AI could replace bug bounty. How researchers are moving from single prompts to multi-agent, always-on workflows. Why AI raises the bas_
 
 ## 🎓 Free Certifications
 
@@ -53,17 +50,51 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>OffSec's new framework hub shows security leaders what their teams can do and how to prove it.</p> <p>The post <a href="https://www.offsec.com/blog/offsec-aligns-its-cyber-workforce-development-pro_
 
-- [Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion](https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization.  According to a report published by Russian cybersecurity firm Solar, the activity ha_
-
-- [ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, (Wed, Oct 21st)](https://isc.sans.edu/diary/rss/33438)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack](https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html)
+  - Confidence: 🟫 LOW
+  - _Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application.  During the incident, Sto_
+
+- [Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed](https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html)
+  - Confidence: 🟫 LOW
+  - _Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the fla_
+
+- [New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification](https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html)
+  - Confidence: 🟫 LOW
+  - _A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&nbsp;disclosed, releasing working proof-of-concept code.  By sending a small bat_
+
+- [Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions](https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html)
+  - Confidence: 🟫 LOW
+  - _Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that N_
+
+- [LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release](https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html)
+  - Confidence: 🟫 LOW
+  - _LiteLLM on Wednesday disclosed that threat actors compromised "multiple independent security controls" to push a malicious version of the Python package containing a credential stealer and a backdoor._
+
+- [Anyone actually used these AI SOC vendors?](https://www.reddit.com/r/AskNetsec/comments/1xbkb82/anyone_actually_used_these_ai_soc_vendors/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi, I need honest opinions on any of these vendors from people who tried them (if you're from any of these companies, skip. I don't want marketing bs): Dropezone, Tor_
+
+- [Anyone actually happy with their CDR (cloud detection and response)?](https://www.reddit.com/r/AskNetsec/comments/1xbj61r/anyone_actually_happy_with_their_cdr_cloud/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I'm on the security team at a mid-size company. Fairly small security team, mostly AWS, and we're using Wiz for cloud security/CDR alongside our SIEM and EDR.</p> <p>_
+
+- [What identity check actually holds up before resetting someone’s MFA?](https://www.reddit.com/r/AskNetsec/comments/1xbqtyz/what_identity_check_actually_holds_up_before/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Without a real help desk, MFA resets on small teams mostly come down to an admin hopping on a call and deciding the person seems legit.</p> <p>The part that bugs me i_
+
+- [Ransomware affiliates spent roughly $23,900 on commercial LLM APIs to run intrusions. No jailbroken “dark” model, just reworded prompts.](https://www.reddit.com/r/AskNetsec/comments/1xbjuqj/ransomware_affiliates_spent_roughly_23900_on/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>An exposed C2 server tied to INC and The Gentlemen ransomware affiliates leaked 133 AI session logs (8,257 messages). A few things stood out:</p> <p>→ The models were_
+
+- [How's your help desk verifying callers now that voice cloning is a thing?](https://www.reddit.com/r/AskNetsec/comments/1xcdyrq/hows_your_help_desk_verifying_callers_now_that/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Had a situation a few months back where a caller got through our help desk and something felt off but nobody could put their finger on why until after. Turned out to _
+
+- [Authorities disrupt nearly 11,000 cybercrime networks in Africa](https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/)
+  - Confidence: 🟫 LOW
+  - _Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and o_
 
 - [Unauthenticated SQL injection in GLPI (≤ 11.0.8)](https://www.reddit.com/r/netsec/comments/1xaljvx/unauthenticated_sql_injection_in_glpi_1108/)
   - Confidence: 🟫 LOW
@@ -328,31 +359,3 @@ tags:
 - [OpenAI agents disabled safety monitoring, one lied about it](https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/)
   - Confidence: 🟫 LOW
   - _OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]_
-
-- [CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws](https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Pl_
-
-- [State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web](https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html)
-  - Confidence: 🟫 LOW
-  - _State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from_
-
-- [U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases](https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html)
-  - Confidence: 🟫 LOW
-  - _U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services "developed using DeepSeek implementations," unde_
-
-- [Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites](https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html)
-  - Confidence: 🟫 LOW
-  - _Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor_
-
-- [PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert](https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html)
-  - Confidence: 🟫 LOW
-  - _This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. _
-
-- [CISA: SafePay ransomware hit over 600 critical infrastructure orgs](https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/)
-  - Confidence: 🟫 LOW
-  - _The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]_
-
-- [Microsoft says October updates didn’t actually fix VPN issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/)
-  - Confidence: 🟫 LOW
-  - _Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]_
