@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-22
-date: 2026-10-22T11:08:10Z
+date: 2026-10-22T16:37:08Z
 type: radar-report
 report_type: fast
-total_opportunities: 82
+total_opportunities: 90
 tags:
   - radar
   - fast
@@ -13,25 +13,45 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 82
+**Total opportunities:** 90
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 77 |
+| ❓ Uncategorized | 81 |
+| 🏰 CTF Competitions | 6 |
 | 🎓 Free Certifications | 3 |
-| 🏰 CTF Competitions | 2 |
 
 ## 🏰 CTF Competitions
+
+- [CTF members needed](https://www.reddit.com/r/tryhackme/comments/1xbdotz/ctf_members_needed/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone! 👋</p> <p>I've created a CTF team on TryHackMe, and I'm looking for people who want to team up for the upcoming &quot;It's Downtime&quot; event.</p> <p>Y_
+
+- [Automating Authenticated WordPress Plugin Uploads via cURL (CTF / Pentest Workflow)](https://www.reddit.com/r/tryhackme/comments/1xc1n57/automating_authenticated_wordpress_plugin_uploads/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>Whenever I do a box that involves getting WP admin credentials, manually logging into the dashboard, navigating to plugins, and clicking &quot;Up_
+
+- [NEW & EXCLUSIVE BLUE TEAM CTF JUST DROPPED!](https://www.reddit.com/r/tryhackme/comments/1xaxa28/new_exclusive_blue_team_ctf_just_dropped/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1xaxa28/new_exclusive_blue_team_ctf_just_dropped/"> <img alt="NEW &amp; EXCLUSIVE BLUE TEAM CTF JUST DROPPED!" src="https://previe_
 
 - [War Room: PHP Core “PHP2Shell” RCE (CVE-2026-109618 / CVE-2026-109619)](https://www.hackthebox.com/blog/php2shell-php-rce-vulnerabilities)
   - Confidence: 🟢 HIGH
   - Tags: `ctf`
   - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/php2shell-php-rce-vulnerabilities" title=""> <img alt="war-room-cover" class="hs-featu_
 
-- [PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge](https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html)
+- [Beta I built a browser extension that detects PHP code-execution (php-cgi argument injection / web shells) — please try to break it](https://www.reddit.com/r/tryhackme/comments/1xc16yw/beta_i_built_a_browser_extension_that_detects_php/)
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
-  - _PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and _
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1xc16yw/beta_i_built_a_browser_extension_that_detects_php/"> <img alt="Beta I built a browser extension that detects PHP code-exec_
+
+- [I just published my first TryHackMe room!](https://www.reddit.com/r/tryhackme/comments/1xbzp56/i_just_published_my_first_tryhackme_room/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>I'm thrilled to announce that my TryHackMe room, &quot;The Auditor's Return&quot;, is now live! 🚀</p> <p>Instead of just solving challenges, I wanted to build one. Th_
 
 ## 🎓 Free Certifications
 
@@ -51,6 +71,70 @@ tags:
   - _<p>OffSec's new framework hub shows security leaders what their teams can do and how to prove it.</p> <p>The post <a href="https://www.offsec.com/blog/offsec-aligns-its-cyber-workforce-development-pro_
 
 ## ❓ Uncategorized
+
+- [OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL](https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html)
+  - Confidence: 🟫 LOW
+  - _A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Cont_
+
+- [Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation](https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html)
+  - Confidence: 🟫 LOW
+  - _Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed "anomalous activity" related to systems that store customer environment variables.  Upon further investigation, the company found t_
+
+- [The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat](https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html)
+  - Confidence: 🟫 LOW
+  - _Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. _
+
+- [INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown](https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html)
+  - Confidence: 🟫 LOW
+  - _INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.  In tandem, the effort saw law e_
+
+- [Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations](https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html)
+  - Confidence: 🟫 LOW
+  - _Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal,_
+
+- [Glitch](https://www.reddit.com/r/tryhackme/comments/1xbeacs/glitch/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1xbeacs/glitch/"> <img alt="Glitch" src="https://preview.redd.it/u3v4qqj07rwh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a_
+
+- [Tryhacme monthly subscription](https://www.reddit.com/r/tryhackme/comments/1xbng7s/tryhacme_monthly_subscription/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Do you how can i get a discount for monthly subscription?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_Contribution_7155"_
+
+- [SAL1](https://www.reddit.com/r/tryhackme/comments/1xc7529/sal1/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Trying to break into the cybersecurity space and decided to get familiar with Siems by taking the SAL1 before the CYSA+. Any study tips?</p> </div><!-- SC_ON --> &#32_
+
+- [How do I progress from a beginner to advanced?](https://www.reddit.com/r/tryhackme/comments/1xccr4k/how_do_i_progress_from_a_beginner_to_advanced/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/big_d1hh"> /u/big_d1hh </a> <br /> <span><a href="/r/Pentesting/comments/1xccqw7/how_do_i_progress_from_a_beginner_to_advanced/">[link]</a_
+
+- [Advice on Linux Fundamentals 3 Room](https://www.reddit.com/r/tryhackme/comments/1xcj1zt/advice_on_linux_fundamentals_3_room/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Been trying to do this room over the last two days and I have no idea what &quot;out of the ordinary&quot; means and cannot find any processes that have a flag. It's _
+
+- [How long does support usually take to respond back?](https://www.reddit.com/r/tryhackme/comments/1xckws3/how_long_does_support_usually_take_to_respond_back/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1xckws3/how_long_does_support_usually_take_to_respond_back/"> <img alt="How long does support usually take to respond back?" src="_
+
+- [Perfect rage bait](https://www.reddit.com/r/tryhackme/comments/1xcau5t/perfect_rage_bait/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1xcau5t/perfect_rage_bait/"> <img alt="Perfect rage bait" src="https://preview.redd.it/2aqyxs30oywh1.jpeg?width=640&amp;crop=smart_
+
+- [GitLab warns of new max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/)
+  - Confidence: 🟫 LOW
+  - _GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]_
+
+- [Amazon says PHP2Shell exploitation began 4 days before patches](https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/)
+  - Confidence: 🟫 LOW
+  - _Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]_
+
+- [Machine speed attacks require machine speed detection and response](https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/)
+  - Confidence: 🟫 LOW
+  - _Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI i_
+
+- [Microsoft shares how to fix broken Exchange Online EWS apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/)
+  - Confidence: 🟫 LOW
+  - _Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]_
 
 - [China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack](https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html)
   - Confidence: 🟫 LOW
@@ -311,51 +395,3 @@ tags:
 - [Lazarus hackers use post-quantum cryptography for malware delivery](https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/)
   - Confidence: 🟫 LOW
   - _North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]_
-
-- [Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections](https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html)
-  - Confidence: 🟫 LOW
-  - _Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found.  Exit relays are the last _
-
-- [The Harness Is the Hard Part of Agentic Pentesting](https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html)
-  - Confidence: 🟫 LOW
-  - _An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run a_
-
-- [PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't](https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html)
-  - Confidence: 🟫 LOW
-  - _You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggeste_
-
-- [Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports](https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html)
-  - Confidence: 🟫 LOW
-  - _Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and_
-
-- [China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors](https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa _
-
-- [Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands](https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html)
-  - Confidence: 🟫 LOW
-  - _Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled.  ClickFix is a popular social engineerin_
-
-- [Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) &#x5b;infocon yellow&#x5d;, (Wed, Oct 21st)](https://isc.sans.edu/diary/rss/33440)
-  - Confidence: 🟫 LOW
-  - _<p>PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the av_
-
-- [Widespread PHP Flaw May Cause Many Site Outages Today](https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/)
-  - Confidence: 🟫 LOW
-  - _Expect to see quite a few websites serving "404" or "Page Not Found" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attac_
-
-- [Microsoft PowerToys adds CursorHide, Button Lock mouse tools](https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]_
-
-- [ClickFix has never been bigger, and AI tools are its most convincing lure yet](https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/)
-  - Confidence: 🟫 LOW
-  - _ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these a_
-
-- [PHP ships emergency patches for critical PHP2Shell flaws](https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/)
-  - Confidence: 🟫 LOW
-  - _The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]_
-
-- [OpenAI agents disabled safety monitoring, one lied about it](https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/)
-  - Confidence: 🟫 LOW
-  - _OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]_
