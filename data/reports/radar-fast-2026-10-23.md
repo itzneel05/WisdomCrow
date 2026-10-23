@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-23
-date: 2026-10-23T16:26:40Z
+date: 2026-10-23T20:58:34Z
 type: radar-report
 report_type: fast
-total_opportunities: 114
+total_opportunities: 103
 tags:
   - radar
   - fast
@@ -13,46 +13,27 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 114
+**Total opportunities:** 103
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 90 |
+| ❓ Uncategorized | 82 |
 | 🎓 Free Certifications | 14 |
-| 🏰 CTF Competitions | 6 |
 | 💰 Bug Bounties | 4 |
+| 🏰 CTF Competitions | 2 |
+| 🎮 Arcade & Gamified Events | 1 |
 
 ## 🏰 CTF Competitions
 
-- [CTF members needed](https://www.reddit.com/r/tryhackme/comments/1xbdotz/ctf_members_needed/)
+- [Cyber Ninja CTF 2026 - BLACKOUT](https://ctftime.org/event/3490)
   - Confidence: 🟢 HIGH
   - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone! 👋</p> <p>I've created a CTF team on TryHackMe, and I'm looking for people who want to team up for the upcoming &quot;It's Downtime&quot; event.</p> <p>Y_
-
-- [Automating Authenticated WordPress Plugin Uploads via cURL (CTF / Pentest Workflow)](https://www.reddit.com/r/tryhackme/comments/1xc1n57/automating_authenticated_wordpress_plugin_uploads/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>Whenever I do a box that involves getting WP admin credentials, manually logging into the dashboard, navigating to plugins, and clicking &quot;Up_
-
-- [NEW & EXCLUSIVE BLUE TEAM CTF JUST DROPPED!](https://www.reddit.com/r/tryhackme/comments/1xaxa28/new_exclusive_blue_team_ctf_just_dropped/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1xaxa28/new_exclusive_blue_team_ctf_just_dropped/"> <img alt="NEW &amp; EXCLUSIVE BLUE TEAM CTF JUST DROPPED!" src="https://previe_
+  - _Name: Cyber Ninja CTF 2026 - BLACKOUT (an <a href="/ctf/1739">Cyber Ninja CTF</a> event.)<br /> Date: Nov. 21, 2026, 9 a.m. &mdash; 22 Nov. 2026, 09:00 UTC &nbsp;<a href="/event/3490.ics">[add to cale_
 
 - [win-def-clickfix | a scanner that determines whether windows defender will flag a clickfix command](https://www.reddit.com/r/blueteamsec/comments/1xd8jne/windefclickfix_a_scanner_that_determines_whether/)
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
   - _<!-- SC_OFF --><div class="md"><p><a href="http://github.com/backdoorskid/win-def-clickfix">github.com/backdoorskid/win-def-clickfix</a> </p> <p>win-def-clickfix is a run-1 detection replica for Click_
-
-- [Beta I built a browser extension that detects PHP code-execution (php-cgi argument injection / web shells) — please try to break it](https://www.reddit.com/r/tryhackme/comments/1xc16yw/beta_i_built_a_browser_extension_that_detects_php/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1xc16yw/beta_i_built_a_browser_extension_that_detects_php/"> <img alt="Beta I built a browser extension that detects PHP code-exec_
-
-- [I just published my first TryHackMe room!](https://www.reddit.com/r/tryhackme/comments/1xbzp56/i_just_published_my_first_tryhackme_room/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>I'm thrilled to announce that my TryHackMe room, &quot;The Auditor's Return&quot;, is now live! 🚀</p> <p>Instead of just solving challenges, I wanted to build one. Th_
 
 ## 💰 Bug Bounties
 
@@ -148,7 +129,46 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>Palo Alto Networks confirmed that all versions of PAN-OS and Panorama are affected by PHP2Shell, a pair of critical PHP vulnerabilities that let an attacker run code on a web server without logging_
 
+## 🎮 Arcade & Gamified Events
+
+- [Quest Diagnostics confirms data breach exposed patient records](https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `arcade`
+  - _American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]_
+
 ## ❓ Uncategorized
+
+- [Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack](https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html)
+  - Confidence: 🟫 LOW
+  - _The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.  According to ESET, t_
+
+- [Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions](https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups.  Central to the operation is an "_
+
+- [Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws](https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html)
+  - Confidence: 🟫 LOW
+  - _Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab pa_
+
+- [BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations](https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html)
+  - Confidence: 🟫 LOW
+  - _Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX.  The activity, which singled out diplomatic entit_
+
+- [(Reliable)&#x3f; php2shell exploitability, (Fri, Oct 23rd)](https://isc.sans.edu/diary/rss/33452)
+  - Confidence: 🟫 LOW
+  - _<p>Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability.</p>&#xd;_
+
+- [Microsoft: Windows Server 2016 reaches end of support in January](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/)
+  - Confidence: 🟫 LOW
+  - _Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]_
+
+- [Microsoft Teams to get AI-powered, context-aware phishing detection](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]_
+
+- [Abandoned Popcorn Time app exposed millions of device to RCE attacks](https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/)
+  - Confidence: 🟫 LOW
+  - _Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute_
 
 - [Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack](https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html)
   - Confidence: 🟫 LOW
@@ -445,67 +465,3 @@ tags:
 - [Capcom confirms data breach affecting 11.7 million accounts](https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/)
   - Confidence: 🟫 LOW
   - _Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]_
-
-- [OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL](https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html)
-  - Confidence: 🟫 LOW
-  - _A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Cont_
-
-- [Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation](https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html)
-  - Confidence: 🟫 LOW
-  - _Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed "anomalous activity" related to systems that store customer environment variables.  Upon further investigation, the company found t_
-
-- [The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat](https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html)
-  - Confidence: 🟫 LOW
-  - _Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. _
-
-- [INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown](https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html)
-  - Confidence: 🟫 LOW
-  - _INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.  In tandem, the effort saw law e_
-
-- [Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations](https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html)
-  - Confidence: 🟫 LOW
-  - _Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal,_
-
-- [Glitch](https://www.reddit.com/r/tryhackme/comments/1xbeacs/glitch/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1xbeacs/glitch/"> <img alt="Glitch" src="https://preview.redd.it/u3v4qqj07rwh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a_
-
-- [Tryhacme monthly subscription](https://www.reddit.com/r/tryhackme/comments/1xbng7s/tryhacme_monthly_subscription/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Do you how can i get a discount for monthly subscription?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_Contribution_7155"_
-
-- [SAL1](https://www.reddit.com/r/tryhackme/comments/1xc7529/sal1/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Trying to break into the cybersecurity space and decided to get familiar with Siems by taking the SAL1 before the CYSA+. Any study tips?</p> </div><!-- SC_ON --> &#32_
-
-- [How do I progress from a beginner to advanced?](https://www.reddit.com/r/tryhackme/comments/1xccr4k/how_do_i_progress_from_a_beginner_to_advanced/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/big_d1hh"> /u/big_d1hh </a> <br /> <span><a href="/r/Pentesting/comments/1xccqw7/how_do_i_progress_from_a_beginner_to_advanced/">[link]</a_
-
-- [Advice on Linux Fundamentals 3 Room](https://www.reddit.com/r/tryhackme/comments/1xcj1zt/advice_on_linux_fundamentals_3_room/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Been trying to do this room over the last two days and I have no idea what &quot;out of the ordinary&quot; means and cannot find any processes that have a flag. It's _
-
-- [How long does support usually take to respond back?](https://www.reddit.com/r/tryhackme/comments/1xckws3/how_long_does_support_usually_take_to_respond_back/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1xckws3/how_long_does_support_usually_take_to_respond_back/"> <img alt="How long does support usually take to respond back?" src="_
-
-- [Perfect rage bait](https://www.reddit.com/r/tryhackme/comments/1xcau5t/perfect_rage_bait/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/tryhackme/comments/1xcau5t/perfect_rage_bait/"> <img alt="Perfect rage bait" src="https://preview.redd.it/2aqyxs30oywh1.jpeg?width=640&amp;crop=smart_
-
-- [GitLab warns of new max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/)
-  - Confidence: 🟫 LOW
-  - _GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]_
-
-- [Amazon says PHP2Shell exploitation began 4 days before patches](https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/)
-  - Confidence: 🟫 LOW
-  - _Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]_
-
-- [Machine speed attacks require machine speed detection and response](https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/)
-  - Confidence: 🟫 LOW
-  - _Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI i_
-
-- [Microsoft shares how to fix broken Exchange Online EWS apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/)
-  - Confidence: 🟫 LOW
-  - _Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]_
