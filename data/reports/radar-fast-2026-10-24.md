@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-24
-date: 2026-10-24T15:21:54Z
+date: 2026-10-24T20:11:01Z
 type: radar-report
 report_type: fast
-total_opportunities: 84
+total_opportunities: 57
 tags:
   - radar
   - fast
@@ -13,14 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 84
+**Total opportunities:** 57
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 78 |
+| ❓ Uncategorized | 53 |
 | 🎮 Arcade & Gamified Events | 2 |
-| 🏰 CTF Competitions | 2 |
-| 💰 Bug Bounties | 1 |
+| 🏰 CTF Competitions | 1 |
 | 📦 Open Source Tools | 1 |
 
 ## 🏰 CTF Competitions
@@ -29,18 +28,6 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `ctf`
   - _Name: Cyber Ninja CTF 2026 - BLACKOUT (an <a href="/ctf/1739">Cyber Ninja CTF</a> event.)<br /> Date: Nov. 21, 2026, 9 a.m. &mdash; 22 Nov. 2026, 09:00 UTC &nbsp;<a href="/event/3490.ics">[add to cale_
-
-- [win-def-clickfix | a scanner that determines whether windows defender will flag a clickfix command](https://www.reddit.com/r/blueteamsec/comments/1xd8jne/windefclickfix_a_scanner_that_determines_whether/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p><a href="http://github.com/backdoorskid/win-def-clickfix">github.com/backdoorskid/win-def-clickfix</a> </p> <p>win-def-clickfix is a run-1 detection replica for Click_
-
-## 💰 Bug Bounties
-
-- [CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability](https://www.reddit.com/r/blueteamsec/comments/1xcre0y/cve202688771_inside_the_exploitation_of_a/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/jnazario"> /u/jnazario </a> <br /> <span><a href="https://www.zscaler.com/blogs/security-research/cve-2026-88771-inside-exploitation-criti_
 
 ## 🎮 Arcade & Gamified Events
 
@@ -62,6 +49,26 @@ tags:
   - _<p>This release adds multiple new modules, and 6 of those modules point at a single target: <a href="https://www.langflow.org/">Langflow</a>, the open-source LLM workflow builder. Together they cover _
 
 ## ❓ Uncategorized
+
+- [Looking for a innovative AI powered Cybersecurity project idea?](https://www.reddit.com/r/AskNetsec/comments/1xee0ey/looking_for_a_innovative_ai_powered_cybersecurity/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I'm a software engineering student preparing for a software development competition. The main theme is <strong>&quot;Implementation of AI Solutions&quot;</strong> (e._
+
+- [Vulncheck](https://www.reddit.com/r/AskNetsec/comments/1xebeku/vulncheck/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hello everyone</p> <p>I've submitted a few vulnerability reports to VulnCheck recently. They're all different issues that I've tested and reproduced in my local lab, _
+
+- [How do you guarantee a retired agent's credentials are actually revoked — and how do you audit it?](https://www.reddit.com/r/AskNetsec/comments/1xe79gt/how_do_you_guarantee_a_retired_agents_credentials/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>So: what controls do you use to make sure a decommissioned agent's access is really gone, and how do you prove it after the fact?</p> </div><!-- SC_ON --> &#32; submi_
+
+- [Data security changes as a result of AI](https://www.reddit.com/r/AskNetsec/comments/1xegoi8/data_security_changes_as_a_result_of_ai/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Before my company allowed enterprise use of AI, I knew where my company's sensitive data lived, but now every department has adopted a different AI tool and no inform_
+
+- [Is php2shell only practical against extremely low-traffic targets?](https://www.reddit.com/r/AskNetsec/comments/1xe4l6k/is_php2shell_only_practical_against_extremely/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>If so, was the panic really necessary?</p> <p>I looked at a bunch of PoCs, and it seems you need to do multiple consecutive requests to the same php worker process. I_
 
 - [Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html)
   - Confidence: 🟫 LOW
@@ -254,123 +261,3 @@ tags:
 - [Abandoned Popcorn Time app exposed millions of device to RCE attacks](https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/)
   - Confidence: 🟫 LOW
   - _Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute_
-
-- [Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack](https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html)
-  - Confidence: 🟫 LOW
-  - _The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.  According to ESET, t_
-
-- [PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html)
-  - Confidence: 🟫 LOW
-  - _PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.  The new issue, assigned CVE-2026-115560, affects _
-
-- [Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials](https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls.  "A_
-
-- [PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)](https://isc.sans.edu/diary/rss/33450)
-  - Confidence: 🟫 LOW
-  - _<p>This morning, we returned to Infocon Green. As usual, we are raising the Infocon to alert you to emerging situations requiring immediate attention. PHP fit that description. By now, you either know_
-
-- [AlAdvice](https://www.reddit.com/r/tryhackme/comments/1xcvmv4/aladvice/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I'm a beginner learning ethical hacking, and I'm struggling with HTML, JavaScript, and building a simple login-page clone for a local lab.</p> <p>I'm interested in un_
-
-- [Expected Black Friday annual price + Is THM worth it for an InfoSec Governance / Public Sector path?](https://www.reddit.com/r/tryhackme/comments/1xcsu1q/expected_black_friday_annual_price_is_thm_worth/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>With Black Friday coming up next month, I’m planning my training budget for next year and wanted to ask two things: one about pricing, and another_
-
-- [eMudhra Statement on Recent Certificate Security Incident](https://www.reddit.com/r/blueteamsec/comments/1xc9d08/emudhra_statement_on_recent_certificate_security/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://emudhra.com/en/post/certificate-security-incident">[link]</a></span> &#32; <span><_
-
-- [KeyStealth: A $10,000 PhaaS Kit caught in the wild](https://www.reddit.com/r/blueteamsec/comments/1xcfr2b/keystealth_a_10000_phaas_kit_caught_in_the_wild/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Probably not the best week to be dropping research, i know alot of ya'll in the industry are working hard right now - stay safe out their!</p> <p>Tracking a new campa_
-
-- [PHP2Shell exploitation prior to public disclosure in MadPot](https://www.reddit.com/r/blueteamsec/comments/1xcax3r/php2shell_exploitation_prior_to_public_disclosure/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-expl_
-
-- [Prince of Persia: A Threat Group Hiding in Plain Sight | Semperis Research](https://www.reddit.com/r/blueteamsec/comments/1xcjidt/prince_of_persia_a_threat_group_hiding_in_plain/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/campuscodi"> /u/campuscodi </a> <br /> <span><a href="https://www.semperis.com/blog/prince-of-persia-threat-group-hiding-in-plain-sight/">_
-
-- [PHP2Shell Exposure Hunting - Do you have it across your estate and where?? An Advanced Hunting pack for Defender XDR](https://www.reddit.com/r/blueteamsec/comments/1xciylk/php2shell_exposure_hunting_do_you_have_it_across/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I’ve spent the evening heavily developing and testing (in prod, where else) what appears to now be a relatively robust coverage set of 6 sequenced KQL/Advanced Huntin_
-
-- [PHP2Shell Patch Uptake Tracker](https://www.reddit.com/r/blueteamsec/comments/1xd470o/php2shell_patch_uptake_tracker/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://php2shell-tracker.com/">[link]</a></span> &#32; <span><a href="https://www.reddit._
-
-- [2083191 - GoDaddy: Delayed Certificate Revocation](https://www.reddit.com/r/blueteamsec/comments/1xd4u7f/2083191_godaddy_delayed_certificate_revocation/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=2083191">[link]</a></span> &#32; <span><a hre_
-
-- [DarkCore: A Data-Theft RAT With a Session-Hijacking Browser](https://www.reddit.com/r/blueteamsec/comments/1xd4v2c/darkcore_a_datatheft_rat_with_a_sessionhijacking/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.blackfog.com/darkcore-a-data-theft-rat-with-a-session-hijacking-browser/">[lin_
-
-- [New BlackX UEFI bootkit exploiting Baton Drop](https://www.reddit.com/r/blueteamsec/comments/1xd4voi/new_blackx_uefi_bootkit_exploiting_baton_drop/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://securelist.com/uefi-bootkit-blackx/121539/">[link]</a></span> &#32; <span><a href=_
-
-- [MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC‑0099-Sandworm collaboration](https://www.reddit.com/r/blueteamsec/comments/1xd4w38/mythicratatoskr_an_yggdrasilenabled_backdoor/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.welivesecurity.com/en/eset-research/mythicratatoskr-yggdrasil-enabled-backdoor_
-
-- [Dissecting Operation FlashHole, a complex attack by Lazarus](https://www.reddit.com/r/blueteamsec/comments/1xd4wq2/dissecting_operation_flashhole_a_complex_attack/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://securelist.com/lazarus-operation-flashhole/121541/">[link]</a></span> &#32; <span>_
-
-- [The PingCAP TiDB Cloud Leaks - FulcrumSec](https://www.reddit.com/r/blueteamsec/comments/1xd6elo/the_pingcap_tidb_cloud_leaks_fulcrumsec/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://fulcrumsec.vg/pingcap/">[link]</a></span> &#32; <span><a href="https://www.reddit._
-
-- [PHP2Shell detection: attempt signatures and IOCs from live open-dir tracking](https://www.reddit.com/r/blueteamsec/comments/1xcpmc5/php2shell_detection_attempt_signatures_and_iocs/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>php2shell attempts are easy to spot even though nobody is landing it yet. Watch for the php2shell user-agent (seen as php2shell-scan/109618 and php2shell-109618), mul_
-
-- [[2610.30361] The Psychology of an AI Hacker](https://www.reddit.com/r/blueteamsec/comments/1xd7iuu/261030361_the_psychology_of_an_ai_hacker/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://arxiv.org/abs/2610.30361">[link]</a></span> &#32; <span><a href="https://www.reddi_
-
-- [【重要】[お名前.com デスクトップクラウド]第三者による不正アクセスに関するお詫びとお知らせ（2026年10月21日 4:00時点）｜[Important] Apology and Notice Regarding Unauthorized Access by a Third Party to Onamae.com Desktop Cloud (As of October 21, 2026,](https://www.reddit.com/r/blueteamsec/comments/1xd4guk/重要お名前com/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.onamae.com/news/article/11584">[link]</a></span> &#32; <span><a href="https://_
-
-- [Chrome Now Warns Before Insecure HTTP Connections](https://www.reddit.com/r/blueteamsec/comments/1xd4tuj/chrome_now_warns_before_insecure_http_connections/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://blog.google/security/chrome-now-warns-before-insecure-http-connections/">[link]</a_
-
-- [GitLab Critical Patch Release: 19.5.1, 19.4.3, 19.3.6, 19.2.9, 19.1.9, 19.0.10, 18.11.13](https://www.reddit.com/r/blueteamsec/comments/1xd66vw/gitlab_critical_patch_release_1951_1943_1936_1929/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/">[link]</a>_
-
-- [Protecting NetScaler Management Access from PHP CVE-2026-109618 & CVE 2026-109619](https://www.reddit.com/r/blueteamsec/comments/1xd4hog/protecting_netscaler_management_access_from_php/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://community.citrix.com/techzone-blogs/110_security-updates/protecting-netscaler-mana_
-
-- [Recommandations à destination des acteurs du secteur de l’énergie et de l’eau - NSSI) has been receiving numerous reports concerning the targeting of the renewable energy production and water management sector in France by hacktivist groups and actors known to be linked to states](https://www.reddit.com/r/blueteamsec/comments/1xdauwf/recommandations_à_destination_des_acteurs_du/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://cert.cyber.gouv.fr/dur/CERTFR-2025-DUR-003/">[link]</a></span> &#32; <span><a href_
-
-- [eMudhra to Exit global SSL/TLS Certificate Business](https://www.reddit.com/r/blueteamsec/comments/1xd63wd/emudhra_to_exit_global_ssltls_certificate_business/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business">_
-
-- [Regexp compilation fixes related to GitLab's CVE-2026-89078, CVE-2026-93577, CVE-2026-97229 and CVE-2026-110264 | Ruby](https://www.reddit.com/r/blueteamsec/comments/1xdimxu/regexp_compilation_fixes_related_to_gitlabs/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.ruby-lang.org/en/news/2026/10/23/regexp-fixes-for-gitlab-cves/">[link]</a></sp_
-
-- [HPE patches eight max severity RCE and auth bypass AOS flaws](https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/)
-  - Confidence: 🟫 LOW
-  - _Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code executio_
-
-- [You gave your AI agent access, but who is giving it orders?](https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/)
-  - Confidence: 🟫 LOW
-  - _AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its _
-
-- [PHP shares mitigation for new RCE vulnerability with no patch](https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/)
-  - Confidence: 🟫 LOW
-  - _The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]_
