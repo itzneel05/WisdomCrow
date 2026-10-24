@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-24
-date: 2026-10-24T10:15:53Z
+date: 2026-10-24T15:21:54Z
 type: radar-report
 report_type: fast
-total_opportunities: 85
+total_opportunities: 84
 tags:
   - radar
   - fast
@@ -13,15 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 85
+**Total opportunities:** 84
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 77 |
+| ❓ Uncategorized | 78 |
 | 🎮 Arcade & Gamified Events | 2 |
-| 💰 Bug Bounties | 2 |
 | 🏰 CTF Competitions | 2 |
-| 🎓 Free Certifications | 1 |
+| 💰 Bug Bounties | 1 |
 | 📦 Open Source Tools | 1 |
 
 ## 🏰 CTF Competitions
@@ -38,22 +37,10 @@ tags:
 
 ## 💰 Bug Bounties
 
-- [Understanding PHP2Shell: Everything you need to know about CVE-2026-109618 & CVE-2026-109619](https://www.intigriti.com/blog/news/php2shell)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _PHP remains one of the most widely deployed server-side languages on the web. Estimates suggest it powers close to 70% of all websites, from small personal blogs to large-scale government services, ba_
-
 - [CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability](https://www.reddit.com/r/blueteamsec/comments/1xcre0y/cve202688771_inside_the_exploitation_of_a/)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
   - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/jnazario"> /u/jnazario </a> <br /> <span><a href="https://www.zscaler.com/blogs/security-research/cve-2026-88771-inside-exploitation-criti_
-
-## 🎓 Free Certifications
-
-- [ISC Stormcast For Friday, October 23rd, 2026 https://isc.sans.edu/podcastdetail/10148, (Fri, Oct 23rd)](https://isc.sans.edu/diary/rss/33448)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## 🎮 Arcade & Gamified Events
 
@@ -75,6 +62,26 @@ tags:
   - _<p>This release adds multiple new modules, and 6 of those modules point at a single target: <a href="https://www.langflow.org/">Langflow</a>, the open-source LLM workflow builder. Together they cover _
 
 ## ❓ Uncategorized
+
+- [Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html)
+  - Confidence: 🟫 LOW
+  - _Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have all_
+
+- [Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads](https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html)
+  - Confidence: 🟫 LOW
+  - _Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on the_
+
+- [Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline](https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html)
+  - Confidence: 🟫 LOW
+  - _LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of th_
+
+- [Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software](https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html)
+  - Confidence: 🟫 LOW
+  - _A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy p_
+
+- [BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot](https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/)
+  - Confidence: 🟫 LOW
+  - _A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere wit_
 
 - [CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud](https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html)
   - Confidence: 🟫 LOW
@@ -367,19 +374,3 @@ tags:
 - [PHP shares mitigation for new RCE vulnerability with no patch](https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/)
   - Confidence: 🟫 LOW
   - _The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]_
-
-- [PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware](https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges_
-
-- [Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances](https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html)
-  - Confidence: 🟫 LOW
-  - _AI agents paying for API calls with the&nbsp;x402 SDKs&nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&nbsp;security firm V12 said&nbsp;on Octobe_
-
-- [Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data](https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html)
-  - Confidence: 🟫 LOW
-  - _Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated.  Their "Node2Shell" proof of concept r_
-
-- [Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image](https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html)
-  - Confidence: 🟫 LOW
-  - _Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.  The flaw,&nbsp;CVE-2026-112900, is_
