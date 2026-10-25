@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-25
-date: 2026-10-25T15:31:46Z
+date: 2026-10-25T20:21:58Z
 type: radar-report
 report_type: fast
-total_opportunities: 13
+total_opportunities: 12
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 13
+**Total opportunities:** 12
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 7 |
 | 🏰 CTF Competitions | 6 |
+| ❓ Uncategorized | 6 |
 
 ## 🏰 CTF Competitions
 
@@ -54,6 +54,22 @@ tags:
 
 ## ❓ Uncategorized
 
+- [PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking](https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and_
+
+- [Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers](https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html)
+  - Confidence: 🟫 LOW
+  - _A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.  The attack requir_
+
+- [YARA-X 1.22.0 Release, (Sun, Oct 25th)](https://isc.sans.edu/diary/rss/33454)
+  - Confidence: 🟫 LOW
+  - _<p><a href="https://github.com/VirusTotal/yara-x/releases/tag/v1.22.0">YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.22.0</a> release brings 11 improvements and 9 bugfixes.</p>&#xd;_
+
+- [AI coding agents hijacked using AGENTS.md file in Downloads folder](https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/)
+  - Confidence: 🟫 LOW
+  - _Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]_
+
 - [Advice for Newbie](https://www.reddit.com/r/netsecstudents/comments/1xf48pq/advice_for_newbie/)
   - Confidence: 🟫 LOW
   - _<!-- SC_OFF --><div class="md"><p>Hey everybody, greetings!</p> <p>I am 23 year old college grad. Recently I developed interest in cyber security. As a newbie, I kindly seek advice to the people who a_
@@ -61,23 +77,3 @@ tags:
 - [OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication](https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html)
   - Confidence: 🟫 LOW
   - _OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.  "_
-
-- [Looking for a innovative AI powered Cybersecurity project idea?](https://www.reddit.com/r/AskNetsec/comments/1xee0ey/looking_for_a_innovative_ai_powered_cybersecurity/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I'm a software engineering student preparing for a software development competition. The main theme is <strong>&quot;Implementation of AI Solutions&quot;</strong> (e._
-
-- [Vulncheck](https://www.reddit.com/r/AskNetsec/comments/1xebeku/vulncheck/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello everyone</p> <p>I've submitted a few vulnerability reports to VulnCheck recently. They're all different issues that I've tested and reproduced in my local lab, _
-
-- [How do you guarantee a retired agent's credentials are actually revoked — and how do you audit it?](https://www.reddit.com/r/AskNetsec/comments/1xe79gt/how_do_you_guarantee_a_retired_agents_credentials/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>So: what controls do you use to make sure a decommissioned agent's access is really gone, and how do you prove it after the fact?</p> </div><!-- SC_ON --> &#32; submi_
-
-- [Data security changes as a result of AI](https://www.reddit.com/r/AskNetsec/comments/1xegoi8/data_security_changes_as_a_result_of_ai/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Before my company allowed enterprise use of AI, I knew where my company's sensitive data lived, but now every department has adopted a different AI tool and no inform_
-
-- [Is php2shell only practical against extremely low-traffic targets?](https://www.reddit.com/r/AskNetsec/comments/1xe4l6k/is_php2shell_only_practical_against_extremely/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>If so, was the panic really necessary?</p> <p>I looked at a bunch of PoCs, and it seems you need to do multiple consecutive requests to the same php worker process. I_
