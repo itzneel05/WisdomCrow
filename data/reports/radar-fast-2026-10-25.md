@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-25
-date: 2026-10-25T03:05:54Z
+date: 2026-10-25T10:40:53Z
 type: radar-report
 report_type: fast
-total_opportunities: 21
+total_opportunities: 15
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 21
+**Total opportunities:** 15
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 17 |
+| ❓ Uncategorized | 11 |
 | 🏰 CTF Competitions | 4 |
 
 ## 🏰 CTF Competitions
@@ -43,6 +43,10 @@ tags:
   - _Name: HAM-DEFCON (an <a href="/ctf/1742">HAM-DEFCON</a> event.)<br /> Date: Oct. 31, 2026, 3:30 a.m. &mdash; 31 Oct. 2026, 07:30 UTC &nbsp;<a href="/event/3491.ics">[add to calendar]</a><br /> Format:_
 
 ## ❓ Uncategorized
+
+- [OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication](https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html)
+  - Confidence: 🟫 LOW
+  - _OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.  "_
 
 - [Looking for a innovative AI powered Cybersecurity project idea?](https://www.reddit.com/r/AskNetsec/comments/1xee0ey/looking_for_a_innovative_ai_powered_cybersecurity/)
   - Confidence: 🟫 LOW
@@ -83,31 +87,3 @@ tags:
 - [BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot](https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/)
   - Confidence: 🟫 LOW
   - _A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere wit_
-
-- [CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud](https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Know_
-
-- [Acessar site de máquina do HTB](https://www.reddit.com/r/hackthebox/comments/1xd91em/acessar_site_de_máquina_do_htb/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Recentemente não estou conseguindo acessar os sites das máquinas do Hack the Box.</p> <p>Por exemplo faço a leitura do ip do alvo, tem o protocolo HTTP mas quando jog_
-
-- [Honest Opinions regarding contents on Academy(CPTS)?](https://www.reddit.com/r/hackthebox/comments/1xd5hkg/honest_opinions_regarding_contents_on_academycpts/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>So ive been following up CPTS path for few months and i started it recently and looked into it while following the content i was aware that most of the contents are y_
-
-- [Pwn3d Autopilot!](https://www.reddit.com/r/hackthebox/comments/1xdhqq0/pwn3d_autopilot/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1xdhqq0/pwn3d_autopilot/"> <img alt="Pwn3d Autopilot!" src="https://preview.redd.it/vjq5pdmdn8xh1.png?width=640&amp;crop=smart&am_
-
-- [Pwn3d University!!](https://www.reddit.com/r/hackthebox/comments/1xdhrew/pwn3d_university/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1xdhrew/pwn3d_university/"> <img alt="Pwn3d University!!" src="https://preview.redd.it/iq8w6uyhn8xh1.png?width=640&amp;crop=smart_
-
-- [Passed the CPTS and Report, 12/14 flags](https://www.reddit.com/r/hackthebox/comments/1xdlgql/passed_the_cpts_and_report_1214_flags/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>After 2 attempts I finally managed to pass the CPTS and get my certification. The exam was no joke and was both a serious skill and endurance check. Ngl since it took_
-
-- [Abandoned Popcorn Time app exposed millions of devices to RCE attacks](https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/)
-  - Confidence: 🟫 LOW
-  - _Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute_
