@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-25
-date: 2026-10-25T10:40:53Z
+date: 2026-10-25T15:31:46Z
 type: radar-report
 report_type: fast
-total_opportunities: 15
+total_opportunities: 13
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 15
+**Total opportunities:** 13
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 11 |
-| 🏰 CTF Competitions | 4 |
+| ❓ Uncategorized | 7 |
+| 🏰 CTF Competitions | 6 |
 
 ## 🏰 CTF Competitions
 
@@ -42,7 +42,21 @@ tags:
   - Tags: `ctf`, `india_friendly`
   - _Name: HAM-DEFCON (an <a href="/ctf/1742">HAM-DEFCON</a> event.)<br /> Date: Oct. 31, 2026, 3:30 a.m. &mdash; 31 Oct. 2026, 07:30 UTC &nbsp;<a href="/event/3491.ics">[add to calendar]</a><br /> Format:_
 
+- [I'm 16 and learning C what foundations actually matter for vulnerability research?](https://www.reddit.com/r/netsecstudents/comments/1xe8p7l/im_16_and_learning_c_what_foundations_actually/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`, `india_friendly`
+  - _<!-- SC_OFF --><div class="md"><p>I'm 16 and just getting started with C. My long-term goal is to work in vulnerability research and exploit development, with reverse engineering as a major part of th_
+
+- [Stuck in Pentesting learning journey, Some help!](https://www.reddit.com/r/netsecstudents/comments/1xem17m/stuck_in_pentesting_learning_journey_some_help/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>Hello, I am interested in Cybersecurity, especially in Pentesting, I started learning in Tryhackme and Hackthebox platforms (Thm is my most used one) by practicing fr_
+
 ## ❓ Uncategorized
+
+- [Advice for Newbie](https://www.reddit.com/r/netsecstudents/comments/1xf48pq/advice_for_newbie/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey everybody, greetings!</p> <p>I am 23 year old college grad. Recently I developed interest in cyber security. As a newbie, I kindly seek advice to the people who a_
 
 - [OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication](https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html)
   - Confidence: 🟫 LOW
@@ -67,23 +81,3 @@ tags:
 - [Is php2shell only practical against extremely low-traffic targets?](https://www.reddit.com/r/AskNetsec/comments/1xe4l6k/is_php2shell_only_practical_against_extremely/)
   - Confidence: 🟫 LOW
   - _<!-- SC_OFF --><div class="md"><p>If so, was the panic really necessary?</p> <p>I looked at a bunch of PoCs, and it seems you need to do multiple consecutive requests to the same php worker process. I_
-
-- [Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html)
-  - Confidence: 🟫 LOW
-  - _Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have all_
-
-- [Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads](https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html)
-  - Confidence: 🟫 LOW
-  - _Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on the_
-
-- [Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline](https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html)
-  - Confidence: 🟫 LOW
-  - _LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of th_
-
-- [Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software](https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html)
-  - Confidence: 🟫 LOW
-  - _A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy p_
-
-- [BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot](https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/)
-  - Confidence: 🟫 LOW
-  - _A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere wit_
