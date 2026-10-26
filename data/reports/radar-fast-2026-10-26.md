@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-26
-date: 2026-10-26T12:14:23Z
+date: 2026-10-26T22:17:19Z
 type: radar-report
 report_type: fast
-total_opportunities: 25
+total_opportunities: 29
 tags:
   - radar
   - fast
@@ -13,27 +13,27 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 25
+**Total opportunities:** 29
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 21 |
-| 🏰 CTF Competitions | 2 |
-| 🎓 Free Certifications | 2 |
+| ❓ Uncategorized | 25 |
+| 🎓 Free Certifications | 3 |
+| 🏰 CTF Competitions | 1 |
 
 ## 🏰 CTF Competitions
 
-- [I'm 16 and learning C what foundations actually matter for vulnerability research?](https://www.reddit.com/r/netsecstudents/comments/1xe8p7l/im_16_and_learning_c_what_foundations_actually/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>I'm 16 and just getting started with C. My long-term goal is to work in vulnerability research and exploit development, with reverse engineering as a major part of th_
-
-- [Stuck in Pentesting learning journey, Some help!](https://www.reddit.com/r/netsecstudents/comments/1xem17m/stuck_in_pentesting_learning_journey_some_help/)
-  - Confidence: 🟡 MEDIUM
+- [Five Takeaways for Security Leaders Building Human and Agentic Teams](https://www.hackthebox.com/blog/human-agentic-teams-security-leaders-takeaways)
+  - Confidence: 🟢 HIGH
   - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><p>Hello, I am interested in Cybersecurity, especially in Pentesting, I started learning in Tryhackme and Hackthebox platforms (Thm is my most used one) by practicing fr_
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/human-agentic-teams-security-leaders-takeaways" title=""> <img alt="Five Takeaways for_
 
 ## 🎓 Free Certifications
+
+- [Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento](https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025.  According to Dutch e-commerce security company Sansec,_
 
 - [ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)](https://isc.sans.edu/diary/rss/33456)
   - Confidence: 🟢 HIGH
@@ -46,6 +46,50 @@ tags:
   - _<p>&#x5b;This is a Guest Diary by Jeffray Spence, an ISC intern as part of the SANS.edu <a href="https://www.sans.edu/cyber-security-programs/bachelors-degree/">BACS</a> program&#x5d;</p>&#xd;_
 
 ## ❓ Uncategorized
+
+- [Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes](https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html)
+  - Confidence: 🟫 LOW
+  - _Two critical flaws in&nbsp;Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's_
+
+- [⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More](https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html)
+  - Confidence: 🟫 LOW
+  - _This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, som_
+
+- [Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware](https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers are calling attention to what they say is a "recurring social engineering pattern" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation_
+
+- [PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw](https://thehackernews.com/2026/10/php-issues-second-windows-security.html)
+  - Confidence: 🟫 LOW
+  - _PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt m_
+
+- [Chinese man extradited for role in $36 million cryptocurrency scam](https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/)
+  - Confidence: 🟫 LOW
+  - _A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victim_
+
+- [When an AI Agent Is the Incident, the Identity Record Is the Evidence](https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/)
+  - Confidence: 🟫 LOW
+  - _A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the i_
+
+- [Microsoft releases emergency .NET patches for critical Brotli flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/)
+  - Confidence: 🟫 LOW
+  - _Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]_
+
+- [Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches](https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/)
+  - Confidence: 🟫 LOW
+  - _A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]_
+
+- [DreamHost forces password resets in ongoing "incident"](https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/)
+  - Confidence: 🟫 LOW
+  - _DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]_
+
+- [OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/)
+  - Confidence: 🟫 LOW
+  - _OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]_
+
+- [Former pentester used ARTEX AI to steal 8.2 million data records](https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/)
+  - Confidence: 🟫 LOW
+  - _South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. _
 
 - [PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity](https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html)
   - Confidence: 🟫 LOW
@@ -102,31 +146,3 @@ tags:
 - [Kali Linux 2026.3 released with 6 new tools, desktop updates](https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/)
   - Confidence: 🟫 LOW
   - _Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]_
-
-- [Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave](https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/)
-  - Confidence: 🟫 LOW
-  - _<p>Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks.</p> <p>The post <a href="https://www.securityweek.com/former-unit-8200_
-
-- [Week in review: PHP vulnerabilities patched, exploited Palo Alto GlobalProtect VPN flaw](https://www.helpnetsecurity.com/2026/10/25/week-in-review-php-vulnerabilities-patched-exploited-palo-alto-globalprotect-vpn-flaw/)
-  - Confidence: 🟫 LOW
-  - _<p>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: A critical PHP security release is coming today, so get ready to update! The PHP security team has _
-
-- [PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking](https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and_
-
-- [Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers](https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html)
-  - Confidence: 🟫 LOW
-  - _A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.  The attack requir_
-
-- [YARA-X 1.22.0 Release, (Sun, Oct 25th)](https://isc.sans.edu/diary/rss/33454)
-  - Confidence: 🟫 LOW
-  - _<p><a href="https://github.com/VirusTotal/yara-x/releases/tag/v1.22.0">YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.22.0</a> release brings 11 improvements and 9 bugfixes.</p>&#xd;_
-
-- [AI coding agents hijacked using AGENTS.md file in Downloads folder](https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/)
-  - Confidence: 🟫 LOW
-  - _Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]_
-
-- [Advice for Newbie](https://www.reddit.com/r/netsecstudents/comments/1xf48pq/advice_for_newbie/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey everybody, greetings!</p> <p>I am 23 year old college grad. Recently I developed interest in cyber security. As a newbie, I kindly seek advice to the people who a_
