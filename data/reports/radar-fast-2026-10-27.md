@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-27
-date: 2026-10-27T11:35:00Z
+date: 2026-10-27T17:26:34Z
 type: radar-report
 report_type: fast
-total_opportunities: 67
+total_opportunities: 62
 tags:
   - radar
   - fast
@@ -13,21 +13,39 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 67
+**Total opportunities:** 62
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 59 |
-| 🎓 Free Certifications | 6 |
-| 🏰 CTF Competitions | 1 |
+| ❓ Uncategorized | 53 |
+| 🎓 Free Certifications | 4 |
+| 🏰 CTF Competitions | 3 |
+| 💰 Bug Bounties | 1 |
 | 📦 Open Source Tools | 1 |
 
 ## 🏰 CTF Competitions
+
+- [Study Finds Hack The Box Cybersecurity Platform Delivered 330% Return on Investment](https://www.hackthebox.com/blog/study-finds-hack-the-box-delivered-330-roi)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/study-finds-hack-the-box-delivered-330-roi" title=""> <img alt="Study Finds Hack The B_
 
 - [Five Takeaways for Security Leaders Building Human and Agentic Teams](https://www.hackthebox.com/blog/human-agentic-teams-security-leaders-takeaways)
   - Confidence: 🟢 HIGH
   - Tags: `ctf`
   - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/human-agentic-teams-security-leaders-takeaways" title=""> <img alt="Five Takeaways for_
+
+- [The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest](https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`, `recurring`
+  - _Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats_
+
+## 💰 Bug Bounties
+
+- [Scalable Vector Grief](https://portswigger.net/research/scalable-vector-grief)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`, `india_friendly`
+  - _I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML._
 
 ## 🎓 Free Certifications
 
@@ -51,16 +69,6 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025.  According to Dutch e-commerce security company Sansec,_
 
-- [ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)](https://isc.sans.edu/diary/rss/33456)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
-- [Looking for a Language &#x5b;Guest Diary&#x5d;, (Wed, Oct 21st)](https://isc.sans.edu/diary/rss/33442)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _<p>&#x5b;This is a Guest Diary by Jeffray Spence, an ISC intern as part of the SANS.edu <a href="https://www.sans.edu/cyber-security-programs/bachelors-degree/">BACS</a> program&#x5d;</p>&#xd;_
-
 ## 📦 Open Source Tools
 
 - [Kali Linux 2026.3 Release (Build-Scripts Refresh)](https://www.kali.org/blog/kali-linux-2026-3-release/)
@@ -69,6 +77,38 @@ tags:
   - _<p>We are back with <strong>Kali Linux 2026.3</strong>, the third <a href="https://www.kali.org/releases/">release</a> of the year! We have been busy making it easier to build Kali, updating the deskt_
 
 ## ❓ Uncategorized
+
+- [Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption](https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html)
+  - Confidence: 🟫 LOW
+  - _The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, softw_
+
+- [AI-Generated Fake Login Pages Are Making Account Takeovers Easier](https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html)
+  - Confidence: 🟫 LOW
+  - _Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing at_
+
+- [Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key](https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html)
+  - Confidence: 🟫 LOW
+  - _An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a&nbsp;statement&nbsp;on October 26.  Someone with tha_
+
+- [Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens](https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html)
+  - Confidence: 🟫 LOW
+  - _Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's w_
+
+- [Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads](https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html)
+  - Confidence: 🟫 LOW
+  - _Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices.  The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is _
+
+- [GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption](https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html)
+  - Confidence: 🟫 LOW
+  - _The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on aff_
+
+- [Tailscale warns of SSH flaws allowing root privilege escalation](https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/)
+  - Confidence: 🟫 LOW
+  - _The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]_
+
+- [Warp discloses breach exposing AI agent logs, user telemetry data](https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/)
+  - Confidence: 🟫 LOW
+  - _Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]_
 
 - [CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution](https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html)
   - Confidence: 🟫 LOW
@@ -249,59 +289,3 @@ tags:
 - [Former pentester used ARTEX AI to steal 8.2 million data records](https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/)
   - Confidence: 🟫 LOW
   - _South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. _
-
-- [PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity](https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html)
-  - Confidence: 🟫 LOW
-  - _In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2She_
-
-- [Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware](https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html)
-  - Confidence: 🟫 LOW
-  - _A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm&nbsp;Forever Security said&nbsp;in a rep_
-
-- [Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs](https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html)
-  - Confidence: 🟫 LOW
-  - _An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The a_
-
-- [Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations](https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen token_
-
-- [uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts](https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html)
-  - Confidence: 🟫 LOW
-  - _A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who instal_
-
-- [Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses](https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html)
-  - Confidence: 🟫 LOW
-  - _Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, co_
-
-- [How are you finding forgotten PHP hosts after PHP2Shell?](https://www.reddit.com/r/AskNetsec/comments/1xfp719/how_are_you_finding_forgotten_php_hosts_after/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>The servers we already manage should be the easier part. Query EDR for running PHP processes, compare that with package inventory and check which web services are act_
-
-- [Cato Networks, worth a look?](https://www.reddit.com/r/AskNetsec/comments/1xfpgik/cato_networks_worth_a_look/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>We're weighing up SASE options and Cato Networks has landed on the list. Most people I ask just name the same two or three giants, and the pricing on those made my ey_
-
-- [Group membership changes are three event IDs, not one. What else am I missing???](https://www.reddit.com/r/AskNetsec/comments/1xfrpdp/group_membership_changes_are_three_event_ids_not/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Filing this one under things I should have known before..</p> <p>I recently went digging through our setup last week and found more holes than I expected.</p> <p>I’d _
-
-- [WOFF2SHELL: Is Brotli 0-day (CVE-2026-111497) a bidirectional nuke hiding in web fonts?](https://www.reddit.com/r/AskNetsec/comments/1xf8sby/woff2shell_is_brotli_0day_cve2026111497_a/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p><a href="https://github.com/Kludex/mangum/issues/160">https://github.com/Kludex/mangum/issues/160</a> </p> <p>I believe I may have found proof that WOFF2 is vulnerabl_
-
-- [How are you finding all the random infrastructure left over after an acquisition?](https://www.reddit.com/r/AskNetsec/comments/1xfg028/how_are_you_finding_all_the_random_infrastructure/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>My company acquired a startup a few months ago and I’m starting to realize their asset inventory was nowhere near complete. We keep finding old domains, cloud stuff, _
-
-- [How do security teams handle threats across emails, endpoints, user account?](https://www.reddit.com/r/AskNetsec/comments/1xfr7us/how_do_security_teams_handle_threats_across/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Wanted to find out how you guys do it across different scales, from one-person teams to enterprise teams</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="ht_
-
-- [PHP2Shell security flaws now sucessfully exploited in the wild](https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/)
-  - Confidence: 🟫 LOW
-  - _Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]_
-
-- [Kali Linux 2026.3 released with 6 new tools, desktop updates](https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/)
-  - Confidence: 🟫 LOW
-  - _Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]_
