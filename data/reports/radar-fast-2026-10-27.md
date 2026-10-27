@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-27
-date: 2026-10-27T17:26:34Z
+date: 2026-10-27T21:50:00Z
 type: radar-report
 report_type: fast
-total_opportunities: 62
+total_opportunities: 91
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 62
+**Total opportunities:** 91
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 53 |
+| ❓ Uncategorized | 81 |
 | 🎓 Free Certifications | 4 |
 | 🏰 CTF Competitions | 3 |
-| 💰 Bug Bounties | 1 |
+| 💰 Bug Bounties | 2 |
 | 📦 Open Source Tools | 1 |
 
 ## 🏰 CTF Competitions
@@ -46,6 +46,11 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `bug_bounty`, `india_friendly`
   - _I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML._
+
+- [Codex vs Claude Code vs GLM vs DeepSeek: which is actually the best for autonomous offensive security research?](https://www.reddit.com/r/cybersecurity/comments/1xgzo8q/codex_vs_claude_code_vs_glm_vs_deepseek_which_is/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _<!-- SC_OFF --><div class="md"><p>Which AI coding agent is actually the strongest for autonomous vulnerability research? I heard different opinions so far, with deepseek (1017?) being the strongest..?_
 
 ## 🎓 Free Certifications
 
@@ -77,6 +82,118 @@ tags:
   - _<p>We are back with <strong>Kali Linux 2026.3</strong>, the third <a href="https://www.kali.org/releases/">release</a> of the year! We have been busy making it easier to build Kali, updating the deskt_
 
 ## ❓ Uncategorized
+
+- [CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets](https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assis_
+
+- [How to Intercept HTTP/3 Traffic (QUIC and QPACK Explained)](https://www.reddit.com/r/hacking/comments/1xg6elz/how_to_intercept_http3_traffic_quic_and_qpack/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1xg6elz/how_to_intercept_http3_traffic_quic_and_qpack/"> <img alt="How to Intercept HTTP/3 Traffic (QUIC and QPACK Explained)" src="_
+
+- [Automatic Lockpick Machine](https://www.reddit.com/r/hacking/comments/1xfzmrp/automatic_lockpick_machine/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1xfzmrp/automatic_lockpick_machine/"> <img alt="Automatic Lockpick Machine" src="https://external-preview.redd.it/YFIDAvUk6EAIwBIfYX_
+
+- [CISA Career Advice](https://www.reddit.com/r/cybersecurity/comments/1xga1df/cisa_career_advice/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>There are a couple career advice type videos posted by CISA this past week.<br /> <a href="https://youtu.be/TwKmY8wu7cQ?si=cNEu1xWLAmd-oR3N">https://youtu.be/TwKmY8wu_
+
+- [Evaluating new AppSec Tooling for the AI era](https://www.reddit.com/r/cybersecurity/comments/1xgqivj/evaluating_new_appsec_tooling_for_the_ai_era/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hello everyone, </p> <p>We are currently looking for new AppSec tooling, especially the prevention part that some companies offer sounds interesting. We are an SME wi_
+
+- [SBI (one of the big banks in india) had a free pass to their database (CVE-2014-0398)](https://www.reddit.com/r/cybersecurity/comments/1xg11ih/sbi_one_of_the_big_banks_in_india_had_a_free_pass/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I Found a vulnerability on an SBI subdomain today , here's what could've gone wrong:</p> <p>Discovered Oracle Discoverer 12.1.12 - an end of life reporting tool - pub_
+
+- [GRC Firm Recommendations in KCMO](https://www.reddit.com/r/cybersecurity/comments/1xgscoa/grc_firm_recommendations_in_kcmo/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey all, looking for solid GRC firms in Kansas City. Would love recommendations -- especially firms that are able to navigate AI governance. Thanks!</p> </div><!-- SC_
+
+- [Anthropic's Claude AI Bypassed Georgia Vote Data Paywall Without Human Authorisation Ahead of US Midterms](https://www.reddit.com/r/cybersecurity/comments/1xfm0eq/anthropics_claude_ai_bypassed_georgia_vote_data/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xfm0eq/anthropics_claude_ai_bypassed_georgia_vote_data/"> <img alt="Anthropic's Claude AI Bypassed Georgia Vote Data Paywall _
+
+- [Installing random apps on Android and the inherent threats: monitoring and mitigation](https://www.reddit.com/r/cybersecurity/comments/1xh4g07/installing_random_apps_on_android_and_the/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hello, as I try and evaluate a few apps on my Android device every now and then (mostly from the Play Store but also the odd GitHub/apk ones), I realised I am pretty _
+
+- [Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines](https://www.reddit.com/r/cybersecurity/comments/1xh1n66/fuzzers_vs_ai_comparing_fuzzilli_and_bigsleep_on/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xh1n66/fuzzers_vs_ai_comparing_fuzzilli_and_bigsleep_on/"> <img alt="Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaS_
+
+- [CyberStrikeAI and 44 Agents: What TrendAI Found in Japan](https://www.reddit.com/r/cybersecurity/comments/1xh45sz/cyberstrikeai_and_44_agents_what_trendai_found_in/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xh45sz/cyberstrikeai_and_44_agents_what_trendai_found_in/"> <img alt="CyberStrikeAI and 44 Agents: What TrendAI Found in Japa_
+
+- [PHP2Shell security flaws now sucessfully exploited in the wild](https://www.reddit.com/r/cybersecurity/comments/1xfywmh/php2shell_security_flaws_now_sucessfully/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xfywmh/php2shell_security_flaws_now_sucessfully/"> <img alt="PHP2Shell security flaws now sucessfully exploited in the wild" _
+
+- [GhostAction Crosses Paths With PolinRider: Inside the October Escalation](https://www.reddit.com/r/cybersecurity/comments/1xh03w8/ghostaction_crosses_paths_with_polinrider_inside/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xh03w8/ghostaction_crosses_paths_with_polinrider_inside/"> <img alt="GhostAction Crosses Paths With PolinRider: Inside the Oc_
+
+- [What's the most useless security metric your company still tracks?](https://www.reddit.com/r/cybersecurity/comments/1xg99hd/whats_the_most_useless_security_metric_your/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Someone puts 2 million threats blocked this month on a dashboard and management thinks security is doing amazing. Half of that could be random scanners and bot traffi_
+
+- [Kali 2026.3 adds packaged tools](https://www.reddit.com/r/cybersecurity/comments/1xgwadt/kali_20263_adds_packaged_tools/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xgwadt/kali_20263_adds_packaged_tools/"> <img alt="Kali 2026.3 adds packaged tools" src="https://external-preview.redd.it/MgD_
+
+- [How do you decide what’s worth reading when new threats and CVEs show up every day?](https://www.reddit.com/r/cybersecurity/comments/1xgtv63/how_do_you_decide_whats_worth_reading_when_new/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I’m a student in Sweden researching how people in security keep up with the flow of news, advisories and research. I’ve read a lot of older threads here, and the comm_
+
+- [3 more apparent security fixes sitting unreleased in Brotli](https://www.reddit.com/r/cybersecurity/comments/1xgouqx/3_more_apparent_security_fixes_sitting_unreleased/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xgouqx/3_more_apparent_security_fixes_sitting_unreleased/"> <img alt="3 more apparent security fixes sitting unreleased in Br_
+
+- [Alibaba's Qwen AI caught trying to contact server in China](https://www.reddit.com/r/cybersecurity/comments/1xgepn4/alibabas_qwen_ai_caught_trying_to_contact_server/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Much_Preparation_832"> /u/Much_Preparation_832 </a> <br /> <span><a href="https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-a_
+
+- [Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns](https://www.reddit.com/r/cybersecurity/comments/1xgfdoe/australians_should_prepare_for_online_services_to/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xgfdoe/australians_should_prepare_for_online_services_to/"> <img alt="Australians should prepare for online services to go do_
+
+- [Onamae.com Desktop Cloud breach: GMO virtual desktop service hacked, FX trading accounts compromised, $50M extortion demand](https://www.reddit.com/r/cybersecurity/comments/1xgqpjt/onamaecom_desktop_cloud_breach_gmo_virtual/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Oct 21: First unauthorized FX trades reported by customers<br /> Oct 25: CEO admits internal white-hat staff had flagged issues beforehand<br /> Oct 27: Attacker publ_
+
+- [FortiBleed 2.0: 975 New Domains & 40,573 Exposed Secrets](https://www.reddit.com/r/cybersecurity/comments/1xgu57x/fortibleed_20_975_new_domains_40573_exposed/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xgu57x/fortibleed_20_975_new_domains_40573_exposed/"> <img alt="FortiBleed 2.0: 975 New Domains &amp; 40,573 Exposed Secrets"_
+
+- [NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards](https://www.reddit.com/r/cybersecurity/comments/1xgx4fl/nist_report_provides_guidelines_for_transition_to/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xgx4fl/nist_report_provides_guidelines_for_transition_to/"> <img alt="NIST Report Provides Guidelines for Transition to Post-_
+
+- [Why are so many mid-level cyber jobs getting 100+ applicants?](https://www.reddit.com/r/cybersecurity/comments/1xgw9xm/why_are_so_many_midlevel_cyber_jobs_getting_100/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I've been looking around at the job market again and this has been pretty discouraging.</p> <p>I've been working in a SOC for over 5 years and have moved up a few tim_
+
+- [Microsoft announces a massive 25% voluntary buyout layoffs program. This is an absolute bombshell in the tech sector](https://www.reddit.com/r/cybersecurity/comments/1xg2ez2/microsoft_announces_a_massive_25_voluntary_buyout/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>This is not another 10k layoffs at Amazon which is like not even 3% of its employee</p> <p>This is not 5% of Netflix</p> <p>This is 25% of all employees at Microsoft._
+
+- [CISA confirms PHP2Shell vulnerabilities now exploited in attacks](https://www.reddit.com/r/cybersecurity/comments/1xgywlp/cisa_confirms_php2shell_vulnerabilities_now/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xgywlp/cisa_confirms_php2shell_vulnerabilities_now/"> <img alt="CISA confirms PHP2Shell vulnerabilities now exploited in atta_
+
+- [Mentorship Monday - Post All Career, Education and Job questions here!](https://www.reddit.com/r/cybersecurity/comments/1xfhsig/mentorship_monday_post_all_career_education_and/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do <em>you</em> want to know about certs/degrees, job_
+
+- [Microsoft releases Windows OOB updates to distrust eMudhra certificates](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certif_
+
+- [Hackers hijack Convertr analytics script to steal payment card data](https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/)
+  - Confidence: 🟫 LOW
+  - _A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]_
 
 - [Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption](https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html)
   - Confidence: 🟫 LOW
