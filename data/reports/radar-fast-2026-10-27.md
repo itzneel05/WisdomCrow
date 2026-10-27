@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-27
-date: 2026-10-27T03:37:10Z
+date: 2026-10-27T11:35:00Z
 type: radar-report
 report_type: fast
-total_opportunities: 60
+total_opportunities: 67
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 60
+**Total opportunities:** 67
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 52 |
+| ❓ Uncategorized | 59 |
 | 🎓 Free Certifications | 6 |
 | 🏰 CTF Competitions | 1 |
 | 📦 Open Source Tools | 1 |
@@ -69,6 +69,34 @@ tags:
   - _<p>We are back with <strong>Kali Linux 2026.3</strong>, the third <a href="https://www.kali.org/releases/">release</a> of the year! We have been busy making it easier to build Kali, updating the deskt_
 
 ## ❓ Uncategorized
+
+- [CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution](https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (_
+
+- [Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses](https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html)
+  - Confidence: 🟫 LOW
+  - _The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua.  "Cases of compromising IP came_
+
+- [OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections](https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html)
+  - Confidence: 🟫 LOW
+  - _OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text,&nbsp;security firm Xint&nbsp;has shown.  _
+
+- [Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers](https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html)
+  - Confidence: 🟫 LOW
+  - _A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The_
+
+- [CISA confirms PHP2Shell vulnerabilities now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell  vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch thei_
+
+- [Energy giant ENGIE discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/)
+  - Confidence: 🟫 LOW
+  - _French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [..._
+
+- [Apple backports CoreGraphics zero-day patches to older iPhones](https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/)
+  - Confidence: 🟫 LOW
+  - _​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in "extremely sophisticated" targeted attacks on iOS devices. [...]_
 
 - [Apple Patches for October 2026, (Mon, Oct 26th)](https://isc.sans.edu/diary/rss/33458)
   - Confidence: 🟫 LOW
