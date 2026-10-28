@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-28
-date: 2026-10-28T12:05:19Z
+date: 2026-10-28T22:10:08Z
 type: radar-report
 report_type: fast
-total_opportunities: 116
+total_opportunities: 92
 tags:
   - radar
   - fast
@@ -13,50 +13,40 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 116
+**Total opportunities:** 92
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 96 |
+| ❓ Uncategorized | 74 |
 | 🎓 Free Certifications | 12 |
 | 💰 Bug Bounties | 3 |
-| 🏰 CTF Competitions | 3 |
+| 🏰 CTF Competitions | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 | 📦 Open Source Tools | 1 |
 
 ## 🏰 CTF Competitions
-
-- [Study Finds Hack The Box Cybersecurity Platform Delivered 330% Return on Investment](https://www.hackthebox.com/blog/study-finds-hack-the-box-delivered-330-roi)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/study-finds-hack-the-box-delivered-330-roi" title=""> <img alt="Study Finds Hack The B_
 
 - [Exploiting LLM prompt injection vulnerabilities](https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-advanced-llm-prompt-injection-vulnerabilities)
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`, `india_friendly`
   - _Large language models (LLMs) are quickly becoming a standard component of any modern web application nowadays, powering everything from customer support chatbots to internal knowledge assistants. For _
 
-- [The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest](https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`, `recurring`
-  - _Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats_
-
 ## 💰 Bug Bounties
 
-- [Scalable Vector Grief](https://portswigger.net/research/scalable-vector-grief)
-  - Confidence: 🟢 HIGH
+- [PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network](https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html)
+  - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`, `india_friendly`
-  - _I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML._
+  - _Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2S_
+
+- [Even after PHP2Shell, blast radius matters more than a CVSS score](https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys_
 
 - [Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach](https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
   - _Japan's GMO Internet Group is&nbsp;offering up to $1 million in total&nbsp;for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion _
-
-- [Codex vs Claude Code vs GLM vs DeepSeek: which is actually the best for autonomous offensive security research?](https://www.reddit.com/r/cybersecurity/comments/1xgzo8q/codex_vs_claude_code_vs_glm_vs_deepseek_which_is/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _<!-- SC_OFF --><div class="md"><p>Which AI coding agent is actually the strongest for autonomous vulnerability research? I heard different opinions so far, with deepseek (1017?) being the strongest..?_
 
 ## 🎓 Free Certifications
 
@@ -135,6 +125,62 @@ tags:
   - _A spoofer is a tool or software designed to alter your system’s hardware information, such as your hardware ID (HWID). When anti-cheat systems ban a player, they often blacklist that player’s hardware_
 
 ## ❓ Uncategorized
+
+- [Wazuh and AI for Enhanced SOC Workflows](https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html)
+  - Confidence: 🟫 LOW
+  - _Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repeti_
+
+- [Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers](https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html)
+  - Confidence: 🟫 LOW
+  - _A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but _
+
+- [Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch](https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber.  The vulnerability in question is_
+
+- [Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win](https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html)
+  - Confidence: 🟫 LOW
+  - _A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown.  Orange Tsai_
+
+- [Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.](https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html)
+  - Confidence: 🟫 LOW
+  - _Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background.  To qualify, a s_
+
+- [Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns](https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html)
+  - Confidence: 🟫 LOW
+  - _The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and stra_
+
+- [Yet Another ClickFix Campaign, (Wed, Oct 28th)](https://isc.sans.edu/diary/rss/33466)
+  - Confidence: 🟫 LOW
+  - _<p><em><strong>Introduction</strong></em></p>&#xd;_
+
+- [Hackers now scanning systems for recently-patched Oracle flaw](https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/)
+  - Confidence: 🟫 LOW
+  - _Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]_
+
+- [InfraTrust report warns of exploited flaws in critical network infrastructure](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/)
+  - Confidence: 🟫 LOW
+  - _Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as "PHP2Shell" put the web management interfaces of firewalls, VPNs, application delivery _
+
+- [Microsoft urges Entra ID admins to migrate users to passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/)
+  - Confidence: 🟫 LOW
+  - _Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]_
+
+- [Volt Typhoon hides zero-day attacks using 'Silent Train' framework](https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/)
+  - Confidence: 🟫 LOW
+  - _Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-v_
+
+- [Sony ISP subsidiary data breach exposes 2.5 million customer records](https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/)
+  - Confidence: 🟫 LOW
+  - _Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]_
+
+- [Discord to let search engines index public server messages](https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/)
+  - Confidence: 🟫 LOW
+  - _Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]_
+
+- [Police seize Virtualine bulletproof service tied to ransowmare, cybercrime](https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/)
+  - Confidence: 🟫 LOW
+  - _U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]_
 
 - [Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges](https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html)
   - Confidence: 🟫 LOW
@@ -375,147 +421,3 @@ tags:
 - [Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature](https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature)
   - Confidence: 🟫 LOW
   - _Interpol's annual Operation Serengeti, now on its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds._
-
-- [CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets](https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assis_
-
-- [How to Intercept HTTP/3 Traffic (QUIC and QPACK Explained)](https://www.reddit.com/r/hacking/comments/1xg6elz/how_to_intercept_http3_traffic_quic_and_qpack/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1xg6elz/how_to_intercept_http3_traffic_quic_and_qpack/"> <img alt="How to Intercept HTTP/3 Traffic (QUIC and QPACK Explained)" src="_
-
-- [Automatic Lockpick Machine](https://www.reddit.com/r/hacking/comments/1xfzmrp/automatic_lockpick_machine/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1xfzmrp/automatic_lockpick_machine/"> <img alt="Automatic Lockpick Machine" src="https://external-preview.redd.it/YFIDAvUk6EAIwBIfYX_
-
-- [CISA Career Advice](https://www.reddit.com/r/cybersecurity/comments/1xga1df/cisa_career_advice/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>There are a couple career advice type videos posted by CISA this past week.<br /> <a href="https://youtu.be/TwKmY8wu7cQ?si=cNEu1xWLAmd-oR3N">https://youtu.be/TwKmY8wu_
-
-- [Evaluating new AppSec Tooling for the AI era](https://www.reddit.com/r/cybersecurity/comments/1xgqivj/evaluating_new_appsec_tooling_for_the_ai_era/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello everyone, </p> <p>We are currently looking for new AppSec tooling, especially the prevention part that some companies offer sounds interesting. We are an SME wi_
-
-- [SBI (one of the big banks in india) had a free pass to their database (CVE-2014-0398)](https://www.reddit.com/r/cybersecurity/comments/1xg11ih/sbi_one_of_the_big_banks_in_india_had_a_free_pass/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I Found a vulnerability on an SBI subdomain today , here's what could've gone wrong:</p> <p>Discovered Oracle Discoverer 12.1.12 - an end of life reporting tool - pub_
-
-- [GRC Firm Recommendations in KCMO](https://www.reddit.com/r/cybersecurity/comments/1xgscoa/grc_firm_recommendations_in_kcmo/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey all, looking for solid GRC firms in Kansas City. Would love recommendations -- especially firms that are able to navigate AI governance. Thanks!</p> </div><!-- SC_
-
-- [Anthropic's Claude AI Bypassed Georgia Vote Data Paywall Without Human Authorisation Ahead of US Midterms](https://www.reddit.com/r/cybersecurity/comments/1xfm0eq/anthropics_claude_ai_bypassed_georgia_vote_data/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xfm0eq/anthropics_claude_ai_bypassed_georgia_vote_data/"> <img alt="Anthropic's Claude AI Bypassed Georgia Vote Data Paywall _
-
-- [Installing random apps on Android and the inherent threats: monitoring and mitigation](https://www.reddit.com/r/cybersecurity/comments/1xh4g07/installing_random_apps_on_android_and_the/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello, as I try and evaluate a few apps on my Android device every now and then (mostly from the Play Store but also the odd GitHub/apk ones), I realised I am pretty _
-
-- [Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines](https://www.reddit.com/r/cybersecurity/comments/1xh1n66/fuzzers_vs_ai_comparing_fuzzilli_and_bigsleep_on/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xh1n66/fuzzers_vs_ai_comparing_fuzzilli_and_bigsleep_on/"> <img alt="Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaS_
-
-- [CyberStrikeAI and 44 Agents: What TrendAI Found in Japan](https://www.reddit.com/r/cybersecurity/comments/1xh45sz/cyberstrikeai_and_44_agents_what_trendai_found_in/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xh45sz/cyberstrikeai_and_44_agents_what_trendai_found_in/"> <img alt="CyberStrikeAI and 44 Agents: What TrendAI Found in Japa_
-
-- [PHP2Shell security flaws now sucessfully exploited in the wild](https://www.reddit.com/r/cybersecurity/comments/1xfywmh/php2shell_security_flaws_now_sucessfully/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xfywmh/php2shell_security_flaws_now_sucessfully/"> <img alt="PHP2Shell security flaws now sucessfully exploited in the wild" _
-
-- [GhostAction Crosses Paths With PolinRider: Inside the October Escalation](https://www.reddit.com/r/cybersecurity/comments/1xh03w8/ghostaction_crosses_paths_with_polinrider_inside/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xh03w8/ghostaction_crosses_paths_with_polinrider_inside/"> <img alt="GhostAction Crosses Paths With PolinRider: Inside the Oc_
-
-- [What's the most useless security metric your company still tracks?](https://www.reddit.com/r/cybersecurity/comments/1xg99hd/whats_the_most_useless_security_metric_your/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Someone puts 2 million threats blocked this month on a dashboard and management thinks security is doing amazing. Half of that could be random scanners and bot traffi_
-
-- [Kali 2026.3 adds packaged tools](https://www.reddit.com/r/cybersecurity/comments/1xgwadt/kali_20263_adds_packaged_tools/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xgwadt/kali_20263_adds_packaged_tools/"> <img alt="Kali 2026.3 adds packaged tools" src="https://external-preview.redd.it/MgD_
-
-- [How do you decide what’s worth reading when new threats and CVEs show up every day?](https://www.reddit.com/r/cybersecurity/comments/1xgtv63/how_do_you_decide_whats_worth_reading_when_new/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I’m a student in Sweden researching how people in security keep up with the flow of news, advisories and research. I’ve read a lot of older threads here, and the comm_
-
-- [3 more apparent security fixes sitting unreleased in Brotli](https://www.reddit.com/r/cybersecurity/comments/1xgouqx/3_more_apparent_security_fixes_sitting_unreleased/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xgouqx/3_more_apparent_security_fixes_sitting_unreleased/"> <img alt="3 more apparent security fixes sitting unreleased in Br_
-
-- [Alibaba's Qwen AI caught trying to contact server in China](https://www.reddit.com/r/cybersecurity/comments/1xgepn4/alibabas_qwen_ai_caught_trying_to_contact_server/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Much_Preparation_832"> /u/Much_Preparation_832 </a> <br /> <span><a href="https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-a_
-
-- [Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns](https://www.reddit.com/r/cybersecurity/comments/1xgfdoe/australians_should_prepare_for_online_services_to/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xgfdoe/australians_should_prepare_for_online_services_to/"> <img alt="Australians should prepare for online services to go do_
-
-- [Onamae.com Desktop Cloud breach: GMO virtual desktop service hacked, FX trading accounts compromised, $50M extortion demand](https://www.reddit.com/r/cybersecurity/comments/1xgqpjt/onamaecom_desktop_cloud_breach_gmo_virtual/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Oct 21: First unauthorized FX trades reported by customers<br /> Oct 25: CEO admits internal white-hat staff had flagged issues beforehand<br /> Oct 27: Attacker publ_
-
-- [FortiBleed 2.0: 975 New Domains & 40,573 Exposed Secrets](https://www.reddit.com/r/cybersecurity/comments/1xgu57x/fortibleed_20_975_new_domains_40573_exposed/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xgu57x/fortibleed_20_975_new_domains_40573_exposed/"> <img alt="FortiBleed 2.0: 975 New Domains &amp; 40,573 Exposed Secrets"_
-
-- [NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards](https://www.reddit.com/r/cybersecurity/comments/1xgx4fl/nist_report_provides_guidelines_for_transition_to/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xgx4fl/nist_report_provides_guidelines_for_transition_to/"> <img alt="NIST Report Provides Guidelines for Transition to Post-_
-
-- [Why are so many mid-level cyber jobs getting 100+ applicants?](https://www.reddit.com/r/cybersecurity/comments/1xgw9xm/why_are_so_many_midlevel_cyber_jobs_getting_100/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I've been looking around at the job market again and this has been pretty discouraging.</p> <p>I've been working in a SOC for over 5 years and have moved up a few tim_
-
-- [Microsoft announces a massive 25% voluntary buyout layoffs program. This is an absolute bombshell in the tech sector](https://www.reddit.com/r/cybersecurity/comments/1xg2ez2/microsoft_announces_a_massive_25_voluntary_buyout/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>This is not another 10k layoffs at Amazon which is like not even 3% of its employee</p> <p>This is not 5% of Netflix</p> <p>This is 25% of all employees at Microsoft._
-
-- [CISA confirms PHP2Shell vulnerabilities now exploited in attacks](https://www.reddit.com/r/cybersecurity/comments/1xgywlp/cisa_confirms_php2shell_vulnerabilities_now/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xgywlp/cisa_confirms_php2shell_vulnerabilities_now/"> <img alt="CISA confirms PHP2Shell vulnerabilities now exploited in atta_
-
-- [Mentorship Monday - Post All Career, Education and Job questions here!](https://www.reddit.com/r/cybersecurity/comments/1xfhsig/mentorship_monday_post_all_career_education_and/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do <em>you</em> want to know about certs/degrees, job_
-
-- [Microsoft releases Windows OOB updates to distrust eMudhra certificates](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certif_
-
-- [Hackers hijack Convertr analytics script to steal payment card data](https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/)
-  - Confidence: 🟫 LOW
-  - _A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]_
-
-- [Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption](https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html)
-  - Confidence: 🟫 LOW
-  - _The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, softw_
-
-- [AI-Generated Fake Login Pages Are Making Account Takeovers Easier](https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html)
-  - Confidence: 🟫 LOW
-  - _Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing at_
-
-- [Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key](https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html)
-  - Confidence: 🟫 LOW
-  - _An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a&nbsp;statement&nbsp;on October 26.  Someone with tha_
-
-- [Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens](https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html)
-  - Confidence: 🟫 LOW
-  - _Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's w_
-
-- [Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads](https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html)
-  - Confidence: 🟫 LOW
-  - _Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices.  The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is _
-
-- [GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption](https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html)
-  - Confidence: 🟫 LOW
-  - _The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on aff_
-
-- [Tailscale warns of SSH flaws allowing root privilege escalation](https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/)
-  - Confidence: 🟫 LOW
-  - _The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]_
-
-- [Warp discloses breach exposing AI agent logs, user telemetry data](https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/)
-  - Confidence: 🟫 LOW
-  - _Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]_
