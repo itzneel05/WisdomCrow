@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-28
-date: 2026-10-28T03:54:13Z
+date: 2026-10-28T12:05:19Z
 type: radar-report
 report_type: fast
-total_opportunities: 104
+total_opportunities: 116
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 104
+**Total opportunities:** 116
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 86 |
+| ❓ Uncategorized | 96 |
 | 🎓 Free Certifications | 12 |
-| 💰 Bug Bounties | 2 |
-| 🏰 CTF Competitions | 2 |
+| 💰 Bug Bounties | 3 |
+| 🏰 CTF Competitions | 3 |
 | 🔥 Hackathons & Conferences | 1 |
 | 📦 Open Source Tools | 1 |
 
@@ -30,6 +30,11 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `ctf`
   - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/study-finds-hack-the-box-delivered-330-roi" title=""> <img alt="Study Finds Hack The B_
+
+- [Exploiting LLM prompt injection vulnerabilities](https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-advanced-llm-prompt-injection-vulnerabilities)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`, `india_friendly`
+  - _Large language models (LLMs) are quickly becoming a standard component of any modern web application nowadays, powering everything from customer support chatbots to internal knowledge assistants. For _
 
 - [The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest](https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/)
   - Confidence: 🟡 MEDIUM
@@ -42,6 +47,11 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `bug_bounty`, `india_friendly`
   - _I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML._
+
+- [Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach](https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _Japan's GMO Internet Group is&nbsp;offering up to $1 million in total&nbsp;for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion _
 
 - [Codex vs Claude Code vs GLM vs DeepSeek: which is actually the best for autonomous offensive security research?](https://www.reddit.com/r/cybersecurity/comments/1xgzo8q/codex_vs_claude_code_vs_glm_vs_deepseek_which_is/)
   - Confidence: 🟡 MEDIUM
@@ -125,6 +135,74 @@ tags:
   - _A spoofer is a tool or software designed to alter your system’s hardware information, such as your hardware ID (HWID). When anti-cheat systems ban a player, they often blacklist that player’s hardware_
 
 ## ❓ Uncategorized
+
+- [Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges](https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited V_
+
+- [ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws](https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html)
+  - Confidence: 🟫 LOW
+  - _The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week.  Oracle patched all three under_
+
+- [Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers](https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html)
+  - Confidence: 🟫 LOW
+  - _Tailscale has released&nbsp;version 1.104.4&nbsp;to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the&nbsp;root&nbsp;user should b_
+
+- [FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering](https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine.  The move was in response to the service being _
+
+- [Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits](https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html)
+  - Confidence: 🟫 LOW
+  - _An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report.  Th_
+
+- [American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed](https://thehackernews.com/2026/10/american-organizations-under-attack.html)
+  - Confidence: 🟫 LOW
+  - _Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted busi_
+
+- [Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass](https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html)
+  - Confidence: 🟫 LOW
+  - _Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privi_
+
+- [Acct Recovery](https://www.reddit.com/r/hackthebox/comments/1xfvskz/acct_recovery/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>how can i contact actual HTB support? i cant seem to find a way at all . . i need to recover my account . . i enter my creds, and the auth code, ive tried back up cod_
+
+- [weekly machines feel way harder lately?](https://www.reddit.com/r/hackthebox/comments/1xfyw78/weekly_machines_feel_way_harder_lately/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>idk if it’s just me but, lately, weekly machines feel a lot harder than they used to, even the easy ones. stuff i’d usually finish in an evening is taking me days now_
+
+- [Pwn3d WhiteRabbit!!](https://www.reddit.com/r/hackthebox/comments/1xgqj3o/pwn3d_whiterabbit/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1xgqj3o/pwn3d_whiterabbit/"> <img alt="Pwn3d WhiteRabbit!!" src="https://preview.redd.it/i186078j10yh1.png?width=640&amp;crop=sma_
+
+- [Pwn3d DutyBound!!](https://www.reddit.com/r/hackthebox/comments/1xgokbc/pwn3d_dutybound/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1xgokbc/pwn3d_dutybound/"> <img alt="Pwn3d DutyBound!!" src="https://preview.redd.it/1t4rqiejizxh1.png?width=640&amp;crop=smart&a_
+
+- [When is the right time to look at a writeup for you guys?](https://www.reddit.com/r/hackthebox/comments/1xgsdxr/when_is_the_right_time_to_look_at_a_writeup_for/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I’m doing HTB machines and sometimes I get stuck for a long time. I don’t want to check the writeup too early, because I know being stuck is part_
+
+- [I need a cyber security partner to learn new things with especially in AI space](https://www.reddit.com/r/hackthebox/comments/1xhhbg5/i_need_a_cyber_security_partner_to_learn_new/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1xhhbg5/i_need_a_cyber_security_partner_to_learn_new/"> <img alt="I need a cyber security partner to learn new things with especi_
+
+- [Pwn3d Fluffy!!](https://www.reddit.com/r/hackthebox/comments/1xhkske/pwn3d_fluffy/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1xhkske/pwn3d_fluffy/"> <img alt="Pwn3d Fluffy!!" src="https://preview.redd.it/4ze6qcutu6yh1.png?width=640&amp;crop=smart&amp;aut_
+
+- [YAYAYAYAYAYAYAY!!!!! YAAAAAAAAAAAAAAAAY!!!!!!](https://www.reddit.com/r/hackthebox/comments/1xhkcfb/yayayayayayayay_yaaaaaaaaaaaaaaaay/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1xhkcfb/yayayayayayayay_yaaaaaaaaaaaaaaaay/"> <img alt="YAYAYAYAYAYAYAY!!!!! YAAAAAAAAAAAAAAAAY!!!!!!" src="https://preview.redd._
+
+- [Nefilim and Hive ransomware affiliate gets 70 months in prison](https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/)
+  - Confidence: 🟫 LOW
+  - _A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [..._
+
+- [CISA warns of hackers now exploiting critical Node2Shell flaw](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/)
+  - Confidence: 🟫 LOW
+  - _On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Sh_
 
 - [The AI RCEssion: Why AI-driven security is calling in decades of software tech debt](https://www.reddit.com/r/netsec/comments/1xfvrxl/the_ai_rcession_why_aidriven_security_is_calling/)
   - Confidence: 🟫 LOW
@@ -441,31 +519,3 @@ tags:
 - [Warp discloses breach exposing AI agent logs, user telemetry data](https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/)
   - Confidence: 🟫 LOW
   - _Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]_
-
-- [CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution](https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (_
-
-- [Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses](https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html)
-  - Confidence: 🟫 LOW
-  - _The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua.  "Cases of compromising IP came_
-
-- [OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections](https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html)
-  - Confidence: 🟫 LOW
-  - _OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text,&nbsp;security firm Xint&nbsp;has shown.  _
-
-- [Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers](https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html)
-  - Confidence: 🟫 LOW
-  - _A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The_
-
-- [CISA confirms PHP2Shell vulnerabilities now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell  vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch thei_
-
-- [Energy giant ENGIE discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/)
-  - Confidence: 🟫 LOW
-  - _French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [..._
-
-- [Apple backports CoreGraphics zero-day patches to older iPhones](https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/)
-  - Confidence: 🟫 LOW
-  - _​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in "extremely sophisticated" targeted attacks on iOS devices. [...]_
