@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-29
-date: 2026-10-29T04:15:59Z
+date: 2026-10-29T12:16:27Z
 type: radar-report
 report_type: fast
-total_opportunities: 59
+total_opportunities: 49
 tags:
   - radar
   - fast
@@ -13,21 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 59
+**Total opportunities:** 49
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 54 |
-| 💰 Bug Bounties | 3 |
-| 🏰 CTF Competitions | 1 |
-| 🎓 Free Certifications | 1 |
-
-## 🏰 CTF Competitions
-
-- [Exploiting LLM prompt injection vulnerabilities](https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-advanced-llm-prompt-injection-vulnerabilities)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`, `india_friendly`
-  - _Large language models (LLMs) are quickly becoming a standard component of any modern web application nowadays, powering everything from customer support chatbots to internal knowledge assistants. For _
+| ❓ Uncategorized | 43 |
+| 🎓 Free Certifications | 4 |
+| 💰 Bug Bounties | 2 |
 
 ## 💰 Bug Bounties
 
@@ -41,12 +33,22 @@ tags:
   - Tags: `bug_bounty`
   - _PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys_
 
-- [Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach](https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _Japan's GMO Internet Group is&nbsp;offering up to $1 million in total&nbsp;for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion _
-
 ## 🎓 Free Certifications
+
+- [Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys](https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network.  The malware, called KeyDrift, is _
+
+- [Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls](https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has bee_
+
+- [New Cisco firewall zero-day exploited to crash SSL VPN devices](https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable _
 
 - [ISC Stormcast For Thursday, October 29th, 2026 https://isc.sans.edu/podcastdetail/10156, (Thu, Oct 29th)](https://isc.sans.edu/diary/rss/33468)
   - Confidence: 🟢 HIGH
@@ -54,6 +56,30 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces](https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html)
+  - Confidence: 🟫 LOW
+  - _Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces.  "Active exploitation has bee_
+
+- [China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility](https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrik_
+
+- [Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open](https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html)
+  - Confidence: 🟫 LOW
+  - _An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab&nbsp;released a fix, Alpine Linux&nbsp;said&nbsp;on 28 October.  The fl_
+
+- [GitHub Launches npm Firewall to Block Malicious Packages Before Installation](https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html)
+  - Confidence: 🟫 LOW
+  - _GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time.  "The firewall inspects both metadata requests_
+
+- [Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)](https://isc.sans.edu/diary/rss/33470)
+  - Confidence: 🟫 LOW
+  - _<p>Building your malware analysis lab is a key point before playing with malware. Today, thanks to virtualization, it&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s convenient to play with snapshots in your_
+
+- [Windows 11 KB5127936 update released with 41 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/)
+  - Confidence: 🟫 LOW
+  - _Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]_
 
 - [CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts](https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/)
   - Confidence: 🟫 LOW
@@ -202,71 +228,3 @@ tags:
 - [Police seize Virtualine bulletproof service tied to ransowmare, cybercrime](https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/)
   - Confidence: 🟫 LOW
   - _U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]_
-
-- [Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges](https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited V_
-
-- [ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws](https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html)
-  - Confidence: 🟫 LOW
-  - _The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week.  Oracle patched all three under_
-
-- [Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers](https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html)
-  - Confidence: 🟫 LOW
-  - _Tailscale has released&nbsp;version 1.104.4&nbsp;to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the&nbsp;root&nbsp;user should b_
-
-- [FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering](https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine.  The move was in response to the service being _
-
-- [Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits](https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html)
-  - Confidence: 🟫 LOW
-  - _An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report.  Th_
-
-- [American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed](https://thehackernews.com/2026/10/american-organizations-under-attack.html)
-  - Confidence: 🟫 LOW
-  - _Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted busi_
-
-- [Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass](https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html)
-  - Confidence: 🟫 LOW
-  - _Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privi_
-
-- [Acct Recovery](https://www.reddit.com/r/hackthebox/comments/1xfvskz/acct_recovery/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>how can i contact actual HTB support? i cant seem to find a way at all . . i need to recover my account . . i enter my creds, and the auth code, ive tried back up cod_
-
-- [weekly machines feel way harder lately?](https://www.reddit.com/r/hackthebox/comments/1xfyw78/weekly_machines_feel_way_harder_lately/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>idk if it’s just me but, lately, weekly machines feel a lot harder than they used to, even the easy ones. stuff i’d usually finish in an evening is taking me days now_
-
-- [Pwn3d WhiteRabbit!!](https://www.reddit.com/r/hackthebox/comments/1xgqj3o/pwn3d_whiterabbit/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1xgqj3o/pwn3d_whiterabbit/"> <img alt="Pwn3d WhiteRabbit!!" src="https://preview.redd.it/i186078j10yh1.png?width=640&amp;crop=sma_
-
-- [Pwn3d DutyBound!!](https://www.reddit.com/r/hackthebox/comments/1xgokbc/pwn3d_dutybound/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1xgokbc/pwn3d_dutybound/"> <img alt="Pwn3d DutyBound!!" src="https://preview.redd.it/1t4rqiejizxh1.png?width=640&amp;crop=smart&a_
-
-- [When is the right time to look at a writeup for you guys?](https://www.reddit.com/r/hackthebox/comments/1xgsdxr/when_is_the_right_time_to_look_at_a_writeup_for/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I’m doing HTB machines and sometimes I get stuck for a long time. I don’t want to check the writeup too early, because I know being stuck is part_
-
-- [I need a cyber security partner to learn new things with especially in AI space](https://www.reddit.com/r/hackthebox/comments/1xhhbg5/i_need_a_cyber_security_partner_to_learn_new/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1xhhbg5/i_need_a_cyber_security_partner_to_learn_new/"> <img alt="I need a cyber security partner to learn new things with especi_
-
-- [Pwn3d Fluffy!!](https://www.reddit.com/r/hackthebox/comments/1xhkske/pwn3d_fluffy/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1xhkske/pwn3d_fluffy/"> <img alt="Pwn3d Fluffy!!" src="https://preview.redd.it/4ze6qcutu6yh1.png?width=640&amp;crop=smart&amp;aut_
-
-- [YAYAYAYAYAYAYAY!!!!! YAAAAAAAAAAAAAAAAY!!!!!!](https://www.reddit.com/r/hackthebox/comments/1xhkcfb/yayayayayayayay_yaaaaaaaaaaaaaaaay/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1xhkcfb/yayayayayayayay_yaaaaaaaaaaaaaaaay/"> <img alt="YAYAYAYAYAYAYAY!!!!! YAAAAAAAAAAAAAAAAY!!!!!!" src="https://preview.redd._
-
-- [Nefilim and Hive ransomware affiliate gets 70 months in prison](https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/)
-  - Confidence: 🟫 LOW
-  - _A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [..._
-
-- [CISA warns of hackers now exploiting critical Node2Shell flaw](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/)
-  - Confidence: 🟫 LOW
-  - _On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Sh_
