@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-29
-date: 2026-10-29T12:16:27Z
+date: 2026-10-29T22:26:40Z
 type: radar-report
 report_type: fast
-total_opportunities: 49
+total_opportunities: 58
 tags:
   - radar
   - fast
@@ -13,27 +13,35 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 49
+**Total opportunities:** 58
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 43 |
-| 🎓 Free Certifications | 4 |
-| 💰 Bug Bounties | 2 |
+| ❓ Uncategorized | 51 |
+| 🎓 Free Certifications | 5 |
+| 💰 Bug Bounties | 1 |
+| 🏰 CTF Competitions | 1 |
+
+## 🏰 CTF Competitions
+
+- [Webinar: How to Build AI Threat Readiness Into Your Security Operations](https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.  Advanced AI models can now help attackers discover vulnerabi_
 
 ## 💰 Bug Bounties
 
-- [PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network](https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`, `india_friendly`
-  - _Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2S_
-
-- [Even after PHP2Shell, blast radius matters more than a CVSS score](https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/)
+- [How would you do a deep security audit of a vibe-coded SaaS?](https://www.reddit.com/r/AskNetsec/comments/1xhhu6h/how_would_you_do_a_deep_security_audit_of_a/)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
-  - _PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys_
+  - _<!-- SC_OFF --><div class="md"><p>I've been building SaaS apps with AI and now I want to properly test how secure they are before real users start using them.</p> <p>I'm not looking for basic advice l_
 
 ## 🎓 Free Certifications
+
+- [Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a c_
 
 - [Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys](https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html)
   - Confidence: 🟢 HIGH
@@ -56,6 +64,94 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories](https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html)
+  - Confidence: 🟫 LOW
+  - _26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it.  I_
+
+- [The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers](https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html)
+  - Confidence: 🟫 LOW
+  - _AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing res_
+
+- [Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls](https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html)
+  - Confidence: 🟫 LOW
+  - _A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec.  The_
+
+- [Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities](https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html)
+  - Confidence: 🟫 LOW
+  - _Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities.  "It shows significant gains across coding and agen_
+
+- [Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners](https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campa_
+
+- [Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions](https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html)
+  - Confidence: 🟫 LOW
+  - _A flaw in the Linux kernel's TCP code, tracked as&nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 _
+
+- [ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories](https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html)
+  - Confidence: 🟫 LOW
+  - _Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't.  T_
+
+- [How do you approach finding vulnerabilities in large open-source frameworks nowadays?](https://www.reddit.com/r/AskNetsec/comments/1xhd1v7/how_do_you_approach_finding_vulnerabilities_in/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone!</p> <p>I’m relatively new to vulnerability research, and I’m interested in finding new vulnerabilities in open-source frameworks and libraries, rather t_
+
+- [Huawei AR611W VRP V5.170 – Understanding $1a$ irreversible-cipher password format](https://www.reddit.com/r/AskNetsec/comments/1xhw40u/huawei_ar611w_vrp_v5170_understanding_1a/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I'm working with a Huawei AR611W router running VRP V5.170 and trying to understand how local user passwords are stored.</p> <p>When I run:</p> <p_
+
+- [How much time are you wasting validating scanner findings?](https://www.reddit.com/r/AskNetsec/comments/1xh9byv/how_much_time_are_you_wasting_validating_scanner/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Our DAST results have gotten to the point where the security team spends a ridiculous amount of time figuring out which findings are actually worth handing to enginee_
+
+- [Who's leading in AI agent identity management right now?](https://www.reddit.com/r/AskNetsec/comments/1xi79v4/whos_leading_in_ai_agent_identity_management/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Our IAM team can't agree on how to model agents. Treating them as service accounts ignores that they act for users, treating them as users ignores that they run unatt_
+
+- [How are companies handling fake LinkedIn profiles impersonating their executives?](https://www.reddit.com/r/AskNetsec/comments/1xhszbd/how_are_companies_handling_fake_linkedin_profiles/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Most of the conversations I see about executive impersonation focus on phishing emails but what about everything happening outside the inbox? Fake LinkedIn profiles u_
+
+- [If you let an agent spend money on your behalf, how do you take that permission back?](https://www.reddit.com/r/AskNetsec/comments/1xij2s3/if_you_let_an_agent_spend_money_on_your_behalf/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>The IETF draft for signing agent traffic gives you a solid way to tell which company an agent belongs to. It deliberately does not touch what the agent is allowed to _
+
+- [What EDR/XDR Automation Workflows Actually Improve SOC Triage?](https://www.reddit.com/r/AskNetsec/comments/1xiqt2j/what_edrxdr_automation_workflows_actually_improve/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I'm evaluating how to improve incident triage and investigation workflows using Cortex XDR Pro + GB, particularly through automation, contextual enrichment, and integ_
+
+- [CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell f_
+
+- [3 Ways AI Agents Already Operate in Your Browser](https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/)
+  - Confidence: 🟫 LOW
+  - _AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents oper_
+
+- [Microsoft fixes Remote Desktop failures caused by recent Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the "Administrator protection" security feature is enabled. [...]_
+
+- [Chrome extensions with 13.4 million installs caught hijacking searches](https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/)
+  - Confidence: 🟫 LOW
+  - _A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising reve_
+
+- [Fake crypto app on Apple App Store linked to $23K wallet theft](https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/)
+  - Confidence: 🟫 LOW
+  - _A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [..._
+
+- [Polymarket halts trading after crypto-draining script breach, $2.5M traced](https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/)
+  - Confidence: 🟫 LOW
+  - _Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2._
+
+- [Japan Airlines suffers third-party data breach exposing passenger info](https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/)
+  - Confidence: 🟫 LOW
+  - _Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]_
+
+- [Hugging Face malware campaign returns to hijack GPUs for crypto mining](https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/)
+  - Confidence: 🟫 LOW
+  - _A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana _
 
 - [Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces](https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html)
   - Confidence: 🟫 LOW
@@ -172,59 +268,3 @@ tags:
 - [GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub](https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github)
   - Confidence: 🟫 LOW
   - _The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit._
-
-- [Wazuh and AI for Enhanced SOC Workflows](https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html)
-  - Confidence: 🟫 LOW
-  - _Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repeti_
-
-- [Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers](https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html)
-  - Confidence: 🟫 LOW
-  - _A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but _
-
-- [Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch](https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber.  The vulnerability in question is_
-
-- [Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win](https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html)
-  - Confidence: 🟫 LOW
-  - _A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown.  Orange Tsai_
-
-- [Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.](https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html)
-  - Confidence: 🟫 LOW
-  - _Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background.  To qualify, a s_
-
-- [Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns](https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html)
-  - Confidence: 🟫 LOW
-  - _The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and stra_
-
-- [Yet Another ClickFix Campaign, (Wed, Oct 28th)](https://isc.sans.edu/diary/rss/33466)
-  - Confidence: 🟫 LOW
-  - _<p><em><strong>Introduction</strong></em></p>&#xd;_
-
-- [Hackers now scanning systems for recently-patched Oracle flaw](https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/)
-  - Confidence: 🟫 LOW
-  - _Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]_
-
-- [InfraTrust report warns of exploited flaws in critical network infrastructure](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/)
-  - Confidence: 🟫 LOW
-  - _Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as "PHP2Shell" put the web management interfaces of firewalls, VPNs, application delivery _
-
-- [Microsoft urges Entra ID admins to migrate users to passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/)
-  - Confidence: 🟫 LOW
-  - _Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]_
-
-- [Volt Typhoon hides zero-day attacks using 'Silent Train' framework](https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/)
-  - Confidence: 🟫 LOW
-  - _Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-v_
-
-- [Sony ISP subsidiary data breach exposes 2.5 million customer records](https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/)
-  - Confidence: 🟫 LOW
-  - _Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]_
-
-- [Discord to let search engines index public server messages](https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/)
-  - Confidence: 🟫 LOW
-  - _Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]_
-
-- [Police seize Virtualine bulletproof service tied to ransowmare, cybercrime](https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/)
-  - Confidence: 🟫 LOW
-  - _U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]_
