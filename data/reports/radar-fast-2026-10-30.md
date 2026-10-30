@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-30
-date: 2026-10-30T04:16:52Z
+date: 2026-10-30T12:06:17Z
 type: radar-report
 report_type: fast
-total_opportunities: 71
+total_opportunities: 78
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 71
+**Total opportunities:** 78
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 59 |
-| 🎓 Free Certifications | 9 |
+| ❓ Uncategorized | 65 |
+| 🎓 Free Certifications | 10 |
 | 💰 Bug Bounties | 2 |
 | 🏰 CTF Competitions | 1 |
 
@@ -42,6 +42,11 @@ tags:
   - _<!-- SC_OFF --><div class="md"><p>I've been building SaaS apps with AI and now I want to properly test how secure they are before real users start using them.</p> <p>I'm not looking for basic advice l_
 
 ## 🎓 Free Certifications
+
+- [CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV](https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence _
 
 - [ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)](https://isc.sans.edu/diary/rss/33472)
   - Confidence: 🟢 HIGH
@@ -89,6 +94,30 @@ tags:
   - _Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable _
 
 ## ❓ Uncategorized
+
+- [Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen](https://thehackernews.com/2026/10/binance-suffers-security-breach.html)
+  - Confidence: 🟫 LOW
+  - _Cryptocurrency giant Binance said on Thursday that a "security incident" on its platform has impacted about $6.3 billion worth of assets.  The world's biggest cryptocurrency exchange said nearly $3 bi_
+
+- [Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw](https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html)
+  - Confidence: 🟫 LOW
+  - _Drupal has warned that threat actors are exploiting a "highly critical" security flaw in its Commerce Core component.  The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of mis_
+
+- [Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor](https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed that the official Anthropic Claude Code extension was compromised on the Open VSX registry to install a persistent SSH backdoor on infected hosts.  The issue h_
+
+- [Binance links $6.3 billion crypto theft to compromised DevOps laptop](https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/)
+  - Confidence: 🟫 LOW
+  - _Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]_
+
+- [Drupal warns of critical Commerce Core flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]_
+
+- [Microsoft finally fixes VPN issues caused by September updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]_
 
 - [Advice Appreciated.](https://www.reddit.com/r/oscp/comments/1xhnwdj/advice_appreciated/)
   - Confidence: 🟫 LOW
