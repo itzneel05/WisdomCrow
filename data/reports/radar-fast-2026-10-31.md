@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-31
-date: 2026-10-31T03:57:33Z
+date: 2026-10-31T11:40:01Z
 type: radar-report
 report_type: fast
-total_opportunities: 57
+total_opportunities: 54
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 57
+**Total opportunities:** 54
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 50 |
-| 🎓 Free Certifications | 4 |
+| ❓ Uncategorized | 48 |
+| 🎓 Free Certifications | 3 |
 | 💰 Bug Bounties | 2 |
 | 🏰 CTF Competitions | 1 |
 
@@ -58,12 +58,27 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence _
 
-- [ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)](https://isc.sans.edu/diary/rss/33472)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%](https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday.  The web infrastructure and security company said it autonomo_
+
+- [A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats](https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html)
+  - Confidence: 🟫 LOW
+  - _A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at&nbsp;the security firm P_
+
+- [Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access](https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, followin_
+
+- [YARA-X 1.22.1 Release, (Sat, Oct 31st)](https://isc.sans.edu/diary/rss/33474)
+  - Confidence: 🟫 LOW
+  - _<p><a href="https://github.com/VirusTotal/yara-x/releases/tag/v1.22.1">YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.22.1</a> is a bugfix version, it brings 2 bugfixes.</p>&#xd;_
+
+- [Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)](https://isc.sans.edu/diary/rss/33476)
+  - Confidence: 🟫 LOW
+  - _<p>Wireshark Release Candidate 5.0.0 was <a href="https://www.wireshark.org/download/automated/.release/wireshark-release-notes-5.0.0rc1.html">published</a>: soon we can expect a new major version of _
 
 - [Need help with AI agents for vuln remediation!](https://www.reddit.com/r/security/comments/1xjau8l/need_help_with_ai_agents_for_vuln_remediation/)
   - Confidence: 🟫 LOW
@@ -236,31 +251,3 @@ tags:
 - [Microsoft finally fixes VPN issues caused by September updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/)
   - Confidence: 🟫 LOW
   - _Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]_
-
-- [Advice Appreciated.](https://www.reddit.com/r/oscp/comments/1xhnwdj/advice_appreciated/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone. Vouchers I get from my office offer me two attempts to appear for the OSCP exam. I was planning to take up one attempt on the 1st of November (treat tha_
-
-- [Question about studying](https://www.reddit.com/r/oscp/comments/1xi0w1g/question_about_studying/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I have the Learn One subscription and currently going through the PEN-200 material.</p> <p>A lot of people in here suggest doing HTB CPTS path.<br /> Is that because _
-
-- [failed twice maybe this test is not for me](https://www.reddit.com/r/oscp/comments/1xhxfl7/failed_twice_maybe_this_test_is_not_for_me/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>on my second attempt I entered the AD machine with the provided credentials, I enumerated, found the foothold and gained root, that simple process took me like 3 hour_
-
-- [OSCP lab walk through](https://www.reddit.com/r/oscp/comments/1xiyew6/oscp_lab_walk_through/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi, </p> <p>Ive just started OSCP. Im really enjoying it and the labs. Im trying to find lab walk through for each section as revision. Does anyone no where I can fin_
-
-- [Passed OSCP 100/100](https://www.reddit.com/r/oscp/comments/1xj4kfd/passed_oscp_100100/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey all,<br /> I guess its my turn to post my &quot;I Passed&quot; post and give some insight since like a lot of you I read pretty much every one of these on this su_
-
-- [Binance probes potential $5.8 billion crypto-theft hack](https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/)
-  - Confidence: 🟫 LOW
-  - _Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]_
-
-- [OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/)
-  - Confidence: 🟫 LOW
-  - _OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]_
