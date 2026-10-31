@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-31
-date: 2026-10-31T11:40:01Z
+date: 2026-10-31T16:47:41Z
 type: radar-report
 report_type: fast
-total_opportunities: 54
+total_opportunities: 52
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 54
+**Total opportunities:** 52
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 48 |
-| 🎓 Free Certifications | 3 |
-| 💰 Bug Bounties | 2 |
+| ❓ Uncategorized | 45 |
+| 💰 Bug Bounties | 4 |
+| 🎓 Free Certifications | 2 |
 | 🏰 CTF Competitions | 1 |
 
 ## 🏰 CTF Competitions
@@ -35,6 +35,16 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `bug_bounty`, `cash_prize`, `india_friendly`
   - _Welcome to the latest edition of Bug Bytes! In this month's issue, we'll be featuring: A full Microsoft Edge exploit chain using only logic bugs 1-click RCE in Discord via Twitch embed $250K Chrome fu_
+
+- [From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.](https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build prac_
+
+- [New Android SMS of Death exploit can remotely crash unpatched phones](https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed "SMS of Death" and tracked as CVE-2026-58882, that lets attackers remotely disrupt ce_
 
 - [Critical Linux kernel flaw allows remote root attacks on MPTCP servers](https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/)
   - Confidence: 🟡 MEDIUM
@@ -53,12 +63,19 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>Attackers posing as IT help desk staff contacted employees by phone, email and Microsoft Teams in the third quarter of 2026 and talked them into opening remote access sessions, Cisco Talos Incident_
 
-- [CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV](https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence _
-
 ## ❓ Uncategorized
+
+- [Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html)
+  - Confidence: 🟫 LOW
+  - _American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data.  However, the company noted that the b_
+
+- [Chainalysis discloses data breach from "offensive agentic techniques"](https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/)
+  - Confidence: 🟫 LOW
+  - _Blockchain analytics firm Chainalysis disclosed a data breach after attackers used "offensive agentic techniques" to access internal systems and tools, exposing customer names, email addresses, user I_
+
+- [Reddit to lock content behind logins to fight scrapers](https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/)
+  - Confidence: 🟫 LOW
+  - _Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a "logged-in service," offering limited access to visitors without accounts. [...]_
 
 - [Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%](https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html)
   - Confidence: 🟫 LOW
@@ -227,27 +244,3 @@ tags:
 - [Trezor warns of suspected crypto-theft implant in hardware wallet](https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/)
   - Confidence: 🟫 LOW
   - _Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]_
-
-- [Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen](https://thehackernews.com/2026/10/binance-suffers-security-breach.html)
-  - Confidence: 🟫 LOW
-  - _Cryptocurrency giant Binance said on Thursday that a "security incident" on its platform has impacted about $6.3 billion worth of assets.  The world's biggest cryptocurrency exchange said nearly $3 bi_
-
-- [Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw](https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html)
-  - Confidence: 🟫 LOW
-  - _Drupal has warned that threat actors are exploiting a "highly critical" security flaw in its Commerce Core component.  The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of mis_
-
-- [Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor](https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed that the official Anthropic Claude Code extension was compromised on the Open VSX registry to install a persistent SSH backdoor on infected hosts.  The issue h_
-
-- [Binance links $6.3 billion crypto theft to compromised DevOps laptop](https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/)
-  - Confidence: 🟫 LOW
-  - _Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]_
-
-- [Drupal warns of critical Commerce Core flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]_
-
-- [Microsoft finally fixes VPN issues caused by September updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]_
