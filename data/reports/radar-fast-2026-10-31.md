@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-10-31
-date: 2026-10-31T16:47:41Z
+date: 2026-10-31T20:57:53Z
 type: radar-report
 report_type: fast
-total_opportunities: 52
+total_opportunities: 53
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 52
+**Total opportunities:** 53
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 45 |
+| ❓ Uncategorized | 46 |
 | 💰 Bug Bounties | 4 |
 | 🎓 Free Certifications | 2 |
 | 🏰 CTF Competitions | 1 |
@@ -64,6 +64,10 @@ tags:
   - _<p>Attackers posing as IT help desk staff contacted employees by phone, email and Microsoft Teams in the third quarter of 2026 and talked them into opening remote access sessions, Cisco Talos Incident_
 
 ## ❓ Uncategorized
+
+- [Northflank security breach leads to abuse of customers' AI API keys](https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/)
+  - Confidence: 🟫 LOW
+  - _Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API key_
 
 - [Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html)
   - Confidence: 🟫 LOW
