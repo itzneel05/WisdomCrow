@@ -1,6 +1,6 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-01
-date: 2026-11-01T04:14:26Z
+date: 2026-11-01T12:39:36Z
 type: radar-report
 report_type: fast
 total_opportunities: 24
@@ -89,6 +89,26 @@ tags:
 
 ## ❓ Uncategorized
 
+- [NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection](https://thehackernews.com/2026/11/netamloader-malware-targets-government.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of what has been described as a "highly sophisticated infection chain" targeting government organizations in Asia.  The activity, detailed by Kaspersky_
+
+- [FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist](https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as_
+
+- [Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script](https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html)
+  - Confidence: 🟫 LOW
+  - _Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that _
+
+- [CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key](https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html)
+  - Confidence: 🟫 LOW
+  - _A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the net_
+
+- [OneNote File Extraction, (Sun, Nov 1st)](https://isc.sans.edu/diary/rss/33478)
+  - Confidence: 🟫 LOW
+  - _<p>Recently, I had to extract embedded files from a set of OneNote files (extension .one).</p>&#xd;_
+
 - [Syrian Hacker Gets Prison Time in US After Over a Decade on the Run](https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/)
   - Confidence: 🟫 LOW
   - _<p>A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities.</p> <p>The post <a href="https://www.securityweek.com/syrian-hac_
@@ -112,23 +132,3 @@ tags:
 - [Reddit to lock content behind logins to fight scrapers](https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/)
   - Confidence: 🟫 LOW
   - _Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a "logged-in service," offering limited access to visitors without accounts. [...]_
-
-- [Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%](https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday.  The web infrastructure and security company said it autonomo_
-
-- [A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats](https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html)
-  - Confidence: 🟫 LOW
-  - _A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at&nbsp;the security firm P_
-
-- [Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access](https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, followin_
-
-- [YARA-X 1.22.1 Release, (Sat, Oct 31st)](https://isc.sans.edu/diary/rss/33474)
-  - Confidence: 🟫 LOW
-  - _<p><a href="https://github.com/VirusTotal/yara-x/releases/tag/v1.22.1">YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.22.1</a> is a bugfix version, it brings 2 bugfixes.</p>&#xd;_
-
-- [Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)](https://isc.sans.edu/diary/rss/33476)
-  - Confidence: 🟫 LOW
-  - _<p>Wireshark Release Candidate 5.0.0 was <a href="https://www.wireshark.org/download/automated/.release/wireshark-release-notes-5.0.0rc1.html">published</a>: soon we can expect a new major version of _
