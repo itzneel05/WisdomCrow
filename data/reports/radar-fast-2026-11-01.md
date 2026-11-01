@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-01
-date: 2026-11-01T12:39:36Z
+date: 2026-11-01T21:40:47Z
 type: radar-report
 report_type: fast
-total_opportunities: 24
+total_opportunities: 21
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 24
+**Total opportunities:** 21
 
 | Category | Count |
 |----------|-------|
-| 💰 Bug Bounties | 13 |
-| ❓ Uncategorized | 11 |
+| 💰 Bug Bounties | 11 |
+| ❓ Uncategorized | 10 |
 
 ## 💰 Bug Bounties
 
@@ -77,17 +77,19 @@ tags:
   - Tags: `bug_bounty`
   - _<table> <tr><td> <a href="https://www.reddit.com/r/bugbounty/comments/1xk7m4j/18yo_7_months_experience/"> <img alt="18yo , 7 months experience" src="https://preview.redd.it/f20a4ar3esyh1.jpeg?width=32_
 
-- [From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.](https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build prac_
-
-- [New Android SMS of Death exploit can remotely crash unpatched phones](https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed "SMS of Death" and tracked as CVE-2026-58882, that lets attackers remotely disrupt ce_
-
 ## ❓ Uncategorized
+
+- [OpenAI says it's doubling Pro usage limits and bringing Work features to Chat](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/)
+  - Confidence: 🟫 LOW
+  - _OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]_
+
+- [Alpine Linux rebuilds GitLab after attempted RCE attack](https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/)
+  - Confidence: 🟫 LOW
+  - _Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all_
+
+- [FBI links $6.3 billion Binance crypto heist to North Korean hackers](https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/)
+  - Confidence: 🟫 LOW
+  - _The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record_
 
 - [NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection](https://thehackernews.com/2026/11/netamloader-malware-targets-government.html)
   - Confidence: 🟫 LOW
@@ -116,19 +118,3 @@ tags:
 - [Behind the Scenes of How Operation Blackout Went Down](https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down)
   - Confidence: 🟫 LOW
   - _A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same._
-
-- [Northflank security breach leads to abuse of customers' AI API keys](https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/)
-  - Confidence: 🟫 LOW
-  - _Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API key_
-
-- [Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html)
-  - Confidence: 🟫 LOW
-  - _American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data.  However, the company noted that the b_
-
-- [Chainalysis discloses data breach from "offensive agentic techniques"](https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/)
-  - Confidence: 🟫 LOW
-  - _Blockchain analytics firm Chainalysis disclosed a data breach after attackers used "offensive agentic techniques" to access internal systems and tools, exposing customer names, email addresses, user I_
-
-- [Reddit to lock content behind logins to fight scrapers](https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/)
-  - Confidence: 🟫 LOW
-  - _Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a "logged-in service," offering limited access to visitors without accounts. [...]_
