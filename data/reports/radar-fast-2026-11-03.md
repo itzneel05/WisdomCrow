@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-03
-date: 2026-11-03T13:36:36Z
+date: 2026-11-03T22:53:20Z
 type: radar-report
 report_type: fast
-total_opportunities: 64
+total_opportunities: 67
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 64
+**Total opportunities:** 67
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 58 |
+| ❓ Uncategorized | 61 |
 | 💰 Bug Bounties | 3 |
 | 🎓 Free Certifications | 2 |
 | 🏰 CTF Competitions | 1 |
@@ -59,6 +59,58 @@ tags:
   - _<p>A new Windows infostealer sends the data it steals to an AI model and asks it to rank the victim’s assets by how much money they could bring in, Cisco Talos has found. “There is a new idea in the c_
 
 ## ❓ Uncategorized
+
+- [cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes](https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html)
+  - Confidence: 🟫 LOW
+  - _An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers.  The script installed a backdoor and collected p_
+
+- [Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges](https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html)
+  - Confidence: 🟫 LOW
+  - _Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services.  The tactic is called_
+
+- [Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access](https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html)
+  - Confidence: 🟫 LOW
+  - _Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible _
+
+- [Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft](https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html)
+  - Confidence: 🟫 LOW
+  - _Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a "sophisticated, multi-stage campaign" that involve_
+
+- [Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes](https://thehackernews.com/2026/11/chainstack-reports-production-systems.html)
+  - Confidence: 🟫 LOW
+  - _Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure.  The in_
+
+- [mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity](https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html)
+  - Confidence: 🟫 LOW
+  - _Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA)_
+
+- [UK school estate hit by 3AM ransomware in suspected AI-assisted attack](https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/)
+  - Confidence: 🟫 LOW
+  - _A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]_
+
+- [Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028](https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/)
+  - Confidence: 🟫 LOW
+  - _Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC ro_
+
+- [Barracuda warns of critical flaws allowing root access to devices](https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]_
+
+- [Google: LLMjacking attacks rack up $1 million in cloud AI charges](https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/)
+  - Confidence: 🟫 LOW
+  - _Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]_
+
+- [Binance says fake job interview led to $6.3 billion crypto heist](https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/)
+  - Confidence: 🟫 LOW
+  - _Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure_
+
+- [WorkOS says attacker used ARTEX AI to breach internal sales app](https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/)
+  - Confidence: 🟫 LOW
+  - _Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]_
+
+- [Hackers hijack cPGuard autoupdate to deploy backdoor, steal data](https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/)
+  - Confidence: 🟫 LOW
+  - _Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]_
 
 - [Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials](https://thehackernews.com/2026/11/attackers-target-unpatched.html)
   - Confidence: 🟫 LOW
@@ -251,43 +303,3 @@ tags:
 - [Chinese hackers use ARTEX AI in automated attacks against 200 orgs](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/)
   - Confidence: 🟫 LOW
   - _Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]_
-
-- [New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value](https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their mo_
-
-- [Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts](https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure.  The_
-
-- [Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data](https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html)
-  - Confidence: 🟫 LOW
-  - _Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtai_
-
-- [Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy](https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html)
-  - Confidence: 🟫 LOW
-  - _Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey _
-
-- [Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers](https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html)
-  - Confidence: 🟫 LOW
-  - _Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code,&nbsp;IBM said last week.  Langflow is an open-source tool for building AI agents_
-
-- [Ivanti patches two more Connect Secure zero-days chained in attacks](https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]_
-
-- [Synology warns of C3RB3R ransomware attacks targeting NAS devices](https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/)
-  - Confidence: 🟫 LOW
-  - _Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]_
-
-- [Over 1,000 GitLab servers vulnerable to ongoing RCE attacks](https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/)
-  - Confidence: 🟫 LOW
-  - _Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]_
-
-- [Microsoft fixes Smart App Control broken by October Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]_
-
-- [Hackers disrupt refrigeration systems at European supermarkets](https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/)
-  - Confidence: 🟫 LOW
-  - _A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and coo_
