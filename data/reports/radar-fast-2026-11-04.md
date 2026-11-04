@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-04
-date: 2026-11-04T04:44:48Z
+date: 2026-11-04T13:46:15Z
 type: radar-report
 report_type: fast
-total_opportunities: 64
+total_opportunities: 65
 tags:
   - radar
   - fast
@@ -13,23 +13,38 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 64
+**Total opportunities:** 65
 
 | Category | Count |
 |----------|-------|
 | ❓ Uncategorized | 56 |
-| 💰 Bug Bounties | 4 |
-| 🎓 Free Certifications | 3 |
-| 🏰 CTF Competitions | 1 |
+| 💰 Bug Bounties | 5 |
+| 🏰 CTF Competitions | 2 |
+| 🎓 Free Certifications | 2 |
 
 ## 🏰 CTF Competitions
 
-- [OTERIA Cyber Cup #4](https://ctftime.org/event/3493)
+- [Looking for CTF Teammates – Building a Team for Cybersecurity CTFs](https://www.reddit.com/r/hackthebox/comments/1xn3ppj/looking_for_ctf_teammates_building_a_team_for/)
   - Confidence: 🟢 HIGH
   - Tags: `ctf`
-  - _Name: OTERIA Cyber Cup #4 (an <a href="/ctf/1740">OTERIA Cyber Cup</a> event.)<br /> Date: Dec. 5, 2026, 9 a.m. &mdash; 05 Dec. 2026, 17:00 UTC &nbsp;<a href="/event/3493.ics">[add to calendar]</a><br_
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Neat-Reflection7549"> /u/Neat-Reflection7549 </a> <br /> <span><a href="/r/securityCTF/comments/1xkhe6n/looking_for_ctf_teammates_building_
+
+- [Failed My First CWES attemp asking for areas to improve to be able to get the rest of the flags](https://www.reddit.com/r/hackthebox/comments/1xm6slb/failed_my_first_cwes_attemp_asking_for_areas_to/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><h1>The Exam</h1> <p>Honestly going into the exam I was a bit scared (due to notorious reputation of hackthebox exams) but still went into very excited and boy did this _
 
 ## 💰 Bug Bounties
+
+- [Going for HTB CDSA, what actually helped you pass?](https://www.reddit.com/r/hackthebox/comments/1xn9oks/going_for_htb_cdsa_what_actually_helped_you_pass/)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`, `audit_contest`, `india_friendly`
+  - _<!-- SC_OFF --><div class="md"><p>Hey all,</p> <p>I've started preparing for the HTB Certified Defensive Security Analyst (CDSA) and want to plan my prep properly before I book the exam. If you've tak_
+
+- [The AI Pentesting wave. Pay for effort vs pay for impact.](https://www.intigriti.com/blog/business-insights/the-ai-pentesting-wave-pay-for-effort-vs-pay-for-impact)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _For the last year, a version of the same conversation has followed me from customer calls to conference hallways and back into internal meetings. I get asked, usually with a mix of both curiosity and _
 
 - [What human hackers still do better than AI, according to HackerOne’s CEO](https://www.helpnetsecurity.com/2026/11/03/kara-sprague-hackerone-ai-bug-bounty/)
   - Confidence: 🟢 HIGH
@@ -41,15 +56,10 @@ tags:
   - Tags: `bug_bounty`, `cash_prize`
   - _<p>OpenAI increased its security bug bounties to encourage independent researchers to find vulnerabilities in its software. The program now offers bonuses for high-quality reports. The program encoura_
 
-- [PHP2Shell revisited: What Intigriti’s insights tell us about real-world risk](https://www.intigriti.com/blog/news/php2shell-revisited-real-world-risk)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `india_friendly`
-  - _PHP2Shell made organizations from all over the world scramble to inventory all their PHP assets, and the advice was consistent: patch your instances. But its severity score of 9.2 only tells you how b_
-
-- [Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs](https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/)
+- [The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)](https://isc.sans.edu/diary/rss/33488)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
-  - _Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]_
+  - _<p>One of the early web application vulnerabilities I remember was CVE-2000-0411 &#x5b;CVE&#x5d;. This was a simple vulnerability in a CGI-bin script used to send e-mail. The vulnerability was pretty _
 
 ## 🎓 Free Certifications
 
@@ -63,12 +73,75 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>The PNPT asks you to attack a simulated network, write the client report, and defend it in a live debrief. See what that proves to employers, which pentest jobs it points toward, and what penetrati_
 
-- [ISC Stormcast For Tuesday, November 3rd, 2026 https://isc.sans.edu/podcastdetail/10162, (Tue, Nov 3rd)](https://isc.sans.edu/diary/rss/33484)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades](https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitatio_
+
+- [Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction](https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html)
+  - Confidence: 🟫 LOW
+  - _A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its&nbsp;November security bulletin.  The flaw, CVE-2026-58868, affects Android _
+
+- [Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure](https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html)
+  - Confidence: 🟫 LOW
+  - _Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure.  Also known as Fluffy Wolf, the threat actor has a history of _
+
+- [China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor](https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html)
+  - Confidence: 🟫 LOW
+  - _A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Meth_
+
+- [Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It](https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html)
+  - Confidence: 🟫 LOW
+  - _Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway _
+
+- [Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory](https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html)
+  - Confidence: 🟫 LOW
+  - _Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0.  Dom0 is the VM that, by default, has full perm_
+
+- [Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads](https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html)
+  - Confidence: 🟫 LOW
+  - _A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rai_
+
+- [Waiting for CDSA Results – How Long Did It Take You?](https://www.reddit.com/r/hackthebox/comments/1xlzj56/waiting_for_cdsa_results_how_long_did_it_take_you/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone! For those who have already taken the CDSA exam, could you share how many days it took to receive your results after submitting the exam?</p> <p>Just try_
+
+- [walkthroughs](https://www.reddit.com/r/hackthebox/comments/1xma4fm/walkthroughs/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hi! Anyone have the walkthroughs of the easy retired machines?</p> <p>Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/C_
+
+- [HTB Academy: Upgrade from Gold to Platinum?](https://www.reddit.com/r/hackthebox/comments/1xmshmg/htb_academy_upgrade_from_gold_to_platinum/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone! I’m thinking about upgrading from HTB Academy Gold to Platinum. Do you think it’s worth the upgrade? What are your experiences? At the moment, there isn_
+
+- [Pwn3d Infiltrator!!](https://www.reddit.com/r/hackthebox/comments/1xmqfpk/pwn3d_infiltrator/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1xmqfpk/pwn3d_infiltrator/"> <img alt="Pwn3d Infiltrator!!" src="https://preview.redd.it/6hcihwuwtdzh1.png?width=640&amp;crop=sma_
+
+- [Cracked a box alone for the first time](https://www.reddit.com/r/hackthebox/comments/1xmzjqk/cracked_a_box_alone_for_the_first_time/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Finally, I've done it. Cracked the retired box Devhub without the help of any walkthroughs! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.re_
+
+- [CJCA Exam Reflections](https://www.reddit.com/r/hackthebox/comments/1xnkmqn/cjca_exam_reflections/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hello friends</p> <p>For those doing CJCA, I wrote 2x articles on my blog, to assist and guide those who struggle and have unanswered questions.</p> <p>Please feel fr_
+
+- [Will we ever get an AI blue teamer path?](https://www.reddit.com/r/hackthebox/comments/1xnf92a/will_we_ever_get_an_ai_blue_teamer_path/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I know HTBs whole thing is hacking stuff, and learning offensive tradecraft builds a great understanding of how things work. But companies don't need AI pentesters en_
+
+- [Hackers use n-day exploits in zero-click attacks on iOS, Android devices](https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/)
+  - Confidence: 🟫 LOW
+  - _A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]_
+
+- [CISA flags WordPress RCE flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [..._
+
+- [US charges two Canadians accused of hacking US universities](https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/)
+  - Confidence: 🟫 LOW
+  - _A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]_
 
 - [Is there a way to see which kind of key this is? ie; the low frequency easy to clone kind or not?](https://www.reddit.com/r/hacking/comments/1xm2mv7/is_there_a_way_to_see_which_kind_of_key_this_is/)
   - Confidence: 🟫 LOW
@@ -225,71 +298,3 @@ tags:
 - [Hackers hijack cPGuard autoupdate to deploy backdoor, steal data](https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/)
   - Confidence: 🟫 LOW
   - _Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]_
-
-- [Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials](https://thehackernews.com/2026/11/attackers-target-unpatched.html)
-  - Confidence: 🟫 LOW
-  - _Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber.  The vulnerability_
-
-- [Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors](https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html)
-  - Confidence: 🟫 LOW
-  - _A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed.  The vulnerability, tracked as CVE-2026-58115 (CVSS scor_
-
-- [New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food](https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html)
-  - Confidence: 🟫 LOW
-  - _Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freeze_
-
-- [Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw](https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html)
-  - Confidence: 🟫 LOW
-  - _Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks.  The Taiwanese vendor said it observed t_
-
-- [Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets](https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html)
-  - Confidence: 🟫 LOW
-  - _BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen fr_
-
-- [Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware](https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html)
-  - Confidence: 🟫 LOW
-  - _A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations.  "Active since at least February 2025, the group _
-
-- [The 4 Elements of Exposure Prioritization and How to Operationalize Them](https://thehackernews.com/2026/11/the-4-elements-of-exposure.html)
-  - Confidence: 🟫 LOW
-  - _Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk e_
-
-- [Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing](https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html)
-  - Confidence: 🟫 LOW
-  - _Fixed kernels for a&nbsp;use-after-free vulnerability in the Linux kernel's IPv4 TCP code&nbsp;are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest lo_
-
-- [Found DEVELOPERS ONLY banner repeated 7 times in one file, config.php, cpanel. Normal or Red Flag?](https://www.reddit.com/r/AskNetsec/comments/1xl45ir/found_developers_only_banner_repeated_7_times_in/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>```php</p> <p>// TIP ------------&gt;: To display the current Visitor Count (within PHP code brackets): echo($VisitorCount); // ======================================_
-
-- [When an IP hammers your server, do you ban it right away or check it first?](https://www.reddit.com/r/AskNetsec/comments/1xlvluf/when_an_ip_hammers_your_server_do_you_ban_it/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>We run a small free IP reputation database (isIPsafe), so I'm biased, but I'm curious how other people handle this. </p> <p>When fail2ban or your logs flag an IP, wha_
-
-- [How do you detect coordinated abuse on free GPU/cloud compute tiers?](https://www.reddit.com/r/AskNetsec/comments/1xm112u/how_do_you_detect_coordinated_abuse_on_free/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Many companies now offer free or low-cost GPU resources. These can become attractive targets for distributed botnet-style abuse. Imagine a large network of bots that _
-
-- [What do you actually show an author when a critical CVE stays open?](https://www.reddit.com/r/AskNetsec/comments/1xmkd2q/what_do_you_actually_show_an_author_when_a/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>say a scanner flags a critical CVE on a payment service. the app team says the vulnerable code path isn't reachable, so they don't want to rush an upgrade that could _
-
-- [Found critical vulnerabilities in my college ERP website – Should I report to my college or the ERP company first?](https://www.reddit.com/r/AskNetsec/comments/1xm3llt/found_critical_vulnerabilities_in_my_college_erp/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I'm a student, and while exploring my college's ERP website, I discovered several security vulnerabilities in both the student and staff applicat_
-
-- [How do ids systems handle tcp stream desynchronization?](https://www.reddit.com/r/AskNetsec/comments/1xmr82t/how_do_ids_systems_handle_tcp_stream/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>i was going a bit nerd and looking at tcp stream reassembly, especially i got confused about how different operating systems handle overlapping segments.</p> <p>so th_
-
-- [Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/)
-  - Confidence: 🟫 LOW
-  - _Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Int_
-
-- [Harvard University data breach exposed info of 851,000 accounts](https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/)
-  - Confidence: 🟫 LOW
-  - _Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification servic_
-
-- [Police seizes over 100 servers in investment scam crackdown](https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/)
-  - Confidence: 🟫 LOW
-  - _European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to crimi_
