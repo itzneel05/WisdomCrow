@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-04
-date: 2026-11-04T13:46:15Z
+date: 2026-11-04T23:12:45Z
 type: radar-report
 report_type: fast
-total_opportunities: 65
+total_opportunities: 85
 tags:
   - radar
   - fast
@@ -13,16 +13,26 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 65
+**Total opportunities:** 85
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 56 |
-| 💰 Bug Bounties | 5 |
-| 🏰 CTF Competitions | 2 |
+| ❓ Uncategorized | 73 |
+| 💰 Bug Bounties | 6 |
+| 🏰 CTF Competitions | 4 |
 | 🎓 Free Certifications | 2 |
 
 ## 🏰 CTF Competitions
+
+- [Looking for motivated builders to start an open-source Threat Intel & OSINT team (Not just another CTF group)](https://www.reddit.com/r/blueteamsec/comments/1xnzcek/looking_for_motivated_builders_to_start_an/)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I’ve been practicing on HTB and TryHackMe for a while, but I realized that grinding points in isolated labs isn’t the same as solving real-world _
+
+- [Standard Chartered and Hack The Box Unite Poland’s Financial Sector to Advance Cyber Workforce Readiness](https://www.hackthebox.com/blog/standard-chartered-and-hack-the-box)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`, `india_friendly`
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/standard-chartered-and-hack-the-box" title=""> <img alt="Standard Chartered and Hack T_
 
 - [Looking for CTF Teammates – Building a Team for Cybersecurity CTFs](https://www.reddit.com/r/hackthebox/comments/1xn3ppj/looking_for_ctf_teammates_building_a_team_for/)
   - Confidence: 🟢 HIGH
@@ -35,6 +45,11 @@ tags:
   - _<!-- SC_OFF --><div class="md"><h1>The Exam</h1> <p>Honestly going into the exam I was a bit scared (due to notorious reputation of hackthebox exams) but still went into very excited and boy did this _
 
 ## 💰 Bug Bounties
+
+- [Making HTTP header injection critical with one prompt](https://portswigger.net/research/making-http-header-injection-critical-with-one-prompt)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`
+  - _You can now escalate HTTP header injection to a CRLF-Powered Desync and exploit it to serve random users a redirect to your collaborator, in a single prompt. We’ve just introduced a new scan check for_
 
 - [Going for HTB CDSA, what actually helped you pass?](https://www.reddit.com/r/hackthebox/comments/1xn9oks/going_for_htb_cdsa_what_actually_helped_you_pass/)
   - Confidence: 🟢 HIGH
@@ -74,6 +89,126 @@ tags:
   - _<p>The PNPT asks you to attack a simulated network, write the client report, and defend it in a live debrief. See what that proves to employers, which pentest jobs it points toward, and what penetrati_
 
 ## ❓ Uncategorized
+
+- [APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits](https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html)
+  - Confidence: 🟫 LOW
+  - _The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain a_
+
+- [Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit](https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for_
+
+- [SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records](https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html)
+  - Confidence: 🟫 LOW
+  - _SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched.  Details of the security flaws, which affect SonicWall GMS 9._
+
+- [Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root](https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html)
+  - Confidence: 🟫 LOW
+  - _A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own.  The attacker's code then runs as root, according_
+
+- [SpikeStrip: Reversible HTML and JavaScript prompt decoys with opaque per-insertion keys.](https://www.reddit.com/r/blueteamsec/comments/1xmn4up/spikestrip_reversible_html_and_javascript_prompt/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://github.com/Arcanum-Sec/SpikeStrip">[link]</a></span> &#32; <span><a href="https://_
+
+- [Slaiclind: The blockchain is now a covert communication channel](https://www.reddit.com/r/blueteamsec/comments/1xmoo9y/slaiclind_the_blockchain_is_now_a_covert/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/StormshieldArgos"> /u/StormshieldArgos </a> <br /> <span><a href="https://www.stormshield.com/news/cti-payload-slaiclind-campaign/">[link]_
+
+- [Gorbag: Orcs at the border harvesting intelligence from Ukraine](https://www.reddit.com/r/blueteamsec/comments/1xn0sb8/gorbag_orcs_at_the_border_harvesting_intelligence/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.welivesecurity.com/en/eset-research/gorbag-orcs-border-harvesting-intelligence_
+
+- [SIEM SOLUTION](https://www.reddit.com/r/blueteamsec/comments/1xn0zrm/siem_solution/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Ich habe verstanden, dass ein SIEM-System Protokolle von verschiedenen Geräten an einem Ort zusammenführt. Ich habe das in einer Testumgebung ausprobiert: Ich habe Sp_
+
+- [Gorbag: Orcs at the border harvesting intelligence from Ukraine](https://www.reddit.com/r/blueteamsec/comments/1xmwifi/gorbag_orcs_at_the_border_harvesting_intelligence/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/jnazario"> /u/jnazario </a> <br /> <span><a href="https://www.welivesecurity.com/en/eset-research/gorbag-orcs-border-harvesting-intelligen_
+
+- [Shutting the Door on the XCPE Botnet](https://www.reddit.com/r/blueteamsec/comments/1xmwymu/shutting_the_door_on_the_xcpe_botnet/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-bot_
+
+- [We found 4,972 "hello" messages hiding thousands of malicious commands targeting Flowise](https://www.reddit.com/r/blueteamsec/comments/1xmvkc3/we_found_4972_hello_messages_hiding_thousands_of/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>TL;DR: Our research team at Era uncovered <strong>Greeter</strong>, an attack framework targeting Flowise, an AI development platform with 55,000+ GitHub stars.</p> <_
+
+- [PHP2Shell Exploits: What 859 Public Repos Contain](https://www.reddit.com/r/blueteamsec/comments/1xn5h7y/php2shell_exploits_what_859_public_repos_contain/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/jnazario"> /u/jnazario </a> <br /> <span><a href="https://mallory.ai/blog/php2shell-exploit-landscape">[link]</a></span> &#32; <span><a hr_
+
+- [Binance hack IR report](https://www.reddit.com/r/blueteamsec/comments/1xn1va7/binance_hack_ir_report/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/campuscodi"> /u/campuscodi </a> <br /> <span><a href="https://x.com/binance/status/2117626126214504729">[link]</a></span> &#32; <span><a h_
+
+- [cPGuard security advisory: Update channel compromise](https://www.reddit.com/r/blueteamsec/comments/1xng117/cpguard_security_advisory_update_channel/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://opsshield.com/notice/cpguard-update-channel-compromise.html">[link]</a></span> &#3_
+
+- [Notice of Order Regarding Exclusion and Removal of Acronis Products From Federal Civilian Executive Branch Information Technology Systems and Procurements](https://www.reddit.com/r/blueteamsec/comments/1xng0a2/notice_of_order_regarding_exclusion_and_removal/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://www.federalregister.gov/documents/2026/10/30/2026-22215/notice-of-order-regarding-_
+
+- [Aegis Latent Core: a tamper-evident evidence chain for AI traffic. Does this help a blue team, or is it just another log source?](https://www.reddit.com/r/blueteamsec/comments/1xnr0yl/aegis_latent_core_a_tamperevident_evidence_chain/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p><strong>Disclosure:</strong> I am the author. Personal project. Source-available, not OSI open source. Not selling anything in this post. I am here because <a href="/_
+
+- [Hands-on resources for learning EDR alert triage? (for a fresher, not platform admin courses)](https://www.reddit.com/r/blueteamsec/comments/1xnt30e/handson_resources_for_learning_edr_alert_triage/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>A junior analyst on my team asked me for a resource to help him get better at investigating EDR alerts. I want to point him to something that builds <strong>investiga_
+
+- [ClockTail: a ClickFix kit that never filled in its command](https://www.reddit.com/r/blueteamsec/comments/1xng00f/clocktail_a_clickfix_kit_that_never_filled_in_its/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br /> <span><a href="https://ohey.ca/research/clocktail-clickfix-unfilled-command/">[link]</a></span> &#32; <sp_
+
+- [Stanford, NYU, UC Berkeley, and 17 other universities targeted in an academic fraud campaign run by AI agents over Telegram?](https://www.reddit.com/r/blueteamsec/comments/1xnpswp/stanford_nyu_uc_berkeley_and_17_other/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Our research team just published a writeup on an actor tracked as leepsmarts (Chinese-speaking) whose operation touched 20 universities, 19 of them in the US. The imp_
+
+- [An Ivanti Zero-Day Operation Where the Dead Proxy Was Named in the Operator's Notes](https://www.reddit.com/r/blueteamsec/comments/1xnr1x9/an_ivanti_zeroday_operation_where_the_dead_proxy/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/jnazario"> /u/jnazario </a> <br /> <span><a href="https://etugen.io/blog/ivanti-zero-day-operation/">[link]</a></span> &#32; <span><a href_
+
+- [ARTEX fork learns to spot honeypots](https://www.reddit.com/r/blueteamsec/comments/1xnzeda/artex_fork_learns_to_spot_honeypots/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Noktec"> /u/Noktec </a> <br /> <span><a href="https://huntback.io/blog/artex-fork-learns-to-spot-honeypots">[link]</a></span> &#32; <span>_
+
+- [Case Study: Profiling a Telegram Initial Access Broker Through Infrastructure and Stealer-Log Pivots](https://www.reddit.com/r/blueteamsec/comments/1xo2tdc/case_study_profiling_a_telegram_initial_access/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Much-Television-9449"> /u/Much-Television-9449 </a> <br /> <span><a href="https://kylesinvestigation.com/2026/11/04/case-study-profiling-a_
+
+- [SonicWall warns of unpatched flaws in end-of-life GMS software](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/)
+  - Confidence: 🟫 LOW
+  - _SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]_
+
+- [Google Calendar phishing campaign hijacks sessions, bypasses MFA](https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/)
+  - Confidence: 🟫 LOW
+  - _A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation Cloud_
+
+- [mSecure password manager hack prompts password reset warnings](https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/)
+  - Confidence: 🟫 LOW
+  - _mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly expos_
+
+- [NIKKE PC game launcher hacked to spread remote access, data-stealing malware](https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/)
+  - Confidence: 🟫 LOW
+  - _The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and _
+
+- [Cyberattack disrupts blood storage refrigeration systems in France](https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/)
+  - Confidence: 🟫 LOW
+  - _France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blo_
+
+- [DreamHost confirms data breach exposed FTP logins and webmail sessions](https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/)
+  - Confidence: 🟫 LOW
+  - _DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]_
+
+- [Zyxel fixes zero-day exploited to hack nearly 1,000 network switches](https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/)
+  - Confidence: 🟫 LOW
+  - _Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [..._
+
+- [Vercel rolls out new protection against stolen session cookie attacks](https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/)
+  - Confidence: 🟫 LOW
+  - _Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]_
 
 - [CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades](https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html)
   - Confidence: 🟫 LOW
@@ -246,55 +381,3 @@ tags:
 - [Fresh European Fridge Attacks Put Cold-Chain Security in Focus](https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security)
   - Confidence: 🟫 LOW
   - _Beyond food storage, the same combination of Internet connectivity, remote access, and inadequate security practices can put temperature-controlled infrastructure across other critical sectors at risk_
-
-- [cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes](https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html)
-  - Confidence: 🟫 LOW
-  - _An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers.  The script installed a backdoor and collected p_
-
-- [Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges](https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html)
-  - Confidence: 🟫 LOW
-  - _Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services.  The tactic is called_
-
-- [Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access](https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html)
-  - Confidence: 🟫 LOW
-  - _Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible _
-
-- [Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft](https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html)
-  - Confidence: 🟫 LOW
-  - _Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a "sophisticated, multi-stage campaign" that involve_
-
-- [Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes](https://thehackernews.com/2026/11/chainstack-reports-production-systems.html)
-  - Confidence: 🟫 LOW
-  - _Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure.  The in_
-
-- [mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity](https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html)
-  - Confidence: 🟫 LOW
-  - _Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA)_
-
-- [UK school estate hit by 3AM ransomware in suspected AI-assisted attack](https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/)
-  - Confidence: 🟫 LOW
-  - _A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]_
-
-- [Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028](https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/)
-  - Confidence: 🟫 LOW
-  - _Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC ro_
-
-- [Barracuda warns of critical flaws allowing root access to devices](https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]_
-
-- [Google: LLMjacking attacks rack up $1 million in cloud AI charges](https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/)
-  - Confidence: 🟫 LOW
-  - _Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]_
-
-- [Binance says fake job interview led to $6.3 billion crypto heist](https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/)
-  - Confidence: 🟫 LOW
-  - _Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure_
-
-- [WorkOS says attacker used ARTEX AI to breach internal sales app](https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/)
-  - Confidence: 🟫 LOW
-  - _Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]_
-
-- [Hackers hijack cPGuard autoupdate to deploy backdoor, steal data](https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/)
-  - Confidence: 🟫 LOW
-  - _Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]_
