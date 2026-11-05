@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-05
-date: 2026-11-05T05:00:57Z
+date: 2026-11-05T13:58:08Z
 type: radar-report
 report_type: fast
-total_opportunities: 109
+total_opportunities: 96
 tags:
   - radar
   - fast
@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 109
+**Total opportunities:** 96
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 97 |
-| 💰 Bug Bounties | 5 |
-| 🏰 CTF Competitions | 4 |
-| 🎓 Free Certifications | 1 |
+| ❓ Uncategorized | 86 |
+| 💰 Bug Bounties | 3 |
+| 🏰 CTF Competitions | 3 |
+| 🎓 Free Certifications | 2 |
 | 🔥 Hackathons & Conferences | 1 |
 | 📦 Open Source Tools | 1 |
 
@@ -36,15 +36,10 @@ tags:
   - Tags: `ctf`, `india_friendly`
   - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/standard-chartered-and-hack-the-box" title=""> <img alt="Standard Chartered and Hack T_
 
-- [Looking for CTF Teammates – Building a Team for Cybersecurity CTFs](https://www.reddit.com/r/hackthebox/comments/1xn3ppj/looking_for_ctf_teammates_building_a_team_for/)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Neat-Reflection7549"> /u/Neat-Reflection7549 </a> <br /> <span><a href="/r/securityCTF/comments/1xkhe6n/looking_for_ctf_teammates_building_
-
-- [Failed My First CWES attemp asking for areas to improve to be able to get the rest of the flags](https://www.reddit.com/r/hackthebox/comments/1xm6slb/failed_my_first_cwes_attemp_asking_for_areas_to/)
+- [Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution](https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
-  - _<!-- SC_OFF --><div class="md"><h1>The Exam</h1> <p>Honestly going into the exam I was a bit scared (due to notorious reputation of hackthebox exams) but still went into very excited and boy did this _
+  - _Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found.  The exploit lets anyone_
 
 ## 💰 Bug Bounties
 
@@ -58,22 +53,17 @@ tags:
   - Tags: `bug_bounty`
   - _You can now escalate HTTP header injection to a CRLF-Powered Desync and exploit it to serve random users a redirect to your collaborator, in a single prompt. We’ve just introduced a new scan check for_
 
-- [Going for HTB CDSA, what actually helped you pass?](https://www.reddit.com/r/hackthebox/comments/1xn9oks/going_for_htb_cdsa_what_actually_helped_you_pass/)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`, `audit_contest`, `india_friendly`
-  - _<!-- SC_OFF --><div class="md"><p>Hey all,</p> <p>I've started preparing for the HTB Certified Defensive Security Analyst (CDSA) and want to plan my prep properly before I book the exam. If you've tak_
-
-- [The AI Pentesting wave. Pay for effort vs pay for impact.](https://www.intigriti.com/blog/business-insights/the-ai-pentesting-wave-pay-for-effort-vs-pay-for-impact)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _For the last year, a version of the same conversation has followed me from customer calls to conference hallways and back into internal meetings. I get asked, usually with a mix of both curiosity and _
-
-- [The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)](https://isc.sans.edu/diary/rss/33488)
+- [OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run](https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
-  - _<p>One of the early web application vulnerabilities I remember was CVE-2000-0411 &#x5b;CVE&#x5d;. This was a simple vulnerability in a CGI-bin script used to send e-mail. The vulnerability was pretty _
+  - _OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1._
 
 ## 🎓 Free Certifications
+
+- [ISC Stormcast For Thursday, November 5th, 2026 https://isc.sans.edu/podcastdetail/10166, (Thu, Nov 5th)](https://isc.sans.edu/diary/rss/33490)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 - [Live Q&A: CISSP exam prep with ISC2 experts](https://www.helpnetsecurity.com/2026/11/04/isc2-cissp-exam-prep-webinar/)
   - Confidence: 🟢 HIGH
@@ -95,6 +85,30 @@ tags:
   - _<p>One of our team members recently took (and passed!) <strong>OffSec</strong>&rsquo;s advanced penetration testing course &amp; exam, <strong><a href="https://www.offsec.com/courses/pen-300/?utm_sour_
 
 ## ❓ Uncategorized
+
+- [Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says](https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (K_
+
+- [CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access](https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html)
+  - Confidence: 🟫 LOW
+  - _The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Fin_
+
+- [Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content](https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html)
+  - Confidence: 🟫 LOW
+  - _Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3.  The change specifically applies to scena_
+
+- [5 Active Cyber Threats That Put US Enterprises at Risk in October 2026](https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html)
+  - Confidence: 🟫 LOW
+  - _October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enter_
+
+- [Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out](https://thehackernews.com/2026/11/is-your-exposure-management-platform.html)
+  - Confidence: 🟫 LOW
+  - _A critical finding can move through several security tools and still leave the organization exposed.&nbsp;  The vulnerability has a severity score, and a ticket has reached the queue. Progress then de_
+
+- [GhostMap Android flaw lets malicious app trigger persistent boot loop](https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/)
+  - Confidence: 🟫 LOW
+  - _Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]_
 
 - [How are overlay tools detected?](https://www.reddit.com/r/hacking/comments/1xnnqh2/how_are_overlay_tools_detected/)
   - Confidence: 🟫 LOW
@@ -415,71 +429,3 @@ tags:
 - [Vercel rolls out new protection against stolen session cookie attacks](https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/)
   - Confidence: 🟫 LOW
   - _Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]_
-
-- [CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades](https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitatio_
-
-- [Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction](https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html)
-  - Confidence: 🟫 LOW
-  - _A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its&nbsp;November security bulletin.  The flaw, CVE-2026-58868, affects Android _
-
-- [Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure](https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html)
-  - Confidence: 🟫 LOW
-  - _Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure.  Also known as Fluffy Wolf, the threat actor has a history of _
-
-- [China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor](https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html)
-  - Confidence: 🟫 LOW
-  - _A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Meth_
-
-- [Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It](https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html)
-  - Confidence: 🟫 LOW
-  - _Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway _
-
-- [Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory](https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html)
-  - Confidence: 🟫 LOW
-  - _Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0.  Dom0 is the VM that, by default, has full perm_
-
-- [Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads](https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html)
-  - Confidence: 🟫 LOW
-  - _A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rai_
-
-- [Waiting for CDSA Results – How Long Did It Take You?](https://www.reddit.com/r/hackthebox/comments/1xlzj56/waiting_for_cdsa_results_how_long_did_it_take_you/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone! For those who have already taken the CDSA exam, could you share how many days it took to receive your results after submitting the exam?</p> <p>Just try_
-
-- [walkthroughs](https://www.reddit.com/r/hackthebox/comments/1xma4fm/walkthroughs/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi! Anyone have the walkthroughs of the easy retired machines?</p> <p>Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/C_
-
-- [HTB Academy: Upgrade from Gold to Platinum?](https://www.reddit.com/r/hackthebox/comments/1xmshmg/htb_academy_upgrade_from_gold_to_platinum/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hey everyone! I’m thinking about upgrading from HTB Academy Gold to Platinum. Do you think it’s worth the upgrade? What are your experiences? At the moment, there isn_
-
-- [Pwn3d Infiltrator!!](https://www.reddit.com/r/hackthebox/comments/1xmqfpk/pwn3d_infiltrator/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1xmqfpk/pwn3d_infiltrator/"> <img alt="Pwn3d Infiltrator!!" src="https://preview.redd.it/6hcihwuwtdzh1.png?width=640&amp;crop=sma_
-
-- [Cracked a box alone for the first time](https://www.reddit.com/r/hackthebox/comments/1xmzjqk/cracked_a_box_alone_for_the_first_time/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Finally, I've done it. Cracked the retired box Devhub without the help of any walkthroughs! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.re_
-
-- [CJCA Exam Reflections](https://www.reddit.com/r/hackthebox/comments/1xnkmqn/cjca_exam_reflections/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello friends</p> <p>For those doing CJCA, I wrote 2x articles on my blog, to assist and guide those who struggle and have unanswered questions.</p> <p>Please feel fr_
-
-- [Will we ever get an AI blue teamer path?](https://www.reddit.com/r/hackthebox/comments/1xnf92a/will_we_ever_get_an_ai_blue_teamer_path/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I know HTBs whole thing is hacking stuff, and learning offensive tradecraft builds a great understanding of how things work. But companies don't need AI pentesters en_
-
-- [Hackers use n-day exploits in zero-click attacks on iOS, Android devices](https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/)
-  - Confidence: 🟫 LOW
-  - _A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]_
-
-- [CISA flags WordPress RCE flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [..._
-
-- [US charges two Canadians accused of hacking US universities](https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/)
-  - Confidence: 🟫 LOW
-  - _A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]_
