@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-06
-date: 2026-11-06T04:59:23Z
+date: 2026-11-06T13:43:30Z
 type: radar-report
 report_type: fast
-total_opportunities: 67
+total_opportunities: 54
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 67
+**Total opportunities:** 54
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 59 |
+| ❓ Uncategorized | 46 |
 | 🎓 Free Certifications | 5 |
 | 💰 Bug Bounties | 2 |
 | 🏰 CTF Competitions | 1 |
@@ -69,6 +69,38 @@ tags:
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## ❓ Uncategorized
+
+- [Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login](https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html)
+  - Confidence: 🟫 LOW
+  - _Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required.  The company released _
+
+- [Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs](https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html)
+  - Confidence: 🟫 LOW
+  - _A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week.  The backdoored web_
+
+- [Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services](https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html)
+  - Confidence: 🟫 LOW
+  - _Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for _
+
+- [The Flood is Coming And The Pipes Were Already Full](https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html)
+  - Confidence: 🟫 LOW
+  - _An update on Athena, and some unsolicited predictions on what's coming next  On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the _
+
+- [Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers](https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html)
+  - Confidence: 🟫 LOW
+  - _A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test.  The a_
+
+- [Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It](https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html)
+  - Confidence: 🟫 LOW
+  - _A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates.  The fixed build, _
+
+- [MetaMask says recent attack didn't affect wallet infrastructure](https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/)
+  - Confidence: 🟫 LOW
+  - _Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]_
+
+- [D-Link warns of multiple zero-days in DGS-3130 Series switches](https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/)
+  - Confidence: 🟫 LOW
+  - _D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]_
 
 - [FBI, CISA warn of cyberattacks targeting refrigeration systems](https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/)
   - Confidence: 🟫 LOW
@@ -221,87 +253,3 @@ tags:
 - [GhostMap Android flaw lets malicious app trigger persistent boot loop](https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/)
   - Confidence: 🟫 LOW
   - _Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]_
-
-- [How are overlay tools detected?](https://www.reddit.com/r/hacking/comments/1xnnqh2/how_are_overlay_tools_detected/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>i am working on an app but other apps are detecting that overlay tool, just interested in how these apps detect that tool</p> </div><!-- SC_ON --> &#32; submitted by _
-
-- [Russia-linked APT29 used hacked sites, cloned domains and the Plerdy tracker to serve patched-flaw exploits to out-of-date iPhones and Android phones.](https://www.reddit.com/r/hacking/comments/1xnwxwm/russialinked_apt29_used_hacked_sites_cloned/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1xnwxwm/russialinked_apt29_used_hacked_sites_cloned/"> <img alt="Russia-linked APT29 used hacked sites, cloned domains and the Plerd_
-
-- [The Binance theft started as a coding assignment. I’ve been sent the same kind of repo all year. All were exploits.](https://www.reddit.com/r/hacking/comments/1xnfm9t/the_binance_theft_started_as_a_coding_assignment/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Binance said this week that the October 29 theft, about $6.3 billion, began months earlier with a fake job. Reuters, via NBC: in June a wallet engineer installed a ta_
-
-- [Expanding the Cyber Verification Program](https://www.reddit.com/r/cybersecurity/comments/1xo6008/expanding_the_cyber_verification_program/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xo6008/expanding_the_cyber_verification_program/"> <img alt="Expanding the Cyber Verification Program" src="https://external-_
-
-- [Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You](https://www.reddit.com/r/cybersecurity/comments/1xmw0vl/selfemployed_solopreneur_nist_has_a_cybersecurity/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xmw0vl/selfemployed_solopreneur_nist_has_a_cybersecurity/"> <img alt="Self-Employed? Solopreneur? NIST Has a Cybersecurity Gu_
-
-- [Meta Product Security Engineer Intern Interview](https://www.reddit.com/r/cybersecurity/comments/1xnukj7/meta_product_security_engineer_intern_interview/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi, I was wondering if anyone has any info on Metas coding interview. I've seen post saying they give easy and medium leetcodes. Does anyone have any extra info? </p>_
-
-- [Help us feedback for our project](https://www.reddit.com/r/cybersecurity/comments/1xnkero/help_us_feedback_for_our_project/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xnkero/help_us_feedback_for_our_project/"> <img alt="Help us feedback for our project" src="https://external-preview.redd.it/_
-
-- [Has anyone joined Sarvesh Murali’s MyFirstHack cybersecurity community or SOC internship? Looking for honest reviews.](https://www.reddit.com/r/cybersecurity/comments/1xnyy01/has_anyone_joined_sarvesh_muralis_myfirsthack/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/cyberghostsix"> /u/cyberghostsix </a> <br /> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1xnyy01/has_anyone_joined_sarv_
-
-- [Assist an artist-spearphishing](https://www.reddit.com/r/cybersecurity/comments/1xneelc/assist_an_artistspearphishing/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi, I'm very out of my depth here. So I apologize if what I'm asking makes no sense.</p> <p>My dad works in infosec, and is the chief officer of it at the current pla_
-
-- [SpiderFoot in Kali Linux 🔍 | OSINT Reconnaissance & IP Geolocation Tutorial spiderfoot](https://www.reddit.com/r/cybersecurity/comments/1xo9tq1/spiderfoot_in_kali_linux_osint_reconnaissance_ip/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xo9tq1/spiderfoot_in_kali_linux_osint_reconnaissance_ip/"> <img alt="SpiderFoot in Kali Linux 🔍 | OSINT Reconnaissance &amp; _
-
-- [[Academic Research] Help collect data for ransomware research](https://www.reddit.com/r/cybersecurity/comments/1xnohfs/academic_research_help_collect_data_for/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Help me collect data about ransomware for my PhD. I'm a CISSP, CISM, Sec+, &amp; doctoral candidate at Capitol Technology University, MD. I'm researching which securi_
-
-- [estou precisando de info](https://www.reddit.com/r/cybersecurity/comments/1xo85qo/estou_precisando_de_info/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>preciso de uma ia que adicione o consultavel de cpf ao meu deck em python parecido com msf console do kali linux, nao consigo pois nao podem trabalhar adicionando bas_
-
-- [Masters GRC/Audit](https://www.reddit.com/r/cybersecurity/comments/1xnnqdg/masters_grcaudit/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I currently work as a broad Cybersecurity Analyst, occasionally on call to handle incidents, a little bit of engineering of SIEM tools, policy management . I have a d_
-
-- [Supply Chain Attack targeting the Goddess of Victory: NIKKE PC launcher.](https://www.reddit.com/r/cybersecurity/comments/1xnepum/supply_chain_attack_targeting_the_goddess_of/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xnepum/supply_chain_attack_targeting_the_goddess_of/"> <img alt="Supply Chain Attack targeting the Goddess of Victory: NIKKE _
-
-- [Any Cybersecurity seminar or convention in PH?](https://www.reddit.com/r/cybersecurity/comments/1xo7vq6/any_cybersecurity_seminar_or_convention_in_ph/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hi just would like to know if there are any seminars and cybersecurity in the philippines and which group is more okay when it comes to exposure? I am exploring cyber_
-
-- [Bank hit by botnet on OTP SMS endpoint. Motivation + defense ideas?](https://www.reddit.com/r/cybersecurity/comments/1xnlkjg/bank_hit_by_botnet_on_otp_sms_endpoint_motivation/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>I had a call with a colleague who works at a bank, and he said they faced a sophisticated botnet attack on their OTP endpoint. The main challenge was the huge number _
-
-- [GitHub - kamehameha-ctrl/sniperscope: SniperScope is a high-performance External Attack Surface Management (EASM), passive/active OSINT intelligence, and forensic reporting workstation designed for cybersecurity auditors, SOC analysts, and penetration testers.](https://www.reddit.com/r/cybersecurity/comments/1xnli2w/github_kamehamehactrlsniperscope_sniperscope_is_a/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xnli2w/github_kamehamehactrlsniperscope_sniperscope_is_a/"> <img alt="GitHub - kamehameha-ctrl/sniperscope: SniperScope is a _
-
-- [Controls to prevent Nous Hermes](https://www.reddit.com/r/cybersecurity/comments/1xo8pxh/controls_to_prevent_nous_hermes/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>My apologies if this isn't the place to talk about operational cyber, not really sure where to post this. </p> <p>While we have policies that disallow use of Hermes (_
-
-- [Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root](https://www.reddit.com/r/cybersecurity/comments/1xnvu5j/debian_and_ubuntu_apt_flaw_lets_mitm_attackers/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1xnvu5j/debian_and_ubuntu_apt_flaw_lets_mitm_attackers/"> <img alt="Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verifi_
-
-- [Cops bust botnet of 1.3M infected Android TV boxes](https://www.reddit.com/r/cybersecurity/comments/1xmxlv4/cops_bust_botnet_of_13m_infected_android_tv_boxes/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Major-Ferret5689"> /u/Major-Ferret5689 </a> <br /> <span><a href="https://www.theregister.com/cyber-crime/2026/11/02/cops-bust-botnet-of-1_
-
-- [MTTR/MTTD does it still matter](https://www.reddit.com/r/cybersecurity/comments/1xo13pi/mttrmttd_does_it_still_matter/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>If most people are using third party Managed Detection and Response do these metrics still matter. With MDR everything is triaged and if malicious isolated and blocke_
