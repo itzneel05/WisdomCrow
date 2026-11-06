@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-06
-date: 2026-11-06T13:43:30Z
+date: 2026-11-06T22:43:13Z
 type: radar-report
 report_type: fast
-total_opportunities: 54
+total_opportunities: 65
 tags:
   - radar
   - fast
@@ -13,33 +13,38 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 54
+**Total opportunities:** 65
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 46 |
-| 🎓 Free Certifications | 5 |
+| ❓ Uncategorized | 57 |
+| 🎓 Free Certifications | 4 |
 | 💰 Bug Bounties | 2 |
-| 🏰 CTF Competitions | 1 |
+| 🏰 CTF Competitions | 2 |
 
 ## 🏰 CTF Competitions
 
-- [Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution](https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html)
+- [After Black October: The New Climate](https://www.hackthebox.com/blog/after-black-october-the-new-climate)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/after-black-october-the-new-climate" title=""> <img alt="After Black October: The New _
+
+- [Lost 25 year old](https://www.reddit.com/r/hackthebox/comments/1xowv8z/lost_25_year_old/)
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
-  - _Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found.  The exploit lets anyone_
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Striking_Potential66"> /u/Striking_Potential66 </a> <br /> <span><a href="/r/tryhackme/comments/1xonqsj/lost_25_year_old/">[link]</a></spa_
 
 ## 💰 Bug Bounties
+
+- [OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits](https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in mode_
 
 - [Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction](https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
   - _Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.  Lockdown Mode was introduced by the arti_
-
-- [OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run](https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1._
 
 ## 🎓 Free Certifications
 
@@ -63,12 +68,75 @@ tags:
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _<p>This morning, I was browsing our honeypot data for any new and existing PHP exploit attempts. Instead, I first ran into some GeoServer exploits, but found them to be too boring to write up. This Ci_
 
-- [ISC Stormcast For Thursday, November 5th, 2026 https://isc.sans.edu/podcastdetail/10166, (Thu, Nov 5th)](https://isc.sans.edu/diary/rss/33490)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot](https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian.  The vulnerability,_
+
+- [Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time](https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html)
+  - Confidence: 🟫 LOW
+  - _Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it.  The update that installs th_
+
+- [Help with .ovpn issues](https://www.reddit.com/r/hackthebox/comments/1xoz06j/help_with_ovpn_issues/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I have been having issues with the .ovpn files. I’ve downloaded machines_us-X.ovpn for both the UDP and TCP versions and neither of them are able to connect. I’ve als_
+
+- [Does HTB plan any further AI certifications?](https://www.reddit.com/r/hackthebox/comments/1xouzk6/does_htb_plan_any_further_ai_certifications/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Question see title, and what would be your topic whishes for it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CarolinZoebele_
+
+- [CPTS exam advice!!](https://www.reddit.com/r/hackthebox/comments/1xomks9/cpts_exam_advice/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I will sit for CPTS exam tomorrow. I need some advices!!</p> <p>Should i use HTB’s Pwnbox or my own machine? I practiced the whole thing on pwnbox so far… </p> <p>Mus_
+
+- [HTB CWES EXAM ADVICE!](https://www.reddit.com/r/hackthebox/comments/1xozt3s/htb_cwes_exam_advice/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I will sit in the Hack the Box CWES exam day after tomorrow. Please suggest how to approach the exam and any current last-minute prep suggestions to get through it. A_
+
+- [I feel very frustrated](https://www.reddit.com/r/hackthebox/comments/1xou1qy/i_feel_very_frustrated/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hello everyone, today I tried to make the machine connected and in the end I did not achieve the initial access by itself I had to resort to a writing, I feel so much_
+
+- [CRTP, CPTS or Something else? (Can't go for Expensive Certs Rn.)](https://www.reddit.com/r/hackthebox/comments/1xp95to/crtp_cpts_or_something_else_cant_go_for_expensive/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I have the option to pursue either CRTP (Altered Security) or CPTS (Hack The Box), but I'm confused about which would be more valuable when apply_
+
+- [DANTE cooked!](https://www.reddit.com/r/hackthebox/comments/1xoz76j/dante_cooked/)
+  - Confidence: 🟫 LOW
+  - _<table> <tr><td> <a href="https://www.reddit.com/r/hackthebox/comments/1xoz76j/dante_cooked/"> <img alt="DANTE cooked!" src="https://preview.redd.it/ggktzxjg1wzh1.jpeg?width=640&amp;crop=smart&amp;aut_
+
+- [How to start in htb? Read body and please suggest](https://www.reddit.com/r/hackthebox/comments/1xpfy34/how_to_start_in_htb_read_body_and_please_suggest/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I use to watch ippsec videos before covid and used to practice alongside with it. Now i want to again start. What would be right step here? Has the method changed or _
+
+- [Chainalysis says breach exposed credentials for all customers](https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/)
+  - Confidence: 🟫 LOW
+  - _Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]_
+
+- [IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It](https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/)
+  - Confidence: 🟫 LOW
+  - _IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]_
+
+- [Veeam warns of Software Appliance boot failures on AMD EPYC hosts](https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/)
+  - Confidence: 🟫 LOW
+  - _​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]_
+
+- [QNAP says hackers breaching NAS devices in Plex2Shell attacks](https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/)
+  - Confidence: 🟫 LOW
+  - _QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]_
+
+- [Fake security tools on GitHub push backdoors and infostealers](https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]_
+
+- [OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs](https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/)
+  - Confidence: 🟫 LOW
+  - _OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Lin_
+
+- [Runaway AI hacking agent behind WorkOS breach after escaping sandbox](https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/)
+  - Confidence: 🟫 LOW
+  - _WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing env_
 
 - [Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login](https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html)
   - Confidence: 🟫 LOW
@@ -229,27 +297,3 @@ tags:
 - [Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts](https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/)
   - Confidence: 🟫 LOW
   - _Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google accoun_
-
-- [Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says](https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (K_
-
-- [CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access](https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html)
-  - Confidence: 🟫 LOW
-  - _The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Fin_
-
-- [Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content](https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html)
-  - Confidence: 🟫 LOW
-  - _Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3.  The change specifically applies to scena_
-
-- [5 Active Cyber Threats That Put US Enterprises at Risk in October 2026](https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html)
-  - Confidence: 🟫 LOW
-  - _October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enter_
-
-- [Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out](https://thehackernews.com/2026/11/is-your-exposure-management-platform.html)
-  - Confidence: 🟫 LOW
-  - _A critical finding can move through several security tools and still leave the organization exposed.&nbsp;  The vulnerability has a severity score, and a ticket has reached the queue. Progress then de_
-
-- [GhostMap Android flaw lets malicious app trigger persistent boot loop](https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/)
-  - Confidence: 🟫 LOW
-  - _Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]_
