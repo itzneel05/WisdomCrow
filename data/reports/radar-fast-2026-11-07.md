@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-07
-date: 2026-11-07T04:32:05Z
+date: 2026-11-07T12:25:17Z
 type: radar-report
 report_type: fast
-total_opportunities: 64
+total_opportunities: 63
 tags:
   - radar
   - fast
@@ -13,15 +13,15 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 64
+**Total opportunities:** 63
 
 | Category | Count |
 |----------|-------|
 | ❓ Uncategorized | 54 |
 | 🏰 CTF Competitions | 4 |
 | 📦 Open Source Tools | 3 |
-| 🎓 Free Certifications | 2 |
 | 💰 Bug Bounties | 1 |
+| 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -59,11 +59,6 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>AI adoption a workforce-design decision especially in cybersecurity roles and a traditional workforce strategy. Learn more. </p> <p>The post <a href="https://www.offsec.com/blog/what-ai-changes-abo_
 
-- [ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)](https://isc.sans.edu/diary/rss/33494)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## 📦 Open Source Tools
 
 - [Metasploit Wrapup: Unauth RCE modules in Network Perimeter Devices and much more](https://www.rapid7.com/blog/post/pt-metasploit-wrapup-unauth-rce-modules-in-network-perimeter-devices-and-much-more)
@@ -81,6 +76,10 @@ tags:
   - _Read-only check for traces of the November 2026 NIKKE PC launcher compromise. Windows, Linux (Proton, Steam Deck) and macOS._
 
 ## ❓ Uncategorized
+
+- [Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html)
+  - Confidence: 🟫 LOW
+  - _Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.  When a user selects "Yes, and don't ask _
 
 - [SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/)
   - Confidence: 🟫 LOW
@@ -293,7 +292,3 @@ tags:
 - [D-Link warns of multiple zero-days in DGS-3130 Series switches](https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/)
   - Confidence: 🟫 LOW
   - _D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]_
-
-- [FBI, CISA warn of cyberattacks targeting refrigeration systems](https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/)
-  - Confidence: 🟫 LOW
-  - _The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [_
