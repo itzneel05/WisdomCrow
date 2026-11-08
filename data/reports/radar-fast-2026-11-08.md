@@ -1,6 +1,6 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-08
-date: 2026-11-08T12:43:47Z
+date: 2026-11-08T21:40:17Z
 type: radar-report
 report_type: fast
 total_opportunities: 11
@@ -34,6 +34,14 @@ tags:
 
 ## ❓ Uncategorized
 
+- [Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)](https://isc.sans.edu/diary/rss/33498)
+  - Confidence: 🟫 LOW
+  - _<p>Our honeypots use "Cowrie" to collect SSH data. With the emergence of the "sshole" vulnerability last week, we are now seeing an increase in attempts to exploit the vulnerability. Our data is a bit_
+
+- [Iris Ohyama data cloud breach exposes info of 7.7 million customers](https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/)
+  - Confidence: 🟫 LOW
+  - _Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized _
+
 - [Who else is studying for the OSCP in Vienna?](https://www.reddit.com/r/tryhackme/comments/1xpeoz8/who_else_is_studying_for_the_oscp_in_vienna/)
   - Confidence: 🟫 LOW
   - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/AdNo9383"> /u/AdNo9383 </a> <br /> <span><a href="/r/Pentesting/comments/1xpeodo/who_else_is_studying_for_the_oscp_in_vienna/">[link]</a><_
@@ -61,11 +69,3 @@ tags:
 - [SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/)
   - Confidence: 🟫 LOW
   - _<p>CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA.</p> <p>The post <a href="https://www.securityweek.com/sonicwall-_
-
-- [CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands](https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/)
-  - Confidence: 🟫 LOW
-  - _Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these c_
-
-- [Hackers pull off $133 million French bank heist via service provider](https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/)
-  - Confidence: 🟫 LOW
-  - _French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]_
