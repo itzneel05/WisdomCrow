@@ -1,6 +1,6 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-10
-date: 2026-11-10T14:18:17Z
+date: 2026-11-10T22:49:40Z
 type: radar-report
 report_type: fast
 total_opportunities: 78
@@ -17,10 +17,10 @@ tags:
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 68 |
-| 🏰 CTF Competitions | 3 |
-| 🎓 Free Certifications | 3 |
-| 💰 Bug Bounties | 2 |
+| ❓ Uncategorized | 69 |
+| 💰 Bug Bounties | 3 |
+| 🏰 CTF Competitions | 2 |
+| 🎓 Free Certifications | 2 |
 | 🔥 Hackathons & Conferences | 2 |
 
 ## 🏰 CTF Competitions
@@ -30,11 +30,6 @@ tags:
   - Tags: `ctf`, `india_friendly`
   - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/hack-the-box-and-remotethreat-partner" title=""> <img alt="Hack The Box and RemoteThre_
 
-- [What building a realistic Azure attack environment teaches you about cloud security](https://www.hackthebox.com/blog/building-a-realistic-azure-attack-environment)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`, `india_friendly`
-  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/building-a-realistic-azure-attack-environment" title=""> <img alt="What building a rea_
-
 - [SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution](https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html)
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
@@ -42,15 +37,20 @@ tags:
 
 ## 💰 Bug Bounties
 
+- [The pinnacle of crowdsourced security. What a live hacking event with Intigriti can do for businesses](https://www.intigriti.com/blog/business-insights/the-pinnacle-of-crowdsourced-security-what-a-live-hacking-event-with-intigriti-ca)
+  - Confidence: 🟢 HIGH
+  - Tags: `bug_bounty`, `india_friendly`
+  - _Intigriti typically runs two types of hacking events. Live hacking events are targeted engagements where hand-picked ethical hackers are invited to hunt for vulnerabilities in a specific company’s sys_
+
+- [Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor](https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `bug_bounty`
+  - _Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant.  The activity, observed by Huntress in early_
+
 - [N-able takes cloud platform offline after 30+ "zero-days" published](https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/)
   - Confidence: 🟡 MEDIUM
   - Tags: `bug_bounty`
   - _N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulne_
-
-- [Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars](https://thehackernews.com/2026/11/default-adminadmin-server-password.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected c_
 
 ## 🎓 Free Certifications
 
@@ -63,11 +63,6 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
   - _<p>From 2006's cybercrime economy to today's AI threats, every era brought a harder level. Celebrate 20 years with 20% off Learn One.</p> <p>The post <a href="https://www.offsec.com/blog/level-20-20-y_
-
-- [Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room](https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty.  According to reports from Bloomberg and CNBC, _
 
 ## 🔥 Hackathons & Conferences
 
@@ -82,6 +77,74 @@ tags:
   - _Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days of cutting-edge research, technical exchange and st_
 
 ## ❓ Uncategorized
+
+- [Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats](https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html)
+  - Confidence: 🟫 LOW
+  - _Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month&nbsp; uncovered further malicious activity, affecting account and billing information, _
+
+- [Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America](https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html)
+  - Confidence: 🟫 LOW
+  - _The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access t_
+
+- [Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem](https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html)
+  - Confidence: 🟫 LOW
+  - _Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities,_
+
+- [Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access](https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html)
+  - Confidence: 🟫 LOW
+  - _French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.  The authentication bypass flaw, which does not_
+
+- [SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users](https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html)
+  - Confidence: 🟫 LOW
+  - _An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.  The attacker could also have seen reques_
+
+- [Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones](https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html)
+  - Confidence: 🟫 LOW
+  - _A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with match_
+
+- [Microsoft Patch Tuesday November 2027 , (Tue, Nov 10th)](https://isc.sans.edu/diary/rss/33508)
+  - Confidence: 🟫 LOW
+  - _<p>Microsoft continues its AI-induced patch surge, addressing 1,260 different vulnerabilities this month. 68 of these vulnerabilities are considered critical. 167 of the vulnerabilities are Chromium i_
+
+- [Microsoft Fixes Nearly 1,100 Security Vulnerabilities](https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/)
+  - Confidence: 🟫 LOW
+  - _Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday ad_
+
+- [Ransomware recovery is now a client retention metric](https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/)
+  - Confidence: 🟫 LOW
+  - _Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery_
+
+- [Binance warns of iOS flaw that could leak crypto wallet secrets](https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/)
+  - Confidence: 🟫 LOW
+  - _Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, se_
+
+- [Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers](https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/)
+  - Confidence: 🟫 LOW
+  - _A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [..._
+
+- [Windows 11 KB5132061 & KB5131087 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]_
+
+- [Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/)
+  - Confidence: 🟫 LOW
+  - _Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]_
+
+- [Hackers exploit trusted AWS access to breach multiple cloud environments](https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/)
+  - Confidence: 🟫 LOW
+  - _A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [_
+
+- [Microsoft releases Windows 10 KB5131096 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/)
+  - Confidence: 🟫 LOW
+  - _Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]_
+
+- [Japanese furniture giant Nitori says hackers stole 37.6M customer records](https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/)
+  - Confidence: 🟫 LOW
+  - _Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]_
+
+- [Railway breach leads to $740,000 in fraudulent AI charges](https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/)
+  - Confidence: 🟫 LOW
+  - _Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potenti_
 
 - [CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws](https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html)
   - Confidence: 🟫 LOW
@@ -290,67 +353,3 @@ tags:
 - [Vanderbilt University hit in BYOD ransomware attack, data theft claimed](https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/)
   - Confidence: 🟫 LOW
   - _Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and_
-
-- [CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation](https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following rep_
-
-- [U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses](https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html)
-  - Confidence: 🟫 LOW
-  - _U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazard_
-
-- [Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records](https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html)
-  - Confidence: 🟫 LOW
-  - _A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week.  The agents also found a Taipei fire _
-
-- [LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks](https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html)
-  - Confidence: 🟫 LOW
-  - _Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday.  It has several security fixe_
-
-- [Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety](https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html)
-  - Confidence: 🟫 LOW
-  - _Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker.  Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The at_
-
-- [⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More](https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html)
-  - Confidence: 🟫 LOW
-  - _A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep syst_
-
-- [ARTEX attack](https://www.reddit.com/r/netsec/comments/1xqmhgk/artex_attack/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Has anyone heard of this?</p> <p><a href="https://blog.gitguardian.com/the-agents-have-now-found-your-secrets-on-github-artex-is-abusing-public-secrets-right-now/">ht_
-
-- [email encryption](https://www.reddit.com/r/netsec/comments/1xr1qpe/email_encryption/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/fagnerbrack"> /u/fagnerbrack </a> <br /> <span><a href="https://computer.rip/2026-07-19-email-encryption.html">[link]</a></span> &#32; <sp_
-
-- [Pwning Home Assistant Green: Pre-Auth RCE in Eclipse Mosquitto](https://www.reddit.com/r/netsec/comments/1xr33yo/pwning_home_assistant_green_preauth_rce_in/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/parzel"> /u/parzel </a> <br /> <span><a href="https://born0monday.me/posts/ha-green-mosquitto-rce/">[link]</a></span> &#32; <span><a href=_
-
-- [I spent countless nights digging into PHP2Shell. Here's a deep dive into how it actually works, from memory to PHP internals to a real exploit.](https://www.reddit.com/r/netsec/comments/1xqlw37/i_spent_countless_nights_digging_into_php2shell/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>When the PHP vulnerabilities were first announced, I spent a HUGE amount of time trying to figure out the logic behind them.</p> <p>As many others who tried investiga_
-
-- [A Boolean PII Flag Is Not Enough](https://www.reddit.com/r/netsec/comments/1xrht5t/a_boolean_pii_flag_is_not_enough/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/fagnerbrack"> /u/fagnerbrack </a> <br /> <span><a href="https://kore-nordmann.de/blog/a-boolean-pii-flag-is-not-enough.html">[link]</a></s_
-
-- [Tricking Deepseek Into Not Hacking Your Website](https://www.reddit.com/r/netsec/comments/1xr332o/tricking_deepseek_into_not_hacking_your_website/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/utku1337"> /u/utku1337 </a> <br /> <span><a href="https://utkusen.substack.com/p/tricking-deepseek-into-not-hacking">[link]</a></span> &#3_
-
-- [Certificate authority list: every CA's incident record since 2017](https://www.reddit.com/r/netsec/comments/1xrsyyg/certificate_authority_list_every_cas_incident/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>CAs found 17% of their own incidents in 2026 so far, down from 29% last year and 59% in 2022. Researchers, root programs, and other outsiders found the rest.</p> <p>T_
-
-- [Ukraine dismantles crypto scam network that stole €4.3 million](https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/)
-  - Confidence: 🟫 LOW
-  - _Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]_
-
-- [US bans MEXC crypto exchange over sanctions evasion, cybercrime links](https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/)
-  - Confidence: 🟫 LOW
-  - _The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]_
-
-- [FBI agent stole $2.5 million in crypto from hackers under investigation](https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/)
-  - Confidence: 🟫 LOW
-  - _A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]_
