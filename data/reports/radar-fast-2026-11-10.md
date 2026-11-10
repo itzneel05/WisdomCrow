@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-10
-date: 2026-11-10T01:10:05Z
+date: 2026-11-10T14:18:17Z
 type: radar-report
 report_type: fast
-total_opportunities: 33
+total_opportunities: 78
 tags:
   - radar
   - fast
@@ -13,21 +13,32 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 33
+**Total opportunities:** 78
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 28 |
+| ❓ Uncategorized | 68 |
+| 🏰 CTF Competitions | 3 |
+| 🎓 Free Certifications | 3 |
 | 💰 Bug Bounties | 2 |
-| 🎓 Free Certifications | 2 |
-| 🏰 CTF Competitions | 1 |
+| 🔥 Hackathons & Conferences | 2 |
 
 ## 🏰 CTF Competitions
+
+- [Hack The Box and RemoteThreat Partner to Advance Realistic Evaluation for Human-AI Cyber Operations](https://www.hackthebox.com/blog/hack-the-box-and-remotethreat-partner)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`, `india_friendly`
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/hack-the-box-and-remotethreat-partner" title=""> <img alt="Hack The Box and RemoteThre_
 
 - [What building a realistic Azure attack environment teaches you about cloud security](https://www.hackthebox.com/blog/building-a-realistic-azure-attack-environment)
   - Confidence: 🟢 HIGH
   - Tags: `ctf`, `india_friendly`
   - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/building-a-realistic-azure-attack-environment" title=""> <img alt="What building a rea_
+
+- [SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution](https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score.  Three are in the SAP Ne_
 
 ## 💰 Bug Bounties
 
@@ -43,17 +54,194 @@ tags:
 
 ## 🎓 Free Certifications
 
+- [ISC Stormcast For Tuesday, November 10th, 2026 https://isc.sans.edu/podcastdetail/10172, (Tue, Nov 10th)](https://isc.sans.edu/diary/rss/33504)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
+
+- [LEVEL 20: Same Game. New Level.](https://www.offsec.com/blog/level-20-20-years-of-offsec/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _<p>From 2006's cybercrime economy to today's AI threats, every era brought a harder level. Celebrate 20 years with 20% off Learn One.</p> <p>The post <a href="https://www.offsec.com/blog/level-20-20-y_
+
 - [Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room](https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
   - _The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty.  According to reports from Bloomberg and CNBC, _
 
-- [ISC Stormcast For Monday, November 9th, 2026 https://isc.sans.edu/podcastdetail/10170, (Mon, Nov 9th)](https://isc.sans.edu/diary/rss/33500)
+## 🔥 Hackathons & Conferences
+
+- [AI Security](https://www.schneier.com/blog/archives/2026/11/ai-security.html)
   - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
+  - Tags: `hackathon`, `conference`, `india_friendly`
+  - _<p>Two weeks ago, I attended the <a href="https://unpromptedcon.org/">[un]prompted</a> AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspe_
+
+- [Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India](https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut)
+  - Confidence: 🟢 HIGH
+  - Tags: `hackathon`, `conference`, `india_friendly`
+  - _Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days of cutting-edge research, technical exchange and st_
 
 ## ❓ Uncategorized
+
+- [CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws](https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Expl_
+
+- [N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits](https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html)
+  - Confidence: 🟫 LOW
+  - _N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabil_
+
+- [Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026](https://thehackernews.com/2026/11/google-issues-chrome-security-update.html)
+  - Confidence: 🟫 LOW
+  - _Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild.  The high-severity vulnerability, assigned the CVE identifi_
+
+- [Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark](https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html)
+  - Confidence: 🟫 LOW
+  - _Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision.  During pre-release training, the large language models_
+
+- [France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites](https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html)
+  - Confidence: 🟫 LOW
+  - _An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yest_
+
+- [Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers](https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html)
+  - Confidence: 🟫 LOW
+  - _The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exch_
+
+- [Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities](https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html)
+  - Confidence: 🟫 LOW
+  - _An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that cou_
+
+- [Beyond the Alert: The Case for Rich Network Data](https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html)
+  - Confidence: 🟫 LOW
+  - _At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once_
+
+- [Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed](https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html)
+  - Confidence: 🟫 LOW
+  - _An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malici_
+
+- [Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)](https://isc.sans.edu/diary/rss/33506)
+  - Confidence: 🟫 LOW
+  - _<p> </p>&#xd;_
+
+- [Electron, we have a problem](https://www.reddit.com/r/netsec/comments/1xskopy/electron_we_have_a_problem/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>Many Electron apps auto-update without verifying signatures. Many also still trust the compromised eMudhra certificates. Together, that lets an attacker on your netwo_
+
+- [IP snowshoeing under US .gov email via a whitelisted AmazonSES typo in SPF](https://www.reddit.com/r/netsec/comments/1xry7z3/ip_snowshoeing_under_us_gov_email_via_a/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>I run a small email security consultancy and this is our research. </p> <p>A typo of AmazonSES in US government DNS whitelisted 32,066 IPs to pass DMARC p=quarantine _
+
+- [Fireworks AI discloses new breach after cloud provider hack](https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/)
+  - Confidence: 🟫 LOW
+  - _AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]_
+
+- [Google patches eighth Chrome zero-day exploited in attacks this year](https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/)
+  - Confidence: 🟫 LOW
+  - _Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]_
+
+- [Turla hackers use new Cereal malware to spy on govt Exchange servers](https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/)
+  - Confidence: 🟫 LOW
+  - _The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]_
+
+- [Hackers now exploit critical Barracuda ESG flaws to gain root access](https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. _
+
+- [SAP patches ICM2SHELL and PROXYGATE maximum severity flaws](https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/)
+  - Confidence: 🟫 LOW
+  - _SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]_
+
+- [Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack](https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/)
+  - Confidence: 🟫 LOW
+  - _<p>Working with cryptographers, DeepMind’s AI agents cut the cost of forging RSA-1024 signatures and found a cheaper way to factor keys.</p> <p>The post <a href="https://www.securityweek.com/google-de_
+
+- [Over 3 Million People Hit by Frontline Education Data Breach](https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/)
+  - Confidence: 🟫 LOW
+  - _<p>Frontline Education told Indiana regulators that its August data breach affected over 3 million school district staff and students.</p> <p>The post <a href="https://www.securityweek.com/3-million-p_
+
+- [Amplifon Americas Data Breach Impacts 1.3 Million](https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/)
+  - Confidence: 🟫 LOW
+  - _<p>Hackers stole personal, health, and insurance information, including Social Security numbers, from the company’s internal systems.</p> <p>The post <a href="https://www.securityweek.com/amplifon-ame_
+
+- [Hackers Exploiting ‘SSHole’ Authentication Bypass in OpenSSH](https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/)
+  - Confidence: 🟫 LOW
+  - _<p>The initial exploitation attempts are attributed to botnets and crypto miners, but other threat actors are expected to follow suit.</p> <p>The post <a href="https://www.securityweek.com/hackers-exp_
+
+- [Italy’s Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister’s Data on the Dark Web](https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/)
+  - Confidence: 🟫 LOW
+  - _<p>Italian Foreign Minister Antonio Tajani said Saturday that his personal data had been disseminated on the dark web.</p> <p>The post <a href="https://www.securityweek.com/italys-meloni-blames-pro-ru_
+
+- [Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers](https://www.securityweek.com/iris-plaza-breach-may-have-exposed-data-of-7-7-million-customers/)
+  - Confidence: 🟫 LOW
+  - _<p>Hackers compromised an external cloud service used by the shopping platform and may have stolen personal information from it.</p> <p>The post <a href="https://www.securityweek.com/iris-plaza-breach_
+
+- [Plex2Shell Exploited Against QNAP NAS Users](https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/)
+  - Confidence: 🟫 LOW
+  - _<p>Threat actors are exploiting the four-flaw chain to hack the Plex Media Server application on QNAP NAS devices.</p> <p>The post <a href="https://www.securityweek.com/plex2shell-exploited-against-qn_
+
+- [Revolve Puts Data Breach Victim Count at 1.5 Million](https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/)
+  - Confidence: 🟫 LOW
+  - _<p>Online fashion retailer Revolve has told regulators that the September cyberattack affected more than 1.5 million individuals.</p> <p>The post <a href="https://www.securityweek.com/revolve-puts-dat_
+
+- [An average of 8 minutes is all hackers need to log in with stolen credentials](https://www.helpnetsecurity.com/2026/11/09/elastic-businesses-remote-access-attacks-report/)
+  - Confidence: 🟫 LOW
+  - _<p>Attackers used stolen credentials to log in an average of eight minutes after infection across 27 confirmed infostealer cases, according to a report from Elastic Security Threat Command. Researcher_
+
+- [Companies seeking an MSP doubt their ability to spot cyberattacks](https://www.helpnetsecurity.com/2026/11/09/barracuda-msp-cybersecurity-services-expectations-report/)
+  - Confidence: 🟫 LOW
+  - _<p>Businesses looking to outsource cybersecurity want providers that can help them recover from attacks, manage AI risks, and explain what security problems mean for their operations, according to Bar_
+
+- [Wirken: Open-source AI agent gateway](https://www.helpnetsecurity.com/2026/11/09/wirken-open-source-ai-agent-gateway/)
+  - Confidence: 🟫 LOW
+  - _<p>Wirken is an open-source gateway that sits between messaging apps and AI agents. It assumes any agent can be turned against its owner and limits what a compromised one can reach. Take an agent that_
+
+- [Product showcase: What the Malwarebytes Claude connector reveals about unexpected texts](https://www.helpnetsecurity.com/2026/11/09/product-showcase-malwarebytes-claude-scam-detection/)
+  - Confidence: 🟫 LOW
+  - _<p>The Malwarebytes connector for Claude checks suspicious links, phone numbers, and email addresses without leaving the chat. You can paste a link or upload a screenshot of a message, then ask Claude_
+
+- [$133 million stolen from French bank via exploited service provider](https://www.helpnetsecurity.com/2026/11/09/credit-mutuel-arkea-cyberattack-133-million/)
+  - Confidence: 🟫 LOW
+  - _<p>Attackers siphoned an estimated $133 million from Crédit Mutuel Arkéa by using the bank’s own account to wire money to other banks, from where it was possibly converted into cryptocurrency. The Fre_
+
+- [Exploited SonicWall SSL-VPN flaw lets attackers bypass SAML-enforced MFA (CVE-2026-19868)](https://www.helpnetsecurity.com/2026/11/09/exploited-sonicwall-ssl-vpn-flaw-lets-attackers-bypass-saml-enforced-mfa-cve-2026-19868/)
+  - Confidence: 🟫 LOW
+  - _<p>SonicWall has fixed an exploited SonicOS SSL-VPN vulnerability (CVE-2026-19868) that may allow attackers with valid credentials to bypass SAML-enforced multi-factor authentication. With no workarou_
+
+- [Trio accused of using deepfake CEOs and bogus lawyers to scam businesses out of $129 million](https://www.helpnetsecurity.com/2026/11/09/deepfake-ceo-fraud-129-million-indictment/)
+  - Confidence: 🟫 LOW
+  - _<p>Three men allegedly used deepfakes of company CEOs and law firm attorneys to trick employees into wiring more than $129 million to accounts the group controlled, the Justice Department said. The in_
+
+- [PyPI makes release attestations easier to find with new security tab](https://www.helpnetsecurity.com/2026/11/09/pypi-security-tab-release-attestations/)
+  - Confidence: 🟫 LOW
+  - _<p>The Python Package Index (PyPI) has added a security tab to its project pages, giving developers a place to check where individual release files came from. How PyPI shows where release files came f_
+
+- [Hackers abuse refrigeration controllers to send spam and route proxy traffic](https://www.helpnetsecurity.com/2026/11/09/copeland-xweb-refrigeration-controllers-spam-botnet/)
+  - Confidence: 🟫 LOW
+  - _<p>Internet-exposed refrigeration controllers used in supermarkets and cold storage facilities are being hijacked and turned into infrastructure for a suspected spam botnet and proxy services, Securit_
+
+- [ARTEX goes from pentesting tool to attacker staple in three months](https://www.helpnetsecurity.com/2026/11/09/artex-goes-from-pentesting-tool-to-attacker-staple-in-three-months/)
+  - Confidence: 🟫 LOW
+  - _<p>A security researcher&#8217;s AI agent breached an internal sales application used by WorkOS&#8217;s go-to-market teams, the developer platform provider confirmed on Friday. &#8220;The researcher w_
+
+- [NIST: Solo Shouldn't Mean Less Secure](https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure)
+  - Confidence: 🟫 LOW
+  - _New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight._
+
+- [PwC's CISO on AI, Robots &amp; What's Next for Security](https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security)
+  - Confidence: 🟫 LOW
+  - _As AI accelerates change across the enterprise, PwC's James Shira explains why security teams must rethink their approach to risk and adapt their strategies._
+
+- [Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux](https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux)
+  - Confidence: 🟫 LOW
+  - _Attackers can exploit a flaw in Claude's document-processing tool by creating a temporary file that Anthropic's AI assistant can access and run on a user's machine._
+
+- [Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion](https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion)
+  - Confidence: 🟫 LOW
+  - _Last month, Microsoft disclosed a vulnerability in Microsoft Paint, but messaging regarding a patch was unclear._
+
+- [CISA Announces Enhanced Reporting Form for Cyber Incidents](https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents)
+  - Confidence: 🟫 LOW
+  - _New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize response actions._
 
 - [Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia](https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html)
   - Confidence: 🟫 LOW
