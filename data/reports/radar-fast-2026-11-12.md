@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-12
-date: 2026-11-12T00:01:15Z
+date: 2026-11-12T06:59:31Z
 type: radar-report
 report_type: fast
-total_opportunities: 29
+total_opportunities: 56
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 29
+**Total opportunities:** 56
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 24 |
-| 🎓 Free Certifications | 3 |
+| ❓ Uncategorized | 50 |
+| 🎓 Free Certifications | 4 |
 | 💰 Bug Bounties | 2 |
 
 ## 💰 Bug Bounties
@@ -35,6 +35,16 @@ tags:
 
 ## 🎓 Free Certifications
 
+- [ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)](https://isc.sans.edu/diary/rss/33512)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
+
+- [Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities](https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _<p>The flaws, CVE-2026-111793 and CVE-2026-20320, let attackers leak sensitive information, including configuration data.</p> <p>The post <a href="https://www.securityweek.com/threat-actors-exploit-op_
+
 - [Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches](https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
@@ -45,12 +55,111 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]_
 
-- [ISC Stormcast For Wednesday, November 11th, 2026 https://isc.sans.edu/podcastdetail/10174, (Wed, Nov 11th)](https://isc.sans.edu/diary/rss/33510)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients](https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html)
+  - Confidence: 🟫 LOW
+  - _ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access.  In an advisory posted on its site, the company _
+
+- [Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely](https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html)
+  - Confidence: 🟫 LOW
+  - _A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed i_
+
+- [ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure](https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/)
+  - Confidence: 🟫 LOW
+  - _<p>Pre-Patch Tuesday advisories were published by VDE CERT, Phoenix Contact, Johnson Controls, and Hitachi Energy. </p> <p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-siemens-flag_
+
+- [Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks](https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/)
+  - Confidence: 🟫 LOW
+  - _<p>Created by Zerto and Kashya veterans, the startup has launched a platform designed to recover whole cloud applications. </p> <p>The post <a href="https://www.securityweek.com/dreeze-emerges-from-st_
+
+- [Bay Raises $50 Million to Control What Enterprise AI Agents Can Do](https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/)
+  - Confidence: 🟫 LOW
+  - _<p>Founded by three ex-IDF Unit 8200 intelligence officers, Bay is launched to provide a control plane for AI agents.</p> <p>The post <a href="https://www.securityweek.com/bay-raises-50-million-to-con_
+
+- [Fortinet Patches Nearly 100 Vulnerabilities](https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/)
+  - Confidence: 🟫 LOW
+  - _<p>The massive drop comes after the company integrated frontier AI models into its product security testing.</p> <p>The post <a href="https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabi_
+
+- [Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices](https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/)
+  - Confidence: 🟫 LOW
+  - _<p>The Series C round will fund international expansion and more autonomous features for the firm’s device security platform. </p> <p>The post <a href="https://www.securityweek.com/finite-state-raises_
+
+- [Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities](https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/)
+  - Confidence: 🟫 LOW
+  - _<p>Attackers could exploit the bugs to tamper with certificate entries, achieve remote code execution, and compromise hosts.</p> <p>The post <a href="https://www.securityweek.com/citrix-ivanti-patch-c_
+
+- [Asus, Zoom Release Security Patches](https://www.securityweek.com/asus-zoom-release-security-patches/)
+  - Confidence: 🟫 LOW
+  - _<p>Attackers could exploit them for command execution, memory overwrites, and privilege escalation.</p> <p>The post <a href="https://www.securityweek.com/asus-zoom-release-security-patches/">Asus, Zoo_
+
+- [Critical Xen Orchestra Flaws Exploited in Attacks](https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _<p>A critical authentication bypass allows attackers to execute arbitrary code as admin and take over XCP-ng nodes.</p> <p>The post <a href="https://www.securityweek.com/critical-xen-orchestra-flaws-e_
+
+- [Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online](https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/)
+  - Confidence: 🟫 LOW
+  - _<p>Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the mode_
+
+- [Three People Arrested for AI-Enhanced Impersonation Fraud](https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html)
+  - Confidence: 🟫 LOW
+  - _<p>It&#8217;s hard to believe how lucrative <a href="https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft">this crime</a> can be:</p> <blockquote><p>According to a <a href="https_
+
+- [Orca Security adds visibility into AI-generated code and agent risks](https://www.helpnetsecurity.com/2026/11/11/orca-security-ai-security/)
+  - Confidence: 🟫 LOW
+  - _<p>Orca Security has announced new capabilities to help organizations discover and secure AI-generated applications and autonomous agents across their cloud environments. The expansion builds on Orca’_
+
+- [Fingerprint trains specialized models to detect distinct fraud types](https://www.helpnetsecurity.com/2026/11/11/fingerprint-fraud-score/)
+  - Confidence: 🟫 LOW
+  - _<p>Fingerprint has launched Fraud Score, a predictive fraud signal trained directly on customers’ own fraud outcomes and powered by Fingerprint’s device intelligence and machine learning models. Fraud_
+
+- [Druva helps restore AI agents without rolling back entire environments](https://www.helpnetsecurity.com/2026/11/11/druva-agent-recovery/)
+  - Confidence: 🟫 LOW
+  - _<p>Druva has announced Druva Agent Recovery, a new set of AI Resilience capabilities that keep the business running by quickly restoring AI agents when they are deleted or unexpectedly changed. Suppor_
+
+- [Red Hat OpenShift 5 brings autonomous troubleshooting to hybrid clouds](https://www.helpnetsecurity.com/2026/11/11/red-hat-openshift-5/)
+  - Confidence: 🟫 LOW
+  - _<p>Red Hat has announced the general availability of Red Hat OpenShift 5, bringing built-in operational intelligence, zero trust security and a longer, predictable lifecycle to the hybrid cloud applic_
+
+- [Ubuntu certificate revocation checks arrive in curl, OpenSSL is next](https://www.helpnetsecurity.com/2026/11/11/ubuntu-certificate-revocation-curl-openssl/)
+  - Confidence: 🟫 LOW
+  - _<p>Ubuntu 26.10 ships curl with certificate revocation checking built in. The check comes from upki, a project from the rustls developers. Ubuntu’s developers ran the same curl command on both release_
+
+- [Microsoft researchers demonstrate hidden backdoor technique for AI agents](https://www.helpnetsecurity.com/2026/11/11/microsoft-hidden-ai-backdoors-lazarus/)
+  - Confidence: 🟫 LOW
+  - _<p>Microsoft researchers have demonstrated how small changes to an AI model can implant a hidden backdoor, causing an agent to execute an attacker’s command when a specific trigger appears. The techni_
+
+- [Rubrik enhances DevOps Protection to preserve legitimate work during recovery](https://www.helpnetsecurity.com/2026/11/11/rubrik-devops-protection/)
+  - Confidence: 🟫 LOW
+  - _<p>Rubrik has announced cyber recovery capabilities for DevOps platforms Microsoft Azure DevOps and GitHub. With built-in anomaly detection, blast radius investigation, and surgical recovery, organiza_
+
+- [Embed Security lets analysts teach its AI SOC Platform how to investigate](https://www.helpnetsecurity.com/2026/11/11/embed-security-expands-ai-soc-platform/)
+  - Confidence: 🟫 LOW
+  - _<p>Embed Security announced new capabilities that let security teams teach Embed how they investigate, what matters in their environment, and how to improve their detections. With customer-built iStep_
+
+- [Git fixes six vulnerabilities, including code execution during recursive clones](https://www.helpnetsecurity.com/2026/11/11/git-project-security-updates/)
+  - Confidence: 🟫 LOW
+  - _<p>The Git project has released security updates addressing six vulnerabilities that could allow attackers to execute code, write to unintended files or cause memory corruption when Git processes mali_
+
+- [Kai extends Autonomous Defense Platform visibility to internet-facing assets](https://www.helpnetsecurity.com/2026/11/11/kai-autonomous-defense-platform/)
+  - Confidence: 🟫 LOW
+  - _<p>Kai has announced External Attack Surface Management (EASM), now available on the Kai Autonomous Defense Platform. The company also launched Kai Labs, an expanded research team focused on the harde_
+
+- [N-able Takes N-central Platform Offline After Discovery of 33 Flaws](https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws)
+  - Confidence: 🟫 LOW
+  - _The RMM provider also released a hotfix as one of recommended mitigations to address public exploits for the alleged zero-days that allow for attacker takeover._
+
+- [AI Raises the Stakes for Cyber Resilience](https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience)
+  - Confidence: 🟫 LOW
+  - _An organization's ability to quickly recover from a business disruption will be a competitive advantage in an era of AI-driven threats and business enablement._
+
+- [Attackers Say 'Hello' to a Different Scale of Cloud Attack](https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack)
+  - Confidence: 🟫 LOW
+  - _Researchers dubbed an attack chain &quot;Greeter&quot; after discovering that attackers deliberately covered their trail by leaving &quot;hello&quot; messages in logs._
+
+- [Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise](https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches)
+  - Confidence: 🟫 LOW
+  - _The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers._
 
 - [Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits](https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html)
   - Confidence: 🟫 LOW
