@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-13
-date: 2026-11-13T04:58:27Z
+date: 2026-11-13T13:54:11Z
 type: radar-report
 report_type: fast
-total_opportunities: 74
+total_opportunities: 80
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 74
+**Total opportunities:** 80
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 68 |
-| 🎓 Free Certifications | 3 |
+| ❓ Uncategorized | 75 |
 | 🏰 CTF Competitions | 2 |
+| 🎓 Free Certifications | 2 |
 | 💰 Bug Bounties | 1 |
 
 ## 🏰 CTF Competitions
@@ -53,12 +53,43 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>Build a cyber training plan around your new project. Use OffSec Custom Learning Paths and labs to close skill gaps and track team readiness.</p> <p>The post <a href="https://www.offsec.com/blog/bui_
 
-- [ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)](https://isc.sans.edu/diary/rss/33512)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2](https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html)
+  - Confidence: 🟫 LOW
+  - _N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell.  "We are restricting certain N-central fea_
+
+- [Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files](https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html)
+  - Confidence: 🟫 LOW
+  - _An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege _
+
+- [Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins](https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html)
+  - Confidence: 🟫 LOW
+  - _An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch r_
+
+- [SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users](https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html)
+  - Confidence: 🟫 LOW
+  - _A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan.  Enea, a telecom and cybersecurity software c_
+
+- [When an AI Agent Goes Wrong, Can You Stop It?](https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html)
+  - Confidence: 🟫 LOW
+  - _Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make _
+
+- [Police arrest 354 suspects in dark web cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/)
+  - Confidence: 🟫 LOW
+  - _Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]_
+
+- [Microsoft confirms Windows activation failures after November updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]_
+
+- [Check Point warns of zero-day flaw exploited for root access](https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/)
+  - Confidence: 🟫 LOW
+  - _Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since lat_
+
+- [Microsoft says November security updates cause printing issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/)
+  - Confidence: 🟫 LOW
+  - _Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]_
 
 - [Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, (Fri, Nov 13th)](https://isc.sans.edu/diary/rss/33518)
   - Confidence: 🟫 LOW
@@ -323,11 +354,3 @@ tags:
 - [Apache HTTP Server patches critical HTTP/2 remote code execution flaw](https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/)
   - Confidence: 🟫 LOW
   - _A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]_
-
-- [ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients](https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html)
-  - Confidence: 🟫 LOW
-  - _ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access.  In an advisory posted on its site, the company _
-
-- [Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely](https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html)
-  - Confidence: 🟫 LOW
-  - _A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed i_
