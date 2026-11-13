@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-13
-date: 2026-11-13T13:54:11Z
+date: 2026-11-13T23:14:18Z
 type: radar-report
 report_type: fast
-total_opportunities: 80
+total_opportunities: 71
 tags:
   - radar
   - fast
@@ -13,33 +13,20 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 80
+**Total opportunities:** 71
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 75 |
-| 🏰 CTF Competitions | 2 |
+| ❓ Uncategorized | 68 |
 | 🎓 Free Certifications | 2 |
-| 💰 Bug Bounties | 1 |
+| 🏰 CTF Competitions | 1 |
 
 ## 🏰 CTF Competitions
-
-- [Six forces reshaping cybersecurity and what your workforce must prove next](https://www.hackthebox.com/blog/six-forces-reshaping-cybersecurity)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/six-forces-reshaping-cybersecurity" title=""> <img alt="Six forces reshaping cybersecu_
 
 - [TryHackMe 5 Minute Hacks - Corridor](https://www.reddit.com/r/hacking/comments/1xuhwon/tryhackme_5_minute_hacks_corridor/)
   - Confidence: 🟡 MEDIUM
   - Tags: `ctf`
   - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1xuhwon/tryhackme_5_minute_hacks_corridor/"> <img alt="TryHackMe 5 Minute Hacks - Corridor" src="https://preview.redd.it/bacosxpfo71_
-
-## 💰 Bug Bounties
-
-- [New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access](https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`, `india_friendly`
-  - _N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2.  "Based on our init_
 
 ## 🎓 Free Certifications
 
@@ -54,6 +41,74 @@ tags:
   - _<p>Build a cyber training plan around your new project. Use OffSec Custom Learning Paths and labs to close skill gaps and track team readiness.</p> <p>The post <a href="https://www.offsec.com/blog/bui_
 
 ## ❓ Uncategorized
+
+- [Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases](https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html)
+  - Confidence: 🟫 LOW
+  - _Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday.  The impl_
+
+- [FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls](https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of c_
+
+- [New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs](https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html)
+  - Confidence: 🟫 LOW
+  - _Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out.  One of them, Mior, can al_
+
+- [PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE](https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html)
+  - Confidence: 🟫 LOW
+  - _A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this_
+
+- [Claude Code VSCode Plugin: Workspace Escape Via Misleading Permission Prompt](https://www.reddit.com/r/netsec/comments/1xudxlg/claude_code_vscode_plugin_workspace_escape_via/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/ultrastrik3"> /u/ultrastrik3 </a> <br /> <span><a href="https://ultrastrike.io/2026/11/claude-code-vscode-plugin-workspace-escape-via-misl_
+
+- [History of Password Cracking](https://www.reddit.com/r/netsec/comments/1xtz6sk/history_of_password_cracking/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/netmux"> /u/netmux </a> <br /> <span><a href="https://www.netmux.com/blog/history-of-password-cracking">[link]</a></span> &#32; <span><a h_
+
+- [NvRoot (CVE-2026-47591) where in neocloud multi-tenant GPU environments, rent = root. Essentially it's a dirty page cache LPE using GPUs as catalyzer](https://www.reddit.com/r/netsec/comments/1xuidu1/nvroot_cve202647591_where_in_neocloud_multitenant/)
+  - Confidence: 🟫 LOW
+  - _<!-- SC_OFF --><div class="md"><p>From unprivileged user to root. Most dangerous for those renting multi-tenanted GPU from a neocloud. </p> <p>Fixed versions: NvRoot in 610.57.04 / 595.91.07 / 580.178_
+
+- [JSON Schema References Considered Harmful](https://www.reddit.com/r/netsec/comments/1xuqxqq/json_schema_references_considered_harmful/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/allacebeats"> /u/allacebeats </a> <br /> <span><a href="https://www.svix.com/blog/json-schema-external-entities/">[link]</a></span> &#32; _
+
+- [How we defended against an AI-driven ARTEX attack](https://www.reddit.com/r/netsec/comments/1xucxqr/how_we_defended_against_an_aidriven_artex_attack/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Far_Ice2481"> /u/Far_Ice2481 </a> <br /> <span><a href="https://labs.eye.security/how-we-defended-against-an-ai-driven-attack/">[link]</a>_
+
+- [prepared statements prevents SQLi. But it also helped me to exploit a 22 years old PostgreSQL 0-day RCE (CVE-2026-6460)](https://www.reddit.com/r/netsec/comments/1xuh3jj/prepared_statements_prevents_sqli_but_it_also/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/wtfse"> /u/wtfse </a> <br /> <span><a href="https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion_
+
+- [Massive ‘wfx-loot’ Campaign Probes Over 60,000 GitHub Repositories to Steal CI and Cloud Secrets](https://www.reddit.com/r/netsec/comments/1xuug3s/massive_wfxloot_campaign_probes_over_60000_github/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Much-Television-9449"> /u/Much-Television-9449 </a> <br /> <span><a href="https://kylesinvestigation.com/2026/11/12/massive-wfx-loot-campa_
+
+- [OWASP Top 10 Neocloud and AI Data Center Security Risks project released](https://www.reddit.com/r/netsec/comments/1xurha8/owasp_top_10_neocloud_and_ai_data_center_security/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Pale_Fly_2673"> /u/Pale_Fly_2673 </a> <br /> <span><a href="https://owasp.org/news/owasp-top-10-neocloud">[link]</a></span> &#32; <span><a_
+
+- [Sharing ARTEX detection signature pack - from IOC w/playbook process](https://www.reddit.com/r/netsec/comments/1xv53bm/sharing_artex_detection_signature_pack_from_ioc/)
+  - Confidence: 🟫 LOW
+  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/mmd0xFF"> /u/mmd0xFF </a> <br /> <span><a href="https://blog.malwaremustdie.org/2026/11/mmd-072-2026-artex-detection-signature.html">[link_
+
+- [How one AI agent exposed five critical enterprise security gaps](https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/)
+  - Confidence: 🟫 LOW
+  - _An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examin_
+
+- [Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper](https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/)
+  - Confidence: 🟫 LOW
+  - _Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]_
+
+- [German military drone operations disrupted by cyberattack](https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/)
+  - Confidence: 🟫 LOW
+  - _German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by "hostile actors." [...]_
+
+- [Trezor confirms crypto-stealing implants in three wallets, releases fix](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/)
+  - Confidence: 🟫 LOW
+  - _Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery_
 
 - [Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2](https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html)
   - Confidence: 🟫 LOW
@@ -258,99 +313,3 @@ tags:
 - [Cyber Experts Weigh In: How to Fight Artex &amp; AntiFox](https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox)
   - Confidence: 🟫 LOW
   - _Cybercriminals using agentic pen-testing tools is a proverbial genie out of the bottle at this point, so enterprises need to get a defense plan in place right away._
-
-- [Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories](https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html)
-  - Confidence: 🟫 LOW
-  - _Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security softwa_
-
-- [Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data](https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html)
-  - Confidence: 🟫 LOW
-  - _A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server _
-
-- [Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover](https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html)
-  - Confidence: 🟫 LOW
-  - _A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over_
-
-- [PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution](https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html)
-  - Confidence: 🟫 LOW
-  - _PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution.  The security flaw, tracked a_
-
-- [Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign](https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html)
-  - Confidence: 🟫 LOW
-  - _Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator design_
-
-- [Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs](https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html)
-  - Confidence: 🟫 LOW
-  - _Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week.  The company has already applied mitigations agai_
-
-- [SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths](https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html)
-  - Confidence: 🟫 LOW
-  - _The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it ha_
-
-- [186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers](https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html)
-  - Confidence: 🟫 LOW
-  - _Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of ext_
-
-- [Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass](https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html)
-  - Confidence: 🟫 LOW
-  - _Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authenticatio_
-
-- [Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry](https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html)
-  - Confidence: 🟫 LOW
-  - _A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository.  Quay enables anonymous access by default, and whi_
-
-- [New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access](https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html)
-  - Confidence: 🟫 LOW
-  - _Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver.  The proof of concept, called SignDrop, targets a _
-
-- [ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories](https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html)
-  - Confidence: 🟫 LOW
-  - _A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount_
-
-- [Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them](https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html)
-  - Confidence: 🟫 LOW
-  - _Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what _
-
-- [Exploit Attempts for GPUStack Authentication Bypass (CVE-2026-102895), (Thu, Nov 12th)](https://isc.sans.edu/diary/rss/33514)
-  - Confidence: 🟫 LOW
-  - _<p>CVE-2026-102895 is a trivial authentication-bypass vulnerability. GPUStack is also an attractive target. It is open-source software that manages clusters of GPUs, which are typically used to run AI_
-
-- [Apt Maintenance said they could enter my apartment since they can get access to master keys](https://www.reddit.com/r/security/comments/1xsxs16/apt_maintenance_said_they_could_enter_my/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>So long story short I was seeing someone and they told me they’re the maintenance dude of the apt I live in after already seeing each other. Not going to give many de_
-
-- [I think the contract where I'm at is toast...?](https://www.reddit.com/r/security/comments/1xtcbos/i_think_the_contract_where_im_at_is_toast/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Has anyone ever been at a site where the contract wasn't renewed or was canceled?</p> <p>Our training has went to shit, they are hiring flexes left and right (I know _
-
-- [Hackers plant GSocket on Linux servers for persistent access](https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/)
-  - Confidence: 🟫 LOW
-  - _Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [_
-
-- [Microsoft confirms Windows security updates installation issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]_
-
-- [Microsoft: Recent Windows updates cause SQL Server performance issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]_
-
-- [Apify rotates API tokens, prompts 2FA resets after breach](https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/)
-  - Confidence: 🟫 LOW
-  - _Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]_
-
-- [Your Endpoint Management Platform Could Be Your Biggest Security Risk](https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/)
-  - Confidence: 🟫 LOW
-  - _Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-c_
-
-- [Police dismantle Gootloader, CastleRAT, StealC malware infrastructure](https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/)
-  - Confidence: 🟫 LOW
-  - _Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]_
-
-- [New Windows SignDrop zero-day gives hackers SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/)
-  - Confidence: 🟫 LOW
-  - _Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]_
-
-- [Apache HTTP Server patches critical HTTP/2 remote code execution flaw](https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/)
-  - Confidence: 🟫 LOW
-  - _A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]_
