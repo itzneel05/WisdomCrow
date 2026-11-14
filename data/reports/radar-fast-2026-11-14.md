@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-14
-date: 2026-11-14T04:50:37Z
+date: 2026-11-14T12:56:58Z
 type: radar-report
 report_type: fast
-total_opportunities: 72
+total_opportunities: 55
 tags:
   - radar
   - fast
@@ -13,23 +13,15 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 72
+**Total opportunities:** 55
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 66 |
-| 🎓 Free Certifications | 2 |
+| ❓ Uncategorized | 51 |
 | 💰 Bug Bounties | 1 |
-| 🏰 CTF Competitions | 1 |
+| 🎓 Free Certifications | 1 |
 | 🔥 Hackathons & Conferences | 1 |
 | 📦 Open Source Tools | 1 |
-
-## 🏰 CTF Competitions
-
-- [TryHackMe 5 Minute Hacks - Corridor](https://www.reddit.com/r/hacking/comments/1xuhwon/tryhackme_5_minute_hacks_corridor/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1xuhwon/tryhackme_5_minute_hacks_corridor/"> <img alt="TryHackMe 5 Minute Hacks - Corridor" src="https://preview.redd.it/bacosxpfo71_
 
 ## 💰 Bug Bounties
 
@@ -44,11 +36,6 @@ tags:
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
   - _<p>You know Kali. You know OSCP. Meet the rest of OffSec as the company brings its hands-on approach to entire cyber teams.</p> <p>The post <a href="https://www.offsec.com/blog/offsec-celebrates-20-ye_
-
-- [ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th)](https://isc.sans.edu/diary/rss/33516)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
 ## 🔥 Hackathons & Conferences
 
@@ -65,6 +52,10 @@ tags:
   - _A spoofer is a tool or software designed to alter your system’s hardware information, such as your hardware ID (HWID). When anti-cheat systems ban a player, they often blacklist that player’s hardware_
 
 ## ❓ Uncategorized
+
+- [Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html)
+  - Confidence: 🟫 LOW
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Explo_
 
 - [PHP2Shell Exploited in Destructive Check Point Gateway Attacks](https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/)
   - Confidence: 🟫 LOW
@@ -265,67 +256,3 @@ tags:
 - [Microsoft says November security updates cause printing issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/)
   - Confidence: 🟫 LOW
   - _Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]_
-
-- [Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, (Fri, Nov 13th)](https://isc.sans.edu/diary/rss/33518)
-  - Confidence: 🟫 LOW
-  - _<p><em><strong>Introduction</strong></em></p>&#xd;_
-
-- [Hacking corn users](https://www.reddit.com/r/hacking/comments/1xu1pun/hacking_corn_users/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Apparently Strike 3 is able do identify user from dowloaded content....anyone know how their embedding a callback in a video file?</p> <p><a href="https://www.latimes_
-
-- [Is it just me or has everyone started more hardware hacking?](https://www.reddit.com/r/hacking/comments/1xt9pf3/is_it_just_me_or_has_everyone_started_more/)
-  - Confidence: 🟫 LOW
-  - _<!-- SC_OFF --><div class="md"><p>Hello, I am kinda new to cysec and I have been looking around and it seems to me that everyone is kinda slowly doing more and more hardware so I wonder, would It be a_
-
-- [new Op Endgame video on Gootloader](https://www.reddit.com/r/hacking/comments/1xucftj/new_op_endgame_video_on_gootloader/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1xucftj/new_op_endgame_video_on_gootloader/"> <img alt="new Op Endgame video on Gootloader" src="https://external-preview.redd.it/em_
-
-- [History of Password Cracking](https://www.reddit.com/r/hacking/comments/1xu17in/history_of_password_cracking/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1xu17in/history_of_password_cracking/"> <img alt="History of Password Cracking" src="https://external-preview.redd.it/vG4Wpx3rzKJgHw_
-
-- [Fake security tools on GitHub push backdoors and infostealers](https://www.reddit.com/r/hacking/comments/1xtwqkw/fake_security_tools_on_github_push_backdoors_and/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1xtwqkw/fake_security_tools_on_github_push_backdoors_and/"> <img alt="Fake security tools on GitHub push backdoors and infostealers"_
-
-- [Any ideas for fun use of a Bose lithium battery?](https://www.reddit.com/r/hacking/comments/1xu7f0k/any_ideas_for_fun_use_of_a_bose_lithium_battery/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1xu7f0k/any_ideas_for_fun_use_of_a_bose_lithium_battery/"> <img alt="Any ideas for fun use of a Bose lithium battery?" src="https://_
-
-- [The Adversary v0.9.0-alpha for Cardputer/ADV is out!](https://www.reddit.com/r/hacking/comments/1xupkr4/the_adversary_v090alpha_for_cardputeradv_is_out/)
-  - Confidence: 🟫 LOW
-  - _&#32; submitted by &#32; <a href="https://www.reddit.com/user/Isonimus"> /u/Isonimus </a> <br /> <span><a href="/r/Adversary/comments/1xupgw4/the_adversary_v090alpha_for_cardputeradv_is_out/">[link]</_
-
-- [Hackers use AntiFox AI agents in AWS credential-theft attacks](https://www.reddit.com/r/hacking/comments/1xu7ceh/hackers_use_antifox_ai_agents_in_aws/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1xu7ceh/hackers_use_antifox_ai_agents_in_aws/"> <img alt="Hackers use AntiFox AI agents in AWS credential-theft attacks" src="https:_
-
-- [OWASP Top 10 Neocloud and AI Data Center Security Risks project released](https://www.reddit.com/r/hacking/comments/1xurhxl/owasp_top_10_neocloud_and_ai_data_center_security/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1xurhxl/owasp_top_10_neocloud_and_ai_data_center_security/"> <img alt="OWASP Top 10 Neocloud and AI Data Center Security Risks proje_
-
-- [Poisoned TanStack packages stole an Nx developer’s GitHub token. A trojaned Nx Console release then hit GitHub and Grafana. One poisoned npm install led to ~3,800 stolen internal repos (CVE-2026-45321, CVE-2026-48027)](https://www.reddit.com/r/hacking/comments/1xul0ra/poisoned_tanstack_packages_stole_an_nx_developers/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1xul0ra/poisoned_tanstack_packages_stole_an_nx_developers/"> <img alt="Poisoned TanStack packages stole an Nx developer’s GitHub tok_
-
-- [Bughunting over all US case law using Lean](https://www.reddit.com/r/hacking/comments/1xuuz40/bughunting_over_all_us_case_law_using_lean/)
-  - Confidence: 🟫 LOW
-  - _<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1xuuz40/bughunting_over_all_us_case_law_using_lean/"> <img alt="Bughunting over all US case law using Lean" src="https://external-pr_
-
-- [New N-able "4EverAble2Shell" zero-day exploited hours after PoC released](https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/)
-  - Confidence: 🟫 LOW
-  - _Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed "4EverAble2Shell" to compromise servers and deploy cryptocurrency miners, with researchers reporting at_
-
-- [Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide](https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/)
-  - Confidence: 🟫 LOW
-  - _Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]_
-
-- [Hackers compromise 4,800 GitHub accounts to steal cloud credentials](https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/)
-  - Confidence: 🟫 LOW
-  - _A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]_
-
-- [New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks](https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/)
-  - Confidence: 🟫 LOW
-  - _A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP techni_
