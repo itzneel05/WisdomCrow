@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-14
-date: 2026-11-14T12:56:58Z
+date: 2026-11-14T21:57:48Z
 type: radar-report
 report_type: fast
-total_opportunities: 55
+total_opportunities: 48
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 55
+**Total opportunities:** 48
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 51 |
+| ❓ Uncategorized | 44 |
 | 💰 Bug Bounties | 1 |
 | 🎓 Free Certifications | 1 |
 | 🔥 Hackathons & Conferences | 1 |
@@ -52,6 +52,14 @@ tags:
   - _A spoofer is a tool or software designed to alter your system’s hardware information, such as your hardware ID (HWID). When anti-cheat systems ban a player, they often blacklist that player’s hardware_
 
 ## ❓ Uncategorized
+
+- [US disrupts North Korean campaign behind $400 million crypto theft](https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/)
+  - Confidence: 🟫 LOW
+  - _The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]_
+
+- [Cursor confirms security breach led to malicious Claude Code extension](https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/)
+  - Confidence: 🟫 LOW
+  - _Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Firework_
 
 - [Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html)
   - Confidence: 🟫 LOW
@@ -220,39 +228,3 @@ tags:
 - [Trezor confirms crypto-stealing implants in three wallets, releases fix](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/)
   - Confidence: 🟫 LOW
   - _Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery_
-
-- [Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2](https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html)
-  - Confidence: 🟫 LOW
-  - _N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell.  "We are restricting certain N-central fea_
-
-- [Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files](https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html)
-  - Confidence: 🟫 LOW
-  - _An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege _
-
-- [Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins](https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html)
-  - Confidence: 🟫 LOW
-  - _An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch r_
-
-- [SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users](https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html)
-  - Confidence: 🟫 LOW
-  - _A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan.  Enea, a telecom and cybersecurity software c_
-
-- [When an AI Agent Goes Wrong, Can You Stop It?](https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html)
-  - Confidence: 🟫 LOW
-  - _Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make _
-
-- [Police arrest 354 suspects in dark web cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/)
-  - Confidence: 🟫 LOW
-  - _Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]_
-
-- [Microsoft confirms Windows activation failures after November updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]_
-
-- [Check Point warns of zero-day flaw exploited for root access](https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/)
-  - Confidence: 🟫 LOW
-  - _Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since lat_
-
-- [Microsoft says November security updates cause printing issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/)
-  - Confidence: 🟫 LOW
-  - _Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]_
