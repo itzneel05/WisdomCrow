@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-15
-date: 2026-11-15T13:25:24Z
+date: 2026-11-15T22:28:08Z
 type: radar-report
 report_type: fast
-total_opportunities: 17
+total_opportunities: 18
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 17
+**Total opportunities:** 18
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 11 |
+| ❓ Uncategorized | 12 |
 | 🏰 CTF Competitions | 6 |
 
 ## 🏰 CTF Competitions
@@ -54,6 +54,18 @@ tags:
 
 ## ❓ Uncategorized
 
+- [YARA-X 1.23.0 Release, (Sun, Nov 15th)](https://isc.sans.edu/diary/rss/33496)
+  - Confidence: 🟫 LOW
+  - _<p open="Open"><a href="https://github.com/VirusTotal/yara-x/releases/tag/v1.23.0">YARA-X&&#x23;x26;&#x23;39&&#x23;x26;&#x23;x3b;s 1.23.0</a> release brings 4 improvements and 16 bugfixes.</p>&#xd;_
+
+- [TSMC employee data breach linked to cloud provider](https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/)
+  - Confidence: 🟫 LOW
+  - _Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for au_
+
+- [FBI warns ARTEX AI hacking tool is powering global cyberattacks](https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/)
+  - Confidence: 🟫 LOW
+  - _The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain_
+
 - [Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident](https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html)
   - Confidence: 🟫 LOW
   - _The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks_
@@ -89,11 +101,3 @@ tags:
 - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html)
   - Confidence: 🟫 LOW
   - _<p>This is a current list of where and when I am scheduled to speak:</p> <ul> <li>I’m speaking at the <a href="https://luma.com/a3pk9zbg">Catalyst Summit</a> in Brampton, Ontario, Canada, on Wednesday_
-
-- [US disrupts North Korean campaign behind $400 million crypto theft](https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/)
-  - Confidence: 🟫 LOW
-  - _The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]_
-
-- [Cursor confirms security breach led to malicious Claude Code extension](https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/)
-  - Confidence: 🟫 LOW
-  - _Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Firework_
