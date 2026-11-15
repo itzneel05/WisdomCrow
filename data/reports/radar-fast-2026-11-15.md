@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-15
-date: 2026-11-15T04:43:00Z
+date: 2026-11-15T13:25:24Z
 type: radar-report
 report_type: fast
-total_opportunities: 16
+total_opportunities: 17
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 16
+**Total opportunities:** 17
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 10 |
+| ❓ Uncategorized | 11 |
 | 🏰 CTF Competitions | 6 |
 
 ## 🏰 CTF Competitions
@@ -54,6 +54,14 @@ tags:
 
 ## ❓ Uncategorized
 
+- [Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident](https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html)
+  - Confidence: 🟫 LOW
+  - _The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks_
+
+- [Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent](https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html)
+  - Confidence: 🟫 LOW
+  - _Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post.  The Garante, Italy's data protection a_
+
 - [AI agent runtime security: how to sanitize prompts of secrets before agents store/use it](https://www.reddit.com/r/AskNetsec/comments/1xvaa3a/ai_agent_runtime_security_how_to_sanitize_prompts/)
   - Confidence: 🟫 LOW
   - _<!-- SC_OFF --><div class="md"><p>I used Claude Code (Anthropic) at our org. And sometimes the agents/claude code use env tokens or stored secrets.</p> <p>Is there a way where we can strip the prompts_
@@ -89,7 +97,3 @@ tags:
 - [Cursor confirms security breach led to malicious Claude Code extension](https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/)
   - Confidence: 🟫 LOW
   - _Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Firework_
-
-- [Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Explo_
