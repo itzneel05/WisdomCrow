@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-18
-date: 2026-11-18T15:03:48Z
+date: 2026-11-18T23:52:42Z
 type: radar-report
 report_type: fast
-total_opportunities: 73
+total_opportunities: 64
 tags:
   - radar
   - fast
@@ -13,36 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 73
+**Total opportunities:** 64
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 65 |
-| 🏰 CTF Competitions | 4 |
-| 🎓 Free Certifications | 3 |
+| ❓ Uncategorized | 61 |
+| 🎓 Free Certifications | 2 |
 | 💰 Bug Bounties | 1 |
-
-## 🏰 CTF Competitions
-
-- [idktheCTF 2026](https://ctftime.org/event/3429)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: idktheCTF 2026 (an <a href="/ctf/1607">idktheCTF</a> event.)<br /> Date: Dec. 26, 2026, 1 a.m. &mdash; 28 Dec. 2026, 04:59 UTC &nbsp;<a href="/event/3429.ics">[add to calendar]</a><br /> Format:_
-
-- [N0v4CTF 2026](https://ctftime.org/event/3512)
-  - Confidence: 🟢 HIGH
-  - Tags: `ctf`
-  - _Name: N0v4CTF 2026 (an <a href="/ctf/1771">N0v4CTF</a> event.)<br /> Date: Nov. 27, 2026, 5 p.m. &mdash; 28 Nov. 2026, 17:00 UTC &nbsp;<a href="/event/3512.ics">[add to calendar]</a><br /> Format: Jeo_
-
-- [N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners](https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`, `india_friendly`
-  - _N-able has released a new security update to address additional critical security flaws impacting N-central.  Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it in_
-
-- [Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors](https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`, `india_friendly`
-  - _An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today.  Visitors to _
 
 ## 💰 Bug Bounties
 
@@ -63,12 +40,39 @@ tags:
   - Tags: `free_cert`, `free_training`
   - _<p>See how OffSec's Upskill Programs can inform your next workforce development investment and help with next year's budget planning. </p> <p>The post <a href="https://www.offsec.com/blog/upskill-prog_
 
-- [ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)](https://isc.sans.edu/diary/rss/33524)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
-
 ## ❓ Uncategorized
+
+- [Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required](https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html)
+  - Confidence: 🟫 LOW
+  - _A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF)  The vulnerab_
+
+- [F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE](https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html)
+  - Confidence: 🟫 LOW
+  - _Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts.  Each flaw needs a specific_
+
+- [10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers](https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html)
+  - Confidence: 🟫 LOW
+  - _A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in.  The decade-old flaw, CVE-2026-123007, dubbed "nginx2root," has been prese_
+
+- [Java4Shell, NGINX2Shell and more: Why we are not at "Yellow", (Wed, Nov 18th)](https://isc.sans.edu/diary/rss/33532)
+  - Confidence: 🟫 LOW
+  - _<p>About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following php2shel_
+
+- [Microsoft’s Agent Framework PyPI package compromised to steal credentials](https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/)
+  - Confidence: 🟫 LOW
+  - _Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' _
+
+- [Data breach impacts 40 Irish credit unions in reported IT provider hack](https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/)
+  - Confidence: 🟫 LOW
+  - _A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]_
+
+- [Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam](https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/)
+  - Confidence: 🟫 LOW
+  - _Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 5_
+
+- [Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms](https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/)
+  - Confidence: 🟫 LOW
+  - _Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 comp_
 
 - [Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization](https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html)
   - Confidence: 🟫 LOW
@@ -281,51 +285,3 @@ tags:
 - [Critical Java4Shell flaw allows RCE attacks on major Java applications](https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/)
   - Confidence: 🟫 LOW
   - _A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, includin_
-
-- [ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems](https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html)
-  - Confidence: 🟫 LOW
-  - _ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is runni_
-
-- [Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks](https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html)
-  - Confidence: 🟫 LOW
-  - _Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents.  The changes, current_
-
-- [New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels](https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html)
-  - Confidence: 🟫 LOW
-  - _Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft Share_
-
-- [Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission](https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html)
-  - Confidence: 🟫 LOW
-  - _A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped "Don't Allow" on the microphone prompt.  The first security updates with the fix came _
-
-- [Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap](https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html)
-  - Confidence: 🟫 LOW
-  - _Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it.  In Ma_
-
-- [A phishing page interested in MX records, (Tue, Nov 17th)](https://isc.sans.edu/diary/rss/33526)
-  - Confidence: 🟫 LOW
-  - _<p>I&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xe2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x80&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x99&#x3b;ve mentioned before in some of my diaries that it can be instructive to l_
-
-- [Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware](https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/)
-  - Confidence: 🟫 LOW
-  - _A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing vis_
-
-- [Ransomware affiliate suspect extradited to US, faces 27 years in prison](https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/)
-  - Confidence: 🟫 LOW
-  - _A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]_
-
-- [Uber notifies drivers of data breach affecting nearly 150,000 people](https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/)
-  - Confidence: 🟫 LOW
-  - _Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]_
-
-- [Court clears brothers of $25 million Ethereum crypto heist charges](https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/)
-  - Confidence: 🟫 LOW
-  - _US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [..._
-
-- [Microsoft testing Remote Lock for lost or stolen Windows devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/)
-  - Confidence: 🟫 LOW
-  - _Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]_
-
-- [Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions](https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/)
-  - Confidence: 🟫 LOW
-  - _Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them.  [...]_
