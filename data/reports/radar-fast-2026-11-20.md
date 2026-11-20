@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-20
-date: 2026-11-20T14:52:40Z
+date: 2026-11-20T23:40:53Z
 type: radar-report
 report_type: fast
-total_opportunities: 65
+total_opportunities: 60
 tags:
   - radar
   - fast
@@ -13,34 +13,26 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 65
+**Total opportunities:** 60
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 56 |
+| ❓ Uncategorized | 52 |
 | 🎓 Free Certifications | 5 |
-| 💰 Bug Bounties | 2 |
-| 🏰 CTF Competitions | 1 |
+| 🏰 CTF Competitions | 2 |
 | 📦 Open Source Tools | 1 |
 
 ## 🏰 CTF Competitions
+
+- [Beyond the competition: How Hack The Box and Google Cloud are building a stronger security community](https://www.hackthebox.com/blog/hack-the-box-and-google-cloud-security-community)
+  - Confidence: 🟢 HIGH
+  - Tags: `ctf`, `india_friendly`
+  - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/hack-the-box-and-google-cloud-security-community" title=""> <img alt="Beyond the compe_
 
 - [TUCTF 2026](https://ctftime.org/event/3518)
   - Confidence: 🟢 HIGH
   - Tags: `ctf`
   - _Name: TUCTF 2026 (an <a href="/ctf/147">TU CTF</a> event.)<br /> Date: Dec. 4, 2026, 10 a.m. &mdash; 06 Dec. 2026, 18:00 UTC &nbsp;<a href="/event/3518.ics">[add to calendar]</a><br /> Format: Jeopard_
-
-## 💰 Bug Bounties
-
-- [Hacking with AI: How to prevent your AI from going rogue](https://www.intigriti.com/researchers/blog/hacking-tools/hacking-with-ai-how-to-prevent-your-ai-from-going-rogue)
-  - Confidence: 🟢 HIGH
-  - Tags: `bug_bounty`
-  - _AI has reshaped many industries, including bug bounty. More and more security researchers are deploying AI to perform all sorts of web hacking tasks. From automating reconnaissance to identifying comp_
-
-- [Everything Is a Web Application, Including Your Firewall](https://thehackernews.com/2026/11/everything-is-web-application-including.html)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `bug_bounty`
-  - _One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-202_
 
 ## 🎓 Free Certifications
 
@@ -77,6 +69,30 @@ tags:
   - _Warzone Spoofer: Hardware ID Spoofer System Info Control_
 
 ## ❓ Uncategorized
+
+- [Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control](https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at_
+
+- [WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams](https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html)
+  - Confidence: 🟫 LOW
+  - _Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.  The vulnerability, track_
+
+- [Still tracking company passwords in spreadsheets? You’re flying blind.](https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/)
+  - Confidence: 🟫 LOW
+  - _Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized_
+
+- [Vendor data breach exposes Chase, Visa, Mastercard customer info](https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/)
+  - Confidence: 🟫 LOW
+  - _J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]_
+
+- [Hackers use autonomous AI tool Cairn to find zero-day, take over server](https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/)
+  - Confidence: 🟫 LOW
+  - _Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]_
+
+- [Bell Canada says 'agentic' hacker stole enterprise customer data](https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/)
+  - Confidence: 🟫 LOW
+  - _Bell Canada has confirmed that an "agentic" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision _
 
 - [Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth](https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html)
   - Confidence: 🟫 LOW
@@ -261,43 +277,3 @@ tags:
 - [Hackers steal data of 1.6 million SBC Medical Group customers](https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/)
   - Confidence: 🟫 LOW
   - _SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal_
-
-- [CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks](https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html)
-  - Confidence: 🟫 LOW
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt Univ_
-
-- [Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle](https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html)
-  - Confidence: 🟫 LOW
-  - _Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in t_
-
-- [Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE](https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html)
-  - Confidence: 🟫 LOW
-  - _Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that_
-
-- [Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions](https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html)
-  - Confidence: 🟫 LOW
-  - _N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces _
-
-- [NVIDIA investigating Gentlemen ransomware breach claims](https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/)
-  - Confidence: 🟫 LOW
-  - _NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]_
-
-- [Microsoft confirms app installation, launch issues after hotpatch](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/)
-  - Confidence: 🟫 LOW
-  - _Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]_
-
-- [Microsoft tests new Edge Lockdown Mode that disables GPU APIs](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/)
-  - Confidence: 🟫 LOW
-  - _Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]_
-
-- [Drupal patches critical RCE flaw, warns exploits may surface quickly](https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/)
-  - Confidence: 🟫 LOW
-  - _The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]_
-
-- [Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers](https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/)
-  - Confidence: 🟫 LOW
-  - _Two critical NGINX vulnerabilities dubbed "nginx2root" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained w_
-
-- [Five warning signs of ransomware breach before encryption or data theft](https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/)
-  - Confidence: 🟫 LOW
-  - _Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defender_
