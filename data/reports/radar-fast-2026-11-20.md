@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-20
-date: 2026-11-20T00:17:09Z
+date: 2026-11-20T14:52:40Z
 type: radar-report
 report_type: fast
-total_opportunities: 52
+total_opportunities: 65
 tags:
   - radar
   - fast
@@ -13,14 +13,15 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 52
+**Total opportunities:** 65
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 47 |
+| ❓ Uncategorized | 56 |
+| 🎓 Free Certifications | 5 |
 | 💰 Bug Bounties | 2 |
-| 🎓 Free Certifications | 2 |
 | 🏰 CTF Competitions | 1 |
+| 📦 Open Source Tools | 1 |
 
 ## 🏰 CTF Competitions
 
@@ -43,17 +44,187 @@ tags:
 
 ## 🎓 Free Certifications
 
-- [Treat Your Honeypot Analysis Like Code: Git, Pull Requests and a Human Gate for AI &#x5b;Guest Diary&#x5d;, (Wed, Nov 18th)](https://isc.sans.edu/diary/rss/33534)
+- [Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network](https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
-  - _<p>&#x5b;This is a Guest Diary by Kevin Truong, an ISC intern as part of the SANS.edu <a href="https://www.sans.edu/cyber-security-programs/bachelors-degree/">BACS</a> program&#x5d;</p>&#xd;_
+  - _Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC_
 
-- [ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)](https://isc.sans.edu/diary/rss/33536)
+- [ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)](https://isc.sans.edu/diary/rss/33538)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`, `india_friendly`
   - _(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License._
 
+- [Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories](https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _<p>GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact.</p> <p>The post <a href="https://www.securityweek.com/java4shell-ex_
+
+- [Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release](https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`
+  - _<p>Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement.</p> <p>The post <a href="https://www.securityweek.com/hackers-exploit-cisco-_
+
+- [HackTrack With Mentors: Take On AI-300](https://www.offsec.com/blog/hacktrack-with-mentors-take-on-ai-300/)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _<p>If OSAI is on your list of certifications to earn in 2027, make room for HackTrack guided sessions every Saturday!</p> <p>The post <a href="https://www.offsec.com/blog/hacktrack-with-mentors-take-o_
+
+## 📦 Open Source Tools
+
+- [stuartagabu/warzone-2-spoofer](https://github.com/stuartagabu/warzone-2-spoofer)
+  - Confidence: 🟢 HIGH
+  - Tags: `open_source`
+  - _Warzone Spoofer: Hardware ID Spoofer System Info Control_
+
 ## ❓ Uncategorized
+
+- [Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth](https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html)
+  - Confidence: 🟫 LOW
+  - _Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that_
+
+- [Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication](https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html)
+  - Confidence: 🟫 LOW
+  - _A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published toda_
+
+- [New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It](https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html)
+  - Confidence: 🟫 LOW
+  - _A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited a_
+
+- [ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs](https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html)
+  - Confidence: 🟫 LOW
+  - _Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS.  "ROM_
+
+- [China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data](https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html)
+  - Confidence: 🟫 LOW
+  - _The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early_
+
+- [SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws](https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html)
+  - Confidence: 🟫 LOW
+  - _SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-ass_
+
+- [The Path to AI Autonomy in the SOC](https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html)
+  - Confidence: 🟫 LOW
+  - _Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agen_
+
+- [Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts](https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html)
+  - Confidence: 🟫 LOW
+  - _A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean.  On a shared server,_
+
+- [VMware patches vCenter zero-day exploited in attacks since September](https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/)
+  - Confidence: 🟫 LOW
+  - _Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. _
+
+- [Windows 11 KB5132057 update released with 28 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/)
+  - Confidence: 🟫 LOW
+  - _Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]_
+
+- [F5 releases emergency patches for critical BIG-IP RCE flaws](https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/)
+  - Confidence: 🟫 LOW
+  - _US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]_
+
+- [Microsoft now automatically installs Windows 11 26H2 on unmanaged devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/)
+  - Confidence: 🟫 LOW
+  - _Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]_
+
+- [N-able says recent security breach led to major service outage](https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/)
+  - Confidence: 🟫 LOW
+  - _N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]_
+
+- [F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public](https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/)
+  - Confidence: 🟫 LOW
+  - _<p>The five NGINX2Root vulnerabilities could allow remote, unauthenticated attackers to execute arbitrary code.</p> <p>The post <a href="https://www.securityweek.com/f5-patches-critical-nginx2root-fla_
+
+- [Splunk Patches Nearly 140 Flaws Across Three Core Products](https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/)
+  - Confidence: 🟫 LOW
+  - _<p>The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege escalation.</p> <p>The post <a href="https://www.securityweek.c_
+
+- [The Governance Gap in Open-Weight AI and What to Do About It](https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/)
+  - Confidence: 🟫 LOW
+  - _<p>Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it.</p> <p>The post <a href="https://www.secur_
+
+- [Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks](https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _<p>Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller.</p> <p>The post <a href="https://www.securityweek.com/critical-apache-roller-axi_
+
+- [StepSecurity Secures $20 Million to Expand Supply Chain Protection](https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/)
+  - Confidence: 🟫 LOW
+  - _<p>The company will use the funds to accelerate the development and distribution of its security platform.</p> <p>The post <a href="https://www.securityweek.com/stepsecurity-secures-20-million-to-expa_
+
+- [Nvidia Responds to Gentlemen Ransomware Claim](https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/)
+  - Confidence: 🟫 LOW
+  - _<p>Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim.</p> <p>The post <a href="https://www.securityweek.com/n_
+
+- [PHP Patches Seven Critical RCE Vulnerabilities](https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/)
+  - Confidence: 🟫 LOW
+  - _<p>Successful exploitation could allow attackers to crash the worker process and execute code with the PHP worker’s privileges.</p> <p>The post <a href="https://www.securityweek.com/php-patches-seven-_
+
+- [Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT](https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/)
+  - Confidence: 🟫 LOW
+  - _<p>Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch.</p> <p>The post <a href="https://www.securityweek.com/newly-pa_
+
+- [Bitwarden expands passkey support with new Windows and macOS integrations](https://www.helpnetsecurity.com/2026/11/19/bitwarden-windows-macos-passkeys-integration/)
+  - Confidence: 🟫 LOW
+  - _<p>Bitwarden announced expanded passkey integrations across Windows and macOS, making it easier to access Bitwarden and use passkeys through native operating system authentication. Users can log in to_
+
+- [SonicWall urges customers to replace Gen 6 firewalls now](https://www.helpnetsecurity.com/2026/11/19/sonicwall-gen-6-firewalls-reach-end-of-support/)
+  - Confidence: 🟫 LOW
+  - _<p>SonicWall is urging customers still running Gen 6 firewalls to replace them immediately and to stop using them at the internet edge. All Gen 6 and Gen 6.5 appliances running SonicOS 6.x have now re_
+
+- [Rubrik Configuration Resilience rolls back unauthorized Microsoft 365 changes](https://www.helpnetsecurity.com/2026/11/19/rubrik-configuration-resilience-for-microsoft-365/)
+  - Confidence: 🟫 LOW
+  - _<p>Rubrik announced Configuration Resilience for Microsoft 365, a new offering that protects the key settings governing Microsoft applications such as Microsoft 365, Purview and Defender, and rolls ba_
+
+- [BackBox Linux 10 brings new hacking tools and Ubuntu 26.04 support](https://www.helpnetsecurity.com/2026/11/19/backbox-linux-10-penetration-testing/)
+  - Confidence: 🟫 LOW
+  - _<p>BackBox Linux is a free, open source penetration testing distribution made by BackBox, a non-profit community project that keeps its own repositories of ethical hacking tools. On November 19 the pr_
+
+- [Credential stealer slipped into Microsoft’s official Python agent framework](https://www.helpnetsecurity.com/2026/11/19/microsoft-agent-framework-package-pypi-compromised/)
+  - Confidence: 🟫 LOW
+  - _<p>Two releases of Microsoft’s official agent-framework package on the Python Package Index (PyPI) carried code that steals cloud and CI/CD credentials from developers’ systems. Agent Framework is Mic_
+
+- [Exploited Puppet flaw puts the server that configures your endpoint fleet at risk (CVE-2026-115731)](https://www.helpnetsecurity.com/2026/11/19/puppet-enterprise-vulnerability-cve-2026-115731-exploited/)
+  - Confidence: 🟫 LOW
+  - _<p>Attackers are exploiting CVE-2026-115731, a critical remote code execution vulnerability in Perforce Puppet Enterprise, an enterprise solution used by IT teams to centralize and automatize endpoint_
+
+- [Russian spies turn one cloud breach into a stepping stone for the next](https://www.helpnetsecurity.com/2026/11/19/russian-spies-impersonation-cloud-breach/)
+  - Confidence: 🟫 LOW
+  - _<p>A Russian cyberespionage group is posing as employees of organizations it has already breached to phish new targets, Google Threat Intelligence Group (GTIG) found. Google tracks the group as COLD R_
+
+- [PHP 8.6 is out, and here’s what changes for your code](https://www.helpnetsecurity.com/2026/11/19/php-8-6-released/)
+  - Confidence: 🟫 LOW
+  - _<p>PHP 8.6 has been released. The new version adds partial function application, a Time\Duration class, a polling API for event loops and a clamp() function. PHP 8.6 also changes defaults that existin_
+
+- [NGINX2Root: F5 patches five critical NGINX vulnerabilities](https://www.helpnetsecurity.com/2026/11/19/nginx2root-nginx-vulnerabilities/)
+  - Confidence: 🟫 LOW
+  - _<p>F5 has patched five critical vulnerabilities in NGINX, the world&#8217;s most widely used open-source web server, that can allow remote code execution under certain conditions. Dubbed &#8220;NGINX2_
+
+- [Android developer verification will reach every install source, with a side door for power users](https://www.helpnetsecurity.com/2026/11/20/android-developer-verification-power-users/)
+  - Confidence: 🟫 LOW
+  - _<p>Google will extend Android developer verification to every country starting in January 2027, a check that already applies at participating app stores in four countries. Developers who have not veri_
+
+- [Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge](https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge)
+  - Confidence: 🟫 LOW
+  - _Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top 5 most-attacked countries globally._
+
+- [Why Holiday Security Can't Wait for Black Friday](https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday)
+  - Confidence: 🟫 LOW
+  - _Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike._
+
+- [Navigating Vulnerability Hysteria in the AI Era](https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era)
+  - Confidence: 🟫 LOW
+  - _This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operatio_
+
+- [Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style](https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell)
+  - Confidence: 🟫 LOW
+  - _November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration._
+
+- [Second Norwegian Energy Company Breached in Two Days](https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached)
+  - Confidence: 🟫 LOW
+  - _No specific link has been drawn between the two incidents, though they certainly sing the same notes._
+
+- [Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering](https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering)
+  - Confidence: 🟫 LOW
+  - _Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions._
 
 - [Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites](https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html)
   - Confidence: 🟫 LOW
@@ -130,115 +301,3 @@ tags:
 - [Five warning signs of ransomware breach before encryption or data theft](https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/)
   - Confidence: 🟫 LOW
   - _Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defender_
-
-- [PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19](https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html)
-  - Confidence: 🟫 LOW
-  - _The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws.  The release is scheduled for November 19, 2026, _
-
-- [Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover](https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/)
-  - Confidence: 🟫 LOW
-  - _<p>Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work</p> <p>The post <a href="https://www.securityweek.com/java4shell_
-
-- [Oracle Patches 950 Vulnerabilities With November 2026 CSPU](https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/)
-  - Confidence: 🟫 LOW
-  - _<p>Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws.</p> <p>The post <a href="https://www.securityweek.com/oracle-patches-640-vulnerabilities-_
-
-- [Critical Perforce Puppet RCE Exploited in Attacks](https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _<p>Tracked as CVE-2026-115731, it allows a client that holds any CA-signed agent certificate to execute code on the server.</p> <p>The post <a href="https://www.securityweek.com/critical-perforce-pupp_
-
-- [Microsoft Agent Framework Releases Poisoned With Credential Stealer](https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/)
-  - Confidence: 🟫 LOW
-  - _<p>Versions 1.26.1 and 1.26.2 of agent-framework on PyPI steal Azure, Azure DevOps, and GitHub Actions credentials when Python starts.</p> <p>The post <a href="https://www.securityweek.com/microsoft-a_
-
-- [Chrome 158 Patches 204 Vulnerabilities](https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/)
-  - Confidence: 🟫 LOW
-  - _<p>Google handed out $11,000 for five externally reported flaws but has yet to determine the amounts to be paid for 36 bugs.</p> <p>The post <a href="https://www.securityweek.com/chrome-158-patches-20_
-
-- [CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do](https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/)
-  - Confidence: 🟫 LOW
-  - _<p>Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow.</p> <p>The post <a href="https://www.securityweek.com/ciso-conversations-patti-degn_
-
-- [Microsoft Takes Perception Agentic Security Platform Out of Preview](https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/)
-  - Confidence: 🟫 LOW
-  - _<p>Four blue team agents and the Recon Agent are now generally available, while integrations and vulnerability shielding are in preview.</p> <p>The post <a href="https://www.securityweek.com/microsoft_
-
-- [Last of Five Defendants Sentenced in US Scattered Spider Hacking Case](https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/)
-  - Confidence: 🟫 LOW
-  - _<p>British national Tyler Robert Buchanan has been sentenced to 6 years in prison in the United States, the DOJ announced.</p> <p>The post <a href="https://www.securityweek.com/last-of-five-defendants_
-
-- [Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization](https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/)
-  - Confidence: 🟫 LOW
-  - _<p>Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization.</p> <p>The post <a href="https://www.securityweek.com/russian-apt-poses-as-employee-of-ha_
-
-- [VeroSecurity Raises $11 Million for AI Security Engineering Platform](https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/)
-  - Confidence: 🟫 LOW
-  - _<p>AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity.</p> <p>The post <a href="https://www.securityweek.com/verosecurity-raises-11-million_
-
-- [France Is Blaming Iran for the Fridge Cyberattack](https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html)
-  - Confidence: 🟫 LOW
-  - _<p><a href="https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html">Interesting</a>:</p> <blockquote><p>U.S. intelligence agencies have recently reached a &#8220;&#_
-
-- [Product showcase: iVerify Basic helps users check device security and improve privacy](https://www.helpnetsecurity.com/2026/11/18/product-showcase-iverify-basic/)
-  - Confidence: 🟫 LOW
-  - _<p>iVerify Basic is a mobile security app for individuals who want to check their devices for signs of compromise and improve their security settings. It is available for iOS and Android, including ta_
-
-- [BubbleLoader malware turns copies of WinRAR and Windows Media Player into carriers](https://www.helpnetsecurity.com/2026/11/18/winrar-bubbleloader-malware/)
-  - Confidence: 🟫 LOW
-  - _<p>ReversingLabs has taken apart BubbleLoader, a loader that turns ordinary Windows programs into carriers for other malware. The attackers rewrite a handful of instructions at a program’s entry point_
-
-- [TapMap: Free, open-source network map](https://www.helpnetsecurity.com/2026/11/18/tapmap-network-map-open-source/)
-  - Confidence: 🟫 LOW
-  - _<p>TapMap is a free, open-source desktop app that plots a computer’s active network connections on an interactive world map. It scans open sockets, pulls out the remote IP addresses and looks each one_
-
-- [Once a scam ends the victim blaming begins](https://www.helpnetsecurity.com/2026/11/18/nicola-fox-hamilton-victim-blaming-scams-phishing/)
-  - Confidence: 🟫 LOW
-  - _<p>Blaming people who fall for scams deepens the harm and teaches them to stay silent the next time, cyberpsychologist Dr. Nicola Fox Hamilton told the audience at IRISSCON 2026 in Dublin. Dr. Nicola _
-
-- [Deutsche Telekom IoT’s CEO on securing devices that run for 20 years](https://www.helpnetsecurity.com/2026/11/18/christian-schwalbe-deutsche-telekom-iot-security/)
-  - Confidence: 🟫 LOW
-  - _<p>In this Help Net Security interview, Christian Schwalbe, CEO of Deutsche Telekom IoT, talks about the forgotten devices that create the most risk in IoT deployments. He explains what the EU Cyber R_
-
-- [Ubuntu AI security patches are here, if you’re willing to test them yourself](https://www.helpnetsecurity.com/2026/11/18/ubuntu-ai-security-patches-edge-archive/)
-  - Confidence: 🟫 LOW
-  - _<p>Canonical is letting Ubuntu Pro customers install security patches written by AI agents before its engineers finish reviewing and testing them. The patches come from Surge, a system Canonical built_
-
-- [Java4Shell OpenJDK flaw: Exploitation is tricky and hinges on specific CPUs (CVE-2026-114938)](https://www.helpnetsecurity.com/2026/11/18/java4shell-openjdk-vulnerability-cve-2026-114938/)
-  - Confidence: 🟫 LOW
-  - _<p>CVE-2026-114938, a memory corruption flaw in Open Java Development Kit&#8217;s Base64 decoder, can allow unauthenticated attackers to run code on servers hosting widely used Java applications. Nick_
-
-- [Azure Linux 4 puts the OS behind Microsoft’s cloud services on your VMs at no extra license fee](https://www.helpnetsecurity.com/2026/11/19/microsoft-azure-linux-4/)
-  - Confidence: 🟫 LOW
-  - _<p>Microsoft made Azure Linux 4 generally available. The company is offering its in-house Linux distribution as a general-purpose server OS for customer virtual machines and scale sets. Customers pay _
-
-- [Ransomware access brokers are moving their deals off public forums](https://www.helpnetsecurity.com/2026/11/19/ransomware-access-brokers-cybercrime/)
-  - Confidence: 🟫 LOW
-  - _<p>Ransomware and extortion gangs claimed about 718 victims a month through October 2026, according to threat intelligence firm ZeroFox, up from roughly 573 a month in 2025. Between early 2025 and ear_
-
-- [Quantum position verification could lock remote hackers out, NIST shows](https://www.helpnetsecurity.com/2026/11/19/nist-quantum-position-verification/)
-  - Confidence: 🟫 LOW
-  - _<p>Physicists at the National Institute of Standards and Technology have used entangled photons to confirm that a party was physically where it claimed to be. NIST physicist Krister Shalm and an inter_
-
-- [Cursor Traces Malicious Claude Code Extensions to Third-Party Breach](https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach)
-  - Confidence: 🟫 LOW
-  - _A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials._
-
-- [Major Brazilian Signature Apps Enable RCE &amp; Fraud](https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud)
-  - Confidence: 🟫 LOW
-  - _Government-sanctioned authentication middleware is used for exceptionally important legal documents, yet it's often rife with RCE bugs._
-
-- [Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem](https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem)
-  - Confidence: 🟫 LOW
-  - _Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems._
-
-- [AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks](https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups)
-  - Confidence: 🟫 LOW
-  - _Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns._
-
-- [Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool](https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool)
-  - Confidence: 🟫 LOW
-  - _New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work._
-
-- [Russia's Cold Relic APT Turns One Cloud Breach Into Another](https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another)
-  - Confidence: 🟫 LOW
-  - _The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks._
