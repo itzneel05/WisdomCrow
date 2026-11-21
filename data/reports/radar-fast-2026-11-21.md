@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-21
-date: 2026-11-21T05:31:54Z
+date: 2026-11-21T14:11:06Z
 type: radar-report
 report_type: fast
-total_opportunities: 46
+total_opportunities: 51
 tags:
   - radar
   - fast
@@ -13,12 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 46
+**Total opportunities:** 51
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 42 |
-| 🎓 Free Certifications | 2 |
+| ❓ Uncategorized | 46 |
+| 🎓 Free Certifications | 3 |
 | 🏰 CTF Competitions | 1 |
 | 📦 Open Source Tools | 1 |
 
@@ -30,6 +30,11 @@ tags:
   - _<div class="hs-featured-image-wrapper">   <a class="hs-featured-image-link" href="https://www.hackthebox.com/blog/hack-the-box-and-google-cloud-security-community" title=""> <img alt="Beyond the compe_
 
 ## 🎓 Free Certifications
+
+- [Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge](https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html)
+  - Confidence: 🟢 HIGH
+  - Tags: `free_cert`, `free_training`, `india_friendly`
+  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited_
 
 - [Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network](https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html)
   - Confidence: 🟢 HIGH
@@ -49,6 +54,22 @@ tags:
   - _<p>This release we have three pull requests from <a href="https://github.com/jburgess-r7">jburgess-r7</a> building out coverage for the identity-boundary issues detailed in Rapid7's <a href="https://w_
 
 ## ❓ Uncategorized
+
+- [Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS](https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html)
+  - Confidence: 🟫 LOW
+  - _Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is_
+
+- [Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access](https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html)
+  - Confidence: 🟫 LOW
+  - _Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Th_
+
+- [GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys](https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html)
+  - Confidence: 🟫 LOW
+  - _A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.  The GnuPG project warned yesterday that t_
+
+- [A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats](https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html)
+  - Confidence: 🟫 LOW
+  - _A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.  The same attack could_
 
 - [CTO of ‘RansomwareHelp’ Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
   - Confidence: 🟫 LOW
