@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-22
-date: 2026-11-22T04:57:31Z
+date: 2026-11-22T14:00:50Z
 type: radar-report
 report_type: fast
-total_opportunities: 11
+total_opportunities: 12
 tags:
   - radar
   - fast
@@ -13,11 +13,11 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 11
+**Total opportunities:** 12
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 10 |
+| ❓ Uncategorized | 11 |
 | 🎓 Free Certifications | 1 |
 
 ## 🎓 Free Certifications
@@ -28,6 +28,14 @@ tags:
   - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited_
 
 ## ❓ Uncategorized
+
+- [Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps](https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html)
+  - Confidence: 🟫 LOW
+  - _A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.  Ghostscript is the interpreter that many Linux serve_
+
+- [OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms](https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html)
+  - Confidence: 🟫 LOW
+  - _Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.  Some of t_
 
 - [Rackspace Spot breach let hackers access customer Kubernetes secrets](https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/)
   - Confidence: 🟫 LOW
@@ -64,7 +72,3 @@ tags:
 - [A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats](https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html)
   - Confidence: 🟫 LOW
   - _A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.  The same attack could_
-
-- [CTO of ‘RansomwareHelp’ Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
-  - Confidence: 🟫 LOW
-  - _The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use "advanced cryptographic tools" to restore data locked by ransomware, has been cha_
