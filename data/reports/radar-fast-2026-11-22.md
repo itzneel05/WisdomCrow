@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-22
-date: 2026-11-22T14:00:50Z
+date: 2026-11-22T23:12:42Z
 type: radar-report
 report_type: fast
-total_opportunities: 12
+total_opportunities: 8
 tags:
   - radar
   - fast
@@ -13,21 +13,33 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 12
+**Total opportunities:** 8
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 11 |
-| 🎓 Free Certifications | 1 |
+| ❓ Uncategorized | 7 |
+| 🏰 CTF Competitions | 1 |
 
-## 🎓 Free Certifications
+## 🏰 CTF Competitions
 
-- [Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge](https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`, `india_friendly`
-  - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited_
+- [Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices](https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/)
+  - Confidence: 🟡 MEDIUM
+  - Tags: `ctf`
+  - _GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting_
 
 ## ❓ Uncategorized
+
+- [A brief history of syslog timestamps, (Sun, Nov 22nd)](https://isc.sans.edu/diary/rss/33530)
+  - Confidence: 🟫 LOW
+  - _<p>BLUF: Debian and Ubuntu dropped a config directive in the rsyslogd package in early 2023.</p>&#xd;_
+
+- [Signal to block Siri, Gemini AI from capturing chats on iOS, Android](https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/)
+  - Confidence: 🟫 LOW
+  - _Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]_
+
+- [Cleverbridge warns hackers stole credit card numbers, CVVs in data breach](https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/)
+  - Confidence: 🟫 LOW
+  - _E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]_
 
 - [Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps](https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html)
   - Confidence: 🟫 LOW
@@ -44,31 +56,3 @@ tags:
 - [Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day](https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/)
   - Confidence: 🟫 LOW
   - _<p>A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability.</p> <p>The post <a href="https://www.securityweek.com/amazon-china-linked-hackers-ai-age_
-
-- [FBI reportedly hacked again, this time targeting nationwide police database](https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/)
-  - Confidence: 🟫 LOW
-  - _FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local_
-
-- [BADBOX botnet returns with record-breaking 40 billion daily ad requests](https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/)
-  - Confidence: 🟫 LOW
-  - _The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]_
-
-- [Microsoft Entra Connect Health flaw exploited to steal tenant data](https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/)
-  - Confidence: 🟫 LOW
-  - _Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addre_
-
-- [Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS](https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html)
-  - Confidence: 🟫 LOW
-  - _Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is_
-
-- [Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access](https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html)
-  - Confidence: 🟫 LOW
-  - _Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Th_
-
-- [GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys](https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html)
-  - Confidence: 🟫 LOW
-  - _A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.  The GnuPG project warned yesterday that t_
-
-- [A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats](https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html)
-  - Confidence: 🟫 LOW
-  - _A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.  The same attack could_
