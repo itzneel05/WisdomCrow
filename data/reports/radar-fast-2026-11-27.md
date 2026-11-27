@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-27
-date: 2026-11-27T01:29:04Z
+date: 2026-11-27T16:06:14Z
 type: radar-report
 report_type: fast
-total_opportunities: 40
+total_opportunities: 41
 tags:
   - radar
   - fast
@@ -13,13 +13,13 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 40
+**Total opportunities:** 41
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 36 |
-| 🏰 CTF Competitions | 2 |
+| ❓ Uncategorized | 38 |
 | 💰 Bug Bounties | 1 |
+| 🏰 CTF Competitions | 1 |
 | 🎓 Free Certifications | 1 |
 
 ## 🏰 CTF Competitions
@@ -29,26 +29,129 @@ tags:
   - Tags: `ctf`, `india_friendly`
   - _The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mit_
 
-- [Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library](https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/)
-  - Confidence: 🟡 MEDIUM
-  - Tags: `ctf`
-  - _<p>Attackers can exploit CVE-2026-131914 to achieve remote code execution via a single web request containing specially crafted data.</p> <p>The post <a href="https://www.securityweek.com/hackers-expl_
-
 ## 💰 Bug Bounties
 
-- [Credential harvesting goes from fringe activity to major exploitation trend](https://www.helpnetsecurity.com/2026/11/25/vulncheck-credential-harvesting-exploitat-records/)
-  - Confidence: 🟡 MEDIUM
+- [Intigriti Bug Bytes #242 - November 2026 🚀](https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-242-november-2026)
+  - Confidence: 🟢 HIGH
   - Tags: `bug_bounty`
-  - _<p>Requests to steal credentials made up 13% of all vulnerability exploitation recorded between January and November 2026. Their monthly share climbed from about 1% in January to between 25% and 35% i_
+  - _Welcome to the latest edition of Bug Bytes! In this month's issue, we'll be featuring: Malicious JavaScript served through Optimizely to 178 organizations A 22-year-old PostgreSQL type-confusion bug t_
 
 ## 🎓 Free Certifications
 
-- [Redesign Your Cyber Workforce Before AI Does It for You](https://www.offsec.com/blog/redesign-your-cyber-workforce-before-ai-does-it/)
+- [Proxmox 9.3 adds production snapshots for SAN-backed VMs](https://www.helpnetsecurity.com/2026/11/26/proxmox-9-3-adds-production-snapshots-for-san-backed-vms/)
   - Confidence: 🟢 HIGH
   - Tags: `free_cert`, `free_training`
-  - _<p>Part 2 of how AI is reshaping the cyber workforce where we offer a model to support this. Free infographic download included!</p> <p>The post <a href="https://www.offsec.com/blog/redesign-your-cybe_
+  - _<p>Proxmox Virtual Environment 9.3 adds production support for snapshots on shared LVM storage over iSCSI and Fibre Channel SANs. The open-source virtualization platform also gives each guest an ident_
 
 ## ❓ Uncategorized
+
+- [Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access](https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html)
+  - Confidence: 🟫 LOW
+  - _Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution.  The proof-of-concept (PoC) exploit,_
+
+- [Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators](https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html)
+  - Confidence: 🟫 LOW
+  - _Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yeste_
+
+- [Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware](https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website.  "Evid_
+
+- [How to Keep Your Security Picture Current When Attackers Move at AI Speed](https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html)
+  - Confidence: 🟫 LOW
+  - _Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in _
+
+- [Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control](https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html)
+  - Confidence: 🟫 LOW
+  - _Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT.  The intrus_
+
+- [New NFS2ROOT Linux flaw can let attackers gain root privileges](https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/)
+  - Confidence: 🟫 LOW
+  - _​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]_
+
+- [Microsoft pushes emergency hotpatch to fix Windows Server crashes](https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/)
+  - Confidence: 🟫 LOW
+  - _Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]_
+
+- [SAP confirms security incident after suspicious GitHub activity](https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/)
+  - Confidence: 🟫 LOW
+  - _SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]_
+
+- [Drupal warns of new site takeover flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]_
+
+- [Microsoft removes WSUS server role in Windows Server 2028](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/)
+  - Confidence: 🟫 LOW
+  - _Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]_
+
+- [Malwarebytes Antivirus: Get 50% off during Black Friday 2026](https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/)
+  - Confidence: 🟫 LOW
+  - _Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, ident_
+
+- [Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs](https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/)
+  - Confidence: 🟫 LOW
+  - _Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, _
+
+- [US Air Force cloud platform reportedly hacked in latest federal breach](https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/)
+  - Confidence: 🟫 LOW
+  - _Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Departm_
+
+- [1Password Breach Exposes Customer Data, Internal Source Code](https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/)
+  - Confidence: 🟫 LOW
+  - _<p>A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed.</p> <p>The post <a href="https://www.securityweek.com/1password-_
+
+- [Drupal Installer Patch Left a Gap Attackers Are Already Exploiting](https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/)
+  - Confidence: 🟫 LOW
+  - _<p>Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap.</p> <p>The post <a href="https://www.securityweek.com/drupal-ins_
+
+- [Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks](https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/)
+  - Confidence: 🟫 LOW
+  - _<p>Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign.</p> <p>The post <a href="https://www.securityweek.com/mitel-micollab-_
+
+- [Critical Juniper Session Smart Conductor Flaw Exploited in Attacks](https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/)
+  - Confidence: 🟫 LOW
+  - _<p>Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root.</p> <p>The post <a href="https://www.securityweek.com/critical-juniper-session-smart-con_
+
+- [FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’](https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/)
+  - Confidence: 🟫 LOW
+  - _<p>FIFA didn’t say when the cyberattack took place, or the precise nature of the hacked information.</p> <p>The post <a href="https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack_
+
+- [People are willing to pay to vanish from search results](https://www.helpnetsecurity.com/2026/11/26/incogni-online-privacy-concerns-report/)
+  - Confidence: 🟫 LOW
+  - _<p>More than half of U.S. adults would like to see a log of everyone who has searched for their name online. In a survey of 1,008 adults by Incogni, 53% said they would like that record to cover the p_
+
+- [Google mandates MCP or CLI access for Workspace AI agents starting February 2027](https://www.helpnetsecurity.com/2026/11/26/google-ai-agent-security-requirements/)
+  - Confidence: 🟫 LOW
+  - _<p>Google has announced security controls across Google Workspace and Google Cloud to address the risks associated with autonomous AI agents accessing enterprise data, executing tasks, and interacting_
+
+- [More than 4,400 malicious domains are waiting for holiday shoppers](https://www.helpnetsecurity.com/2026/11/26/fortinet-holiday-shopping-cyber-threats-report/)
+  - Confidence: 🟫 LOW
+  - _<p>Cybercriminals are positioned to exploit the holiday shopping season through fraudulent storefronts, retailer impersonation, payment fraud and account takeover attacks, according to FortiGuard Labs_
+
+- [Black Friday cybersecurity deals 2026: Stay safe, spend less](https://www.helpnetsecurity.com/2026/11/26/black-friday-2026-cybersecurity-deals/)
+  - Confidence: 🟫 LOW
+  - _<p>Black Friday is here again, and for once your inbox full of &#8220;limited time offer&#8221; emails might be worth opening. Every year, security vendors join the sales rush with discounts on the to_
+
+- [1Password breached through hijacked employee GitHub account, customer names and emails stolen](https://www.helpnetsecurity.com/2026/11/26/1password-breach-github-customer-records/)
+  - Confidence: 🟫 LOW
+  - _<p>An attacker who got into a 1Password employee’s corporate GitHub account went on to copy account records for some of the company’s users and source code from private repositories, the password mana_
+
+- [Data recovery firm co-founder accused of cashing in on ransomware victims](https://www.helpnetsecurity.com/2026/11/26/ransomware-recovery-fraud-florida-firm-co-founder-charged/)
+  - Confidence: 🟫 LOW
+  - _<p>The co-founder of a Florida data recovery firm has been indicted on charges that he secretly paid ransomware gangs while telling victims his company never did. Juan Ricardo Palacio Escobar, a 52-ye_
+
+- [US agency tracking money laundering is latest casualty in string of federal breaches](https://www.helpnetsecurity.com/2026/11/26/fincen-breach-systems-offline/)
+  - Confidence: 🟫 LOW
+  - _<p>An intrusion at the US Treasury&#8217;s Financial Crimes Enforcement Network (FinCEN) has forced the agency to take some systems offline and extend reporting deadlines for financial institutions. T_
+
+- [Preinstalled Keenadu malware turns up on 220,000+ Android devices](https://www.helpnetsecurity.com/2026/11/26/keenadu-malware-android-devices/)
+  - Confidence: 🟫 LOW
+  - _<p>A new Android phone can come out of the box with malware already in its firmware, and the number of such devices detected each month has grown more than 2.5 times over the past year, according to K_
+
+- [Cyprus Becomes Espionage Target for Iranian Hackers](https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers)
+  - Confidence: 🟫 LOW
+  - _A previously undocumented Iranian threat group called &quot;Volant Manticore&quot; is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran._
 
 - [ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories](https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html)
   - Confidence: 🟫 LOW
@@ -93,103 +196,3 @@ tags:
 - [Remus malware steals Gmail messages via fake Google Sheets extension](https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/)
   - Confidence: 🟫 LOW
   - _The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]_
-
-- [Drupal Flaw Found by Anthropic Scanner Exploited in Attacks](https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _<p>CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days. </p> <p>The post <a href="https://www.securityweek.com/drupal-flaw-found-by-anthro_
-
-- [Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls](https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/)
-  - Confidence: 🟫 LOW
-  - _<p>A China-linked hacking group chained PHP2Shell with Fragnesia in AI-assisted attacks that hit 25 servers.</p> <p>The post <a href="https://www.securityweek.com/palo-alto-networks-patches-fragnesia-_
-
-- [Plagiarism Checker Turnitin Investigating Cyberattack](https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/)
-  - Confidence: 🟫 LOW
-  - _<p>The edtech company says the systems are fully operational and safe to use while it investigates the incident.</p> <p>The post <a href="https://www.securityweek.com/plagiarism-checker-turnitin-inves_
-
-- [Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget](https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/)
-  - Confidence: 🟫 LOW
-  - _<p>Matthew Martin is Chief Information Security and Privacy Officer at Western Carolina University.</p> <p>The post <a href="https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-re_
-
-- [US Treasury’s FinCEN Disconnects Systems Following Cyber Incident](https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/)
-  - Confidence: 🟫 LOW
-  - _<p>FinCEN has extended deadlines for filers affected by the disruptions while it is investigating the incident.</p> <p>The post <a href="https://www.securityweek.com/us-treasurys-fincen-disconnects-sy_
-
-- [ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties](https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/)
-  - Confidence: 🟫 LOW
-  - _<p>An account tied to ShinyHunters announced the group’s return, as Okta spots possible links between Inception and ShinyHunters hackers.</p> <p>The post <a href="https://www.securityweek.com/shinyhun_
-
-- [Two Newly Disclosed GeoServer Vulnerabilities Under Attack](https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/)
-  - Confidence: 🟫 LOW
-  - _<p>Attackers are probing GeoServer instances for two high-severity flaws that can be chained with other bugs for unauthenticated RCE.</p> <p>The post <a href="https://www.securityweek.com/two-newly-di_
-
-- [Tracking Incidents of Hacking Using AI Tools](https://www.schneier.com/blog/archives/2026/11/tracking-incidents-of-hacking-using-ai-tools.html)
-  - Confidence: 🟫 LOW
-  - _<p>Daniel Meissler is <a href="https://newsletter.danielmiessler.com/p/whos-hacking-with-ai">tracking</a> incidents of AI-enhanced hacking, and the offensive harnesses the hackers are using.</p>_
-
-- [Holiday scam losses force some victims to cut back on essentials](https://www.helpnetsecurity.com/2026/11/25/mcafee-holiday-shopping-scams-report/)
-  - Confidence: 🟫 LOW
-  - _<p>The proportion of Americans who say they have fallen victim to a holiday shopping scam has nearly doubled since last year, according to new research from McAfee. Forty-two percent say they have fal_
-
-- [Security+ builds the foundation. SSCP proves you can execute](https://www.helpnetsecurity.com/2026/11/25/isc2-systems-security-certified-practitioner-sscp-certification/)
-  - Confidence: 🟫 LOW
-  - _<p>Cybersecurity knowledge and operational readiness: why both matter Consider this threat scenario: Systems go down, alerts escalate, response windows shrink. In today’s high-stakes world, cybersecur_
-
-- [gputaskman: Open-source task manager for GPUs](https://www.helpnetsecurity.com/2026/11/25/gputaskman-open-source-gpu-task-manager/)
-  - Confidence: 🟫 LOW
-  - _<p>gputaskman is an open-source task manager for GPUs that runs in a terminal on Windows, Linux, WSL, and Apple Silicon Macs. It shows which process is holding a machine&#8217;s GPU memory, how busy e_
-
-- [Exploited: Abandoned Idunno.AntiCsrf library opens legacy ASP.NET apps to RCE (CVE-2026-131914)](https://www.helpnetsecurity.com/2026/11/25/idunno-anticsrf-rce-cve-2026-131914-exploited/)
-  - Confidence: 🟫 LOW
-  - _<p>The US Cybersecurity and Infrastructure Security Agency added three new vulnerabilities to its Known Exploited Vulnerabilities catalog: CVE-2026-132224, an Optimizely Web Experimentation vulnerabil_
-
-- [Police disrupt 57 illegal IPTV services and trace €26 million in crypto](https://www.helpnetsecurity.com/2026/11/25/illegal-iptv-disrupted-europol-crypto/)
-  - Confidence: 🟫 LOW
-  - _<p>A crackdown involving police from 11 countries has disrupted 57 illegal IPTV services and identified 321 pirate websites that draw more than 7.3 million visits a year. Europol coordinated the five-_
-
-- [Anthropic wants to catch rogue AI activity without retaining your data](https://www.helpnetsecurity.com/2026/11/25/anthropic-enterprise-frontier-safeguards-public-beta/)
-  - Confidence: 🟫 LOW
-  - _<p>Anthropic has launched a public beta of Enterprise Frontier Safeguards (EFS), enabling organizations to detect potentially harmful AI activity across multiple interactions while maintaining zero da_
-
-- [Bots exploited leaked AWS key from Docker image in under 8 seconds](https://www.helpnetsecurity.com/2026/11/25/docker-aws-key-exposure-bots/)
-  - Confidence: 🟫 LOW
-  - _<p>A cloud access key left inside a newly published Docker image can be found and used by bots in less than eight seconds, Billy Tsouvalas and Nick Nikiforakis of Stony Brook University discovered aft_
-
-- [Critical Drupal installer flaw under active attack (CVE-2026-132165)](https://www.helpnetsecurity.com/2026/11/25/drupal-installer-rce-cve-2026-132165-exploited/)
-  - Confidence: 🟫 LOW
-  - _<p>Attackers have been exploiting CVE-2026-132165, a flaw that lets them take over unpatched Drupal sites without logging in, since at least November 19, the Drupal Security Team has warned. Drupal is_
-
-- [Shufti Fraud Hub exposes suspicious links between seemingly legitimate accounts](https://www.helpnetsecurity.com/2026/11/25/shufti-fraud-hub/)
-  - Confidence: 🟫 LOW
-  - _<p>Shufti has announced the launch of its Fraud Hub, a connected fraud intelligence layer designed to detect suspicious verification attempts, identify coordinated fraud networks and monitor emerging _
-
-- [How Southeastern University Got a Handle on Its Data](https://www.darkreading.com/cybersecurity-operations/how-southeastern-university-handle-data)
-  - Confidence: 🟫 LOW
-  - _Data security posture management (DSPM) allowed the university to uncover sensitive information, tighten access controls, and lay the groundwork for safer AI adoption._
-
-- [Latin America Sees Cyberattacks on Ports, Pipelines &amp; Manufacturing](https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing)
-  - Confidence: 🟫 LOW
-  - _From the Port of Santos in Brazil to a pipeline in Argentina, cyberattacks are increasingly affecting industrial systems throughout the region._
-
-- [Cyber Insurers See New Divide: AI Defense 'Haves' &amp; 'Have Nots'](https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide)
-  - Confidence: 🟫 LOW
-  - _Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the curren_
-
-- [It's a Bot World. We're Just Living in It](https://www.darkreading.com/cyber-risk/bot-world-just-living)
-  - Confidence: 🟫 LOW
-  - _Bot detection has become a losing game. Security teams need to limit privileged access for humans and their machine counterparts equally._
-
-- [Attackers Target .NET Developers With Poisoned Job Assessments](https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments)
-  - Confidence: 🟫 LOW
-  - _Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to developers' machines._
-
-- [Italy and Switzerland warn of autonomous AI-driven cyberattacks](https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/)
-  - Confidence: 🟫 LOW
-  - _Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]_
-
-- [1Password customer data stolen after employee GitHub account breach](https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/)
-  - Confidence: 🟫 LOW
-  - _1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]_
-
-- [Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/)
-  - Confidence: 🟫 LOW
-  - _Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]_
