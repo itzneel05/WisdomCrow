@@ -1,9 +1,9 @@
 ---
 title: WisdomCrow Fast Report - 2026-11-28
-date: 2026-11-28T01:03:09Z
+date: 2026-11-28T15:00:28Z
 type: radar-report
 report_type: fast
-total_opportunities: 37
+total_opportunities: 33
 tags:
   - radar
   - fast
@@ -13,13 +13,12 @@ tags:
 
 ## Summary
 
-**Total opportunities:** 37
+**Total opportunities:** 33
 
 | Category | Count |
 |----------|-------|
-| ❓ Uncategorized | 35 |
+| ❓ Uncategorized | 32 |
 | 💰 Bug Bounties | 1 |
-| 🎓 Free Certifications | 1 |
 
 ## 💰 Bug Bounties
 
@@ -28,14 +27,67 @@ tags:
   - Tags: `bug_bounty`
   - _Welcome to the latest edition of Bug Bytes! In this month's issue, we'll be featuring: Malicious JavaScript served through Optimizely to 178 organizations A 22-year-old PostgreSQL type-confusion bug t_
 
-## 🎓 Free Certifications
-
-- [Proxmox 9.3 adds production snapshots for SAN-backed VMs](https://www.helpnetsecurity.com/2026/11/26/proxmox-9-3-adds-production-snapshots-for-san-backed-vms/)
-  - Confidence: 🟢 HIGH
-  - Tags: `free_cert`, `free_training`
-  - _<p>Proxmox Virtual Environment 9.3 adds production support for snapshots on shared LVM storage over iSCSI and Fibre Channel SANs. The open-source virtualization platform also gives each guest an ident_
-
 ## ❓ Uncategorized
+
+- [pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts](https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html)
+  - Confidence: 🟫 LOW
+  - _Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts.  "A cyber attack targeting pC_
+
+- [SAP Confirms Cyberattack, Source Code Reportedly Compromised](https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/)
+  - Confidence: 🟫 LOW
+  - _<p>SAP has detected suspicious activity on GitHub, where hackers reportedly used stolen employee tokens to copy and alter source code.</p> <p>The post <a href="https://www.securityweek.com/sap-confirm_
+
+- [Hex Package Manager Warns of Potential Data Breach](https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/)
+  - Confidence: 🟫 LOW
+  - _<p>A vulnerability in hex.pm allowed hackers to run commands on web servers. No evidence of data modification was found, but database reads are not logged.</p> <p>The post <a href="https://www.securit_
+
+- [100,000 Potentially Impacted by Colorado Data Breach](https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/)
+  - Confidence: 🟫 LOW
+  - _<p>Hackers breached the digital identification and document storage application myColorado and accessed user-uploaded data.</p> <p>The post <a href="https://www.securityweek.com/100000-potentially-imp_
+
+- [In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities](https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/)
+  - Confidence: 🟫 LOW
+  - _<p>Noteworthy stories that might have slipped under the radar: RansomwareHelp accused of profiting from ransom payments, USDA payment systems breach, cybersecurity firm Radware hacked. </p> <p>The pos_
+
+- [Recent Outages Have Economic Causes](https://www.schneier.com/blog/archives/2026/11/recent-outages-have-economic-causes.html)
+  - Confidence: 🟫 LOW
+  - _<p><em>This essay originally appeared in <a href="https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy">The Guardian</a>. It&#8217;s an expanded version of the one_
+
+- [Friday Squid Blogging: Giant Squid in Newfoundland](https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-giant-squid-in-newfoundland.html)
+  - Confidence: 🟫 LOW
+  - _<p>The two have an <a href="https://theconversation.com/what-lurks-below-newfoundland-waters-a-marine-biologist-explains-the-science-behind-the-show-295615">interesting history</a>.</p> <p>As usual, y_
+
+- [AI raises new questions about what penetration testing proves](https://www.helpnetsecurity.com/2026/11/27/crest-ai-threat-led-penetration-testing/)
+  - Confidence: 🟫 LOW
+  - _<p>AI is becoming an established part of threat-led penetration testing (TLPT), with 81% of surveyed providers using the technology beyond experimentation, according to research from CREST. The study,_
+
+- [US seizes nearly $17 billion in global war on scam rings](https://www.helpnetsecurity.com/2026/11/27/doj-scam-crackdown-800-scammers/)
+  - Confidence: 🟫 LOW
+  - _<p>The US government has gone after more than 800 alleged scammers in what it calls its largest-ever crackdown on scams targeting Americans. The Department of Justice announced that the effort covers _
+
+- [Product showcase: Norton helps Claude users uncover the telltale signs of fraud](https://www.helpnetsecurity.com/2026/11/27/product-showcase-norton-claude-scam-detection/)
+  - Confidence: 🟫 LOW
+  - _<p>The Norton connector for Claude brings the company&#8217;s Genie AI-powered scam detection capabilities into the chatbot. Users can submit suspicious emails, text messages, screenshots, and links f_
+
+- [In 2027, “the agent did it” stops being an excuse](https://www.helpnetsecurity.com/2026/11/27/sailpoint-2027-ai-identity-security-predictions-report/)
+  - Confidence: 🟫 LOW
+  - _<p>Enterprises will come under growing pressure to establish accountability for autonomous AI agents in 2027, with regulators, corporate boards and insurers demanding evidence of how organizations gov_
+
+- [Flight Centre Travel Group warns of customer data breach involving some passport details](https://www.helpnetsecurity.com/2026/11/27/flight-centre-travel-group-data-breach-booking-system/)
+  - Confidence: 🟫 LOW
+  - _<p>Travellers who booked accommodation through Flight Centre and several of its leisure brands may have had their names, and in rare cases passport and health details, accessed by unknown persons, Fli_
+
+- [Chinese and North Korean state hackers add ARTEX AI framework to their arsenal](https://www.helpnetsecurity.com/2026/11/27/artex-ai-pentest-framework-china-north-korea-state-hackers/)
+  - Confidence: 🟫 LOW
+  - _<p>State-sponsored hacking groups tied to Beijing and Pyongyang have started running the ARTEX pentesting tool in attacks, Microsoft Threat Intelligence warned this week. Published on GitHub in July 2_
+
+- [FIFA hacked, cybercriminals claim access to sensitive internal records](https://www.helpnetsecurity.com/2026/11/27/fifa-cyberattack-data-leak/)
+  - Confidence: 🟫 LOW
+  - _<p>Cybercriminals broke into FIFA’s systems and gained access to “a limited set of personal and business information,” world football’s governing body confirmed on Thursday. &#8220;FIFA is working clo_
+
+- [Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks](https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks)
+  - Confidence: 🟫 LOW
+  - _The security startup consolidates four legacy security tools into an autonomous platform that uses context-aware AI to trace sensitive data lineage, analyze user intent, and automatically remediate th_
 
 - [Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign](https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html)
   - Confidence: 🟫 LOW
@@ -104,75 +156,3 @@ tags:
 - [US Air Force cloud platform reportedly hacked in latest federal breach](https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/)
   - Confidence: 🟫 LOW
   - _Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Departm_
-
-- [1Password Breach Exposes Customer Data, Internal Source Code](https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/)
-  - Confidence: 🟫 LOW
-  - _<p>A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed.</p> <p>The post <a href="https://www.securityweek.com/1password-_
-
-- [Drupal Installer Patch Left a Gap Attackers Are Already Exploiting](https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/)
-  - Confidence: 🟫 LOW
-  - _<p>Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap.</p> <p>The post <a href="https://www.securityweek.com/drupal-ins_
-
-- [Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks](https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/)
-  - Confidence: 🟫 LOW
-  - _<p>Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign.</p> <p>The post <a href="https://www.securityweek.com/mitel-micollab-_
-
-- [Critical Juniper Session Smart Conductor Flaw Exploited in Attacks](https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/)
-  - Confidence: 🟫 LOW
-  - _<p>Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root.</p> <p>The post <a href="https://www.securityweek.com/critical-juniper-session-smart-con_
-
-- [FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’](https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/)
-  - Confidence: 🟫 LOW
-  - _<p>FIFA didn’t say when the cyberattack took place, or the precise nature of the hacked information.</p> <p>The post <a href="https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack_
-
-- [People are willing to pay to vanish from search results](https://www.helpnetsecurity.com/2026/11/26/incogni-online-privacy-concerns-report/)
-  - Confidence: 🟫 LOW
-  - _<p>More than half of U.S. adults would like to see a log of everyone who has searched for their name online. In a survey of 1,008 adults by Incogni, 53% said they would like that record to cover the p_
-
-- [Google mandates MCP or CLI access for Workspace AI agents starting February 2027](https://www.helpnetsecurity.com/2026/11/26/google-ai-agent-security-requirements/)
-  - Confidence: 🟫 LOW
-  - _<p>Google has announced security controls across Google Workspace and Google Cloud to address the risks associated with autonomous AI agents accessing enterprise data, executing tasks, and interacting_
-
-- [More than 4,400 malicious domains are waiting for holiday shoppers](https://www.helpnetsecurity.com/2026/11/26/fortinet-holiday-shopping-cyber-threats-report/)
-  - Confidence: 🟫 LOW
-  - _<p>Cybercriminals are positioned to exploit the holiday shopping season through fraudulent storefronts, retailer impersonation, payment fraud and account takeover attacks, according to FortiGuard Labs_
-
-- [Black Friday cybersecurity deals 2026: Stay safe, spend less](https://www.helpnetsecurity.com/2026/11/26/black-friday-2026-cybersecurity-deals/)
-  - Confidence: 🟫 LOW
-  - _<p>Black Friday is here again, and for once your inbox full of &#8220;limited time offer&#8221; emails might be worth opening. Every year, security vendors join the sales rush with discounts on the to_
-
-- [1Password breached through hijacked employee GitHub account, customer names and emails stolen](https://www.helpnetsecurity.com/2026/11/26/1password-breach-github-customer-records/)
-  - Confidence: 🟫 LOW
-  - _<p>An attacker who got into a 1Password employee’s corporate GitHub account went on to copy account records for some of the company’s users and source code from private repositories, the password mana_
-
-- [Data recovery firm co-founder accused of cashing in on ransomware victims](https://www.helpnetsecurity.com/2026/11/26/ransomware-recovery-fraud-florida-firm-co-founder-charged/)
-  - Confidence: 🟫 LOW
-  - _<p>The co-founder of a Florida data recovery firm has been indicted on charges that he secretly paid ransomware gangs while telling victims his company never did. Juan Ricardo Palacio Escobar, a 52-ye_
-
-- [US agency tracking money laundering is latest casualty in string of federal breaches](https://www.helpnetsecurity.com/2026/11/26/fincen-breach-systems-offline/)
-  - Confidence: 🟫 LOW
-  - _<p>An intrusion at the US Treasury&#8217;s Financial Crimes Enforcement Network (FinCEN) has forced the agency to take some systems offline and extend reporting deadlines for financial institutions. T_
-
-- [Preinstalled Keenadu malware turns up on 220,000+ Android devices](https://www.helpnetsecurity.com/2026/11/26/keenadu-malware-android-devices/)
-  - Confidence: 🟫 LOW
-  - _<p>A new Android phone can come out of the box with malware already in its firmware, and the number of such devices detected each month has grown more than 2.5 times over the past year, according to K_
-
-- [Cyprus Becomes Espionage Target for Iranian Hackers](https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers)
-  - Confidence: 🟫 LOW
-  - _A previously undocumented Iranian threat group called &quot;Volant Manticore&quot; is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran._
-
-- [ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories](https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html)
-  - Confidence: 🟫 LOW
-  - _A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way yo_
-
-- [Fake paid expert interviews impersonate brands to steal Google logins](https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/)
-  - Confidence: 🟫 LOW
-  - _An ongoing phishing campaign dubbed "GoodGuys" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid_
-
-- [NordVPN Black Friday Deal: Get 78% off VPN plans in 2026](https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/)
-  - Confidence: 🟫 LOW
-  - _NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]_
-
-- [OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/)
-  - Confidence: 🟫 LOW
-  - _OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]_
